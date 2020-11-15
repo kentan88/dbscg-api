@@ -1,0 +1,124 @@
+[
+  {
+    "title": "The Masked Saiyan",
+    "number": "SD3-01",
+    "series": [
+      "Series 3 Starter",
+      "～THE DARK INVASION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "LEADER",
+    "color": "Black",
+    "power": "10000",
+    "character": "Masked Saiyan",
+    "special_trait": "Saiyan",
+    "era": "Dark Demon Realm Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"../../images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place the top 3 cards of your deck in the Drop Area : If you place a black card in the Drop Area with this skill, this card gains <img src=\"../../images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) for the duration of the turn. If a card of any other color is placed in the Drop Area, this card also gains +5000 power for the duration of the turn.<br><img src=\"../../images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "title_back": "Bardock, Unbound by Darkness",
+    "skill_back": "<img src=\"../../images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"../../images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place the top 3 cards of your deck in the Drop Area : If you place a black card in the Drop Area with this skill, this card gains <img src=\"../../images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn. If a card of any other color is placed in the Drop Area, this card also gains +5000 power for the duration of the turn.<br><img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card."
+  },
+  {
+    "title": "Killer Sword Trunks",
+    "number": "SD3-02",
+    "series": [
+      "Series 3 Starter",
+      "～THE DARK INVASION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "20000",
+    "energy": {
+      "total": "4",
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Trunks: Xeno",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Dark Demon Realm Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Xeno-Evolve.png\" alt=\"Xeno-Evolve\" class=\"skillText\"> <img src=\"../../images/cardlist/common/four.png\" alt=\"four\" class=\"skillTextBall\">: <trunks :=\"\" xeno=\"\"> (Play this card in Active Mode by sending the specified card from your Battle Area to your Warp)<br><img src=\"../../images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, choose up to 1 Battle Card in your Warp with energy cost of 3 or less and play it.</trunks>"
+  },
+  {
+    "title": "Quick blade Trunks",
+    "number": "SD3-03",
+    "series": [
+      "Series 3 Starter",
+      "～THE DARK INVASION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "15000",
+    "energy": {
+      "total": "2",
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Trunks: Xeno",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Dark Demon Realm Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Over-Realm_2.png\" alt=\"Over Realm 2\" class=\"skillText\"> (If you have at least 2 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <img src=\"../../images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\"> can be activated once per turn)"
+  },
+  {
+    "title": "Encroaching Threat Masked Saiyan",
+    "number": "SD3-04",
+    "series": [
+      "Series 3 Starter",
+      "～THE DARK INVASION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "20000",
+    "energy": {
+      "total": "4",
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Masked Saiyan",
+    "special_trait": "Saiyan",
+    "era": "Dark Demon Realm Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards that are in Active Mode.<br><img src=\"../../images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you've sent 7 or more cards to your Warp, reduce the energy cost of this card in your hand and Warp by 1."
+  },
+  {
+    "title": "Power Aura Mira",
+    "number": "SD3-05",
+    "series": [
+      "Series 3 Starter",
+      "～THE DARK INVASION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "15000",
+    "energy": {
+      "total": "3",
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Mira",
+    "special_trait": "Android",
+    "era": "Dark Demon Realm Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Over-Realm_3.png\" alt=\"Over Realm 3\" class=\"skillText\"> (If you have at least 3 cards in your Drop Area, you can play this card by sending all cards in your Drop Area to your Warp. At the end of that turn, send this card from the Battle Area to your Warp. <img src=\"../../images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\"> can be activated once per turn)<br><img src=\"../../images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 3 or more cards in your Warp, this card gains +5000 power. If you have 5 or more cards in your Warp, this card gains an additional +5000 power."
+  }
+]

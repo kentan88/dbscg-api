@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Frieza",
+    "number": "SD13-01",
+    "series": [
+      "STARTER DECK",
+      "~Clan Collusion~[DBS-SD13]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "LEADER",
+    "color": "Green",
+    "power": "10000",
+    "character": "Frieza",
+    "special_trait": "Frieza Clan/Frieza's Army",
+    "era": "Frieza Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't include 《Saiyan》 cards in your deck.<br><img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> Choose 1 《Frieza's Army》 card in your Battle Area and place it in its owner's Drop Area : When this card attacks a Leader Card, your opponent chooses 1 card in their hand and discards it, then add up to 1 card from your life to your hand.<br><img src=\"../../images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 1 card, then switch up to 1 of your energy to Active Mode and flip this card over.",
+    "title_back": "Last Resort Frieza",
+    "skill_back": "<img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"../../images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 《Frieza's Army》 card in your Battle Area and place it in its owner's Drop Area : Choose 1 card in your opponent's hand, discard it, then choose up to 1 of your green Unison Cards and it gains <img src=\"../../images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the turn."
+  },
+  {
+    "title": "Frieza : Xeno, Darkness Overflowing",
+    "number": "SD13-02",
+    "series": [
+      "STARTER DECK",
+      "~Clan Collusion~[DBS-SD13]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "UNISON",
+    "color": "Green",
+    "power": "15000",
+    "energy": {
+      "total": "",
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "skill": "<img src=\"../../images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If this card would lose a marker from an opponent's attack, you may place 1 card from your life in your Drop Area instead.<br><img src=\"../../images/cardlist/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"../../images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card in your hand and discard it : Draw 1 card.<br><img src=\"../../images/cardlist/common/UNISON_minus_01.png\" alt=\"UNISON -1\" class=\"skillText unisonText\"><img src=\"../../images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it, or choose up to 1 of their Unison Cards and remove a marker from it."
+  },
+  {
+    "title": "Ginyu, Frieza's Greatest Soldier",
+    "number": "SD13-03",
+    "series": [
+      "STARTER DECK",
+      "~Clan Collusion~[DBS-SD13]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "15000",
+    "energy": {
+      "total": "2",
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Ginyu",
+    "special_trait": "Ginyu Force/Frieza's Army",
+    "era": "Frieza Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, choose up to 1 of your Leader Cards or green Unison Cards and it gets +10000 power for the turn.<br><img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a green 〈Frieza〉 card : When this card is placed in a Drop Area from a Battle Area by a skill, you may return this card to its owner's hand."
+  },
+  {
+    "title": "Zarbon, Frieza's Right-Hand Man",
+    "number": "SD13-04",
+    "series": [
+      "STARTER DECK",
+      "~Clan Collusion~[DBS-SD13]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "4000",
+    "energy": {
+      "total": "1",
+      "red": 0,
+      "green": 1,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Zarbon",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, look at up to 5 cards from the top of your deck, add up to 1 green Unison Card with a specified cost of 2 or 1 green 《Frieza's Army》 card with an energy cost of 4 or less among them to your hand, then shuffle your deck.<br><img src=\"../../images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"../../images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a green 〈Frieza〉 card, you have a green Unison Card in play, and you send this card from your Drop Area to your Warp : Choose 1 of your Leader Cards or Unison Cards and it gets +10000 power for the battle."
+  },
+  {
+    "title": "Dodoria, Frieza's Devoted Servant",
+    "number": "SD13-05",
+    "series": [
+      "STARTER DECK",
+      "~Clan Collusion~[DBS-SD13]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "4000",
+    "energy": {
+      "total": "1",
+      "red": 0,
+      "green": 1,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Dodoria",
+    "special_trait": "Frieza's Army",
+    "era": "Frieza Saga",
+    "skill": "<img src=\"../../images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a green 〈Frieza〉 card and you have a green Unison Card in play : If this card is placed in your Drop Area from your hand by a skill, you may play this card from your Drop Area.<br><img src=\"../../images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a green 〈Frieza〉 card and you have a green Unison Card in play : Add this card from your Drop Area to your hand."
+  }
+]

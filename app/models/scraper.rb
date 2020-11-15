@@ -60,7 +60,6 @@ SERIES_LIST = [
         series: "DBS-B01",
         category: "428001"
     },
-
     {
         title: "DBS-TB03-Clash-Of-Fates",
         series: "DBS-TB03",
@@ -95,6 +94,71 @@ SERIES_LIST = [
         title: "DBS-SD14-Saiyan Wonder",
         series: "DBS-SD14",
         category: "428314"
+    },
+    {
+        title: "DBS-SD13-Clan Collusion",
+        series: "DBS-SD13",
+        category: "428313"
+    },
+    {
+        title: "DBS-SD12-Spirit-Of-Potara",
+        series: "DBS-SD12",
+        category: "428312"
+    },
+    {
+        title: "DBS-SD11-Instinct-Surpassed",
+        series: "DBS-SD11",
+        category: "428311"
+    },
+    {
+        title: "DBS-SD10-Parasitic-Overlord",
+        series: "DBS-SD10",
+        category: "428310"
+    },
+    {
+        title: "DBS-SD09-Saiyan-Legacy",
+        series: "DBS-SD09",
+        category: "428309"
+    },
+    {
+        title: "DBS-SD08-Rising-Broly",
+        series: "DBS-SD08",
+        category: "428308"
+    },
+    {
+        title: "DBS-SD07-Shenron's-Advent",
+        series: "DBS-SD07",
+        category: "428307"
+    },
+    {
+        title: "DBS-SD06-Resurrected-Fusion",
+        series: "DBS-SD06",
+        category: "428306"
+    },
+    {
+        title: "DBS-SD05-The-Crimson-Saiyan",
+        series: "DBS-SD05",
+        category: "428305"
+    },
+    {
+        title: "DBS-SD04-The-Guardian-of-Namekians",
+        series: "DBS-SD04",
+        category: "428304"
+    },
+    {
+        title: "DBS-SD03-The-Dark-Invasion",
+        series: "DBS-SD03",
+        category: "428303"
+    },
+    {
+        title: "DBS-SD02-The-Extreme-Evolution",
+        series: "DBS-SD02",
+        category: "428302"
+    },
+    {
+        title: "DBS-SD01-The-Awakening",
+        series: "DBS-SD01",
+        category: "428301"
     }
 ]
 
@@ -140,13 +204,13 @@ class Scraper
           color = color_nodes.children[3].inner_text
 
           card.merge!({
-              title: title,
-              number: number,
-              series: series_list,
-              rarity: rarity,
-              type: type,
-              color: color
-          })
+                          title: title,
+                          number: number,
+                          series: series_list,
+                          rarity: rarity,
+                          type: type,
+                          color: color
+                      })
 
           card['power'] = power_nodes.children[3].inner_text if power_nodes.children.length > 0
           if energy_nodes.children.length > 0
