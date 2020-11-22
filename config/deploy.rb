@@ -4,6 +4,7 @@ lock "~> 3.14.1"
 set :application, "dbscg-api"
 set :repo_url, "https://github.com/kentan88/dbscg-api.git"
 set :deploy_to, "/home/deploy/#{fetch :application}"
+set :assets_roles, []
 
 append :linked_dirs, 'log', 'tmp/pids', 'tmp/cache', 'tmp/sockets', 'vendor/bundle', '.bundle', 'public/system', 'public/uploads'
 
