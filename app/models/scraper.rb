@@ -1,6 +1,5 @@
 require 'nokogiri'
 require 'watir'
-require 'byebug'
 require 'json'
 
 SERIES_LIST = [
