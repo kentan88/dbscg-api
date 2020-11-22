@@ -1,5 +1,7 @@
 require 'json'
 
+DeckCard.delete_all
+Deck.delete_all
 Card.delete_all
 
 Dir.glob("#{Rails.root}/public/data/**").each do |filename|
@@ -9,8 +11,11 @@ Dir.glob("#{Rails.root}/public/data/**").each do |filename|
 
   data_hash.each do |data|
     card = Card.new(data)
-    if card.save!
-      puts "card: #{card.title} created!"
+
+    if card.number.match(/_/)
+      puts "card: #{card.title} #{card.number} not created!"
+    else card.save!
+      # puts "card: #{card.title} created!"
     end
   end
 end

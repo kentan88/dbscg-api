@@ -9,6 +9,7 @@ class CreateCards < ActiveRecord::Migration[6.0]
       t.string :type, null: false
       t.string :color
       t.jsonb :energy, null: false, default: '{}'
+      t.text :energy_text
       t.integer :combo_energy
       t.integer :combo_power
       t.integer :power
@@ -16,8 +17,10 @@ class CreateCards < ActiveRecord::Migration[6.0]
       t.string :character
       t.string :special_trait
       t.string :era
-      t.text :skill
-      t.text :skill_back
+      t.string :skills, array: true, default: []
+      t.text :skills_text
+      t.string :skills_back, array: true, default: []
+      t.text :skills_back_text
     end
 
     add_index :cards, :title
@@ -34,8 +37,8 @@ class CreateCards < ActiveRecord::Migration[6.0]
     add_index :cards, :character
     add_index :cards, :special_trait
     add_index :cards, :era
-    add_index :cards, :skill
-    add_index :cards, :skill_back
+    add_index :cards, :skills_text
+    add_index :cards, :skills_back_text
     add_index :cards, :series, using: 'gin'
   end
 end

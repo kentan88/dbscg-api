@@ -1,7 +1,6 @@
 require 'nokogiri'
 require 'watir'
 require 'byebug'
-require 'awesome_print'
 require 'json'
 
 SERIES_LIST = [
@@ -159,12 +158,82 @@ SERIES_LIST = [
         title: "DBS-SD01-The-Awakening",
         series: "DBS-SD01",
         category: "428301"
-    }
+    },
+    {
+        title: "DBS-XD03-The-Ultimate-Life-Form",
+        series: "DBS-XD03",
+        category: "428503"
+    },
+    {
+        title: "DBS-XD02-Android-Duality",
+        series: "DBS-XD02",
+        category: "428502"
+    },
+    {
+        title: "DBS-XD01-Universe-6-Assailants",
+        series: "DBS-XD01",
+        category: "428501"
+    },
+    {
+        title: "DBS-Expansion-15-Battle-Enhanced",
+        series: "DBS-Expansion-Set-15",
+        category: "428415"
+    },
+    {
+        title: "DBS-Expansion-14-Battle-Advanced",
+        series: "DBS-Expansion-Set-14",
+        category: "428414"
+    },
+    {
+        title: "DBS-Expansion-12-Universe-11-Unison",
+        series: "DBS-Expansion-Set-12",
+        category: "428412"
+    },
+    {
+        title: "DBS-Expansion-11-Universe-7-Unison",
+        series: "DBS-Expansion-Set-11",
+        category: "428411"
+    },
+    {
+        title: "DBS-Expansion-10-Namekian-Surge",
+        series: "DBS-Expansion-Set-10",
+        category: "428410"
+    },
+    {
+        title: "DBS-Expansion-09-Saiyan-Surge",
+        series: "DBS-Expansion-Set-09",
+        category: "428409"
+    },
+    {
+        title: "DBS-Expansion-Set-Magnificent-Collection-Forsaken-Warrior",
+        series: "DBS-Expansion-Set-Magnificent-Collection-Forsaken-Warrior",
+        category: "428408"
+    },
+    {
+        title: "DBS-Expansion-Magnificent-Collection-Fusion Hero",
+        series: "DBS-Expansion-Set-Magnificent-Collection-Fusion-Hero",
+        category: "428407"
+    },
+    {
+        title: "DBS-Special-Anniversary-Box-2020",
+        series: "DBS-Special-Anniversary-Box-2020",
+        category: "428413"
+    },
+    {
+        title: "DBS-Special-Anniversary-Box",
+        series: "DBS-Special-Anniversary-Box",
+        category: "428406"
+    },
+    {
+        title: "DBS-Expansion-05-Unity-of-Destruction",
+        series: "DBS-Expansion-Set-05",
+        category: "428405"
+    },
 ]
 
 class Scraper
   def cards
-    SERIES_LIST.each do |series|
+    SERIES_LIST.first(2).each do |series|
       puts "Seeding #{series[:title]}..."
 
       url = "http://www.dbs-cardgame.com/asia/cardlist/?search=true&category=#{series[:category]}"
@@ -194,7 +263,7 @@ class Scraper
           character_nodes = card_front_nodes.css('.characterCol')
           special_trait_nodes = card_front_nodes.css('.specialTraitCol')
           era_nodes = card_front_nodes.css('.eraCol')
-          skill_nodes = card_front_nodes.css('.skillCol')
+          skills_nodes = card_front_nodes.css('.skillCol')
 
           number = number_nodes.inner_text
           title = title_nodes.inner_text
@@ -223,23 +292,34 @@ class Scraper
                 yellow: energy_inner_html.scan(/yellow/).count,
                 black: energy_inner_html.scan(/black/).count
             }
+
+            card['energy_text'] = energy_inner_html.gsub("../..", "http://www.dbs-cardgame.com")
           end
           card['combo_energy'] = combo_energy_nodes.children[3].inner_html if combo_energy_nodes.children.length > 0
           card['combo_power'] = combo_power_nodes.children[3].inner_html if combo_power_nodes.children.length > 0
           card['character'] = character_nodes.children[3].inner_text if character_nodes.children.length > 0
           card['special_trait'] = special_trait_nodes.children[3].inner_text if special_trait_nodes.children.length > 0
           card['era'] = era_nodes.children[3].inner_text if era_nodes.children.length > 0
-          card['skill'] = skill_nodes.children[3].inner_html if skill_nodes.children.length > 0
+
+          if skills_nodes.children.length > 0
+            card['skills_text'] = skills_nodes.children[3].inner_html.gsub("../..", "http://www.dbs-cardgame.com").gsub("<br>", "<br><br>")
+            card['skills'] = skills_nodes.children[3].inner_html.scan(/[a-zA-Z-]+.png/).map { |str| str.gsub(".png", "") }.uniq
+          end
+
           card_list << card
         end
 
         cards_back.each do |card_back_nodes|
           title_back_nodes = card_back_nodes.css('.cardName')
-          skill_back_nodes = card_back_nodes.css('.skillCol')
+          skills_back_nodes = card_back_nodes.css('.skillCol')
 
           if cards_back.length > 0
             card['title_back'] = title_back_nodes.inner_text
-            card['skill_back'] = skill_back_nodes.children[3].inner_html if skill_back_nodes.children.length > 0
+
+            if skills_back_nodes.children.length > 0
+              card['skills_back_text'] = skills_back_nodes.children[3].inner_html.gsub("../..", "http://www.dbs-cardgame.com").gsub("<br>", "<br><br>")
+              card['skills_back'] = skills_back_nodes.children[3].inner_html.scan(/[a-zA-Z\-_]+.png/).map { |str| str.gsub(".png", "") }.uniq
+            end
           end
         end
       end
@@ -250,6 +330,3 @@ class Scraper
     end
   end
 end
-
-scrape = Scraper.new
-scrape.cards

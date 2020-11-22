@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: dbsuper_production
-  username: dbsuper
-  password: <%= ENV['RAILS_ON_DOCKER_DATABASE_PASSWORD'] %>
+#  username: dbsuper
+#  password: <%= ENV['RAILS_ON_DOCKER_DATABASE_PASSWORD'] %>

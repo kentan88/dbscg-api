@@ -24,6 +24,7 @@ ActiveRecord::Schema.define(version: 2020_11_14_141828) do
     t.string "type", null: false
     t.string "color"
     t.jsonb "energy", default: "{}", null: false
+    t.text "energy_text"
     t.integer "combo_energy"
     t.integer "combo_power"
     t.integer "power"
@@ -31,8 +32,10 @@ ActiveRecord::Schema.define(version: 2020_11_14_141828) do
     t.string "character"
     t.string "special_trait"
     t.string "era"
-    t.text "skill"
-    t.text "skill_back"
+    t.string "skills", default: [], array: true
+    t.text "skills_text"
+    t.string "skills_back", default: [], array: true
+    t.text "skills_back_text"
     t.index ["character"], name: "index_cards_on_character"
     t.index ["color"], name: "index_cards_on_color"
     t.index ["combo_energy"], name: "index_cards_on_combo_energy"
@@ -44,8 +47,8 @@ ActiveRecord::Schema.define(version: 2020_11_14_141828) do
     t.index ["power_back"], name: "index_cards_on_power_back"
     t.index ["rarity"], name: "index_cards_on_rarity"
     t.index ["series"], name: "index_cards_on_series", using: :gin
-    t.index ["skill"], name: "index_cards_on_skill"
-    t.index ["skill_back"], name: "index_cards_on_skill_back"
+    t.index ["skills_back_text"], name: "index_cards_on_skills_back_text"
+    t.index ["skills_text"], name: "index_cards_on_skills_text"
     t.index ["special_trait"], name: "index_cards_on_special_trait"
     t.index ["title"], name: "index_cards_on_title"
     t.index ["title_back"], name: "index_cards_on_title_back"
