@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 2020_11_14_141828) do
     t.string "rarity", null: false
     t.string "type", null: false
     t.string "color"
+    t.integer "energy_cost"
     t.jsonb "energy", default: "{}", null: false
     t.text "energy_text"
     t.integer "combo_energy"
@@ -41,6 +42,7 @@ ActiveRecord::Schema.define(version: 2020_11_14_141828) do
     t.index ["combo_energy"], name: "index_cards_on_combo_energy"
     t.index ["combo_power"], name: "index_cards_on_combo_power"
     t.index ["energy"], name: "index_cards_on_energy", using: :gin
+    t.index ["energy_cost"], name: "index_cards_on_energy_cost"
     t.index ["era"], name: "index_cards_on_era"
     t.index ["number"], name: "index_cards_on_number"
     t.index ["power"], name: "index_cards_on_power"

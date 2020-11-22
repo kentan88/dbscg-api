@@ -8,6 +8,7 @@ class CreateCards < ActiveRecord::Migration[6.0]
       t.string :rarity, null: false
       t.string :type, null: false
       t.string :color
+      t.integer :energy_cost
       t.jsonb :energy, null: false, default: '{}'
       t.text :energy_text
       t.integer :combo_energy
@@ -29,6 +30,7 @@ class CreateCards < ActiveRecord::Migration[6.0]
     add_index :cards, :rarity
     add_index :cards, :type
     add_index :cards, :color
+    add_index :cards, :energy_cost
     add_index :cards, :energy, using: 'gin'
     add_index :cards, :combo_energy
     add_index :cards, :combo_power

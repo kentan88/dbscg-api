@@ -285,7 +285,6 @@ class Scraper
           if energy_nodes.children.length > 0
             energy_inner_html = energy_nodes.children[3].inner_html
             card['energy'] = {
-                total: energy_inner_html.scan(/^[0-9]*/)[0],
                 red: energy_inner_html.scan(/red/).count,
                 green: energy_inner_html.scan(/green/).count,
                 blue: energy_inner_html.scan(/blue/).count,
@@ -293,6 +292,7 @@ class Scraper
                 black: energy_inner_html.scan(/black/).count
             }
 
+            card['energy_cost'] = energy_inner_html.scan(/^[0-9]*/)[0]
             card['energy_text'] = energy_inner_html.gsub("../..", "http://www.dbs-cardgame.com")
           end
           card['combo_energy'] = combo_energy_nodes.children[3].inner_html if combo_energy_nodes.children.length > 0
