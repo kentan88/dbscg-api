@@ -33,5 +33,6 @@ module DbsuperApi
     # Middleware like session, flash, cookies can be added back manually.
     # Skip views, helpers and assets when generating a new resource.
     config.api_only = true
+    config.secret_key_base = '1767d786baf1c4789499a1977225b732ce559f0b25efd648a78d4ad79dcf9b2bccaa071442084efa1d3a175a0f59281d2cab7c9418921a079be01fffdde22253'
   end
 end
