@@ -19,6 +19,7 @@ gem 'redis', '~> 4.0'
 gem 'watir'
 gem 'kaminari'
 gem 'ransack'
+gem 'rack-cors'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
