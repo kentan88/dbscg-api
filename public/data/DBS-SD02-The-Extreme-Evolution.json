@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Son Goku",
+    "number": "SD2-01",
+    "series": [
+      "Series 3 Starter",
+      "～THE EXTREME EVOLUTION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "LEADER",
+    "color": "Red",
+    "power": "10000",
+    "character": "Son Goku: GT",
+    "special_trait": "Saiyan",
+    "era": "Black Star Dragon Ball Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Rising Spirit Super Saiyan Son Goku",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, when your life is at 3 or less, this card gains +5000 power.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and if this card's power is 25000 or more, it gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills_back": [
+      "Permanent",
+      "Auto",
+      "Double-Strike"
+    ]
+  },
+  {
+    "title": "Broken Limits Super Saiyan 3 Son Goku",
+    "number": "SD2-02",
+    "series": [
+      "Series 3 Starter",
+      "～THE EXTREME EVOLUTION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "25000",
+    "energy": {
+      "red": 4,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "6",
+    "energy_text": "6(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Son Goku: GT",
+    "special_trait": "Saiyan",
+    "era": "Baby Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">，place 1 card from your hand in the Drop Area : Red ＜Son Goku: GT＞ with an energy cost of 4 or more. (Play this card on top of the specified card)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When one of your cards attack, this card gains +5000 power for the duration of the turn. Then, if this card's power is 40000 or more, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills": [
+      "EX-Evolve",
+      "ball",
+      "Auto",
+      "Triple-Strike"
+    ]
+  },
+  {
+    "title": "Unbreakable Super Saiyan Son Goku",
+    "number": "SD2-03",
+    "series": [
+      "Series 3 Starter",
+      "～THE EXTREME EVOLUTION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "20000",
+    "energy": {
+      "red": 2,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Son Goku: GT",
+    "special_trait": "Saiyan",
+    "era": "Black Star Dragon Ball Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku: GT＞<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, or if you combo with this card, draw 1 card.",
+    "skills": [
+      "Evolve",
+      "ball",
+      "one",
+      "Barrier",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Unbreakable Super Saiyan Son Goku",
+    "number": "SD2-03_PR",
+    "series": [
+      "Series 3 Starter",
+      "～THE EXTREME EVOLUTION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "20000",
+    "energy": {
+      "red": 2,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Son Goku: GT",
+    "special_trait": "Saiyan",
+    "era": "Black Star Dragon Ball Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku: GT＞<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, or if you combo with this card, draw 1 card.",
+    "skills": [
+      "Evolve",
+      "ball",
+      "one",
+      "Barrier",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Rushing Warrior Pan",
+    "number": "SD2-04",
+    "series": [
+      "Series 3 Starter",
+      "～THE EXTREME EVOLUTION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "5000",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "1",
+    "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Pan",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Black Star Dragon Ball Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your red Leader Cards or red Battle Cards. That card gains +5000 power for the duration of the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card from the Battle Area, draw 1 card.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Chain Attack Trunks",
+    "number": "SD2-05",
+    "series": [
+      "Series 3 Starter",
+      "～THE EXTREME EVOLUTION～"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "20000",
+    "energy": {
+      "red": 3,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Trunks: GT",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Black Star Dragon Ball Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜Trunks: GT＞<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards that are in Active Mode.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 Battle Card from your hand with power of 15000 or less and play it.",
+    "skills": [
+      "Evolve",
+      "ball",
+      "Permanent",
+      "Auto"
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Golden Great Ape Son Goku",
+    "number": "SD5-01",
+    "series": [
+      "STARTER DECK",
+      "～THE CRIMSON SAIYAN～【DBS-SD05】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "LEADER",
+    "color": "Yellow",
+    "power": "10000",
+    "character": "Son Goku: GT",
+    "special_trait": "Saiyan/Goku's Lineage",
+    "era": "Baby Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Long Odds SS4 Son Goku",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When your life is less than or equal to your opponent's life, this card gains +5000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) during your turn. ",
+    "skills_back": [
+      "Auto",
+      "Permanent",
+      "Critical"
+    ]
+  },
+  {
+    "title": "Power Charge Bardock",
+    "number": "SD5-02",
+    "series": [
+      "STARTER DECK",
+      "～THE CRIMSON SAIYAN～【DBS-SD05】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Bardock",
+    "special_trait": "Saiyan/Goku's Lineage",
+    "era": "Bardock Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you may draw 1 card. If you did not draw a card with this skill, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills": [
+      "Auto",
+      "Double-Strike"
+    ]
+  },
+  {
+    "title": "SSB Son Goku, at the Apex",
+    "number": "SD5-03",
+    "series": [
+      "STARTER DECK",
+      "～THE CRIMSON SAIYAN～【DBS-SD05】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "25000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 2,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Son Goku",
+    "special_trait": "Saiyan/Goku's Lineage",
+    "era": "Resurrection 'F' Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ≪Goku's Lineage≫ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ≪Goku's Lineage≫, choose up to 1 of your opponent's Battle Cards and KO it.",
+    "skills": [
+      "ball",
+      "Barrier",
+      "Double-Strike",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Reborn Might SS4 Son Goku",
+    "number": "SD5-04",
+    "series": [
+      "STARTER DECK",
+      "～THE CRIMSON SAIYAN～【DBS-SD05】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "25000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 2,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Goku: GT",
+    "special_trait": "Saiyan/Goku's Lineage",
+    "era": "Baby Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜＜Goku's Lineage＞＞ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand: Switch this card to Active Mode, and if you have 2 or less life, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills": [
+      "ball",
+      "Activate-Main",
+      "Once-per-turn",
+      "Triple-Strike"
+    ]
+  },
+  {
+    "title": "Ultimate Potential SS2 Son Gohan",
+    "number": "SD5-05",
+    "series": [
+      "STARTER DECK",
+      "～THE CRIMSON SAIYAN～【DBS-SD05】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 2,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Gohan: Childhood",
+    "special_trait": "Saiyan/Earthling/Goku's Lineage",
+    "era": "Android Cell Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Swap_4.png\" alt=\"Swap 4\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜＜Goku's Lineage＞＞ with an energy cost of 4. (Play the specified card from your hand, then return this card to your hand)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Rest Mode Battle Cards and KO it.",
+    "skills": [
+      "ball",
+      "Auto"
+    ]
+  }
+]

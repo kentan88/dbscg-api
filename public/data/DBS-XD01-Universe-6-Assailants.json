@@ -1,0 +1,297 @@
+[
+  {
+    "title": "Cabba",
+    "number": "XD1-01",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "LEADER",
+    "color": "Yellow",
+    "power": "10000",
+    "character": "Cabba",
+    "special_trait": "Saiyan/Alien/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't include non-《Universe 6》 Battle Cards in your deck, except for 〈Vegeta〉 cards.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a blue or yellow 《Universe 6》 card is played in your Battle Area, that card gets +5000 power for the duration of the turn, then choose up to 1 card in your life and add it to your hand.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Permanent",
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Vegeta & Cabba, Master & Pupil",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gets +5000 power when all of your opponent's energy is in Rest Mode.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent's Leader Card attacks, if all of your opponent's energy is in Rest Mode, choose up to 2 of your opponent's energy. Cards chosen with this card's skill can't be switched to Active Mode during your opponent's next Charge Phase.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When one of your card skills switches an opponent's Battle Card or energy to Rest Mode, draw 1 card.",
+    "skills_back": [
+      "Permanent",
+      "Auto",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "Vegeta, Saiyan of Universe 7",
+    "number": "XD1-02",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 2,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Vegeta",
+    "special_trait": "Saiyan/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 of your opponent's Battle Cards with energy costs of 3 or less and return them to their owners' hands, then draw that many cards.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Champa, Scheming God of Destruction",
+    "number": "XD1-03",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Champa",
+    "special_trait": "God/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 blue or yellow 《Universe 6》 card in your Battle Area other than this card, and it gets +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills": [
+      "Auto",
+      "Double-Strike"
+    ]
+  },
+  {
+    "title": "Sisterly Bonds Kale",
+    "number": "XD1-04",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "9000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Kale",
+    "special_trait": "Saiyan/Alien/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand and your Leader Card is a 《Universe 6》 card, look at up to 10 cards from the top of your deck and choose up to 1 blue or yellow 〈Cabba〉 or 〈Caulifla〉 card among them with an energy cost of 2 or less and play it, then shuffle your deck.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Hit, Ace of Universe 6",
+    "number": "XD1-05",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "10000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Hit",
+    "special_trait": "Alien/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Bond_2.png\" alt=\"Bond 2\" class=\"skillText\"> 《Universe 6》 : (This skill takes effect when you have 2 or more of the specified Battle Cards in play.) When you play this card, reduce the combo cost of blue and yellow 《Universe 6》 cards in your hand by 1 for the duration of the turn.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Cabba, Saiyan of Universe 6",
+    "number": "XD1-06",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "5000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Cabba",
+    "special_trait": "Saiyan/Alien/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck, choose up to 2 blue or yellow 《Universe 6》 cards among them and add them to your hand, then shuffle your deck. If you added a card to your hand, choose 1 card from your hand and place it in your Drop Area.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if {Planet Sadala} is in your Battle Area, choose up to 1 of your opponent's Battle Cards in Rest Mode. Cards chosen with this card's skill can't be switched to Active Mode until the end of your opponent's next turn.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Caulifla, Troublemaker of Universe 6",
+    "number": "XD1-07",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "10000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Caulifla",
+    "special_trait": "Saiyan/Alien/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do, choose up to 1 of your opponent's energy and switch it to Rest Mode.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Vegeta & Cabba, Master-Pupil Bond",
+    "number": "XD1-08",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue/Yellow",
+    "power": "19000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Vegeta/Cabba",
+    "special_trait": "Saiyan/Alien/Universe 7/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Aegis_Blue-Yellow.png\" alt=\"Aegis Blue/Yellow\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> (If it's your opponent's turn, you can activate this during the Defense Step by placing cards in your hand in your Drop Area that match all colors specified by <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Aegis.png\" alt=\"Aegis\" class=\"skillText\">: Choose up to 2 of your energy and switch them to Active Mode.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card activates <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Aegis.png\" alt=\"Aegis\" class=\"skillText\">, you may choose 1 card from your hand and place it in your Drop Area. If you do, choose up to 1 blue or yellow 《Universe 6》 card in your Drop Area with an energy cost of 2 or less and no keyword skills, and play that card.",
+    "skills": [
+      "Barrier",
+      "Blue-Yellow",
+      "Once-per-turn",
+      "Aegis",
+      "Energy-Exhaust",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Planet Sadala",
+    "number": "XD1-09",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "EXTRA",
+    "color": "Blue/Yellow",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Battle Area, choose up to 1 《Universe 6》 card from your hand with an energy cost of 2 or less and play it. If you played a card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in a Drop Area from a Battle Area, choose up to 1 of your opponent's energy, switch it to Rest Mode, then look at up to 5 cards from the top of your deck, choose up to 1 《Universe 6》 card with an energy cost of 5 or less among them, add it to your hand, and shuffle your deck.",
+    "skills": [
+      "Field",
+      "Energy-Exhaust",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Frost's Deadly Poison",
+    "number": "XD1-10",
+    "series": [
+      "EXPERT DECK",
+      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "EXTRA",
+    "color": "Blue/Yellow",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card your opponent is playing is played in Rest Mode with its skills negated for the duration of the turn, then draw 1 card. Then, if your life is at 3 or less, choose up to 1 of your blue or yellow energy and switch it to Active Mode.",
+    "skills": [
+      "Energy-Exhaust",
+      "Counter-Play"
+    ]
+  }
+]

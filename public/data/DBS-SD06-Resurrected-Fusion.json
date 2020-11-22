@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Gogeta",
+    "number": "SD6-01",
+    "series": [
+      "STARTER DECK",
+      "～RESURRECTED FUSION～【DBS-SD06】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "LEADER",
+    "color": "Blue",
+    "power": "10000",
+    "character": "Gogeta",
+    "special_trait": "Saiyan",
+    "era": "Janemba Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Burst_2.png\" alt=\"Burst 2\" class=\"skillText\"> (You must place the top 2 cards of your deck in your Drop Area to activate this skill.) When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Knockout Strike Gogeta",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card. If you have 3 or more energy, this card gets +5000 power for the duration of the turn, and if you have 5 or more energy, this card also gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card from your hand and place it in your Drop Area : Your opponent can only activate <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skills once for the duration of the turn.",
+    "skills_back": [
+      "Auto",
+      "Double-Strike",
+      "Activate-Main",
+      "Counter"
+    ]
+  },
+  {
+    "title": "Fusion Reborn Vegeta",
+    "number": "SD6-02",
+    "series": [
+      "STARTER DECK",
+      "～RESURRECTED FUSION～【DBS-SD06】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 2,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Vegeta",
+    "special_trait": "Saiyan",
+    "era": "Janemba Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand as a result of <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\">, if your Leader Card is a 〈Gogeta〉 card, choose up to 1 of your energy and switch it to Active Mode.",
+    "skills": [
+      "Auto",
+      "Union-Fusion"
+    ]
+  },
+  {
+    "title": "Fusion Reborn Son Goku",
+    "number": "SD6-03",
+    "series": [
+      "STARTER DECK",
+      "～RESURRECTED FUSION～【DBS-SD06】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 2,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Goku",
+    "special_trait": "Saiyan",
+    "era": "Janemba Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand as a result of <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\">, if your Leader Card is a 〈Gogeta〉 card, draw 1 card.",
+    "skills": [
+      "Auto",
+      "Union-Fusion"
+    ]
+  },
+  {
+    "title": "Ultimate Fusion Gogeta",
+    "number": "SD6-04",
+    "series": [
+      "STARTER DECK",
+      "～RESURRECTED FUSION～【DBS-SD06】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "25000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 2,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Gogeta",
+    "special_trait": "Saiyan",
+    "era": "Janemba Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">：〈Son Goku〉 and 〈Vegeta〉 (Place 1 each of the specified card with the same power from your hand into your Drop Area and play this card.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When you play this card, draw 2 cards, then choose up to 2 of your opponent's Battle Cards and place them at the bottom of their owners' decks in any order.",
+    "skills": [
+      "Double-Strike",
+      "Union-Fusion",
+      "ball",
+      "two",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Great Saiyaman",
+    "number": "SD6-05",
+    "series": [
+      "STARTER DECK",
+      "～RESURRECTED FUSION～【DBS-SD06】"
+    ],
+    "rarity": "Starter Rare[ST]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "30000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 2,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Gohan: Adolescence",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Janemba Saga",
+    "skills_text": "-",
+    "skills": [
+
+    ]
+  }
+]

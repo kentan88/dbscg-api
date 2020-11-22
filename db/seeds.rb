@@ -4,7 +4,7 @@ DeckCard.delete_all
 Deck.delete_all
 Card.delete_all
 
-# Scraper.new.cards
+Scraper.new.cards
 
 Dir.glob("#{Rails.root}/public/data/**").each do |filename|
   file = File.read(filename)

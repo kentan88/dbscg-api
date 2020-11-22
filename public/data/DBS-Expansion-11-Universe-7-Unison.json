@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Vegeta",
+    "number": "EX11-01",
+    "series": [
+      "EXPANSION SET 11",
+      "-Universe 7 Unison-"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "LEADER",
+    "color": "Red",
+    "power": "10000",
+    "character": "Vegeta",
+    "special_trait": "Saiyan/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less, or your opponent has 3 or more energy and you have a red Unison Card with a specified cost of 2 in play : You may draw 2 cards, choose cards in your life and add them to your hand until you have 6 life left, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Vegeta, Candidate of Destruction",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card's power is decreased by a skill, it gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the turn.",
+    "skills_back": [
+      "Auto",
+      "Once-per-turn",
+      "Dual-Attack"
+    ]
+  },
+  {
+    "title": "Gotenks, Unison of Rage",
+    "number": "EX11-02",
+    "series": [
+      "EXPANSION SET 11",
+      "-Universe 7 Unison-"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "UNISON",
+    "color": "Red",
+    "power": "15000",
+    "energy": {
+      "red": 2,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "",
+    "energy_text": "X(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your Leader Card's power is decreased by a skill, it gets +10000 power for the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 card in your life and add it to your hand, then choose 1 of your Leader Cards and it gets -5000 power for the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 of your Leader Cards and it gets -5000 power for the turn : Look at your opponent's hand, choose up to 1 multicolor Battle Card or Battle Card with 10000 power or less in it, and place it in its owner's Drop Area.",
+    "skills": [
+      "Auto",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Whis, Destruction's Conductor",
+    "number": "EX11-03",
+    "series": [
+      "EXPANSION SET 11",
+      "-Universe 7 Unison-"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "5000",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Whis",
+    "special_trait": "God/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a red 〈Vegeta〉 card, reduce the energy cost of this card in your hand by 2.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose one-<br><br>・ Look at up to 5 cards from the top of your deck, choose up to 1 red Unison Card with a specified cost of 2 or up to 1 red 《Universe 7》 card with an energy cost of 4 or less among them, add it to your hand, then shuffle your deck.<br><br>・ Choose 1 of your Leader Cards and it gets -5000 power for the turn, and this card gets +5000 power for the turn.",
+    "skills": [
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Beerus, Wrath of the Gods",
+    "number": "EX11-04",
+    "series": [
+      "EXPANSION SET 11",
+      "-Universe 7 Unison-"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "15000",
+    "energy": {
+      "red": 2,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Beerus",
+    "special_trait": "God/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Unique.png\" alt=\"Unique\" class=\"skillText\"> (Only 1 copy of this card can be played in your Battle Area.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a red 〈Vegeta〉 card : At the end of a battle in which you combo with this card from your hand, play this card in Rest Mode.",
+    "skills": [
+      "Critical",
+      "Unique",
+      "Auto",
+      "ball"
+    ]
+  },
+  {
+    "title": "Android 17, High Alert",
+    "number": "EX11-05",
+    "series": [
+      "EXPANSION SET 11",
+      "-Universe 7 Unison-"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "10000",
+    "energy": {
+      "red": 2,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Android 17",
+    "special_trait": "Android/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If you have a red Unison Card with a specified cost of 2 in play and you have no Battle Cards in play : Play this card from your hand.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, if your Leader Card's power is currently being increased or decreased, switch this card to Active Mode.",
+    "skills": [
+      "Blocker",
+      "Activate-Main",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Frieza, Fair-Weather Fiend",
+    "number": "EX11-06",
+    "series": [
+      "EXPANSION SET 11",
+      "-Universe 7 Unison-"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "20000",
+    "energy": {
+      "red": 3,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Frieza",
+    "special_trait": "Frieza Clan/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Unique.png\" alt=\"Unique\" class=\"skillText\"> (Only 1 copy of this card can be played in your Battle Area.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is red and you have a red Unison Card with a specified cost of 2 in play : At the end of a battle in which you combo with this card from your hand, play this card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates a <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skill, choose up to 1 of their Battle Cards, ignoring <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and it gets -30000 power for the turn.",
+    "skills": [
+      "Double-Strike",
+      "Unique",
+      "Auto",
+      "ball",
+      "Once-per-turn",
+      "Counter",
+      "Barrier"
+    ]
+  },
+  {
+    "title": "Omen of Awakening",
+    "number": "EX11-07",
+    "series": [
+      "EXPANSION SET 11",
+      "-Universe 7 Unison-"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "EXTRA",
+    "color": "Red",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is red and you choose 1 card in your life and place it in your Drop Area : If the Battle Card being played has 20000 power or less, it is placed in its owner's Drop Area instead of being played.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a red Unison Card with a specified cost of 2 in play, reduce the energy cost of this card in your hand by 1.",
+    "skills": [
+      "Counter-Play",
+      "Permanent"
+    ]
+  }
+]

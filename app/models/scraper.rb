@@ -233,7 +233,7 @@ SERIES_LIST = [
 
 class Scraper
   def cards
-    SERIES_LIST.first(2).each do |series|
+    SERIES_LIST.each do |series|
       puts "Seeding #{series[:title]}..."
 
       url = "http://www.dbs-cardgame.com/asia/cardlist/?search=true&category=#{series[:category]}"
