@@ -13,13 +13,13 @@
     "character": "Piccolo Jr.",
     "special_trait": "Namekian",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Piccolo Jr., Evil Reborn",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it, then this card gains +5000 power for the duration of the turn.",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it, then this card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
       "Activate-Main",
@@ -112,7 +112,7 @@
     "character": "King Piccolo",
     "special_trait": "Namekian",
     "era": "King Piccolo Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Bond_3.png\" alt=\"Bond 3\" class=\"skillText\"> 《Namekian》 (This skill takes effect when you have 3 or more of the specified Battle Cards in play) : Reduce the energy cost of this card in your hand by 2.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Bond_3.png\" alt=\"Bond 3\" class=\"skillText\"> 《Namekian》 (This skill takes effect when you have 3 or more of the specified Battle Cards in play) : Reduce the energy cost of this card in your hand by 2.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it.",
     "skills": [
       "Double-Strike",
       "Permanent",

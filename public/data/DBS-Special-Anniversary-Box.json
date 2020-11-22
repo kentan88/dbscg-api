@@ -144,7 +144,7 @@
     "character": "Majin Buu",
     "special_trait": "Majin",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is an 《Evil Wizard》 or 《Majin》 card : Negate the attack and play this card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the duration of the turn.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is an 《Evil Wizard》 or 《Majin》 card : Negate the attack and play this card.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the duration of the turn.",
     "skills": [
       "Counter-Attack",
       "Auto"
@@ -174,7 +174,7 @@
     "character": "General Rilldo",
     "special_trait": "Machine Mutant",
     "era": "Black Star Dragon Ball Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">, choose 1 〈Natt〉, 〈Bizu〉, and 〈Ribet〉 card from your hand or Battle Area and place them in their owners' Drop Areas : Play this card from your hand.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is a 《Machine Mutant》 card, choose up to 1 {Planet M-2} from your deck, activate it, then shuffle your deck.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">, choose 1 〈Natt〉, 〈Bizu〉, and 〈Ribet〉 card from your hand or Battle Area and place them in their owners' Drop Areas : Play this card from your hand.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is a 《Machine Mutant》 card, choose up to 1 {Planet M-2} from your deck, activate it, then shuffle your deck.",
     "skills": [
       "Activate-Main",
       "ball",
@@ -317,7 +317,7 @@
     "character": "Whis",
     "special_trait": "God",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"> : If your Leader Card is a blue 〈Beerus〉 card, place this card in your energy in Rest Mode.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"> : If your Leader Card is a blue 〈Beerus〉 card, place this card in your energy in Rest Mode.",
     "skills": [
       "Auto",
       "Activate-Main",
@@ -348,7 +348,7 @@
     "character": "Goku Black",
     "special_trait": "Saiyan/God",
     "era": "Future Trunks Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 5 or more energy, you can play this card from your hand without paying its energy cost.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is a 〈Goku Black〉 or 〈Zamasu〉 card, draw 1 card, and you can't play {Goku Black, Countdown to Destruction} for the duration of the turn.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 5 or more energy, you can play this card from your hand without paying its energy cost.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is a 〈Goku Black〉 or 〈Zamasu〉 card, draw 1 card, and you can't play {Goku Black, Countdown to Destruction} for the duration of the turn.",
     "skills": [
       "Permanent",
       "Auto"
@@ -378,7 +378,7 @@
     "character": "Zamasu",
     "special_trait": "God",
     "era": "Future Trunks Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Indestructible.png\" alt=\"Indestructible\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your blue {Fused Zamasu} Leader Card can activate its <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> skill even if you have 3 or more life.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\">, place this card in its owner's Drop Area : If your Leader Card is a 〈Zamasu〉 card and you have 15 or less cards in your deck, choose up to 1 {Infinite Force Fused Zamasu} in your hand and play it.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Indestructible.png\" alt=\"Indestructible\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your blue {Fused Zamasu} Leader Card can activate its <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> skill even if you have 3 or more life.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\">, place this card in its owner's Drop Area : If your Leader Card is a 〈Zamasu〉 card and you have 15 or less cards in your deck, choose up to 1 {Infinite Force Fused Zamasu} in your hand and play it.",
     "skills": [
       "Indestructible",
       "Permanent",
@@ -464,7 +464,7 @@
     "character": "Son Gohan: Childhood",
     "special_trait": "Saiyan/Earthling",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 2 cards.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is green : Choose 1 {Piercing Super Saiyan 2 Son Gohan} from your hand and play it on top of this card.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 2 cards.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is green : Choose 1 {Piercing Super Saiyan 2 Son Gohan} from your hand and play it on top of this card.",
     "skills": [
       "Auto",
       "Activate-Main"
@@ -494,7 +494,7 @@
     "character": "Krillin",
     "special_trait": "Earthling",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a green 〈Son Goku〉 card and it's flipped to its back, increase this card's energy cost by 3 in all areas and this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a green 〈Son Goku〉 card and it's flipped to its back, increase this card's energy cost by 3 in all areas and this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
     "skills": [
       "Permanent",
       "Blocker",
@@ -525,7 +525,7 @@
     "character": "Paragus",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Cards in your Battle Area can't be placed in their owners' Drop Areas by your skills.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Cards in your Battle Area can't be placed in their owners' Drop Areas by your skills.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
     "skills": [
       "Permanent",
       "Auto"
@@ -555,7 +555,7 @@
     "character": "Android 13",
     "special_trait": "Android",
     "era": "Android 13 Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"> Choose 1 〈Android 14〉 and 〈Android 15〉 card in your Drop Area and place them under this card : If your Leader Card is an 《Android》 card, choose up to 1 〈Android 13〉 card from your hand with an energy cost of 7 and play it on top of this card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't play this card from any area if there is an 〈Android 13〉 card in play in your Battle Area.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"> Choose 1 〈Android 14〉 and 〈Android 15〉 card in your Drop Area and place them under this card : If your Leader Card is an 《Android》 card, choose up to 1 〈Android 13〉 card from your hand with an energy cost of 7 and play it on top of this card.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't play this card from any area if there is an 〈Android 13〉 card in play in your Battle Area.",
     "skills": [
       "Union-Absorb",
       "Permanent"
@@ -608,7 +608,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a green 〈Vegito〉 card, it gets +15000 power for the duration of the battle, and if it is your turn, also choose one?<br><br>・Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it.<br><br>・Choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less, ignoring <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and KO it.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a green 〈Vegito〉 card, it gets +15000 power for the duration of the battle, and if it is your turn, also choose one?<br>・Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it.<br>・Choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less, ignoring <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and KO it.",
     "skills": [
       "Activate-Battle",
       "Barrier"
@@ -668,7 +668,7 @@
     "character": "Son Goku: Childhood",
     "special_trait": "Saiyan",
     "era": "Young Son Goku Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is KO'd, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, then choose up to 1 yellow 〈Son Goku : Childhood〉 card from your hand with an energy cost of 3 and play it.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is KO'd, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, then choose up to 1 yellow 〈Son Goku : Childhood〉 card from your hand with an energy cost of 3 and play it.",
     "skills": [
       "Blocker",
       "Auto"
@@ -727,7 +727,7 @@
     "character": "Ginyu",
     "special_trait": "Ginyu Force/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">, place this card in your Drop Area from your hand : If your Leader Card is a 〈Ginyu〉 card, look at up to 3 cards from the top of your deck, choose up to 1 《Ginyu Force》 card among them, add it to your hand, then place the remaining cards at the bottom of your deck in any order. If you added a card to your hand, choose up to 1 《Ginyu Force》 card from your hand with an energy cost of 2 or less and play it.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">, place this card in your Drop Area from your hand : If your Leader Card is a 〈Ginyu〉 card, look at up to 3 cards from the top of your deck, choose up to 1 《Ginyu Force》 card among them, add it to your hand, then place the remaining cards at the bottom of your deck in any order. If you added a card to your hand, choose up to 1 《Ginyu Force》 card from your hand with an energy cost of 2 or less and play it.",
     "skills": [
       "Double-Strike",
       "Activate-Main",
@@ -758,7 +758,7 @@
     "character": "Meta-Cooler Core",
     "special_trait": "Frieza Clan",
     "era": "Meta-Cooler Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card, then choose up to 1 {Big Gete Star} in your Drop Area and activate it.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, place this card in its owner's Drop Area : Choose one-<br><br>・For the duration of the turn, your yellow {Meta-Cooler} Leader Card can activate its <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> skill even if you have 5 or more life.<br><br>・You may choose 1 card in your hand and place it in your Drop Area. If you do, choose up to 2 {Infinite Multiplication Meta-Cooler} in your Drop Area and play them.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card, then choose up to 1 {Big Gete Star} in your Drop Area and activate it.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, place this card in its owner's Drop Area : Choose one-<br>・For the duration of the turn, your yellow {Meta-Cooler} Leader Card can activate its <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> skill even if you have 5 or more life.<br>・You may choose 1 card in your hand and place it in your Drop Area. If you do, choose up to 2 {Infinite Multiplication Meta-Cooler} in your Drop Area and play them.",
     "skills": [
       "Auto",
       "Activate-Main",
@@ -790,7 +790,7 @@
     "character": "Cooler",
     "special_trait": "Frieza Clan",
     "era": "Cooler Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Counter.png\" alt=\"Counter Counter\" class=\"skillText\"> If your Leader Card is yellow : Negate the <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> and play this card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card, then, if you have 6 or more cards in Rest Mode, draw 1 more card.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Counter.png\" alt=\"Counter Counter\" class=\"skillText\"> If your Leader Card is yellow : Negate the <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> and play this card.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card, then, if you have 6 or more cards in Rest Mode, draw 1 more card.",
     "skills": [
       "Counter-Counter",
       "Counter",
@@ -833,14 +833,14 @@
     "character": "Towa",
     "special_trait": "Demon Realm Race",
     "era": "Dark Demon Realm Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Burst_3.png\" alt=\"Burst 3\" class=\"skillText\"> Look at up to 5 cards from the top of your deck, choose up to 1 〈Mira〉 or 〈Fu〉 card among them, add it to your hand, then shuffle your deck.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When you have 10 or more black cards in your Warp : You may draw 1 card, choose up to 1 of your energy and switch it to Active Mode, then flip this card over.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Burst_3.png\" alt=\"Burst 3\" class=\"skillText\"> Look at up to 5 cards from the top of your deck, choose up to 1 〈Mira〉 or 〈Fu〉 card among them, add it to your hand, then shuffle your deck.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When you have 10 or more black cards in your Warp : You may draw 1 card, choose up to 1 of your energy and switch it to Active Mode, then flip this card over.",
     "skills": [
       "Activate-Main",
       "Once-per-turn",
       "Awaken"
     ],
     "title_back": "Towa, Chaosbringer",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 3 black cards in your Warp and place them in your Drop Area : Choose up to 1 〈Mira〉 card in your Battle Area and it gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">, choose 1 card in your hand and place it in your Drop Area : Choose up to 1 keyword skill on an opponent's Battle Card and negate it for the duration of the turn.",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 3 black cards in your Warp and place them in your Drop Area : Choose up to 1 〈Mira〉 card in your Battle Area and it gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">, choose 1 card in your hand and place it in your Drop Area : Choose up to 1 keyword skill on an opponent's Battle Card and negate it for the duration of the turn.",
     "skills_back": [
       "Activate-Main",
       "Once-per-turn",
@@ -873,7 +873,7 @@
     "character": "Bardock: Xeno",
     "special_trait": "Saiyan",
     "era": "Dark Demon Realm Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm_4.png\" alt=\"Over Realm 4\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\">, draw 2 cards, then choose 1 card in your hand and place it in your Drop Area.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm_4.png\" alt=\"Over Realm 4\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\">, draw 2 cards, then choose 1 card in your hand and place it in your Drop Area.",
     "skills": [
       "Auto",
       "Over-Realm"
@@ -903,7 +903,7 @@
     "character": "Supreme Kai of Time",
     "special_trait": "God",
     "era": "Dark Demon Realm Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> Play this card, and Battle Cards with energy costs of 2 or less cannot attack until the start of your opponent's next turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> Play this card, and Battle Cards with energy costs of 2 or less cannot attack until the start of your opponent's next turn.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
     "skills": [
       "Counter-Play",
       "Auto"
@@ -933,7 +933,7 @@
     "character": "Demigra",
     "special_trait": "Demon God",
     "era": "Dark Demon Realm Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm_3.png\" alt=\"Over Realm 3\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\">, choose one?<br><br>・This card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Wormhole.png\" alt=\"Wormhole\" class=\"skillText\"> for the duration of the turn.<br><br>・Choose up to 1 〈Demigra〉 card with an energy cost of 4 or less in your Warp and play it on top of this card.<br><br>",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm_3.png\" alt=\"Over Realm 3\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\">, choose one?<br>・This card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Wormhole.png\" alt=\"Wormhole\" class=\"skillText\"> for the duration of the turn.<br>・Choose up to 1 〈Demigra〉 card with an energy cost of 4 or less in your Warp and play it on top of this card.<br>",
     "skills": [
       "two",
       "Auto",
@@ -965,7 +965,7 @@
     "character": "Mira",
     "special_trait": "Android",
     "era": "Dark Demon Realm Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"> Choose 1 〈Towa〉 card in your Warp and place it under this card : If your Leader Card is a 〈Towa〉 or 《Android》 card, choose up to 1 〈Mira〉 card in your deck with an energy cost of 7, play it in Active Mode on top of this card, then shuffle your deck.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have 10 or more black cards in your Warp, reduce the energy cost of this card in your hand by 1.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"> Choose 1 〈Towa〉 card in your Warp and place it under this card : If your Leader Card is a 〈Towa〉 or 《Android》 card, choose up to 1 〈Mira〉 card in your deck with an energy cost of 7, play it in Active Mode on top of this card, then shuffle your deck.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have 10 or more black cards in your Warp, reduce the energy cost of this card in your hand by 1.",
     "skills": [
       "Double-Strike",
       "Union-Absorb",
@@ -997,7 +997,7 @@
     "character": "Masked Saiyan",
     "special_trait": "Saiyan",
     "era": "Dark Demon Realm Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm_4.png\" alt=\"Over Realm 4\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\">, choose up to 1 Battle Card in your hand with {Masked} in its name and an energy cost of 5 or less other than {Masked Saiyan, Beguiled Warrior} and play it.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm_4.png\" alt=\"Over Realm 4\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\">, choose up to 1 Battle Card in your hand with {Masked} in its name and an energy cost of 5 or less other than {Masked Saiyan, Beguiled Warrior} and play it.",
     "skills": [
       "one",
       "Auto",
@@ -1028,7 +1028,7 @@
     "character": "Fu",
     "special_trait": "Scientist",
     "era": "Dark Demon Realm Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm-8.png\" alt=\"Over Realm 8\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/four.png\" alt=\"four\" class=\"skillTextBall\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent can't activate skills unless they choose 1 card in their hand and send it to their Warp.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Over-Realm-8.png\" alt=\"Over Realm 8\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/four.png\" alt=\"four\" class=\"skillTextBall\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent can't activate skills unless they choose 1 card in their hand and send it to their Warp.",
     "skills": [
       "Triple-Attack",
       "four",

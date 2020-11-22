@@ -13,13 +13,13 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your blue energy and switch it to Active Mode.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your blue energy and switch it to Active Mode.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "SSGSS Son Goku, The Soul Striker",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 5 or more energy, this card gains +5000 power.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.  Choose up to 2 of your blue energy and switch it to Active Mode.",
+    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 5 or more energy, this card gains +5000 power.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.  Choose up to 2 of your blue energy and switch it to Active Mode.",
     "skills_back": [
       "Permanent",
       "Auto"
@@ -50,7 +50,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Son Goku＞  (Play this card on top of the specified card)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your opponent's Battle Cards with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and return them to their hand.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Son Goku＞  (Play this card on top of the specified card)<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your opponent's Battle Cards with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and return them to their hand.",
     "skills": [
       "Evolve",
       "ball",
@@ -85,7 +85,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Son Goku＞  (Play this card on top of the specified card)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle) for the duration of the turn.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Son Goku＞  (Play this card on top of the specified card)<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle) for the duration of the turn.",
     "skills": [
       "Evolve",
       "ball",
@@ -120,7 +120,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku＞ (Play this card on top of the specified card)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your energy and switch it to Active Mode.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku＞ (Play this card on top of the specified card)<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Evolve",
       "ball",
@@ -153,7 +153,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Vegeta＞ (Play this card on top of the specified card)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you have 5 or more energy, draw 2 cards.",
+    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Vegeta＞ (Play this card on top of the specified card)<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you have 5 or more energy, draw 2 cards.",
     "skills": [
       "Evolve",
       "ball",
