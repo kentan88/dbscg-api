@@ -1,0 +1,134 @@
+[
+  {
+    "title": "SS Gogeta, Acrobatic Warrior",
+    "number": "EX04-01",
+    "series": [
+      "EXPANSION SET04",
+      "-Unity of Saiyans- "
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "15000",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Gogeta : Br",
+    "special_trait": "Saiyan",
+    "era": "DBS : Broly Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Only 1 {SS Gogeta, Acrobatic Warrior} can be played in your Battle Area.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a Battle Card that is both red and green with an energy cost of 5 is played in your Battle Area, activate this skill. You may play this card from your hand.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is switched to Rest Mode by <img src=\"../../images/cardlist/common/images/cardlist/common/Alliance.png\" alt=\"Alliance\" class=\"skillText\">, deal 1 damage to your opponent.",
+    "skills": [
+      "Permanent",
+      "Auto",
+      "Alliance"
+    ]
+  },
+  {
+    "title": "SS Broly, Rampaging Rush",
+    "number": "EX04-02",
+    "series": [
+      "EXPANSION SET04",
+      "-Unity of Saiyans- "
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Broly : Br",
+    "special_trait": "Saiyan/Frieza's Army",
+    "era": "DBS : Broly Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if there is a card that is both red and green in your energy, draw 1 card, then your opponent chooses 1 card from their hand and places it in their Drop Area.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards and KO it.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "SSB Gogeta, Resonant Explosion",
+    "number": "EX04-03",
+    "series": [
+      "EXPANSION SET04",
+      "-Unity of Saiyans- "
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red/Green",
+    "power": "20000",
+    "energy": {
+      "red": 2,
+      "green": 1,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Gogeta : Br",
+    "special_trait": "Saiyan",
+    "era": "DBS : Broly Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Arrival_Red-Green.png\" alt=\"Arrival Red/Green\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"> (Play this card from your hand when you have red and green cards in your Combo Area.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less, KO it, and you can't play {SSB Gogeta, Resonant Explosion} for the duration of the turn.",
+    "skills": [
+      "Double-Strike",
+      "Red-Green",
+      "ball",
+      "Energy-Exhaust",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Full Power Broly, Resonant Evolution",
+    "number": "EX04-04",
+    "series": [
+      "EXPANSION SET04",
+      "-Unity of Saiyans- "
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red/Green",
+    "power": "20000",
+    "energy": {
+      "red": 1,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Broly : Br",
+    "special_trait": "Saiyan/Frieza's Army",
+    "era": "DBS : Broly Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : 〈Broly : Br〉 card with an energy cost of 4.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Alliance_Red-Green.png\" alt=\"Alliance Red/Green\" class=\"skillText\"> (When this card attacks, you may activate this skill by choosing 1 or more red or green Battle Cards in your Battle Area and switching them to Rest Mode.) This card gains power equal to the total power of the cards switched to Rest Mode by this skill and <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the battle.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you played this card with <img src=\"../../images/cardlist/common/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\">, it can't be KO'd by your opponent.",
+    "skills": [
+      "EX-Evolve",
+      "ball",
+      "Energy-Exhaust",
+      "Red-Green",
+      "Triple-Strike",
+      "Permanent",
+      "Evolve"
+    ]
+  }
+]

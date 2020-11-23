@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Kefla",
+    "number": "EX03-01",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "LEADER",
+    "color": "Red",
+    "power": "10000",
+    "character": "Kefla",
+    "special_trait": "Saiyan/Alien/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, you may choose 1 《Universe 6》 in your hand and place it in your Drop Area. If you do so, draw 2 cards.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Explosive Power Kefla",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 《Universe 6》 in your hand and place it in your Drop Area : Choose this card or one of your 《Universe 6》 Battle Cards. It gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills_back": [
+      "Auto",
+      "Activate-Main",
+      "Once-per-turn",
+      "Double-Strike"
+    ]
+  },
+  {
+    "title": "Ghost Combo Gotenks",
+    "number": "EX03-02",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "20000",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Gotenks",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Majin Buu Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is red and you have 4 or less cards in your hand, play 1 Ghost token in Rest Mode. (Ghost tokens have 15000 power)",
+    "skills": [
+      "Double-Strike",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Virtuous Strength Gohan",
+    "number": "EX03-03",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "15000",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Gohan: Adolescence",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Majin Buu Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is red, this card can attack Battle Cards that are in Active Mode. <br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> During your turn, when this card KO-s an opponent's Battle Card, inflict 1 damage to your opponent.",
+    "skills": [
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Umbral Blade Dabura",
+    "number": "EX03-04",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "25000",
+    "energy": {
+      "red": 2,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Dabura",
+    "special_trait": "Demon Realm Race",
+    "era": "The Evil Wizard Babidi Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you have ＜Evil Wizard Babidi＞ in your Battle Area or Leader Area, for the duration of the turn this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\">.",
+    "skills": [
+      "Double-Strike",
+      "Auto",
+      "Dual-Attack"
+    ]
+  },
+  {
+    "title": "Rampant Evil Majin Buu",
+    "number": "EX03-05",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "25000",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Majin Buu",
+    "special_trait": "Majin",
+    "era": "Majin Buu Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Ｃard is a 《Majin》, draw 1 card, choose up to 1 of your energy and switch it to Active Mode, and this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills": [
+      "Deflect",
+      "Auto",
+      "Triple-Strike"
+    ]
+  },
+  {
+    "title": "Capricious Destroyer Champa",
+    "number": "EX03-06",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Red",
+    "power": "10000",
+    "energy": {
+      "red": 1,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Champa",
+    "special_trait": "God/Universe 6",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is a 《God》 or 《Universe 6》, choose up to 2 of your opponent's Battle Cards with 9000 power or less and KO them.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Vegeta",
+    "number": "EX03-07",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "LEADER",
+    "color": "Blue",
+    "power": "10000",
+    "character": "Vegeta",
+    "special_trait": "Saiyan/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"> (Treat 《Universe 7》 in all areas as if they had no specified cost)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, if you have a 《Universe 7》 in your Energy Area, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Explosive Power Vegeta",
+    "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 3 or more 《Universe 7》 in your Energy Area, this card gains +5000 power.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. You may choose up to 1 of your energy and add it to your hand. If you chose to add a card from your Ｅnergy Area to your hand, choose up to 1 card in your hand and add it to your energy.",
+    "skills_back": [
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Awe-Inspiring Intimidator SSB Vegito",
+    "number": "EX03-08",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Vegito",
+    "special_trait": "Saiyan",
+    "era": "Future Trunks Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is blue and this card is in Rest Mode, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and your opponent's cards can't attack your Leader Card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you have 5 or more energy, draw 1 card.",
+    "skills": [
+      "Permanent",
+      "Barrier",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Determined Time Leaper Trunks",
+    "number": "EX03-09",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "10000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Trunks: Future",
+    "special_trait": "Saiyan/Earthling",
+    "era": "Future Trunks Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 7 cards from the top of your deck, choose up to 1〈Trunks : Future〉 among them and add it to your hand, shuffle your deck, and this card gains +5000 power for the duration of the turn.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Nightmare Scythe Goku Black",
+    "number": "EX03-10",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 3,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Goku Black",
+    "special_trait": "Saiyan/God",
+    "era": "Future Trunks Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ＜Zamasu＞ or ＜Goku Black＞, play 2 Shadow tokens. (Shadow tokens have 10000 power, 0 combo cost, and 5000 combo power)",
+    "skills": [
+      "Barrier",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Undying Link Zamasu",
+    "number": "EX03-11",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 2,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Zamasu",
+    "special_trait": "God",
+    "era": "Future Trunks Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Indestructible.png\" alt=\"Indestructible\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ＜Zamasu＞ or ＜Goku Black＞ and you have 5 or more energy, you may inflict 2 damage to your life. If you do so, choose up to 4 of your energy and switch them to Active Mode.",
+    "skills": [
+      "Indestructible",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Indiscriminate Obliteration Sidra",
+    "number": "EX03-12",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 1,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Sidra",
+    "special_trait": "God/Universe 9",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards with an energy cost equal to or less than your energy and KO it.",
+    "skills": [
+      "Blocker",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Son Goku",
+    "number": "EX03-13",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "LEADER",
+    "color": "Green",
+    "power": "10000",
+    "character": "Son Goku",
+    "special_trait": "Saiyan/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"> (Treat 《Universe 7》 in all areas as if they had no specified cost)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Bond_1.png\" alt=\"Bond 1\" class=\"skillText\"> 《Universe 7》(This skill takes effect when you have 1 or more of the specified Battle Cards in play) : When this card attacks a Leader Card, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Explosive Power Son Goku",
+    "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"><img src=\"/images/Bond_2.png\" alt=\"Bond 2\" class=\"skillText\"> 《Universe 7》 : During your turn, this card gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br>",
+    "skills_back": [
+      "Permanent",
+      "Double-Strike",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Last One Standing Son Goku",
+    "number": "EX03-14",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "25000",
+    "energy": {
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Son Goku",
+    "special_trait": "Saiyan/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards and KO it.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if there are 9 or more 《Universe 7》 in your Drop Area, for the duration of the turn, this card gains +10000 power, <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">, and its attacks can't be negated.",
+    "skills": [
+      "Activate-Main",
+      "Once-per-turn",
+      "Auto",
+      "Triple-Strike"
+    ]
+  },
+  {
+    "title": "Last One Standing Son Goku",
+    "number": "EX03-14_PR",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "25000",
+    "energy": {
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Son Goku",
+    "special_trait": "Saiyan/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards and KO it.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if there are 9 or more 《Universe 7》 in your Drop Area, for the duration of the turn, this card gains +10000 power, <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">, and its attacks can't be negated.",
+    "skills": [
+      "Activate-Main",
+      "Once-per-turn",
+      "Auto",
+      "Triple-Strike"
+    ]
+  },
+  {
+    "title": "Vile Replication Cell",
+    "number": "EX03-15",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Cell",
+    "special_trait": "Android",
+    "era": "Android Cell Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is an 《Android》 , draw 2 cards and play 2 Cell Jr. tokens. (Cell Jr. tokens have 10000 power, 0 combo cost, and 5000 combo power)",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Deathless Warrior Broly",
+    "number": "EX03-16",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Broly",
+    "special_trait": "Saiyan",
+    "era": "Broly Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜Broly＞<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When evolving this card into a 〈Broly〉 with a different card name from your hand, the <img src=\"../../images/cardlist/common/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> cost is decreased by <img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> <img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ＜Broly＞, your opponent may choose 1 of their Battle Cards and KO it. If they don't KO a card this way, they instead choose 2 cards in their hand and place them in their Drop Area.",
+    "skills": [
+      "Evolve",
+      "ball",
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Limitless Energy Android 17",
+    "number": "EX03-17",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 2,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Android 17",
+    "special_trait": "Android/Universe 7",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is green, choose up to 1 of your opponent's Battle Cards and KO it.",
+    "skills": [
+      "Barrier",
+      "Blocker",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Elegant Assistance Heles",
+    "number": "EX03-18",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "12000",
+    "energy": {
+      "red": 0,
+      "green": 1,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "0",
+    "character": "Heles",
+    "special_trait": "God/Universe 2",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> （You can only include up to 4 cards with <img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck）<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is a 《God》 or 《Universe 2》 and youｒ life is at 4 or less, you may place 1 card from your hand in your Drop Area. If you do so, draw 2 cards, and this card gains +10000 combo power for the duration of the turn.",
+    "skills": [
+      "Super-Combo",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Elegant Assistance Heles",
+    "number": "EX03-18_PR",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "12000",
+    "energy": {
+      "red": 0,
+      "green": 1,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "0",
+    "character": "Heles",
+    "special_trait": "God/Universe 2",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> （You can only include up to 4 cards with <img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck）<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is a 《God》 or 《Universe 2》 and youｒ life is at 4 or less, you may place 1 card from your hand in your Drop Area. If you do so, draw 2 cards, and this card gains +10000 combo power for the duration of the turn.",
+    "skills": [
+      "Super-Combo",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Jiren",
+    "number": "EX03-19",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "LEADER",
+    "color": "Yellow",
+    "power": "10000",
+    "character": "Jiren",
+    "special_trait": "Alien/Pride Troopers/Universe 11",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, you may choose 1 《Universe 11》 in your hand and place it in your Drop Area. If you do so, draw 2 cards.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Explosive Power Jiren",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 9 《Universe 11》 in your Drop Area and send them to your Warp : This card gains <img src=\"/images/Quadruple-Strike.png\" alt=\"Quadruple Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills_back": [
+      "Auto",
+      "Activate-Main",
+      "Quadruple-Strike"
+    ]
+  },
+  {
+    "title": "Indomitable SS Son Goku Jr. ",
+    "number": "EX03-20",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "10000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "2",
+    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Goku Jr.",
+    "special_trait": "Saiyan/Earthling/Goku's Lineage",
+    "era": "Special",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is 《Goku's Lineage》 and your life is at 2 or less, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : 《Goku's Lineage》 with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)",
+    "skills": [
+      "Permanent",
+      "ball"
+    ]
+  },
+  {
+    "title": "Space Pirate Chilled",
+    "number": "EX03-21",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 1,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Chilled",
+    "special_trait": "Frieza Clan",
+    "era": "Chilled Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《Frieza Clan》, place up to 3 cards from the top of your deck in your Drop Area, then if a 《Frieza Clan》 is in your Drop Area, draw 1 card and play 2 Chilled's Army tokens. (Chilled's Army tokens have 10000 power)",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Elite Bloodline Cooler",
+    "number": "EX03-22",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 2,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Cooler",
+    "special_trait": "Frieza Clan",
+    "era": "Cooler Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If there are 3 or more 《Frieza Clan》 in your Drop Area, reduce the energy cost of this card in your hand by 1.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, if your Leader Card is 《Frieza Clan》, place the top 3 cards of your deck in your Drop Area, then if a 《Frieza Clan》 is in your Drop Area, switch this card to Active Mode.",
+    "skills": [
+      "Permanent",
+      "Auto",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "Frieza, Obsession of The Clan ",
+    "number": "EX03-23",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 2,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Frieza",
+    "special_trait": "Frieza Clan/Frieza's Army",
+    "era": "Frieza Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent's cards attack, if your Leader Card is 《Frieza Clan》, you may choose 1 《Frieza Clan》 other than ＜Frieza＞ in your hand and place it in your Drop Area. If you do so, negate that attack, and negate this skill for the duration of the turn.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Clownish Destruction Belmod",
+    "number": "EX03-24",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 2,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Belmod",
+    "special_trait": "God/Universe 11",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 card among them and add it to your hand, then place the rest in your Drop Area. If you chose not to add any cards to your hand, choose up to 1 of your opponent's Battle Cards in Rest Mode and KO it.",
+    "skills": [
+      "Barrier",
+      "Double-Strike",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Zen-Oh",
+    "number": "EX03-25",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "LEADER",
+    "color": "Black",
+    "power": "10000",
+    "character": "Zen-Oh",
+    "special_trait": "God",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't include cards in your deck that don't have 《Universe》 as part of their special trait.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat cards with 《Universe》 as part of their special traits in all areas as if they had no specified cost. <br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, place up to 2 cards from the top of your deck in your Drop Area, then draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills": [
+      "Permanent",
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Zen-Oh, Ruler of the Universe",
+    "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat cards with 《Universe》 as part of their special traits in all areas as if they had no specified cost. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, place up to 2 cards from the top of your deck in your Drop Area, and draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 10 cards in your Drop Area and send them to your Warp : Your opponent chooses 2 cards from their hand and places them in their Drop Area.",
+    "skills_back": [
+      "Permanent",
+      "Auto",
+      "Activate-Main",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "Forced Absorption Demigra",
+    "number": "EX03-26",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "30000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(-)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Demigra",
+    "special_trait": "Demon God",
+    "era": "Dark Demon Realm Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, if your Leader Card is a ≪Demon God≫ and you have 15 or more Black Cards in your Warp, choose all of your opponent's Battle Cards ignoring <img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and combo with them in your Combo Area.",
+    "skills": [
+      "Triple-Strike",
+      "Auto",
+      "Barrier"
+    ]
+  },
+  {
+    "title": "Forced Ejection Masked Saiyan",
+    "number": "EX03-27",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "15000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "3",
+    "energy_text": "3(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Masked Saiyan",
+    "special_trait": "Saiyan",
+    "era": "Dark Demon Realm Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Over-Realm_3.png\" alt=\"Over Realm 3\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If you have placed a card in your Energy Area during your Charge Phase this turn, and you have less energy than your opponent, choose 1 of your opponent's energy and send it to their Warp.",
+    "skills": [
+      "one",
+      "Activate-Main",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "Smiling Madness Towa",
+    "number": "EX03-28",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "20000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "4",
+    "energy_text": "4(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Towa",
+    "special_trait": "Demon Realm Race",
+    "era": "Dark Demon Realm Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Xeno-Evolve.png\" alt=\"Xeno-Evolve\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/four.png\" alt=\"four\" class=\"skillTextBall\"> : ＜Towa＞ (Play this card in Active Mode by sending the specified card from your Battle Area to your Warp)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, if your Leader Card is an 《Android》, your opponent chooses 1 card in their hand, places it in their Drop Area, then you choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and gain control of it.",
+    "skills": [
+      "Xeno-Evolve",
+      "four",
+      "Double-Strike",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Forced Destruction Mira",
+    "number": "EX03-29",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "25000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Mira",
+    "special_trait": "Android",
+    "era": "Dark Demon Realm Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Xeno-Evolve.png\" alt=\"Xeno-Evolve\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/five.png\" alt=\"five\" class=\"skillTextBall\"> : ＜Mira＞ (Play this card in Active Mode by sending the specified card from your Battle Area to your Warp)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, if your Leader Card is ＜Towa＞ or an 《Android》, and you have 10 or more black cards in your Warp, your opponent chooses 3 cards in their hand and sends them to their Warp.",
+    "skills": [
+      "Xeno-Evolve",
+      "five",
+      "Triple-Strike",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Toppo Unleashed",
+    "number": "EX03-30",
+    "series": [
+      "ULTIMATE BOX"
+    ],
+    "rarity": "Expansion Rare[EX]",
+    "type": "BATTLE",
+    "color": "Black",
+    "power": "25000",
+    "energy": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "yellow": 0,
+      "black": 0
+    },
+    "energy_cost": "5",
+    "energy_text": "5(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Toppo",
+    "special_trait": "Alien/Pride Troopers/Universe 11",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">, place 3 cards from the top of your deck in your Drop Area : ＜Toppo＞ with an energy cost of 4 or more.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, if your Leader Card is 《Universe 11》 and you have 8 or more 《Universe 11》 in your Drop Area, draw 2 cards and for the duration of the turn this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> and <img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\">.",
+    "skills": [
+      "EX-Evolve",
+      "one",
+      "Barrier",
+      "Blocker",
+      "Auto",
+      "Double-Strike",
+      "Critical"
+    ]
+  }
+]

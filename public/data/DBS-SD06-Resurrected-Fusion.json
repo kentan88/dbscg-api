@@ -13,13 +13,13 @@
     "character": "Gogeta",
     "special_trait": "Saiyan",
     "era": "Janemba Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Burst_2.png\" alt=\"Burst 2\" class=\"skillText\"> (You must place the top 2 cards of your deck in your Drop Area to activate this skill.) When this card attacks, draw 1 card.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Burst_2.png\" alt=\"Burst 2\" class=\"skillText\"> (You must place the top 2 cards of your deck in your Drop Area to activate this skill.) When this card attacks, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Knockout Strike Gogeta",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card. If you have 3 or more energy, this card gets +5000 power for the duration of the turn, and if you have 5 or more energy, this card also gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card from your hand and place it in your Drop Area : Your opponent can only activate <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skills once for the duration of the turn.",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card. If you have 3 or more energy, this card gets +5000 power for the duration of the turn, and if you have 5 or more energy, this card also gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card from your hand and place it in your Drop Area : Your opponent can only activate <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> skills once for the duration of the turn.",
     "skills_back": [
       "Auto",
       "Double-Strike",
@@ -52,7 +52,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Janemba Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand as a result of <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\">, if your Leader Card is a 〈Gogeta〉 card, choose up to 1 of your energy and switch it to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand as a result of <img src=\"../../images/cardlist/common/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\">, if your Leader Card is a 〈Gogeta〉 card, choose up to 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Auto",
       "Union-Fusion"
@@ -83,7 +83,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Janemba Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand as a result of <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\">, if your Leader Card is a 〈Gogeta〉 card, draw 1 card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand as a result of <img src=\"../../images/cardlist/common/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\">, if your Leader Card is a 〈Gogeta〉 card, draw 1 card.",
     "skills": [
       "Auto",
       "Union-Fusion"
@@ -114,7 +114,7 @@
     "character": "Gogeta",
     "special_trait": "Saiyan",
     "era": "Janemba Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking.)<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">：〈Son Goku〉 and 〈Vegeta〉 (Place 1 each of the specified card with the same power from your hand into your Drop Area and play this card.)<br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When you play this card, draw 2 cards, then choose up to 2 of your opponent's Battle Cards and place them at the bottom of their owners' decks in any order.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/two.png\" alt=\"two\" class=\"skillTextBall\">：〈Son Goku〉 and 〈Vegeta〉 (Place 1 each of the specified card with the same power from your hand into your Drop Area and play this card.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When you play this card, draw 2 cards, then choose up to 2 of your opponent's Battle Cards and place them at the bottom of their owners' decks in any order.",
     "skills": [
       "Double-Strike",
       "Union-Fusion",

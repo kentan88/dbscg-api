@@ -13,13 +13,13 @@
     "character": "Hercule",
     "special_trait": "Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> During this card's battle, if there are cards in your Combo Area, draw 1 card and negate this skill for the duration of the battle. <br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 3 cards and flip this card over.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> During this card's battle, if there are cards in your Combo Area, draw 1 card and negate this skill for the duration of the battle. <br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 3 cards and flip this card over.",
     "skills": [
       "Activate-Battle",
       "Awaken"
     ],
     "title_back": "Bundle of Confidence Hercule",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> During this card's battle, if there are cards in your Combo Area, draw 1 card and negate this skill for the duration of the battle. ",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> During this card's battle, if there are cards in your Combo Area, draw 1 card and negate this skill for the duration of the battle. ",
     "skills_back": [
       "Auto",
       "Activate-Battle"
@@ -50,7 +50,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Vegeta｝ is in play in your Battle Area, this card gains +10000 power.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your Battle Cards are placed in the Drop Area with ｛Supreme Showdown Vegeta｝'s skill, and your Leader Card is 《World Tournament》, activate this skill. If there are no ｛Supreme Showdown Son Goku｝ in your Battle Area, you may play this card from your hand.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Vegeta｝ is in play in your Battle Area, this card gains +10000 power.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your Battle Cards are placed in the Drop Area with ｛Supreme Showdown Vegeta｝'s skill, and your Leader Card is 《World Tournament》, activate this skill. If there are no ｛Supreme Showdown Son Goku｝ in your Battle Area, you may play this card from your hand.",
     "skills": [
       "Triple-Strike",
       "Permanent",
@@ -82,7 +82,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Vegeta｝ is in play in your Battle Area, this card gains +10000 power.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your Battle Cards are placed in the Drop Area with ｛Supreme Showdown Vegeta｝'s skill, and your Leader Card is 《World Tournament》, activate this skill. If there are no ｛Supreme Showdown Son Goku｝ in your Battle Area, you may play this card from your hand.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Vegeta｝ is in play in your Battle Area, this card gains +10000 power.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your Battle Cards are placed in the Drop Area with ｛Supreme Showdown Vegeta｝'s skill, and your Leader Card is 《World Tournament》, activate this skill. If there are no ｛Supreme Showdown Son Goku｝ in your Battle Area, you may play this card from your hand.",
     "skills": [
       "Triple-Strike",
       "Permanent",
@@ -114,7 +114,7 @@
     "character": "Son Gohan: Adolescence",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with 10000 or less power and KO it.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with 10000 or less power and KO it.",
     "skills": [
       "Auto"
     ]
@@ -144,7 +144,7 @@
     "character": "Son Goten",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Tiny Rivals Trunks｝ is in play in your Battle Area, this card gains +5000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking).",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Tiny Rivals Trunks｝ is in play in your Battle Area, this card gains +5000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking).",
     "skills": [
       "Barrier",
       "Permanent",
@@ -176,7 +176,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Son Goku｝ is in play in your Battle Area, this card gains +10000 power.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, you may choose 1 of your Battle Cards other than this card and place it in your Drop Area. If you do so, your opponent cannot activate <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Son Goku｝ is in play in your Battle Area, this card gains +10000 power.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, you may choose 1 of your Battle Cards other than this card and place it in your Drop Area. If you do so, your opponent cannot activate <img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Triple-Strike",
       "Permanent",
@@ -209,7 +209,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Son Goku｝ is in play in your Battle Area, this card gains +10000 power.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, you may choose 1 of your Battle Cards other than this card and place it in your Drop Area. If you do so, your opponent cannot activate <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Supreme Showdown Son Goku｝ is in play in your Battle Area, this card gains +10000 power.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, you may choose 1 of your Battle Cards other than this card and place it in your Drop Area. If you do so, your opponent cannot activate <img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Triple-Strike",
       "Permanent",
@@ -242,7 +242,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and your life is 5 or less, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and your life is 5 or less, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
     "skills": [
       "Super-Combo",
       "Auto"
@@ -273,7 +273,7 @@
     "character": "Trunks: Youth",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Tiny Rivals Son Goten｝ is in play in your Battle Area, this card gains +5000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking).",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Tiny Rivals Son Goten｝ is in play in your Battle Area, this card gains +5000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking).",
     "skills": [
       "Critical",
       "Permanent",
@@ -305,7 +305,7 @@
     "character": "Mighty Mask",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is red and your life is at 4 or less, you may choose 1 card in your hand and place it in your Drop Area. If you do so, this card gains +10000 combo power for the duration of the turn, then choose up to 1 red ＜Son Goten＞ and up to 1 red ＜Trunks : Youth＞, each with 15000 or less power, add them to your hand, then shuffle your deck.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is red and your life is at 4 or less, you may choose 1 card in your hand and place it in your Drop Area. If you do so, this card gains +10000 combo power for the duration of the turn, then choose up to 1 red ＜Son Goten＞ and up to 1 red ＜Trunks : Youth＞, each with 15000 or less power, add them to your hand, then shuffle your deck.",
     "skills": [
       "Super-Combo",
       "Auto"
@@ -336,7 +336,7 @@
     "character": "Android 18",
     "special_trait": "Android/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is switched from Active Mode to Rest Mode with {Secret Treaty Hercule}'s skill, draw 1 card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is switched from Active Mode to Rest Mode with {Secret Treaty Hercule}'s skill, draw 1 card.",
     "skills": [
       "Auto"
     ]
@@ -366,7 +366,7 @@
     "character": "Hercule",
     "special_trait": "Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can combo with this card from your Battle Area even when it is in Rest Mode.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose this card and 1 《World Tournament》 in your Battle Area and switch them to Rest Mode : Draw 1 card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can combo with this card from your Battle Area even when it is in Rest Mode.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose this card and 1 《World Tournament》 in your Battle Area and switch them to Rest Mode : Draw 1 card.",
     "skills": [
       "Permanent",
       "Activate-Main"
@@ -397,7 +397,7 @@
     "character": "Videl",
     "special_trait": "Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack, and play this card. (<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> is activated from your hand by paying the card's energy cost)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Heroic Duo Son Gohan} is in play in your Battle Area, this card gains +9000 power.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack, and play this card. (<img src=\"../../images/cardlist/common/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> is activated from your hand by paying the card's energy cost)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Heroic Duo Son Gohan} is in play in your Battle Area, this card gains +9000 power.",
     "skills": [
       "Counter-Attack",
       "Counter",
@@ -429,7 +429,7 @@
     "character": "East Supreme Kai",
     "special_trait": "God/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose up to 1 of your attacking cards. It gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose up to 1 of your attacking cards. It gains <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -460,7 +460,7 @@
     "character": "Evil Wizard Babidi",
     "special_trait": "Evil Wizard/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is red, choose up to 1 of your red Battle Cards with 15000 or more power and switch it to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is red, choose up to 1 of your red Battle Cards with 15000 or more power and switch it to Active Mode.",
     "skills": [
       "Barrier",
       "Auto"
@@ -491,7 +491,7 @@
     "character": "Evil Wizard Babidi",
     "special_trait": "Evil Wizard/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is red, choose up to 1 of your red Battle Cards with 15000 or more power and switch it to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is red, choose up to 1 of your red Battle Cards with 15000 or more power and switch it to Active Mode.",
     "skills": [
       "Barrier",
       "Auto"
@@ -522,7 +522,7 @@
     "character": "Dabura",
     "special_trait": "Demon Realm Race/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Dark Duo Babidi} is in play in your Battle Area, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards in your opponent's hand and send them to their Warp.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card leaves the Battle Area, your opponent adds all cards sent to the Warp with this card's skill to their hand.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Dark Duo Babidi} is in play in your Battle Area, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards in your opponent's hand and send them to their Warp.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card leaves the Battle Area, your opponent adds all cards sent to the Warp with this card's skill to their hand.",
     "skills": [
       "Permanent",
       "Barrier",
@@ -554,7 +554,7 @@
     "character": "Dabura",
     "special_trait": "Demon Realm Race/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Dark Duo Babidi} is in play in your Battle Area, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards in your opponent's hand and send them to their Warp.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card leaves the Battle Area, your opponent adds all cards sent to the Warp with this card's skill to their hand.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Dark Duo Babidi} is in play in your Battle Area, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards in your opponent's hand and send them to their Warp.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card leaves the Battle Area, your opponent adds all cards sent to the Warp with this card's skill to their hand.",
     "skills": [
       "Permanent",
       "Barrier",
@@ -586,7 +586,7 @@
     "character": "Spopovich / Yamu",
     "special_trait": "Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 card in your Battle Area and place up to 5 cards from the top of your deck under the chosen card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 card in your Battle Area and place up to 5 cards from the top of your deck under the chosen card.",
     "skills": [
       "Auto"
     ]
@@ -616,7 +616,7 @@
     "character": "Pui Pui",
     "special_trait": "Alien/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)",
     "skills": [
       "Critical"
     ]
@@ -646,7 +646,7 @@
     "character": "Yakon",
     "special_trait": "Alien/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains +5000 power for each card placed under it.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent attacks with one of their cards, place 1 card from the top of your deck under this card, then if there are 5 or more cards placed under this card, place this card in your Drop Area.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains +5000 power for each card placed under it.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent attacks with one of their cards, place 1 card from the top of your deck under this card, then if there are 5 or more cards placed under this card, place this card in your Drop Area.",
     "skills": [
       "Permanent",
       "Auto"
@@ -671,7 +671,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in the Drop Area)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Switch this card to Rest Mode : Look at 1 card from the top of your deck, choose up to 1 ＜Dabura＞, ＜Pui Pui＞, or ＜Yakon＞ and add it to your hand, then place the rest on the bottom of your deck.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <img src=\"../../images/cardlist/common/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in the Drop Area)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Switch this card to Rest Mode : Look at 1 card from the top of your deck, choose up to 1 ＜Dabura＞, ＜Pui Pui＞, or ＜Yakon＞ and add it to your hand, then place the rest on the bottom of your deck.",
     "skills": [
       "Field",
       "Activate-Main"
@@ -691,13 +691,13 @@
     "character": "Uub",
     "special_trait": "Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less ：You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less ：You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Uub, Unknowing Power",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Choose up to 1 of your opponent's Battle Cards and return it to its owner's hand, and this card gains +5000 power for the duration of the turn.",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Choose up to 1 of your opponent's Battle Cards and return it to its owner's hand, and this card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
       "Activate-Main"
@@ -728,7 +728,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, you may choose 1 {Test of Strength Uub} from your hand and play it. If you do so, both that card and this card gain +5000 power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, you may choose 1 {Test of Strength Uub} from your hand and play it. If you do so, both that card and this card gain +5000 power for the duration of the turn.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -759,7 +759,7 @@
     "character": "Son Gohan: Adolescence",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and you have 5 or less life, draw 1 card, and this card gains +10000 combo power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and you have 5 or less life, draw 1 card, and this card gains +10000 combo power for the duration of the turn.",
     "skills": [
       "Super-Combo",
       "Auto"
@@ -790,7 +790,7 @@
     "character": "Son Goten: Adolescence",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : If {Scuffle Time Mr. Buu} is in play in your Battle Area, choose this card and up to 1 of your energy and switch them to Active Mode, and this card gains +10000 power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : If {Scuffle Time Mr. Buu} is in play in your Battle Area, choose this card and up to 1 of your energy and switch them to Active Mode, and this card gains +10000 power for the duration of the turn.",
     "skills": [
       "Activate-Main",
       "Once-per-turn"
@@ -821,7 +821,7 @@
     "character": "Pan",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a blue 《World Tournament》 and {Hercule, Proudest Grandpa} is in play in your Battle Area, this card gains +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a blue 《World Tournament》 and {Hercule, Proudest Grandpa} is in play in your Battle Area, this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.",
     "skills": [
       "Dual-Attack",
       "Permanent",
@@ -853,7 +853,7 @@
     "character": "Pan",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a blue 《World Tournament》 and {Hercule, Proudest Grandpa} is in play in your Battle Area, this card gains +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a blue 《World Tournament》 and {Hercule, Proudest Grandpa} is in play in your Battle Area, this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.",
     "skills": [
       "Dual-Attack",
       "Permanent",
@@ -885,7 +885,7 @@
     "character": "Pan",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you may choose 1 card from your life and add it to your hand. If you do so, this card gains +10000 power for the duration of the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, return this card to its owner's hand.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you may choose 1 card from your life and add it to your hand. If you do so, this card gains +10000 power for the duration of the turn.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, return this card to its owner's hand.",
     "skills": [
       "Auto"
     ]
@@ -915,7 +915,7 @@
     "character": "Pan",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you may choose 1 card from your life and add it to your hand. If you do so, this card gains +10000 power for the duration of the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, return this card to its owner's hand.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you may choose 1 card from your life and add it to your hand. If you do so, this card gains +10000 power for the duration of the turn.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, return this card to its owner's hand.",
     "skills": [
       "Auto"
     ]
@@ -945,7 +945,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》 and {Begrudging Respect Piccolo} is in play in your Battle Area, your opponent chooses 2 cards from their hand and places them on top of their deck in any order.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》 and {Begrudging Respect Piccolo} is in play in your Battle Area, your opponent chooses 2 cards from their hand and places them on top of their deck in any order.",
     "skills": [
       "Barrier",
       "Auto"
@@ -976,7 +976,7 @@
     "character": "Trunks: Adolescence",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Awkward Situation Otokosuki} in your Battle Area and place it at the bottom of its owner's deck : If your Leader Card is 《World Tournament》, choose up to 1 of your opponent's Battle Cards and KO it.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Awkward Situation Otokosuki} in your Battle Area and place it at the bottom of its owner's deck : If your Leader Card is 《World Tournament》, choose up to 1 of your opponent's Battle Cards and KO it.",
     "skills": [
       "Activate-Main",
       "Once-per-turn"
@@ -1007,7 +1007,7 @@
     "character": "Piccolo",
     "special_trait": "Namekian/God/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Begrudging Respect Vegeta｝ is in play in your Battle Area, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you placed a card in your Energy Area during this turn's Charge Phase and you have less energy than your opponent, choose up to 1 of your opponent's energy and place it in their Drop Area.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ｛Begrudging Respect Vegeta｝ is in play in your Battle Area, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you placed a card in your Energy Area during this turn's Charge Phase and you have less energy than your opponent, choose up to 1 of your opponent's energy and place it in their Drop Area.",
     "skills": [
       "Barrier",
       "Permanent",
@@ -1040,7 +1040,7 @@
     "character": "Mr. Buu",
     "special_trait": "Majin/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place this card on the bottom of its owner's deck : If {Scuffle Time Son Goten} is in play in your Battle Area, choose up to 1 of your opponent's Battle Cards and return it to its owner's hand.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place this card on the bottom of its owner's deck : If {Scuffle Time Son Goten} is in play in your Battle Area, choose up to 1 of your opponent's Battle Cards and return it to its owner's hand.",
     "skills": [
       "Barrier",
       "Activate-Main"
@@ -1071,7 +1071,7 @@
     "character": "Hercule",
     "special_trait": "Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your {Pan, Proudest Daughter} is played in your Battle Area, draw up to 2 cards, then, at the end of your turn, choose up to 1 of your energy and switch it to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your {Pan, Proudest Daughter} is played in your Battle Area, draw up to 2 cards, then, at the end of your turn, choose up to 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Barrier",
       "Auto"
@@ -1102,7 +1102,7 @@
     "character": "Hercule",
     "special_trait": "Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your {Pan, Proudest Daughter} is played in your Battle Area, draw up to 2 cards, then, at the end of your turn, choose up to 1 of your energy and switch it to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your {Pan, Proudest Daughter} is played in your Battle Area, draw up to 2 cards, then, at the end of your turn, choose up to 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Barrier",
       "Auto"
@@ -1133,7 +1133,7 @@
     "character": "Uub",
     "special_trait": "Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if {Test of Strength Son Goku} is in play in your Battle Area, choose up to 2 of your opponent's Battle Cards with 20000 or less power and place them at the bottom of their owners' decks.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if {Test of Strength Son Goku} is in play in your Battle Area, choose up to 2 of your opponent's Battle Cards with 20000 or less power and place them at the bottom of their owners' decks.",
     "skills": [
       "Critical",
       "Auto"
@@ -1164,7 +1164,7 @@
     "character": "Wild Tiger",
     "special_trait": "Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -1194,7 +1194,7 @@
     "character": "Otokosuki",
     "special_trait": "Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Awkward Situation Trunks} is in play in your Battle Area and {Awkward Situation Otokosuki} is not, you can play this card from your hand without paying its energy cost.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Awkward Situation Trunks} is in play in your Battle Area and {Awkward Situation Otokosuki} is not, you can play this card from your hand without paying its energy cost.",
     "skills": [
       "Permanent"
     ]
@@ -1218,7 +1218,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is ＜Uub＞, it gains +10000 power for the duration of the battle, and you draw 1 card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is ＜Uub＞, it gains +10000 power for the duration of the battle, and you draw 1 card.",
     "skills": [
       "Activate-Battle"
     ]
@@ -1237,13 +1237,13 @@
     "character": "Son Goku",
     "special_trait": "Saiyan/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Stopping Power Son Goku",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card KO-s one of your opponent's Battle Card, switch this card to Active Mode.",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card KO-s one of your opponent's Battle Card, switch this card to Active Mode.",
     "skills_back": [
       "Auto",
       "Once-per-turn"
@@ -1274,7 +1274,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if {Fateful Reunion Chi-Chi｝ is in play in your Battle Area, choose up to 1 of your opponent's Battle Cards, KO it, and this card gains +10000 power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if {Fateful Reunion Chi-Chi｝ is in play in your Battle Area, choose up to 1 of your opponent's Battle Cards, KO it, and this card gains +10000 power for the duration of the turn.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -1305,7 +1305,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》 and your opponent has 5 or more cards in their hand, your opponent chooses 1 card in their hand and places it in their Drop Area.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》 and your opponent has 5 or more cards in their hand, your opponent chooses 1 card in their hand and places it in their Drop Area.",
     "skills": [
       "Auto"
     ]
@@ -1335,7 +1335,7 @@
     "character": "Chi-Chi",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When ｛Fateful Reunion Son Goku｝ is played in your Battle Area, choose this card and 1 of your ｛Fateful Reunion Son Goku｝, and they gain +10000 power for the duration of the turn, then draw 1 card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When ｛Fateful Reunion Son Goku｝ is played in your Battle Area, choose this card and 1 of your ｛Fateful Reunion Son Goku｝, and they gain +10000 power for the duration of the turn, then draw 1 card.",
     "skills": [
       "Barrier",
       "Auto"
@@ -1366,7 +1366,7 @@
     "character": "Chi-Chi",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
     "skills": [
       "Super-Combo",
       "Auto"
@@ -1397,7 +1397,7 @@
     "character": "Piccolo Jr.",
     "special_trait": "Namekian/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 each of your and your opponent's Battle Cards and KO them. If you KO-ed {Destined Conclusion Hero} as your Battle Card, for the duration of the turn this card gains +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 each of your and your opponent's Battle Cards and KO them. If you KO-ed {Destined Conclusion Hero} as your Battle Card, for the duration of the turn this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">.",
     "skills": [
       "Critical",
       "Auto",
@@ -1429,7 +1429,7 @@
     "character": "Piccolo Jr.",
     "special_trait": "Namekian/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 each of your and your opponent's Battle Cards and KO them. If you KO-ed {Destined Conclusion Hero} as your Battle Card, for the duration of the turn this card gains +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 each of your and your opponent's Battle Cards and KO them. If you KO-ed {Destined Conclusion Hero} as your Battle Card, for the duration of the turn this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">.",
     "skills": [
       "Critical",
       "Auto",
@@ -1461,7 +1461,7 @@
     "character": "Piccolo Jr.",
     "special_trait": "Namekian/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)",
     "skills": [
       "Critical"
     ]
@@ -1491,7 +1491,7 @@
     "character": "Krillin",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less ignoring <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and KO it.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less ignoring <img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and KO it.",
     "skills": [
       "Auto",
       "Barrier"
@@ -1522,7 +1522,7 @@
     "character": "Yamcha",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card from your life and add it to your hand. If you do so, your opponent chooses 1 card from their hand and places it in their Drop Area.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card from your life and add it to your hand. If you do so, your opponent chooses 1 card from their hand and places it in their Drop Area.",
     "skills": [
       "Critical",
       "Auto"
@@ -1553,7 +1553,7 @@
     "character": "Tien Shinhan",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Mercenary Tao, Trading Moves} in your Battle Area and KO it : If your Leader Card is a green 《World Tournament》, switch this card to Active Mode and for the duration of the turn this card gains +5000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking).",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Mercenary Tao, Trading Moves} in your Battle Area and KO it : If your Leader Card is a green 《World Tournament》, switch this card to Active Mode and for the duration of the turn this card gains +5000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking).",
     "skills": [
       "Barrier",
       "Activate-Main",
@@ -1586,7 +1586,7 @@
     "character": "Chiaotzu",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card during your turn, choose up to 1 {Tien Shinhan, Trading Moves} in your Battle Area and switch it to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card during your turn, choose up to 1 {Tien Shinhan, Trading Moves} in your Battle Area and switch it to Active Mode.",
     "skills": [
       "Auto"
     ]
@@ -1616,7 +1616,7 @@
     "character": "Hero",
     "special_trait": "Earthling/God/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When {Destined Conclusion Piccolo Jr.} is played from your hand, if your Leader Card is a green 《World Tournament》, this card gains +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn, then your opponent chooses 3 cards from their hand and places them in their Drop Area. You cannot place your opponent's hand in their Drop Area using {Destined Conclusion Hero｝'s skill for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When {Destined Conclusion Piccolo Jr.} is played from your hand, if your Leader Card is a green 《World Tournament》, this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn, then your opponent chooses 3 cards from their hand and places them in their Drop Area. You cannot place your opponent's hand in their Drop Area using {Destined Conclusion Hero｝'s skill for the duration of the turn.",
     "skills": [
       "Barrier",
       "Auto",
@@ -1648,7 +1648,7 @@
     "character": "Hero",
     "special_trait": "Earthling/God/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When {Destined Conclusion Piccolo Jr.} is played from your hand, if your Leader Card is a green 《World Tournament》, this card gains +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn, then your opponent chooses 3 cards from their hand and places them in their Drop Area. You cannot place your opponent's hand in their Drop Area using {Destined Conclusion Hero｝'s skill for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When {Destined Conclusion Piccolo Jr.} is played from your hand, if your Leader Card is a green 《World Tournament》, this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn, then your opponent chooses 3 cards from their hand and places them in their Drop Area. You cannot place your opponent's hand in their Drop Area using {Destined Conclusion Hero｝'s skill for the duration of the turn.",
     "skills": [
       "Barrier",
       "Auto",
@@ -1680,7 +1680,7 @@
     "character": "Kami",
     "special_trait": "God/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Trusting Relationship Popo} is in play in your Battle Area, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards).",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Trusting Relationship Popo} is in play in your Battle Area, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards).",
     "skills": [
       "Blocker",
       "Permanent",
@@ -1712,7 +1712,7 @@
     "character": "Popo",
     "special_trait": "God/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 {Trusting Relationship Kami} from your deck, add it to your hand, then shuffle your deck.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 {Trusting Relationship Kami} from your deck, add it to your hand, then shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -1742,7 +1742,7 @@
     "character": "Mercenary Tao",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is a green 《World Tournament》 and ｛Tien Shinhan, Trading Moves｝ is in play in your Battle Area, your opponent chooses 3 cards from their hand and places them in their Drop Area.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is a green 《World Tournament》 and ｛Tien Shinhan, Trading Moves｝ is in play in your Battle Area, your opponent chooses 3 cards from their hand and places them in their Drop Area.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -1767,7 +1767,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a green ＜Son Goku＞, for the duration of the battle it gains +15000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand).",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a green ＜Son Goku＞, for the duration of the battle it gains +15000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand).",
     "skills": [
       "Activate-Battle",
       "Critical"
@@ -1787,13 +1787,13 @@
     "character": "Jackie Chun",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Jackie Chun, the Mysterious Fighter",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During battles where this card is attacking a Battle Card in Rest Mode, your opponent can't combo.",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During battles where this card is attacking a Battle Card in Rest Mode, your opponent can't combo.",
     "skills_back": [
       "Auto",
       "Permanent"
@@ -1824,7 +1824,7 @@
     "character": "Son Goku: Childhood",
     "special_trait": "Saiyan/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Unyielding Victory Jackie Chun} in your Battle Area and switch it to Rest Mode : If your Leader Card is a yellow 《World Tournament》, for the duration of the turn this card gains +5000 power, <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\">.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Unyielding Victory Jackie Chun} in your Battle Area and switch it to Rest Mode : If your Leader Card is a yellow 《World Tournament》, for the duration of the turn this card gains +5000 power, <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\">.",
     "skills": [
       "Barrier",
       "Activate-Main",
@@ -1858,7 +1858,7 @@
     "character": "Son Goku: Childhood",
     "special_trait": "Saiyan/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Unyielding Victory Jackie Chun} in your Battle Area and switch it to Rest Mode : If your Leader Card is a yellow 《World Tournament》, for the duration of the turn this card gains +5000 power, <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\">.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Unyielding Victory Jackie Chun} in your Battle Area and switch it to Rest Mode : If your Leader Card is a yellow 《World Tournament》, for the duration of the turn this card gains +5000 power, <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\">.",
     "skills": [
       "Barrier",
       "Activate-Main",
@@ -1892,7 +1892,7 @@
     "character": "Son Goku: Childhood",
     "special_trait": "Saiyan/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and your life is 5 or less, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"../../images/cardlist/common/images/cardlist/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader Card is 《World Tournament》 and your life is 5 or less, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
     "skills": [
       "Super-Combo",
       "Auto"
@@ -1923,7 +1923,7 @@
     "character": "Krillin: Childhood",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Toughened Up Chiaotzu} is in play in your Battle Area, this card gains +5000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\">(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand).",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Toughened Up Chiaotzu} is in play in your Battle Area, this card gains +5000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\">(When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand).",
     "skills": [
       "Permanent",
       "Critical"
@@ -1954,7 +1954,7 @@
     "character": "Yamcha",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Unending Moves Tien Shinhan} is in play in your Battle Area, this card gains +10000 power and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\">.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Unending Moves Tien Shinhan} is in play in your Battle Area, this card gains +10000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\">.",
     "skills": [
       "Barrier",
       "Permanent",
@@ -1986,7 +1986,7 @@
     "character": "Tien Shinhan",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Unending Moves Yamcha} in your Battle Area and KO it : Draw 2 cards, then choose up to 1 of your opponent's Battle Cards in Rest Mode and KO it.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Unending Moves Yamcha} in your Battle Area and KO it : Draw 2 cards, then choose up to 1 of your opponent's Battle Cards in Rest Mode and KO it.",
     "skills": [
       "Double-Strike",
       "Barrier",
@@ -2019,7 +2019,7 @@
     "character": "Chiaotzu",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When {Toughened Up Krillin} is played in your Battle Area, draw 1 card, and this card gains +14000 power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When {Toughened Up Krillin} is played in your Battle Area, draw 1 card, and this card gains +14000 power for the duration of the turn.",
     "skills": [
       "Blocker",
       "Auto",
@@ -2051,7 +2051,7 @@
     "character": "Master Roshi",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards.)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Master Shen, Martial Meister} in your Battle Area and switch it to Rest Mode : Draw 1 card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Master Shen, Martial Meister} in your Battle Area and switch it to Rest Mode : Draw 1 card.",
     "skills": [
       "Barrier",
       "Activate-Main",
@@ -2083,7 +2083,7 @@
     "character": "Jackie Chun",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose 1 {Unyielding Victory Son Goku} in your Battle Area and KO it. If you KO-ed it, choose this card and 1 of your energy and switch them to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose 1 {Unyielding Victory Son Goku} in your Battle Area and KO it. If you KO-ed it, choose this card and 1 of your energy and switch them to Active Mode.",
     "skills": [
       "Blocker",
       "Barrier",
@@ -2115,7 +2115,7 @@
     "character": "Jackie Chun",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose 1 {Unyielding Victory Son Goku} in your Battle Area and KO it. If you KO-ed it, choose this card and 1 of your energy and switch them to Active Mode.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose 1 {Unyielding Victory Son Goku} in your Battle Area and KO it. If you KO-ed it, choose this card and 1 of your energy and switch them to Active Mode.",
     "skills": [
       "Blocker",
       "Barrier",
@@ -2147,7 +2147,7 @@
     "character": "Nam",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a yellow 《World Tournament》, this card gains <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> and <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's Battle Cards in Rest Mode and KO it.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a yellow 《World Tournament》, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> and <img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's Battle Cards in Rest Mode and KO it.",
     "skills": [
       "Permanent",
       "Dual-Attack",
@@ -2181,7 +2181,7 @@
     "character": "Giran",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less, switch it to Rest Mode, and that card can't be switched to Active Mode during your opponent's next turn. ",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less, switch it to Rest Mode, and that card can't be switched to Active Mode during your opponent's next turn. ",
     "skills": [
       "Critical",
       "Auto"
@@ -2212,7 +2212,7 @@
     "character": "Bacterian",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn. ",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn. ",
     "skills": [
       "Auto"
     ]
@@ -2242,7 +2242,7 @@
     "character": "Bacterian",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn. ",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn. ",
     "skills": [
       "Auto"
     ]
@@ -2272,7 +2272,7 @@
     "character": "Ranfan",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less, switch it to Rest Mode, and this card gains +5000 power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less, switch it to Rest Mode, and this card gains +5000 power for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -2302,7 +2302,7 @@
     "character": "Master Shen",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Master Roshi, Martial Meister} in your Battle Area and switch it to Rest Mode : Draw 1 card.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Master Roshi, Martial Meister} in your Battle Area and switch it to Rest Mode : Draw 1 card.",
     "skills": [
       "Barrier",
       "Activate-Main",
@@ -2328,7 +2328,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If 〈Son Goku : Childhood〉 is in play in your Battle Area, draw 2 cards.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If 〈Son Goku : Childhood〉 is in play in your Battle Area, draw 2 cards.",
     "skills": [
       "Activate-Main"
     ]
@@ -2347,7 +2347,7 @@
     "character": "Announcer",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat 《World Tournament》 in all areas as if they had no specified cost.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You cannot include non-《World Tournament》Battle Cards in your deck.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you play a 《World Tournament》 Battle Card, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat 《World Tournament》 in all areas as if they had no specified cost.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You cannot include non-《World Tournament》Battle Cards in your deck.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you play a 《World Tournament》 Battle Card, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Permanent",
       "Auto",
@@ -2355,7 +2355,7 @@
       "Awaken"
     ],
     "title_back": "Announcer, Referee Veteran",
-    "skills_back_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat 《World Tournament》 in all areas as if they had no specified cost.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 2 of your Battle Cards with 《World Tournament》, they each gain +5000 power for the duration of the turn, then negate this skill for the duration of the game.",
+    "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat 《World Tournament》 in all areas as if they had no specified cost.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 2 of your Battle Cards with 《World Tournament》, they each gain +5000 power for the duration of the turn, then negate this skill for the duration of the game.",
     "skills_back": [
       "Permanent",
       "Auto",
@@ -2387,7 +2387,7 @@
     "character": "Announcer",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, look at up to 7 cards from the top of your deck, choose up to 1 《World Tournament》 among them and add it to your hand, then shuffle your deck.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《World Tournament》, look at up to 7 cards from the top of your deck, choose up to 1 《World Tournament》 among them and add it to your hand, then shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -2417,7 +2417,7 @@
     "character": "Announcer",
     "special_trait": "Earthling/World Tournament",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is 《World Tournament》, negate the attack, and play this card.(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> is activated from your hand by paying the card's energy cost)<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> During your turn, when you play this card, if there are 2  or more 《World Tournament》 other than this card in play in your Battle Area, draw 2 cards.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is 《World Tournament》, negate the attack, and play this card.(<img src=\"../../images/cardlist/common/images/cardlist/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> is activated from your hand by paying the card's energy cost)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> During your turn, when you play this card, if there are 2  or more 《World Tournament》 other than this card in play in your Battle Area, draw 2 cards.",
     "skills": [
       "Counter-Attack",
       "Counter",
@@ -2443,7 +2443,7 @@
     },
     "energy_cost": "0",
     "energy_text": "0(-)",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Switch this card to Rest Mode : If your Leader Card is 〈Announcer〉, choose up to 2 of your Battle Cards with 《World Tournament》, and they each gain +5000 power for the duration of the turn.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Switch this card to Rest Mode : If your Leader Card is 〈Announcer〉, choose up to 2 of your Battle Cards with 《World Tournament》, and they each gain +5000 power for the duration of the turn.",
     "skills": [
       "Field",
       "Activate-Main"
@@ -2474,7 +2474,7 @@
     "character": "Son Goku/Uub",
     "special_trait": "Saiyan/Earthling/World Tournament",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Ultimate.png\" alt=\"Ultimate\" class=\"skillText\"><br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is 《World Tournament》 and if there are 6 cards or more in both your Energy Area and your opponent's Energy Area, decrease this card's energy cost in your hand by 2.<br><br><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 card each from your opponent's Life and Energy Areas, then place them at the bottom of their owner's deck in any order.",
+    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Ultimate.png\" alt=\"Ultimate\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is 《World Tournament》 and if there are 6 cards or more in both your Energy Area and your opponent's Energy Area, decrease this card's energy cost in your hand by 2.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 card each from your opponent's Life and Energy Areas, then place them at the bottom of their owner's deck in any order.",
     "skills": [
       "Double-Strike",
       "Dual-Attack",
