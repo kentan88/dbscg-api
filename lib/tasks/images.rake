@@ -46,6 +46,7 @@ namespace :images do
         "Swap_4",
         "Swap_5",
         "Swap_6",
+        "Swap_8",
         "Union-Fusion",
         "Servant",
         "Unique",
@@ -72,7 +73,15 @@ namespace :images do
         "Counter-Battle-Card-Attack",
         "four",
         "five",
-        "six", "seven", "eight", "nine"
+        "six", "seven", "eight", "nine",
+        "Bond_1",
+        "Universe_7",
+        "Arrival_Green-Yellow",
+        "Xeno-Evolve",
+        "Over-Realm-8",
+        "Over-Realm-7",
+        "Arrival_Blue-Green",
+        "Arrival_Red-Blue"
     ].each do |str|
         path = Rails.root.join('public', 'images', "#{str}.png")
       if File.file?(path)
