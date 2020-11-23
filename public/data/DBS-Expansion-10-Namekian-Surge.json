@@ -18,13 +18,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Krillin",
     "special_trait": "Earthling",
     "era": "Dr. Uiro Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is blue and there is a multicolor card in your energy : When you combo with this card, it gets +5000 combo power for the duration of the turn.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is blue and there is a multicolor card in your energy : When you combo with this card, it gets +5000 combo power for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -48,13 +48,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Master Roshi",
     "special_trait": "Earthling",
     "era": "Dr. Uiro Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is green and you send this card from your Drop Area to your Warp : Choose 1 green Extra Card in your Drop Area and add it to your hand.",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is green and you send this card from your Drop Area to your Warp : Choose 1 green Extra Card in your Drop Area and add it to your hand.",
     "skills": [
       "Activate-Main",
       "ball"
@@ -74,7 +74,7 @@
     "character": "Piccolo",
     "special_trait": "Namekian/Frenzied Warrior",
     "era": "Dr. Uiro Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> At the beginning of your turn, look at the top card of your deck, place the card on the top or bottom of your deck, then draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken_Surge.png\" alt=\"Awaken: Surge\" class=\"skillText\"> Choose 1 blue card and 1 green card in your hand and place them under this card : You may draw 3 cards, then choose up to 1 of your energy, switch it to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> At the beginning of your turn, look at the top card of your deck, place the card on the top or bottom of your deck, then draw 1 card.<br><img src=\"/images/Awaken_Surge.png\" alt=\"Awaken: Surge\" class=\"skillText\"> Choose 1 blue card and 1 green card in your hand and place them under this card : You may draw 3 cards, then choose up to 1 of your energy, switch it to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Once-per-turn",
@@ -107,13 +107,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Dr. Uiro Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Revive_Blue-Green.png\" alt=\"Revive Blue/Green\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> KO this card : When one of your opponent's Battle Cards with an energy cost of 6 or less attacks, negate the attack.",
+    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Revive_Blue-Green.png\" alt=\"Revive Blue/Green\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> KO this card : When one of your opponent's Battle Cards with an energy cost of 6 or less attacks, negate the attack.",
     "skills": [
       "Energy-Exhaust",
       "Blue-Green",
@@ -139,13 +139,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Dr. Uiro",
     "special_trait": "Scientist",
     "era": "Dr. Uiro Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand by an opponent's skill or by your <img src=\"../../images/cardlist/common/images/cardlist/common/Revive.png\" alt=\"Revive\" class=\"skillText\"> skill, you may play this card. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand by an opponent's skill or by your <img src=\"/images/Revive.png\" alt=\"Revive\" class=\"skillText\"> skill, you may play this card. ",
     "skills": [
       "Blocker",
       "Energy-Exhaust",
@@ -171,8 +171,8 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> Your Leader Card is green : If the Battle Card being played has an energy cost of 4 or less, it is placed in its owner's Drop Area instead of being played, then choose up to 1 of your blue or green energy and switch it to Active Mode.",
+    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> Your Leader Card is green : If the Battle Card being played has an energy cost of 4 or less, it is placed in its owner's Drop Area instead of being played, then choose up to 1 of your blue or green energy and switch it to Active Mode.",
     "skills": [
       "Energy-Exhaust",
       "Counter-Play"

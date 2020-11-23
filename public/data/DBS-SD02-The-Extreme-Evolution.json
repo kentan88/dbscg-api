@@ -13,7 +13,7 @@
     "character": "Son Goku: GT",
     "special_trait": "Saiyan",
     "era": "Black Star Dragon Ball Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
@@ -45,13 +45,13 @@
       "black": 0
     },
     "energy_cost": "6",
-    "energy_text": "6(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku: GT",
     "special_trait": "Saiyan",
     "era": "Baby Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">，place 1 card from your hand in the Drop Area : Red ＜Son Goku: GT＞ with an energy cost of 4 or more. (Play this card on top of the specified card)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When one of your cards attack, this card gains +5000 power for the duration of the turn. Then, if this card's power is 40000 or more, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills_text": "<img src=\"/images/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\">，place 1 card from your hand in the Drop Area : Red ＜Son Goku: GT＞ with an energy cost of 4 or more. (Play this card on top of the specified card)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When one of your cards attack, this card gains +5000 power for the duration of the turn. Then, if this card's power is 40000 or more, this card gains <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) for the duration of the turn.",
     "skills": [
       "EX-Evolve",
       "ball",
@@ -78,13 +78,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku: GT",
     "special_trait": "Saiyan",
     "era": "Black Star Dragon Ball Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku: GT＞<br><img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, or if you combo with this card, draw 1 card.",
+    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku: GT＞<br><img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, or if you combo with this card, draw 1 card.",
     "skills": [
       "Evolve",
       "ball",
@@ -112,13 +112,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku: GT",
     "special_trait": "Saiyan",
     "era": "Black Star Dragon Ball Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku: GT＞<br><img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, or if you combo with this card, draw 1 card.",
+    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Son Goku: GT＞<br><img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, or if you combo with this card, draw 1 card.",
     "skills": [
       "Evolve",
       "ball",
@@ -146,13 +146,13 @@
       "black": 0
     },
     "energy_cost": "1",
-    "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Pan",
     "special_trait": "Saiyan/Earthling",
     "era": "Black Star Dragon Ball Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your red Leader Cards or red Battle Cards. That card gains +5000 power for the duration of the turn.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card from the Battle Area, draw 1 card.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your red Leader Cards or red Battle Cards. That card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card from the Battle Area, draw 1 card.",
     "skills": [
       "Auto"
     ]
@@ -176,13 +176,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Trunks: GT",
     "special_trait": "Saiyan/Earthling",
     "era": "Black Star Dragon Ball Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜Trunks: GT＞<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards that are in Active Mode.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 Battle Card from your hand with power of 15000 or less and play it.",
+    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜Trunks: GT＞<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards that are in Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 Battle Card from your hand with power of 15000 or less and play it.",
     "skills": [
       "Evolve",
       "ball",

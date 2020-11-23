@@ -13,7 +13,7 @@
     "character": "Toppo",
     "special_trait": "Alien/Pride Troopers/Universe 11",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less or you have a yellow Unison Card with a specified cost of 2 in play : You may choose up to 2 of your energy, switch them to Active Mode, then choose cards in your life and add them to your hand until you have 6 life left, and flip this card over.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less or you have a yellow Unison Card with a specified cost of 2 in play : You may choose up to 2 of your energy, switch them to Active Mode, then choose cards in your life and add them to your hand until you have 6 life left, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
@@ -44,8 +44,8 @@
       "black": 0
     },
     "energy_cost": "",
-    "energy_text": "X(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose this card or 1 of your Battle Cards and switch it to Rest Mode : Add a marker to this card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/UNISON_minus_01.png\" alt=\"UNISON -1\" class=\"skillText unisonText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Your opponent can't attack with Battle Cards with energy costs greater than their current energy until the end of their next turn.<br><img src=\"../../images/cardlist/common/images/cardlist/common/UNISON_minus_03.png\" alt=\"UNISON -3\" class=\"skillText unisonText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your opponent's energy, switch it to Rest Mode, then this card gets +5000 power, <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"../../images/cardlist/common/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the turn.",
+    "energy_text": "X(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose this card or 1 of your Battle Cards and switch it to Rest Mode : Add a marker to this card.<br><img src=\"/images/UNISON_minus_01.png\" alt=\"UNISON -1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Your opponent can't attack with Battle Cards with energy costs greater than their current energy until the end of their next turn.<br><img src=\"/images/UNISON_minus_03.png\" alt=\"UNISON -3\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your opponent's energy, switch it to Rest Mode, then this card gets +5000 power, <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the turn.",
     "skills": [
       "Activate-Main",
       "Once-per-turn",
@@ -72,13 +72,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Belmod",
     "special_trait": "God/Universe 11",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card being played is played in Rest Mode, then play this card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack, play this card, then choose up to 1 of your opponent's Battle Cards and negate its skills for the turn.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if you have a yellow Unison Card with a specified cost of 2 in play, reduce the energy cost of this card in your hand by 2.",
+    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card being played is played in Rest Mode, then play this card.<br><img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack, play this card, then choose up to 1 of your opponent's Battle Cards and negate its skills for the turn.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if you have a yellow Unison Card with a specified cost of 2 in play, reduce the energy cost of this card in your hand by 2.",
     "skills": [
       "Counter-Play",
       "Counter-Attack",
@@ -104,13 +104,13 @@
       "black": 0
     },
     "energy_cost": "3",
-    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Marcarita",
     "special_trait": "God/Universe 11",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a yellow Unison Card with a specified cost of 2 in play, reduce the energy cost of this card in your hand by 1.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's Battle Cards in Rest Mode and it can't be switched to Active Mode until the start of your next turn.",
+    "skills_text": "<img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a yellow Unison Card with a specified cost of 2 in play, reduce the energy cost of this card in your hand by 1.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's Battle Cards in Rest Mode and it can't be switched to Active Mode until the start of your next turn.",
     "skills": [
       "Barrier",
       "Permanent",
@@ -136,13 +136,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Dyspo",
     "special_trait": "Alien/Pride Troopers/Universe 11",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If you have a yellow Unison Card with a specified cost of 2 in play and you have no Battle Cards in play : Play this card from your hand.",
+    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If you have a yellow Unison Card with a specified cost of 2 in play and you have no Battle Cards in play : Play this card from your hand.",
     "skills": [
       "Critical",
       "Activate-Main"
@@ -167,13 +167,13 @@
       "black": 0
     },
     "energy_cost": "1",
-    "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Kahseral",
     "special_trait": "Alien/Pride Troopers/Universe 11",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 5 cards from the top of your deck, choose up to 1 yellow Unison Card with a specified cost of 2 or up to 1 yellow 《Universe 11》 card with an energy cost of 4 or less among them, add it to your hand, then shuffle your deck.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is switched to Rest Mode by one of your skills, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and switch it to Rest Mode.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 5 cards from the top of your deck, choose up to 1 yellow Unison Card with a specified cost of 2 or up to 1 yellow 《Universe 11》 card with an energy cost of 4 or less among them, add it to your hand, then shuffle your deck.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is switched to Rest Mode by one of your skills, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and switch it to Rest Mode.",
     "skills": [
       "Auto"
     ]
@@ -196,8 +196,8 @@
       "black": 0
     },
     "energy_cost": "1",
-    "energy_text": "1(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> When the Battle Card is played, you may choose it and switch it to Rest Mode.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a 《Universe 11》 card and it's your turn : Choose up to 1 of your Leader Cards or up to 1 of your yellow Unison Cards with a specified cost of 2 and it gets +10000 power for the turn.",
+    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> When the Battle Card is played, you may choose it and switch it to Rest Mode.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a 《Universe 11》 card and it's your turn : Choose up to 1 of your Leader Cards or up to 1 of your yellow Unison Cards with a specified cost of 2 and it gets +10000 power for the turn.",
     "skills": [
       "Counter-Play",
       "Activate-Battle"

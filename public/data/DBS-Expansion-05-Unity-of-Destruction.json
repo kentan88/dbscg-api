@@ -18,13 +18,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Janemba",
     "special_trait": "Evil Incarnate",
     "era": "Janemba Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose up to 1 《Agent of Destruction》 card with an energy cost of 4 that is both blue and yellow from your deck, play it in Rest Mode, shuffle your deck, then place this card at the bottom of its owner's deck.",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose up to 1 《Agent of Destruction》 card with an energy cost of 4 that is both blue and yellow from your deck, play it in Rest Mode, shuffle your deck, then place this card at the bottom of its owner's deck.",
     "skills": [
       "Activate-Main",
       "ball"
@@ -49,13 +49,13 @@
       "black": 0
     },
     "energy_cost": "3",
-    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Boujack",
     "special_trait": "Boujack Brigade",
     "era": "Boujack Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack and play this card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if there is a card that is both blue and yellow in your energy, reduce the energy cost of this card in your hand by 2.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, your opponent places the top card of their deck in their Drop Area.",
+    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack and play this card.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if there is a card that is both blue and yellow in your energy, reduce the energy cost of this card in your hand by 2.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, your opponent places the top card of their deck in their Drop Area.",
     "skills": [
       "Counter-Attack",
       "Permanent",
@@ -81,13 +81,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Janemba",
     "special_trait": "Evil Incarnate/Agent of Destruction",
     "era": "Special",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Aegis_Blue-Yellow.png\" alt=\"Aegis Blue/Yellow\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> (If it's your opponent's turn, you can activate this during the Defense Step by placing cards in your hand in your Drop Area that match all colors specified by <img src=\"../../images/cardlist/common/images/cardlist/common/Aegis.png\" alt=\"Aegis\" class=\"skillText\"> : Choose up to 2 of your energy and switch them to Active Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card activates <img src=\"../../images/cardlist/common/images/cardlist/common/Aegis.png\" alt=\"Aegis\" class=\"skillText\">, if there are no 《Evil Incarnate》 cards in play in your Battle Area other than this card, place 1 card from the top of your opponent's deck in their Drop Area.",
+    "skills_text": "<img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"/images/Aegis_Blue-Yellow.png\" alt=\"Aegis Blue/Yellow\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> (If it's your opponent's turn, you can activate this during the Defense Step by placing cards in your hand in your Drop Area that match all colors specified by <img src=\"/images/Aegis.png\" alt=\"Aegis\" class=\"skillText\"> : Choose up to 2 of your energy and switch them to Active Mode.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card activates <img src=\"/images/Aegis.png\" alt=\"Aegis\" class=\"skillText\">, if there are no 《Evil Incarnate》 cards in play in your Battle Area other than this card, place 1 card from the top of your opponent's deck in their Drop Area.",
     "skills": [
       "Barrier",
       "Blue-Yellow",
@@ -116,13 +116,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Boujack",
     "special_trait": "Boujack Brigade/Agent of Destruction",
     "era": "Special",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Arrival_Blue-Yellow.png\" alt=\"Arrival Blue/Yellow\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> (Play this card from your hand when you have blue and yellow cards in your Combo Area.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, then place the top card of your opponent's deck in their Drop Area.",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Arrival_Blue-Yellow.png\" alt=\"Arrival Blue/Yellow\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> (Play this card from your hand when you have blue and yellow cards in your Combo Area.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, then place the top card of your opponent's deck in their Drop Area.",
     "skills": [
       "Blocker",
       "Blue-Yellow",
@@ -150,13 +150,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Boujack",
     "special_trait": "Boujack Brigade/Agent of Destruction",
     "era": "Special",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"../../images/cardlist/common/images/cardlist/common/Arrival_Blue-Yellow.png\" alt=\"Arrival Blue/Yellow\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> (Play this card from your hand when you have blue and yellow cards in your Combo Area.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, then place the top card of your opponent's deck in their Drop Area.",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Arrival_Blue-Yellow.png\" alt=\"Arrival Blue/Yellow\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> (Play this card from your hand when you have blue and yellow cards in your Combo Area.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, then place the top card of your opponent's deck in their Drop Area.",
     "skills": [
       "Blocker",
       "Blue-Yellow",

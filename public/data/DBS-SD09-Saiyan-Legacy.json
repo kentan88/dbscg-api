@@ -13,7 +13,7 @@
     "character": "King Vegeta",
     "special_trait": "Saiyan",
     "era": "Bardock Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't include non-《Saiyan》 Battle Cards in your deck.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Look at up to 5 cards from the top of your deck, choose up to 1 red or green 《Saiyan》 card or {King Vegeta's Dynasty} among them and add it to your hand, then shuffle your deck.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When you have {King Vegeta's Dynasty} in your Battle Area and 3 or more cards in your energy : You may draw 1 card, choose up to 1 of your energy and switch it to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't include non-《Saiyan》 Battle Cards in your deck.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Look at up to 5 cards from the top of your deck, choose up to 1 red or green 《Saiyan》 card or {King Vegeta's Dynasty} among them and add it to your hand, then shuffle your deck.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When you have {King Vegeta's Dynasty} in your Battle Area and 3 or more cards in your energy : You may draw 1 card, choose up to 1 of your energy and switch it to Active Mode, and flip this card over.",
     "skills": [
       "Permanent",
       "Activate-Main",
@@ -47,13 +47,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Raditz",
     "special_trait": "Saiyan",
     "era": "Saiyan Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When {King Vegeta's Dynasty} in your Battle Area is placed in its owner's Drop Area, activate this skill. If {Raditz, Earth Invader} isn't in play in your Battle Area, you may play this card from your hand.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When {King Vegeta's Dynasty} in your Battle Area is placed in its owner's Drop Area, activate this skill. If {Raditz, Earth Invader} isn't in play in your Battle Area, you may play this card from your hand.",
     "skills": [
       "Auto"
     ]
@@ -77,13 +77,13 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Saiyan Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and add it to your hand : This card gets +5000 power and <img src=\"../../images/cardlist/common/images/cardlist/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and add it to your hand : This card gets +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Activate-Main",
       "Once-per-turn",
@@ -109,13 +109,13 @@
       "black": 0
     },
     "energy_cost": "4",
-    "energy_text": "4(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Saiyan Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Arrival_Red-Green.png\" alt=\"Arrival Red/Green\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> (Play this card from your hand when you have red and green cards in your Combo Area.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Only 1 {Fated Kaio-Ken Son Goku} can be played in your Battle Area.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and add it to your hand : If your life is at 3 or less and your Leader Card is a 《Saiyan》 card, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> and <img src=\"../../images/cardlist/common/images/cardlist/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the duration of the turn.",
+    "skills_text": "<img src=\"/images/Arrival_Red-Green.png\" alt=\"Arrival Red/Green\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"> (Play this card from your hand when you have red and green cards in your Combo Area.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Only 1 {Fated Kaio-Ken Son Goku} can be played in your Battle Area.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and add it to your hand : If your life is at 3 or less and your Leader Card is a 《Saiyan》 card, this card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> and <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Red-Green",
       "ball",
@@ -145,8 +145,8 @@
       "black": 0
     },
     "energy_cost": "2",
-    "energy_text": "2(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in your Battle Area. It remains in your Battle Area until you activate another <img src=\"../../images/cardlist/common/images/cardlist/common/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in its owner's Drop Area.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Battle Area and your Leader Card is a 〈King Vegeta〉 card, choose up to 1 《Saiyan》 card with an energy cost of 2 or less in your hand, and play it with its skills negated for the duration of the turn. If you played a card, draw 2 cards.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent attacks with a card, you may choose 1 red card in your Energy Area, switch it to Rest Mode, and place this card in its owner's Drop Area. If you do, negate the attack.",
+    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in your Battle Area. It remains in your Battle Area until you activate another <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in its owner's Drop Area.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Battle Area and your Leader Card is a 〈King Vegeta〉 card, choose up to 1 《Saiyan》 card with an energy cost of 2 or less in your hand, and play it with its skills negated for the duration of the turn. If you played a card, draw 2 cards.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent attacks with a card, you may choose 1 red card in your Energy Area, switch it to Rest Mode, and place this card in its owner's Drop Area. If you do, negate the attack.",
     "skills": [
       "Field",
       "Energy-Exhaust",

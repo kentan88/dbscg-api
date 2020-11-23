@@ -13,7 +13,7 @@
     "character": "Son Goku: GT",
     "special_trait": "Saiyan/Goku's Lineage",
     "era": "Baby Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"../../images/cardlist/common/images/cardlist/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, draw 1 card.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
@@ -45,13 +45,13 @@
       "black": 0
     },
     "energy_cost": "3",
-    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Bardock",
     "special_trait": "Saiyan/Goku's Lineage",
     "era": "Bardock Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you may draw 1 card. If you did not draw a card with this skill, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you may draw 1 card. If you did not draw a card with this skill, this card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -76,13 +76,13 @@
       "black": 0
     },
     "energy_cost": "5",
-    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan/Goku's Lineage",
     "era": "Resurrection 'F' Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ≪Goku's Lineage≫ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ≪Goku's Lineage≫, choose up to 1 of your opponent's Battle Cards and KO it.",
+    "skills_text": "<img src=\"/images/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ≪Goku's Lineage≫ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)<br><img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ≪Goku's Lineage≫, choose up to 1 of your opponent's Battle Cards and KO it.",
     "skills": [
       "ball",
       "Barrier",
@@ -109,13 +109,13 @@
       "black": 0
     },
     "energy_cost": "5",
-    "energy_text": "5(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Goku: GT",
     "special_trait": "Saiyan/Goku's Lineage",
     "era": "Baby Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜＜Goku's Lineage＞＞ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand: Switch this card to Active Mode, and if you have 2 or less life, this card gains <img src=\"../../images/cardlist/common/images/cardlist/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills_text": "<img src=\"/images/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜＜Goku's Lineage＞＞ with an energy cost of 8. (Play the specified card from your hand, then return this card to your hand)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand: Switch this card to Active Mode, and if you have 2 or less life, this card gains <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) for the duration of the turn.",
     "skills": [
       "ball",
       "Activate-Main",
@@ -142,13 +142,13 @@
       "black": 0
     },
     "energy_cost": "3",
-    "energy_text": "3(<img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"http://www.dbs-cardgame.com/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Gohan: Childhood",
     "special_trait": "Saiyan/Earthling/Goku's Lineage",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"../../images/cardlist/common/images/cardlist/common/Swap_4.png\" alt=\"Swap 4\" class=\"skillText\"> <img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"../../images/cardlist/common/images/cardlist/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜＜Goku's Lineage＞＞ with an energy cost of 4. (Play the specified card from your hand, then return this card to your hand)<br><img src=\"../../images/cardlist/common/images/cardlist/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Rest Mode Battle Cards and KO it.",
+    "skills_text": "<img src=\"/images/Swap_4.png\" alt=\"Swap 4\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜＜Goku's Lineage＞＞ with an energy cost of 4. (Play the specified card from your hand, then return this card to your hand)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Rest Mode Battle Cards and KO it.",
     "skills": [
       "ball",
       "Auto"
