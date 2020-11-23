@@ -81,7 +81,8 @@ namespace :images do
         "Over-Realm-8",
         "Over-Realm-7",
         "Arrival_Blue-Green",
-        "Arrival_Red-Blue"
+        "Arrival_Red-Blue",
+        "Revive"
     ].each do |str|
         path = Rails.root.join('public', 'images', "#{str}.png")
       if File.file?(path)
