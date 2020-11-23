@@ -20,6 +20,8 @@ gem 'watir'
 gem 'kaminari'
 gem 'ransack'
 gem 'rack-cors'
+gem 'devise'
+gem 'jwt'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
