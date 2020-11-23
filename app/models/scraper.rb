@@ -323,7 +323,7 @@ class Scraper
             }
 
             card['energy_cost'] = energy_inner_html.scan(/^[0-9]*/)[0]
-            card['energy_text'] = energy_inner_html.gsub("../..", "http://www.dbs-cardgame.com")
+            card['energy_text'] = energy_inner_html.gsub("../../images/cardlist/common/", "/images/")
           end
           card['combo_energy'] = combo_energy_nodes.children[3].inner_html if combo_energy_nodes.children.length > 0
           card['combo_power'] = combo_power_nodes.children[3].inner_html if combo_power_nodes.children.length > 0
@@ -332,7 +332,7 @@ class Scraper
           card['era'] = era_nodes.children[3].inner_text if era_nodes.children.length > 0
 
           if skills_nodes.children.length > 0
-            card['skills_text'] = skills_nodes.children[3].inner_html.gsub("../..", "../../images/cardlist/common")
+            card['skills_text'] = skills_nodes.children[3].inner_html.gsub("../../images/cardlist/common/", "/images/")
             card['skills'] = skills_nodes.children[3].inner_html.scan(/[a-zA-Z-]+.png/).map { |str| str.gsub(".png", "") }.uniq
           end
 
