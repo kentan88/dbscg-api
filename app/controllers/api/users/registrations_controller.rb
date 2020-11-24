@@ -6,7 +6,11 @@ class API::Users::RegistrationsController < Devise::RegistrationsController
   respond_to :json
 
   def create
-    if params[:user][:email].nil?
+    if params[:user][:username].nil?
+      render :status => 400,
+             :json => {:message => 'User request must contain the user username.'}
+      return
+    elsif params[:user][:email].nil?
       render :status => 400,
              :json => {:message => 'User request must contain the user email.'}
       return
@@ -29,7 +33,7 @@ class API::Users::RegistrationsController < Devise::RegistrationsController
 
     if @user.save
       token = JWT.encode @user.as_json, "secret", 'none'
-      render(status: 200, json: { token: token })
+      render(status: 200, json: {token: token})
     else
       render :status => 400,
              :json => {:message => @user.errors.full_messages}

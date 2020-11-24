@@ -7,7 +7,7 @@ class API::Users::SessionsController < Devise::SessionsController
 
   def create
     resource = User.find_for_database_authentication(
-        email: params[:user][:email]
+        username: params[:user][:username]
     )
     return invalid_login_attempt unless resource
 
