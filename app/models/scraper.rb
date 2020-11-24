@@ -289,12 +289,7 @@ class Scraper
           special_trait_nodes = card_front_nodes.css('.specialTraitCol')
           era_nodes = card_front_nodes.css('.eraCol')
           skills_nodes = card_front_nodes.css('.skillCol')
-
           number = number_nodes.inner_text
-
-          # File.open(Rails.root.join('public', 'images', "#{number}.png"), 'wb') do |fo|
-          #   fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{number}.png").read
-          # end
 
           title = title_nodes.inner_text
           series_list = series_nodes.children[3].inner_html.split("<br>")

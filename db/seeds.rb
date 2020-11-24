@@ -10,12 +10,7 @@ Dir.glob("#{Rails.root}/public/data/**").each do |filename|
 
   data_hash.each do |data|
     card = Card.new(data)
-
-    if card.number.match(/_/)
-      puts "card: #{card.title} #{card.number} not created!"
-    else card.save!
-      # puts "card: #{card.title} created!"
-    end
+    card.save!
   end
 end
 
