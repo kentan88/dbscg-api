@@ -4,9 +4,9 @@ class API::DecksController < ApplicationController
 
     @decks =
         if params[:me].present? && user_id.present?
-          Deck.includes(:leader_card).where(user_id: user_id)
+          Deck.includes(:user, :leader_card).where(user_id: user_id)
         else
-          Deck.includes(:leader_card)
+          Deck.includes(:user, :leader_card)
         end
 
     @decks = @decks.order(updated_at: :desc).page(params[:page]).per(50)
