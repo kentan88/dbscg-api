@@ -1,2 +1,20 @@
-json.(card, *card.attribute_names)
+# json.(card, *card.attribute_names)
+json.id card.id
+json.number card.number
+json.color card.color
+json.title card.title
+json.title_back card.title_back
+json.type card.type
+json.rarity card.rarity
+json.energy_cost card.energy_cost
+json.combo_energy card.combo_energy
+json.energy_text card.energy_text
+json.power card.power
+json.combo_power card.combo_power
+json.character card.character
+json.special_trait card.special_trait
+json.era card.era
+json.series card.series
+json.skills_text card.skills_text
+json.skills_back_text card.skills_back_text
 json.energy card.energy.to_json
