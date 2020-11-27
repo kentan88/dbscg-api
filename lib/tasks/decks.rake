@@ -1,12 +1,7 @@
 namespace :decks do
   task :seed => :environment do
-    User.delete_all
-    user = User.create(email: "admin@example.com", password: 11111111)
-
-    DeckCard.delete_all
-    Deck.delete_all
-
-    5.times do |n|
+    50.times do |n|
+      user = User.create(username: Faker::Internet.username, email: Faker::Internet.email, password: 11111111)
       deck = Deck.create!(user_id: user.id, name: "My Super Duper Utimate Deck XXXXXXXXX #{n + 1}", card_id: Card.where(type: "LEADER").order("RANDOM()").limit(1).first.id )
 
       5.times do |m|

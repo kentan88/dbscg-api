@@ -9,7 +9,7 @@ class API::DecksController < ApplicationController
           Deck.includes(:user, :leader_card)
         end
 
-    @decks = @decks.order(updated_at: :desc).page(params[:page]).per(50)
+    @decks = @decks.order(updated_at: :desc).page(params[:page]).per(25)
   end
 
   def show
@@ -22,7 +22,7 @@ class API::DecksController < ApplicationController
     @deck = Deck.new(deck_params)
     @deck.user_id = user_id
 
-    params[:deck][:deck_cards].each do |key, value|
+    params[:deck][:deck_cards].each do |_key, value|
       card_id = value["id"]
       quantity = value["quantity"]
       @deck.deck_cards.new(card_id: card_id, quantity: quantity)
@@ -42,7 +42,6 @@ class API::DecksController < ApplicationController
   end
 
   def user_token
-    puts request.headers["Authorization"]
     request.headers["Authorization"].split(" ")[1]
   end
 end
