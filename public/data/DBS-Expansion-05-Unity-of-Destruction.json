@@ -2,10 +2,7 @@
   {
     "title": "Janemba, Lighthearted Destroyer",
     "number": "EX05-01",
-    "series": [
-      "EXPANSION SET05",
-      "-Unity of Destruction- "
-    ],
+    "series_text": "EXPANSION SET05 -Unity of Destruction-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -33,10 +30,7 @@
   {
     "title": "Boujack, Pirate's Pride",
     "number": "EX05-02",
-    "series": [
-      "EXPANSION SET05",
-      "-Unity of Destruction- "
-    ],
+    "series_text": "EXPANSION SET05 -Unity of Destruction-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -65,10 +59,7 @@
   {
     "title": "Janemba, Resonant Agent of Destruction",
     "number": "EX05-03",
-    "series": [
-      "EXPANSION SET05",
-      "-Unity of Destruction- "
-    ],
+    "series_text": "EXPANSION SET05 -Unity of Destruction-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -100,10 +91,7 @@
   {
     "title": "Boujack, Resonant Agent of Destruction",
     "number": "EX05-04",
-    "series": [
-      "EXPANSION SET05",
-      "-Unity of Destruction- "
-    ],
+    "series_text": "EXPANSION SET05 -Unity of Destruction-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -134,10 +122,7 @@
   {
     "title": "Boujack, Resonant Agent of Destruction",
     "number": "EX05-04_PR",
-    "series": [
-      "EXPANSION SET05",
-      "-Unity of Destruction- "
-    ],
+    "series_text": "EXPANSION SET05 -Unity of Destruction-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Yellow",

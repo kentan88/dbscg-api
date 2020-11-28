@@ -2,10 +2,7 @@
   {
     "title": "Cabba",
     "number": "XD1-01",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Yellow",
@@ -30,10 +27,7 @@
   {
     "title": "Vegeta, Saiyan of Universe 7",
     "number": "XD1-02",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -60,10 +54,7 @@
   {
     "title": "Champa, Scheming God of Destruction",
     "number": "XD1-03",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -91,10 +82,7 @@
   {
     "title": "Sisterly Bonds Kale",
     "number": "XD1-04",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -121,10 +109,7 @@
   {
     "title": "Hit, Ace of Universe 6",
     "number": "XD1-05",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -151,10 +136,7 @@
   {
     "title": "Cabba, Saiyan of Universe 6",
     "number": "XD1-06",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -181,10 +163,7 @@
   {
     "title": "Caulifla, Troublemaker of Universe 6",
     "number": "XD1-07",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -211,10 +190,7 @@
   {
     "title": "Vegeta & Cabba, Master-Pupil Bond",
     "number": "XD1-08",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -246,10 +222,7 @@
   {
     "title": "Planet Sadala",
     "number": "XD1-09",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue/Yellow",
@@ -272,10 +245,7 @@
   {
     "title": "Frost's Deadly Poison",
     "number": "XD1-10",
-    "series": [
-      "EXPERT DECK",
-      "~UNIVERSE 6 ASSAILANTS~[DBS-XD01]"
-    ],
+    "series_text": "EXPERT DECK ~UNIVERSE 6 ASSAILANTS~[DBS-XD01]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue/Yellow",

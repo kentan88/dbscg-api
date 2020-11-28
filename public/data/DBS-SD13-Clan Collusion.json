@@ -2,10 +2,7 @@
   {
     "title": "Frieza",
     "number": "SD13-01",
-    "series": [
-      "STARTER DECK",
-      "~Clan Collusion~[DBS-SD13]"
-    ],
+    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Green",
@@ -31,10 +28,7 @@
   {
     "title": "Frieza : Xeno, Darkness Overflowing",
     "number": "SD13-02",
-    "series": [
-      "STARTER DECK",
-      "~Clan Collusion~[DBS-SD13]"
-    ],
+    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "UNISON",
     "color": "Green",
@@ -57,10 +51,7 @@
   {
     "title": "Ginyu, Frieza's Greatest Soldier",
     "number": "SD13-03",
-    "series": [
-      "STARTER DECK",
-      "~Clan Collusion~[DBS-SD13]"
-    ],
+    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -87,10 +78,7 @@
   {
     "title": "Zarbon, Frieza's Right-Hand Man",
     "number": "SD13-04",
-    "series": [
-      "STARTER DECK",
-      "~Clan Collusion~[DBS-SD13]"
-    ],
+    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -119,10 +107,7 @@
   {
     "title": "Dodoria, Frieza's Devoted Servant",
     "number": "SD13-05",
-    "series": [
-      "STARTER DECK",
-      "~Clan Collusion~[DBS-SD13]"
-    ],
+    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",

@@ -2,10 +2,7 @@
   {
     "title": "Vegito",
     "number": "BT2-001",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Red",
@@ -30,10 +27,7 @@
   {
     "title": "Son Goku",
     "number": "BT2-002",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -58,10 +52,7 @@
   {
     "title": "Babidi",
     "number": "BT2-003",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -85,10 +76,7 @@
   {
     "title": "Relentless Super Saiyan 3 Son Goku",
     "number": "BT2-004",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -117,10 +105,7 @@
   {
     "title": "Super Saiyan Son Goku",
     "number": "BT2-005",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -147,10 +132,7 @@
   {
     "title": "Miraculous Comeback Ultimate Gohan",
     "number": "BT2-006",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -179,10 +161,7 @@
   {
     "title": "Fully Trained Son Gohan",
     "number": "BT2-007",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -212,10 +191,7 @@
   {
     "title": "Leap to The Future Son Goten",
     "number": "BT2-008",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -234,7 +210,7 @@
     "character": "Son Goten",
     "special_trait": "Saiyan/Earthling",
     "era": "The Evil Wizard Babidi Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place this card and 1 other card from your hand in the Drop Area : Choose up to 1 ＜Gotenks＞ with 25000 or less power from your deck and add it to your hand. Then, shuffle your deck. ",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place this card and 1 other card from your hand in the Drop Area : Choose up to 1 ＜Gotenks＞ with 25000 or less power from your deck and add it to your hand. Then, shuffle your deck.",
     "skills": [
       "Activate-Main"
     ]
@@ -242,10 +218,7 @@
   {
     "title": "Ultimate Evil Dark Prince Vegeta",
     "number": "BT2-009",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -273,10 +246,7 @@
   {
     "title": "Double Shot Super Saiyan 2 Vegeta",
     "number": "BT2-010",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -303,10 +273,7 @@
   {
     "title": "Double Shot Super Saiyan 2 Vegeta",
     "number": "BT2-010_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -333,10 +300,7 @@
   {
     "title": "Double Shot Super Saiyan 2 Vegeta",
     "number": "BT2-010_PR02",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -363,10 +327,7 @@
   {
     "title": "Leap to The Future Trunks",
     "number": "BT2-011",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -393,10 +354,7 @@
   {
     "title": "Repeated Force Vegito",
     "number": "BT2-012",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -426,10 +384,7 @@
   {
     "title": "Repeated Force Vegito",
     "number": "BT2-012_SPR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -459,10 +414,7 @@
   {
     "title": "Lightning Speed Vegito",
     "number": "BT2-013",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -481,7 +433,7 @@
     "character": "Vegito",
     "special_trait": "Saiyan",
     "era": "Majin Buu Saga",
-    "skills_text": "<img src=\"/images/Union-Potara.png\" alt=\"Union-Potara\" class=\"skillText\"> <img src=\"/images/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞ and ＜Vegeta＞ (Place this card in Active Mode on top of the 2 specified cards stacked together)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards that are in Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of the battle after this card attacks, place 10 cards from the top of your deck in your Drop Area. Then, choose up to 1 ＜Vegito＞ with 25000 power from your Drop Area and evolve into it by placing it on top of this card in Active Mode. ",
+    "skills_text": "<img src=\"/images/Union-Potara.png\" alt=\"Union-Potara\" class=\"skillText\"> <img src=\"/images/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞ and ＜Vegeta＞ (Place this card in Active Mode on top of the 2 specified cards stacked together)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards that are in Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of the battle after this card attacks, place 10 cards from the top of your deck in your Drop Area. Then, choose up to 1 ＜Vegito＞ with 25000 power from your Drop Area and evolve into it by placing it on top of this card in Active Mode.",
     "skills": [
       "Union-Potara",
       "three",
@@ -492,10 +444,7 @@
   {
     "title": "Ghost Attack Super Saiyan 3 Gotenks",
     "number": "BT2-014",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -527,10 +476,7 @@
   {
     "title": "Prodigy Fusion Super Saiyan Gotenks",
     "number": "BT2-015",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -560,10 +506,7 @@
   {
     "title": "Mighty Mask, The Mysterious Warrior",
     "number": "BT2-016",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -590,10 +533,7 @@
   {
     "title": "Hercule, Buu's Assistant",
     "number": "BT2-017",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -620,10 +560,7 @@
   {
     "title": "Videl, Gohan's Partner",
     "number": "BT2-018",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -651,10 +588,7 @@
   {
     "title": "Foreseeing East Supreme Kai",
     "number": "BT2-019",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -681,10 +615,7 @@
   {
     "title": "Kibito",
     "number": "BT2-020",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -711,10 +642,7 @@
   {
     "title": "Sensing Old Kai",
     "number": "BT2-021",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -741,10 +669,7 @@
   {
     "title": "Mind Controlling Babidi",
     "number": "BT2-022",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -771,10 +696,7 @@
   {
     "title": "Mind Controlling Babidi",
     "number": "BT2-022_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -801,10 +723,7 @@
   {
     "title": "Dabura, The Wizard's Right Hand",
     "number": "BT2-023",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -831,10 +750,7 @@
   {
     "title": "Attendants Spopovich and Yamu",
     "number": "BT2-024",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -861,10 +777,7 @@
   {
     "title": "Grand Evil Absorption Majin Buu",
     "number": "BT2-025",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -896,10 +809,7 @@
   {
     "title": "Prodigy Absorption Majin Buu",
     "number": "BT2-026",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -930,10 +840,7 @@
   {
     "title": "Awakening Evil Majin Buu",
     "number": "BT2-027",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -962,10 +869,7 @@
   {
     "title": "Majin Buu Revived",
     "number": "BT2-028",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -993,10 +897,7 @@
   {
     "title": "Jiren, Fist of Justice",
     "number": "BT2-029",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -1026,10 +927,7 @@
   {
     "title": "Potara, The Kai's Secret",
     "number": "BT2-030",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -1042,7 +940,7 @@
     },
     "energy_cost": "4",
     "energy_text": "4(-)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 each of ＜Son Goku＞ and ＜Vegeta＞ from your hand and place them in the Drop Area : Choose your deck or your Drop Area. Choose up to 1 ＜Vegito＞ with an Energy cost of 6 or less from your chosen area and play it. If you chose your deck, shuffle it. ",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 each of ＜Son Goku＞ and ＜Vegeta＞ from your hand and place them in the Drop Area : Choose your deck or your Drop Area. Choose up to 1 ＜Vegito＞ with an Energy cost of 6 or less from your chosen area and play it. If you chose your deck, shuffle it.",
     "skills": [
       "Activate-Main"
     ]
@@ -1050,10 +948,7 @@
   {
     "title": "Majin Buu's Sealed Ball",
     "number": "BT2-031",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -1076,10 +971,7 @@
   {
     "title": "Piccolo's Help",
     "number": "BT2-032",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -1100,10 +992,7 @@
   {
     "title": "Super Ghost  Kamikaze Attack",
     "number": "BT2-033",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -1124,10 +1013,7 @@
   {
     "title": "Fused Zamasu",
     "number": "BT2-034",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Blue",
@@ -1151,10 +1037,7 @@
   {
     "title": "Trunks",
     "number": "BT2-035",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1178,10 +1061,7 @@
   {
     "title": "Goku Black",
     "number": "BT2-036",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1206,10 +1086,7 @@
   {
     "title": "Determined Striker SSB Son Goku",
     "number": "BT2-037",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1237,10 +1114,7 @@
   {
     "title": "Determined Striker SSB Son Goku",
     "number": "BT2-037_BD",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1268,10 +1142,7 @@
   {
     "title": "Mighty Attack Son Goku",
     "number": "BT2-038",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1298,10 +1169,7 @@
   {
     "title": "Mighty Attack Son Goku",
     "number": "BT2-038_BD",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1328,10 +1196,7 @@
   {
     "title": "Raging Spirit Son Gohan",
     "number": "BT2-039",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1358,10 +1223,7 @@
   {
     "title": "Raging Spirit Son Gohan",
     "number": "BT2-039_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1388,10 +1250,7 @@
   {
     "title": "Restless Spirit SSB Vegeta",
     "number": "BT2-040",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1420,10 +1279,7 @@
   {
     "title": "Vegeta, The Proud Father",
     "number": "BT2-041",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1450,10 +1306,7 @@
   {
     "title": "Trunks, The Constant Hope",
     "number": "BT2-042",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1485,10 +1338,7 @@
   {
     "title": "Trunks, Creator of the Future",
     "number": "BT2-043",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1515,10 +1365,7 @@
   {
     "title": "Unyielding Spirit Trunks",
     "number": "BT2-044",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1545,10 +1392,7 @@
   {
     "title": "Unyielding Spirit Trunks",
     "number": "BT2-044_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1575,10 +1419,7 @@
   {
     "title": "Unyielding Spirit Trunks",
     "number": "BT2-044_PR02",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1605,10 +1446,7 @@
   {
     "title": "Bulma, Supporter of the Future",
     "number": "BT2-045",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1635,10 +1473,7 @@
   {
     "title": "Beerus, Essence of Destruction",
     "number": "BT2-046",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1657,7 +1492,7 @@
     "character": "Beerus",
     "special_trait": "God",
     "era": "Future Trunks Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, your opponent chooses a number of cards from their hand equal to the number of Battle Cards in their Battle Area with an energy cost of 1 or less and places the cards on the top of their decks in any order. Then your opponent returns all of their Battle Cards with an energy cost of 1 or less to their hand. ",
+    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, your opponent chooses a number of cards from their hand equal to the number of Battle Cards in their Battle Area with an energy cost of 1 or less and places the cards on the top of their decks in any order. Then your opponent returns all of their Battle Cards with an energy cost of 1 or less to their hand.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -1666,10 +1501,7 @@
   {
     "title": "Whis, The Sacred Guard",
     "number": "BT2-047",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1697,10 +1529,7 @@
   {
     "title": "Group Leader Pilaf",
     "number": "BT2-048",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1727,10 +1556,7 @@
   {
     "title": "Group Leader Pilaf",
     "number": "BT2-048_BD",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1757,10 +1583,7 @@
   {
     "title": "Group Leader Pilaf",
     "number": "BT2-048_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1787,10 +1610,7 @@
   {
     "title": "Shu",
     "number": "BT2-049",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1817,10 +1637,7 @@
   {
     "title": "Mai, Supporter of Hope",
     "number": "BT2-050",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1839,7 +1656,7 @@
     "character": "Mai: Future",
     "special_trait": "Earthling",
     "era": "Future Trunks Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ＜Trunks: Future＞ is in your Battle Area or Leader Area, you may play this card from your hand without paying its energy cost. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ＜Trunks: Future＞ is in your Battle Area or Leader Area, you may play this card from your hand without paying its energy cost.",
     "skills": [
       "Blocker",
       "Permanent"
@@ -1848,10 +1665,7 @@
   {
     "title": "Power of Love Mai",
     "number": "BT2-051",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1878,10 +1692,7 @@
   {
     "title": "Courageous Heart Yajirobe",
     "number": "BT2-052_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1909,10 +1720,7 @@
   {
     "title": "Courageous Heart Yajirobe",
     "number": "BT2-052",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1940,10 +1748,7 @@
   {
     "title": "Tiny Heroes Haru and Maki",
     "number": "BT2-053",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1970,10 +1775,7 @@
   {
     "title": "Unstoppable Despair Goku Black Rosé",
     "number": "BT2-054",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2004,10 +1806,7 @@
   {
     "title": "Warrior of the Gods Goku Black",
     "number": "BT2-055",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2034,10 +1833,7 @@
   {
     "title": "Zamasu, The Alert God",
     "number": "BT2-056",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2068,10 +1864,7 @@
   {
     "title": "Zamasu, The Invincible",
     "number": "BT2-057",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2099,10 +1892,7 @@
   {
     "title": "Infinite Force Fused Zamasu",
     "number": "BT2-058",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2121,7 +1911,7 @@
     "character": "Zamasu",
     "special_trait": "God",
     "era": "Future Trunks Saga",
-    "skills_text": "<img src=\"/images/Union-Potara.png\" alt=\"Union-Potara\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Goku Black＞ and ＜Zamasu＞ (Place this card in Active Mode on top of the 2 specified cards stacked together)<br><img src=\"/images/Indestructible.png\" alt=\"Indestructible\" class=\"skillText\"> (This card cannot be KO-ed by your opponent's card's skills or battle and does not leave the Battle Area)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 card each from your opponent's Battle Area (Battle Cards only), energy, life, and hand, then place them at the bottom of their deck in any order. ",
+    "skills_text": "<img src=\"/images/Union-Potara.png\" alt=\"Union-Potara\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Goku Black＞ and ＜Zamasu＞ (Place this card in Active Mode on top of the 2 specified cards stacked together)<br><img src=\"/images/Indestructible.png\" alt=\"Indestructible\" class=\"skillText\"> (This card cannot be KO-ed by your opponent's card's skills or battle and does not leave the Battle Area)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 card each from your opponent's Battle Area (Battle Cards only), energy, life, and hand, then place them at the bottom of their deck in any order.",
     "skills": [
       "Union-Potara",
       "ball",
@@ -2133,10 +1923,7 @@
   {
     "title": "Infinite Force Fused Zamasu",
     "number": "BT2-058_SPR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2155,7 +1942,7 @@
     "character": "Zamasu",
     "special_trait": "God",
     "era": "Future Trunks Saga",
-    "skills_text": "<img src=\"/images/Union-Potara.png\" alt=\"Union-Potara\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Goku Black＞ and ＜Zamasu＞ (Place this card in Active Mode on top of the 2 specified cards stacked together)<br><img src=\"/images/Indestructible.png\" alt=\"Indestructible\" class=\"skillText\"> (This card cannot be KO-ed by your opponent's card's skills or battle and does not leave the Battle Area)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 card each from your opponent's Battle Area (Battle Cards only), energy, life, and hand, then place them at the bottom of their deck in any order. ",
+    "skills_text": "<img src=\"/images/Union-Potara.png\" alt=\"Union-Potara\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Goku Black＞ and ＜Zamasu＞ (Place this card in Active Mode on top of the 2 specified cards stacked together)<br><img src=\"/images/Indestructible.png\" alt=\"Indestructible\" class=\"skillText\"> (This card cannot be KO-ed by your opponent's card's skills or battle and does not leave the Battle Area)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 card each from your opponent's Battle Area (Battle Cards only), energy, life, and hand, then place them at the bottom of their deck in any order.",
     "skills": [
       "Union-Potara",
       "ball",
@@ -2167,10 +1954,7 @@
   {
     "title": "God of the Gods Great Priest",
     "number": "BT2-059",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2198,10 +1982,7 @@
   {
     "title": "Zen-Oh, The Plain God",
     "number": "BT2-060",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2228,10 +2009,7 @@
   {
     "title": "Zen-Oh, The Plain God",
     "number": "BT2-060_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2258,10 +2036,7 @@
   {
     "title": "Zen-Oh, The Plain God",
     "number": "BT2-060_PR02",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2288,10 +2063,7 @@
   {
     "title": "Universe 10 Supreme Kai Gowasu ",
     "number": "BT2-061",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2318,10 +2090,7 @@
   {
     "title": "Returning Evil Golden Frieza",
     "number": "BT2-062",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2349,10 +2118,7 @@
   {
     "title": "Father-Son Galick Gun",
     "number": "BT2-063",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2373,10 +2139,7 @@
   {
     "title": "Mafuba",
     "number": "BT2-064",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2389,7 +2152,7 @@
     },
     "energy_cost": "2",
     "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Battle-Card-Attack.png\" alt=\"Counter Battle Card Attack\" class=\"skillText\"> Negate the attack, and place this card on the attacking card. At the end of the opponent's next turn, place this card (and only this card) in the Drop Area. (As long as this card is stacked on top of another card, that card is not treated as a Battle Card and its skill cannot be activated.) ",
+    "skills_text": "<img src=\"/images/Counter-Battle-Card-Attack.png\" alt=\"Counter Battle Card Attack\" class=\"skillText\"> Negate the attack, and place this card on the attacking card. At the end of the opponent's next turn, place this card (and only this card) in the Drop Area. (As long as this card is stacked on top of another card, that card is not treated as a Battle Card and its skill cannot be activated.)",
     "skills": [
       "Counter-Battle-Card-Attack"
     ]
@@ -2397,10 +2160,7 @@
   {
     "title": "Mafuba",
     "number": "BT2-064_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2413,7 +2173,7 @@
     },
     "energy_cost": "2",
     "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Battle-Card-Attack.png\" alt=\"Counter Battle Card Attack\" class=\"skillText\"> Negate the attack, and place this card on the attacking card. At the end of the opponent's next turn, place this card (and only this card) in the Drop Area. (As long as this card is stacked on top of another card, that card is not treated as a Battle Card and its skill cannot be activated.) ",
+    "skills_text": "<img src=\"/images/Counter-Battle-Card-Attack.png\" alt=\"Counter Battle Card Attack\" class=\"skillText\"> Negate the attack, and place this card on the attacking card. At the end of the opponent's next turn, place this card (and only this card) in the Drop Area. (As long as this card is stacked on top of another card, that card is not treated as a Battle Card and its skill cannot be activated.)",
     "skills": [
       "Counter-Battle-Card-Attack"
     ]
@@ -2421,10 +2181,7 @@
   {
     "title": "Time Ring",
     "number": "BT2-065",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2445,10 +2202,7 @@
   {
     "title": "Trunks' Time Machine",
     "number": "BT2-066",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2461,7 +2215,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is ＜Trunks: Future＞, look at up to 10 cards from the top of your deck. Choose up to 1 ＜Son Goku＞ or ＜Vegeta＞ or ＜Trunks: Future＞ among them, add it to your hand, and shuffle your deck. Then, if you have 4 or more energy, choose 1 of your energy and switch it to Active Mode. ",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is ＜Trunks: Future＞, look at up to 10 cards from the top of your deck. Choose up to 1 ＜Son Goku＞ or ＜Vegeta＞ or ＜Trunks: Future＞ among them, add it to your hand, and shuffle your deck. Then, if you have 4 or more energy, choose 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Activate-Main"
     ]
@@ -2469,10 +2223,7 @@
   {
     "title": "Zen-Oh Button",
     "number": "BT2-067",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2493,16 +2244,13 @@
   {
     "title": "Cell",
     "number": "BT2-068",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Green",
     "power": "10000",
     "character": "Cell",
-    "special_trait": " Android",
+    "special_trait": "Android",
     "era": "Android Cell Saga",
     "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your hand under this card : Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO that card.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
@@ -2520,10 +2268,7 @@
   {
     "title": "Son Gohan",
     "number": "BT2-069",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -2537,7 +2282,7 @@
       "Awaken"
     ],
     "title_back": "Father-Son Kamehameha　Goku&Gohan",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Remove all of your cards in the Drop Area from the game : This card gains +5000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking).<br>Then, at the end of the turn, you lose the game. ",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Remove all of your cards in the Drop Area from the game : This card gains +5000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking).<br>Then, at the end of the turn, you lose the game.",
     "skills_back": [
       "Auto",
       "Activate-Battle",
@@ -2548,16 +2293,13 @@
   {
     "title": "Android 17",
     "number": "BT2-070",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
     "power": "10000",
     "character": "Android 17",
-    "special_trait": " Android",
+    "special_trait": "Android",
     "era": "Android Cell Saga",
     "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Reduce the energy costs of ＜Android 17＞ and ＜Android 18＞ in your hand by 1.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 6 or less : You may draw 2 cards and flip this card over.",
     "skills": [
@@ -2574,10 +2316,7 @@
   {
     "title": "Inherited Will Super Saiyan Son Goku",
     "number": "BT2-071",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2596,7 +2335,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of the battle after this card attacks, place this card in your Drop Area and choose up to 1 Battle Card whose character name includes ＜Son Gohan＞ in your hand and play it. ",
+    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of the battle after this card attacks, place this card in your Drop Area and choose up to 1 Battle Card whose character name includes ＜Son Gohan＞ in your hand and play it.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -2605,10 +2344,7 @@
   {
     "title": "Bundle of Curiosity Son Goku",
     "number": "BT2-072",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2635,10 +2371,7 @@
   {
     "title": "Piercing Super Saiyan 2 Son Gohan",
     "number": "BT2-073",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2657,7 +2390,7 @@
     "character": "Son Gohan: Childhood",
     "special_trait": "Saiyan/Earthling",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Son Gohan : Childhood＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card and your opponent combos during the duration of that turn, choose all of your opponent's Battle Cards in the Battle Area and Combo Area with energy costs of 3 or less and place them in the Drop Area. ",
+    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Son Gohan : Childhood＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card and your opponent combos during the duration of that turn, choose all of your opponent's Battle Cards in the Battle Area and Combo Area with energy costs of 3 or less and place them in the Drop Area.",
     "skills": [
       "Evolve",
       "ball",
@@ -2669,10 +2402,7 @@
   {
     "title": "Fully Trained Super Saiyan Son Gohan",
     "number": "BT2-074",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2700,10 +2430,7 @@
   {
     "title": "Supreme DNA Son Gohan",
     "number": "BT2-075",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2730,10 +2457,7 @@
   {
     "title": "Full Power Vegeta",
     "number": "BT2-076",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2752,7 +2476,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose any number of your opponent's Battle Cards with energy costs of 2 or less for which the total cost adds up to 3 or less and KO them. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose any number of your opponent's Battle Cards with energy costs of 2 or less for which the total cost adds up to 3 or less and KO them.",
     "skills": [
       "Auto"
     ]
@@ -2760,10 +2484,7 @@
   {
     "title": "Vegeta",
     "number": "BT2-077",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2790,10 +2511,7 @@
   {
     "title": "Full Power Trunks",
     "number": "BT2-078",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2822,10 +2540,7 @@
   {
     "title": "Aura of Rage Super Saiyan Trunks",
     "number": "BT2-079",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2853,10 +2568,7 @@
   {
     "title": "Ready to Strike Piccolo",
     "number": "BT2-080",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2875,7 +2587,7 @@
     "character": "Piccolo",
     "special_trait": "Namekian/God",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of their turn, your opponent must choose cards from their hand until there are only 6 remaining, and place the chosen cards in the Drop Area. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of their turn, your opponent must choose cards from their hand until there are only 6 remaining, and place the chosen cards in the Drop Area.",
     "skills": [
       "Blocker",
       "Auto"
@@ -2884,10 +2596,7 @@
   {
     "title": "Ready to Strike Piccolo",
     "number": "BT2-080_BD",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2906,7 +2615,7 @@
     "character": "Piccolo",
     "special_trait": "Namekian/God",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of their turn, your opponent must choose cards from their hand until there are only 6 remaining, and place the chosen cards in the Drop Area. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of their turn, your opponent must choose cards from their hand until there are only 6 remaining, and place the chosen cards in the Drop Area.",
     "skills": [
       "Blocker",
       "Auto"
@@ -2915,10 +2624,7 @@
   {
     "title": "Destined Deed Krillin",
     "number": "BT2-081",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2946,10 +2652,7 @@
   {
     "title": "Yamcha",
     "number": "BT2-082",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2976,10 +2679,7 @@
   {
     "title": "Martial Expert Tien Shinhan",
     "number": "BT2-083",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3007,10 +2707,7 @@
   {
     "title": "Martial Expert Tien Shinhan",
     "number": "BT2-083_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3038,10 +2735,7 @@
   {
     "title": "Perfect Force Cell",
     "number": "BT2-084",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3060,7 +2754,7 @@
     "character": "Cell",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Cell＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is an 《Android》, your opponent must choose cards in their hand until there are only 3 remaining, and place the chosen cards in the Drop Area.  ",
+    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Cell＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is an 《Android》, your opponent must choose cards in their hand until there are only 3 remaining, and place the chosen cards in the Drop Area.",
     "skills": [
       "Evolve",
       "ball",
@@ -3072,10 +2766,7 @@
   {
     "title": "Perfect Force Cell",
     "number": "BT2-084_SPR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3094,7 +2785,7 @@
     "character": "Cell",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Cell＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is an 《Android》, your opponent must choose cards in their hand until there are only 3 remaining, and place the chosen cards in the Drop Area. ",
+    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Cell＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is an 《Android》, your opponent must choose cards in their hand until there are only 3 remaining, and place the chosen cards in the Drop Area.",
     "skills": [
       "Evolve",
       "ball",
@@ -3106,10 +2797,7 @@
   {
     "title": "Evolving Evil Lifeform Cell",
     "number": "BT2-085",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -3139,10 +2827,7 @@
   {
     "title": "Growing Evil Lifeform Cell",
     "number": "BT2-086",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3169,10 +2854,7 @@
   {
     "title": "Uncountable Many Cell Jr.",
     "number": "BT2-087",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3199,10 +2881,7 @@
   {
     "title": "Expanding Energy Android 17",
     "number": "BT2-088",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3230,10 +2909,7 @@
   {
     "title": "Twin Brother Android 17",
     "number": "BT2-089",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3252,7 +2928,7 @@
     "character": "Android 17",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 1 ＜Android 18＞ in your Battle Area and switch it to Active Mode. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 1 ＜Android 18＞ in your Battle Area and switch it to Active Mode.",
     "skills": [
       "Auto",
       "Once-per-turn"
@@ -3261,10 +2937,7 @@
   {
     "title": "Exterminating Energy Android 18",
     "number": "BT2-090",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3292,10 +2965,7 @@
   {
     "title": "Twin Sister Android 18",
     "number": "BT2-091",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3314,7 +2984,7 @@
     "character": "Android 18",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 1 ＜Android 17＞ in your Battle Area and switch it to Active Mode. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 1 ＜Android 17＞ in your Battle Area and switch it to Active Mode.",
     "skills": [
       "Auto",
       "Once-per-turn"
@@ -3323,10 +2993,7 @@
   {
     "title": "Encroaching Terror Android 19",
     "number": "BT2-092",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3353,10 +3020,7 @@
   {
     "title": "Terrible Creator Android 20",
     "number": "BT2-093",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3383,10 +3047,7 @@
   {
     "title": "Terrible Creator Android 20",
     "number": "BT2-093_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3413,10 +3074,7 @@
   {
     "title": "Terrible Creator Android 20",
     "number": "BT2-093_PR02",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3443,10 +3101,7 @@
   {
     "title": "Iron Hammer of Justice Android 16",
     "number": "BT2-094",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3475,10 +3130,7 @@
   {
     "title": "Iron Hammer of Justice Android 16",
     "number": "BT2-094_PR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3507,10 +3159,7 @@
   {
     "title": "Hidden Awakening Kale",
     "number": "BT2-095",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3538,10 +3187,7 @@
   {
     "title": "Cell Absorption",
     "number": "BT2-096",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -3562,10 +3208,7 @@
   {
     "title": "Enraged Gohan Awakening",
     "number": "BT2-097",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -3586,10 +3229,7 @@
   {
     "title": "Father-Son Kamehameha",
     "number": "BT2-098",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -3610,10 +3250,7 @@
   {
     "title": "Cell's Birth",
     "number": "BT2-099",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -3636,10 +3273,7 @@
   {
     "title": "Meta-Cooler",
     "number": "BT2-100",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Yellow",
@@ -3653,7 +3287,7 @@
       "Awaken"
     ],
     "title_back": "Nucleus of Evil Meta-Cooler Core",
-    "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If 3 or more of your ＜Meta-Cooler＞ are in play, choose 1 of your opponent's Battle Cards and switch it to Rest Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, place up to 3 cards from the top of your deck in the Drop Area. Choose up to 1 ＜Meta-Cooler＞ or ＜Meta-Cooler Core＞ from your Drop Area and add it to your hand. ",
+    "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If 3 or more of your ＜Meta-Cooler＞ are in play, choose 1 of your opponent's Battle Cards and switch it to Rest Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, place up to 3 cards from the top of your deck in the Drop Area. Choose up to 1 ＜Meta-Cooler＞ or ＜Meta-Cooler Core＞ from your Drop Area and add it to your hand.",
     "skills_back": [
       "Activate-Main",
       "Once-per-turn",
@@ -3663,10 +3297,7 @@
   {
     "title": "Cooler",
     "number": "BT2-101",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -3691,10 +3322,7 @@
   {
     "title": "Chilled",
     "number": "BT2-102",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -3717,10 +3345,7 @@
   {
     "title": "Heartless Strike Frieza",
     "number": "BT2-103",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3748,10 +3373,7 @@
   {
     "title": "Destructive Occupation Frieza",
     "number": "BT2-104",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3778,10 +3400,7 @@
   {
     "title": "Overpowering King Cold",
     "number": "BT2-105",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3800,7 +3419,7 @@
     "character": "King Cold",
     "special_trait": "Frieza Clan",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Reduce the energy costs of all  《Frieza Clan》 whose original energy cost was 5 or more by 2.  ",
+    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Reduce the energy costs of all  《Frieza Clan》 whose original energy cost was 5 or more by 2.",
     "skills": [
       "Permanent"
     ]
@@ -3808,10 +3427,7 @@
   {
     "title": "Awakening Core Meta-Cooler",
     "number": "BT2-106",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3843,10 +3459,7 @@
   {
     "title": "Infinite Multiplication Meta-Cooler",
     "number": "BT2-107",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3873,10 +3486,7 @@
   {
     "title": "The Infinite Force Meta-Cooler　Core",
     "number": "BT2-108",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3904,10 +3514,7 @@
   {
     "title": "The Infinite Force Meta-Cooler　Core",
     "number": "BT2-108_SPR",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3935,10 +3542,7 @@
   {
     "title": "Meta-Cooler Core",
     "number": "BT2-109",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3967,10 +3571,7 @@
   {
     "title": "Cooler, Blood of the Tyrant Clan",
     "number": "BT2-110",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3999,10 +3600,7 @@
   {
     "title": "Secret Evolution Cooler ",
     "number": "BT2-111",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4031,10 +3629,7 @@
   {
     "title": "Chilled, Army General",
     "number": "BT2-112",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4063,10 +3658,7 @@
   {
     "title": "Pivotal Defense Cyclopian Guard",
     "number": "BT2-113",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4094,10 +3686,7 @@
   {
     "title": "Guide Robo, Usher of Death",
     "number": "BT2-114",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4116,7 +3705,7 @@
     "character": "Guide Robo",
     "special_trait": "Robot",
     "era": "Meta-Cooler Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Big Gete Star} is in your Battle Area, you may play this card from your hand without paying its energy cost. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If {Big Gete Star} is in your Battle Area, you may play this card from your hand without paying its energy cost.",
     "skills": [
       "Blocker",
       "Permanent"
@@ -4125,10 +3714,7 @@
   {
     "title": "Cooler's Armored Squadron Leader Salza",
     "number": "BT2-115",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4156,10 +3742,7 @@
   {
     "title": "Cooler's Armored Squadron Dore",
     "number": "BT2-116",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4187,10 +3770,7 @@
   {
     "title": "Cooler's Armored Squadron Neiz",
     "number": "BT2-117",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4218,10 +3798,7 @@
   {
     "title": "Tobi, The Obedient Soldier",
     "number": "BT2-118",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4240,7 +3817,7 @@
     "character": "Tobi",
     "special_trait": "Chilled's Army",
     "era": "Chilled Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Switch 1 of your Chilled Army tokens to rest : Choose 1 of your opponent's Battle Cards and switch it to Rest Mode. ",
+    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Switch 1 of your Chilled Army tokens to rest : Choose 1 of your opponent's Battle Cards and switch it to Rest Mode.",
     "skills": [
       "Double-Strike",
       "Activate-Main",
@@ -4250,10 +3827,7 @@
   {
     "title": "Cabira, The Obedient Soldier",
     "number": "BT2-119",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4282,10 +3856,7 @@
   {
     "title": "Darkness Eye Beam",
     "number": "BT2-120",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -4306,10 +3877,7 @@
   {
     "title": "Death Razor",
     "number": "BT2-121",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -4330,10 +3898,7 @@
   {
     "title": "Big Gete Star",
     "number": "BT2-122",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -4346,7 +3911,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in the Drop Area)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">, switch this card to rest and place 1 card from the top of your deck in the Drop Area : Choose up to 1 ＜Meta-Cooler＞ with an energy cost of 2 or less from your Drop Area and play it. ",
+    "skills_text": "<img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in the Drop Area)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">, switch this card to rest and place 1 card from the top of your deck in the Drop Area : Choose up to 1 ＜Meta-Cooler＞ with an energy cost of 2 or less from your Drop Area and play it.",
     "skills": [
       "Field",
       "Activate-Main",
@@ -4356,10 +3921,7 @@
   {
     "title": "Ultimate Force SSB Vegito",
     "number": "BT2-123",
-    "series": [
-      "Series 2 Booster",
-      "～UNION FORCE～ "
-    ],
+    "series_text": "Series 2 Booster ~UNION FORCE~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Blue",

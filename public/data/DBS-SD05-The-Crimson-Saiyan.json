@@ -2,10 +2,7 @@
   {
     "title": "Golden Great Ape Son Goku",
     "number": "SD5-01",
-    "series": [
-      "STARTER DECK",
-      "～THE CRIMSON SAIYAN～【DBS-SD05】"
-    ],
+    "series_text": "STARTER DECK ~THE CRIMSON SAIYAN~【DBS-SD05】",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Yellow",
@@ -19,7 +16,7 @@
       "Awaken"
     ],
     "title_back": "Long Odds SS4 Son Goku",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When your life is less than or equal to your opponent's life, this card gains +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) during your turn. ",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When your life is less than or equal to your opponent's life, this card gains +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) during your turn.",
     "skills_back": [
       "Auto",
       "Permanent",
@@ -29,10 +26,7 @@
   {
     "title": "Power Charge Bardock",
     "number": "SD5-02",
-    "series": [
-      "STARTER DECK",
-      "～THE CRIMSON SAIYAN～【DBS-SD05】"
-    ],
+    "series_text": "STARTER DECK ~THE CRIMSON SAIYAN~【DBS-SD05】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -60,10 +54,7 @@
   {
     "title": "SSB Son Goku, at the Apex",
     "number": "SD5-03",
-    "series": [
-      "STARTER DECK",
-      "～THE CRIMSON SAIYAN～【DBS-SD05】"
-    ],
+    "series_text": "STARTER DECK ~THE CRIMSON SAIYAN~【DBS-SD05】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -93,10 +84,7 @@
   {
     "title": "Reborn Might SS4 Son Goku",
     "number": "SD5-04",
-    "series": [
-      "STARTER DECK",
-      "～THE CRIMSON SAIYAN～【DBS-SD05】"
-    ],
+    "series_text": "STARTER DECK ~THE CRIMSON SAIYAN~【DBS-SD05】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -126,10 +114,7 @@
   {
     "title": "Ultimate Potential SS2 Son Gohan",
     "number": "SD5-05",
-    "series": [
-      "STARTER DECK",
-      "～THE CRIMSON SAIYAN～【DBS-SD05】"
-    ],
+    "series_text": "STARTER DECK ~THE CRIMSON SAIYAN~【DBS-SD05】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",

@@ -2,10 +2,7 @@
   {
     "title": "Gogeta",
     "number": "BT11-001",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Red",
@@ -32,10 +29,7 @@
   {
     "title": "Broly",
     "number": "BT11-002",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -61,10 +55,7 @@
   {
     "title": "Gotenks, Earth-Shattering Might",
     "number": "BT11-003",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Red",
@@ -91,10 +82,7 @@
   {
     "title": "Gotenks, Earth-Shattering Might",
     "number": "BT11-003_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Red",
@@ -121,10 +109,7 @@
   {
     "title": "Kale, Savage Berserker",
     "number": "BT11-004",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "UNISON",
     "color": "Red",
@@ -149,10 +134,7 @@
   {
     "title": "Raditz, Saiyan Youth",
     "number": "BT11-005",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -180,10 +162,7 @@
   {
     "title": "SSB Son Goku, Technique Unchained",
     "number": "BT11-006",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -211,10 +190,7 @@
   {
     "title": "Son Goku",
     "number": "BT11-007",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -241,10 +217,7 @@
   {
     "title": "Son Goku, Saiyan Youth",
     "number": "BT11-008",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -272,10 +245,7 @@
   {
     "title": "SSB Vegeta, Technique Unchained",
     "number": "BT11-009",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -303,10 +273,7 @@
   {
     "title": "Vegeta",
     "number": "BT11-010",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -333,10 +300,7 @@
   {
     "title": "Vegeta, Saiyan Youth",
     "number": "BT11-011",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -363,10 +327,7 @@
   {
     "title": "SSB Gogeta, Technique Unchained",
     "number": "BT11-012",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -396,10 +357,7 @@
   {
     "title": "SSB Gogeta, Technique Unchained",
     "number": "BT11-012_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -429,10 +387,7 @@
   {
     "title": "Gogeta, Fusion of the Gods",
     "number": "BT11-013",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -463,10 +418,7 @@
   {
     "title": "SS Broly, Unlimited Power",
     "number": "BT11-014",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -496,10 +448,7 @@
   {
     "title": "SS Broly, Combat Evolution",
     "number": "BT11-015",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -528,10 +477,7 @@
   {
     "title": "Broly, Power of the Great Ape",
     "number": "BT11-016",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -560,10 +506,7 @@
   {
     "title": "Broly, Bonafide Saiyan",
     "number": "BT11-017",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -592,10 +535,7 @@
   {
     "title": "Broly, Saiyan Youth",
     "number": "BT11-018",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -623,10 +563,7 @@
   {
     "title": "Ba, Broly's First Friend",
     "number": "BT11-019",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -654,10 +591,7 @@
   {
     "title": "Goliamite, Beast of the Planet Vampa",
     "number": "BT11-020",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -685,10 +619,7 @@
   {
     "title": "Paragus, Oath of Vengeance",
     "number": "BT11-021",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -719,10 +650,7 @@
   {
     "title": "Paragus, New Ambitions",
     "number": "BT11-022",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -752,10 +680,7 @@
   {
     "title": "Cheelai, Trusted Friend",
     "number": "BT11-023",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -784,10 +709,7 @@
   {
     "title": "Lemo, Trusted Friend",
     "number": "BT11-024",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -815,10 +737,7 @@
   {
     "title": "Bardock, Strategic Mind",
     "number": "BT11-025",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -846,10 +765,7 @@
   {
     "title": "Nappa, Elite Warrior",
     "number": "BT11-026",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -877,10 +793,7 @@
   {
     "title": "Seven-Star Ball, Parasitic Darkness",
     "number": "BT11-027",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -903,10 +816,7 @@
   {
     "title": "Planet Vampa",
     "number": "BT11-028",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Red",
@@ -929,10 +839,7 @@
   {
     "title": "Birth of a Super Warrior",
     "number": "BT11-029",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -953,10 +860,7 @@
   {
     "title": "Violent Rays",
     "number": "BT11-030",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Red",
@@ -977,10 +881,7 @@
   {
     "title": "Baby",
     "number": "BT11-031",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Blue",
@@ -1007,10 +908,7 @@
   {
     "title": "Vegeta",
     "number": "BT11-032",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1035,10 +933,7 @@
   {
     "title": "Baby, the Unknown Parasite",
     "number": "BT11-033",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Blue",
@@ -1062,10 +957,7 @@
   {
     "title": "SS4 Son Goku, Protector of the Earth",
     "number": "BT11-034",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Blue",
@@ -1089,10 +981,7 @@
   {
     "title": "SS4 Son Goku, Protector of the Earth",
     "number": "BT11-034_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Blue",
@@ -1116,10 +1005,7 @@
   {
     "title": "Son Gohan, Baby's Minion",
     "number": "BT11-035",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1148,10 +1034,7 @@
   {
     "title": "Son Goten, Baby's Minion",
     "number": "BT11-036",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1179,10 +1062,7 @@
   {
     "title": "Bulma, Baby's Minion",
     "number": "BT11-037",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1210,10 +1090,7 @@
   {
     "title": "Bulla, Baby's Minion",
     "number": "BT11-038",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1241,10 +1118,7 @@
   {
     "title": "Uub",
     "number": "BT11-039",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1271,10 +1145,7 @@
   {
     "title": "Uub, Power of Hope",
     "number": "BT11-040",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1302,10 +1173,7 @@
   {
     "title": "Mr. Buu",
     "number": "BT11-041",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1332,10 +1200,7 @@
   {
     "title": "Baby, Golden Avenger",
     "number": "BT11-042",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1368,10 +1233,7 @@
   {
     "title": "Baby, the Saiyan Slayer",
     "number": "BT11-043",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1403,10 +1265,7 @@
   {
     "title": "Baby, Artificial Lifeform",
     "number": "BT11-044",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1434,10 +1293,7 @@
   {
     "title": "Baby, Diabolic Parasite",
     "number": "BT11-045",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1467,10 +1323,7 @@
   {
     "title": "Baby, the Body Snatcher",
     "number": "BT11-046",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1500,10 +1353,7 @@
   {
     "title": "Baby, Successor of the Tuffle King",
     "number": "BT11-047",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1532,10 +1382,7 @@
   {
     "title": "Dr. Myuu, Creator of the Machine Mutants",
     "number": "BT11-048",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1563,10 +1410,7 @@
   {
     "title": "SS4 Son Goku, Energy Annihilator",
     "number": "BT11-049",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1595,10 +1439,7 @@
   {
     "title": "SS3 Son Goku, Overflowing Spirit",
     "number": "BT11-050",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1625,10 +1466,7 @@
   {
     "title": "Son Goku, Shadow Dragon Suppressor",
     "number": "BT11-051",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1656,10 +1494,7 @@
   {
     "title": "SS4 Vegeta, Rise of the Super Warrior",
     "number": "BT11-052",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1687,10 +1522,7 @@
   {
     "title": "SS4 Vegeta, Rise of the Super Warrior",
     "number": "BT11-052_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1718,10 +1550,7 @@
   {
     "title": "Vegeta, Ready to Rumble",
     "number": "BT11-053",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1750,10 +1579,7 @@
   {
     "title": "Vegeta, Disciplined Warrior",
     "number": "BT11-054",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1781,10 +1607,7 @@
   {
     "title": "Bulma, Wife of the Prince",
     "number": "BT11-055",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1811,10 +1634,7 @@
   {
     "title": "Gotenks, Return of the Reaper of Justice",
     "number": "BT11-056",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1842,10 +1662,7 @@
   {
     "title": "Super Blutz Wave Generator",
     "number": "BT11-057",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1869,10 +1686,7 @@
   {
     "title": "Planet Tuffle",
     "number": "BT11-058",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1897,10 +1711,7 @@
   {
     "title": "Golden Revenge",
     "number": "BT11-059",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1922,10 +1733,7 @@
   {
     "title": "Final Shine Attack",
     "number": "BT11-060",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1946,10 +1754,7 @@
   {
     "title": "Gotenks",
     "number": "BT11-061",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Green",
@@ -1975,10 +1780,7 @@
   {
     "title": "Vegeta & Babidi",
     "number": "BT11-062",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -2009,10 +1811,7 @@
   {
     "title": "SS3 Vegito, Peerless Warrior",
     "number": "BT11-063",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "UNISON",
     "color": "Green",
@@ -2038,10 +1837,7 @@
   {
     "title": "Dark Broly, Overwhelming Evil",
     "number": "BT11-064",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Green",
@@ -2066,10 +1862,7 @@
   {
     "title": "Dark Broly, Overwhelming Evil",
     "number": "BT11-064_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Green",
@@ -2094,10 +1887,7 @@
   {
     "title": "Great Saiyaman, Vanquisher of Villainy",
     "number": "BT11-065",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2125,10 +1915,7 @@
   {
     "title": "Prince of Destruction Vegeta, Prideful Warrior",
     "number": "BT11-066",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2158,10 +1945,7 @@
   {
     "title": "Prince of Destruction Vegeta, Prideful Warrior",
     "number": "BT11-066_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2191,10 +1975,7 @@
   {
     "title": "Prince of Destruction Vegeta, Life and Death",
     "number": "BT11-067",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2225,10 +2006,7 @@
   {
     "title": "Mighty Strike Prince of Destruction Vegeta",
     "number": "BT11-068",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2256,10 +2034,7 @@
   {
     "title": "Videl, a Hero's Daughter",
     "number": "BT11-069",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2287,10 +2062,7 @@
   {
     "title": "Majin Buu, Ghastly Energy",
     "number": "BT11-070",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2318,10 +2090,7 @@
   {
     "title": "Babidi, Evil Mindsnatcher",
     "number": "BT11-071",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2349,10 +2118,7 @@
   {
     "title": "Bibidi, Creator of Majin Buu",
     "number": "BT11-072",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2382,10 +2148,7 @@
   {
     "title": "Dabura, King of the Demon Realm",
     "number": "BT11-073",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2412,10 +2175,7 @@
   {
     "title": "SS3 Son Goku, to New Extremes",
     "number": "BT11-074",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2443,10 +2203,7 @@
   {
     "title": "Super Saiyan Son Goku",
     "number": "BT11-075",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2473,10 +2230,7 @@
   {
     "title": "Son Gohan",
     "number": "BT11-076",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2503,10 +2257,7 @@
   {
     "title": "Son Gohan, Here to Help",
     "number": "BT11-077",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2534,10 +2285,7 @@
   {
     "title": "Son Goten, Bonds of Friendship",
     "number": "BT11-078",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2566,10 +2314,7 @@
   {
     "title": "Trunks, Bonds of Friendship",
     "number": "BT11-079",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2599,10 +2344,7 @@
   {
     "title": "SS Gotenks, Friendship Fusion",
     "number": "BT11-080",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2633,10 +2375,7 @@
   {
     "title": "SS3 Gotenks, All-Out Assault",
     "number": "BT11-081",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2669,10 +2408,7 @@
   {
     "title": "Majin Buu, Looking for a Fight",
     "number": "BT11-082",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2700,10 +2436,7 @@
   {
     "title": "Majin Buu, Royal Absorption",
     "number": "BT11-083",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2734,10 +2467,7 @@
   {
     "title": "Majin Buu, Dark Parasite",
     "number": "BT11-084",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2765,10 +2495,7 @@
   {
     "title": "Demon God Dabura, Dark Dominion",
     "number": "BT11-085",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2795,10 +2522,7 @@
   {
     "title": "Dabura, Dark Gambit",
     "number": "BT11-086",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2827,10 +2551,7 @@
   {
     "title": "Three-Star Ball, Parasitic Darkness",
     "number": "BT11-087",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2853,10 +2574,7 @@
   {
     "title": "The Majin Quickening",
     "number": "BT11-088",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2879,10 +2597,7 @@
   {
     "title": "Final Explosion",
     "number": "BT11-089",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Green",
@@ -2903,10 +2618,7 @@
   {
     "title": "Buu Buu Volleyball",
     "number": "BT11-090",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -2927,10 +2639,7 @@
   {
     "title": "Son Gohan",
     "number": "BT11-091",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2955,10 +2664,7 @@
   {
     "title": "Garlic Jr.",
     "number": "BT11-092",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2985,10 +2691,7 @@
   {
     "title": "Son Goku, Forever in Our Memories",
     "number": "BT11-093",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "UNISON",
     "color": "Yellow",
@@ -3011,10 +2714,7 @@
   {
     "title": "Baby, Resolute Avenger",
     "number": "BT11-094",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Yellow",
@@ -3038,10 +2738,7 @@
   {
     "title": "Baby, Resolute Avenger",
     "number": "BT11-094_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Yellow",
@@ -3065,10 +2762,7 @@
   {
     "title": "Son Gohan & Hire-Dragon, Flying High",
     "number": "BT11-095",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3099,10 +2793,7 @@
   {
     "title": "Son Gohan",
     "number": "BT11-096",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3129,10 +2820,7 @@
   {
     "title": "Krillin, Moments Before Comeback",
     "number": "BT11-097",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3160,10 +2848,7 @@
   {
     "title": "Piccolo, a Bad Omen",
     "number": "BT11-098",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3190,10 +2875,7 @@
   {
     "title": "Piccolo, Demonic Transformation",
     "number": "BT11-099",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3221,10 +2903,7 @@
   {
     "title": "Yamcha, Demonic Transformation",
     "number": "BT11-100",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3252,10 +2931,7 @@
   {
     "title": "Master Roshi, Demonic Transformation",
     "number": "BT11-101",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3283,10 +2959,7 @@
   {
     "title": "Bulma, Demonic Transformation",
     "number": "BT11-102",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3316,10 +2989,7 @@
   {
     "title": "Hire-Dragon",
     "number": "BT11-103",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3346,10 +3016,7 @@
   {
     "title": "Garlic Jr., Overlord of the Dead Zone",
     "number": "BT11-104",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3384,10 +3051,7 @@
   {
     "title": "Garlic Jr., Overlord of the Dead Zone",
     "number": "BT11-104_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3422,10 +3086,7 @@
   {
     "title": "Garlic Jr., Commander of the Demon Clan",
     "number": "BT11-105",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3459,10 +3120,7 @@
   {
     "title": "Gassyu of the Demonic Elite Four",
     "number": "BT11-106",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3492,10 +3150,7 @@
   {
     "title": "Vinegar of the Demonic Elite Four",
     "number": "BT11-107",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3524,10 +3179,7 @@
   {
     "title": "Tardo of the Demonic Elite Four",
     "number": "BT11-108",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3556,10 +3208,7 @@
   {
     "title": "Zoldo of the Demonic Elite Four",
     "number": "BT11-109",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3587,10 +3236,7 @@
   {
     "title": "Exceptional Ability Pan",
     "number": "BT11-110",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3618,10 +3264,7 @@
   {
     "title": "Eis Shenron, the Diabolic",
     "number": "BT11-111",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3652,10 +3295,7 @@
   {
     "title": "Eis Shenron, the Cryomancer",
     "number": "BT11-112",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3684,10 +3324,7 @@
   {
     "title": "Super Naturon Shenron, Pan Absorbed",
     "number": "BT11-113",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3717,10 +3354,7 @@
   {
     "title": "Naturon Shenron, the Terramancer",
     "number": "BT11-114",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3747,10 +3381,7 @@
   {
     "title": "Three-Star Ball, Negative Energy Overflow",
     "number": "BT11-115",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3778,10 +3409,7 @@
   {
     "title": "Seven-Star Ball, Negative Energy Overflow",
     "number": "BT11-116",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3809,10 +3437,7 @@
   {
     "title": "Super Water of the Gods",
     "number": "BT11-117",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3834,10 +3459,7 @@
   {
     "title": "Energy Field",
     "number": "BT11-118",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3859,10 +3481,7 @@
   {
     "title": "Makyo Star",
     "number": "BT11-119",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3884,10 +3503,7 @@
   {
     "title": "Super Ice Ray",
     "number": "BT11-120",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3908,10 +3524,7 @@
   {
     "title": "Son Goku",
     "number": "BT11-121",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Black",
@@ -3936,10 +3549,7 @@
   {
     "title": "Dark Broly & Paragus",
     "number": "BT11-122",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Black",
@@ -3965,10 +3575,7 @@
   {
     "title": "SS4 Son Gohan, Beyond the Ultimate",
     "number": "BT11-123",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Black",
@@ -3994,10 +3601,7 @@
   {
     "title": "SS4 Son Gohan, Beyond the Ultimate",
     "number": "BT11-123_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Black",
@@ -4023,10 +3627,7 @@
   {
     "title": "SS4 Vegeta, Supreme Saiyan Power",
     "number": "BT11-124",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Black",
@@ -4052,10 +3653,7 @@
   {
     "title": "SS Broly, the Rampaging Monstrosity",
     "number": "BT11-125",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "UNISON",
     "color": "Black",
@@ -4078,10 +3676,7 @@
   {
     "title": "SS4 Son Goku, Conqueror of Evil",
     "number": "BT11-126",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4114,10 +3709,7 @@
   {
     "title": "SS3 Son Goku, Man on a Mission",
     "number": "BT11-127",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4145,10 +3737,7 @@
   {
     "title": "SS Son Goku, Time Patrol Elite",
     "number": "BT11-128",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4176,10 +3765,7 @@
   {
     "title": "SS3 Vegeta, Unstoppable Evolution",
     "number": "BT11-129",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4209,10 +3795,7 @@
   {
     "title": "SS Vegeta, the Prince Strikes Back",
     "number": "BT11-130",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4240,10 +3823,7 @@
   {
     "title": "SS4 Bardock, Combat Instincts",
     "number": "BT11-131",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4273,10 +3853,7 @@
   {
     "title": "SS4 Bardock, Combat Instincts",
     "number": "BT11-131_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4306,10 +3883,7 @@
   {
     "title": "SS Bardock, the Tenacious",
     "number": "BT11-132",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4338,10 +3912,7 @@
   {
     "title": "Dark Broly, Demon Realm Ravager",
     "number": "BT11-133",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4370,10 +3941,7 @@
   {
     "title": "Dark Broly, Uncontrollable Berserker",
     "number": "BT11-134",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4402,10 +3970,7 @@
   {
     "title": "Dark Broly, the New Masked Saiyan",
     "number": "BT11-135",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4435,10 +4000,7 @@
   {
     "title": "Paragus, Towa's Subordinate",
     "number": "BT11-136",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4467,10 +4029,7 @@
   {
     "title": "Ultimate Transformation Mira",
     "number": "BT11-137",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4499,10 +4058,7 @@
   {
     "title": "Mira, Arcane Overflow",
     "number": "BT11-138",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4530,10 +4086,7 @@
   {
     "title": "Towa, Union of Magic and Science",
     "number": "BT11-139",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4564,10 +4117,7 @@
   {
     "title": "Towa, Dark Aura Deluge",
     "number": "BT11-140",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4596,10 +4146,7 @@
   {
     "title": "Putine",
     "number": "BT11-141",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4626,10 +4173,7 @@
   {
     "title": "Gravy",
     "number": "BT11-142",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4656,10 +4200,7 @@
   {
     "title": "Shun Shun, Haru Haru's Sister",
     "number": "BT11-143",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4687,10 +4228,7 @@
   {
     "title": "Haru Haru, Shun Shun's Sister",
     "number": "BT11-144",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4718,10 +4256,7 @@
   {
     "title": "Psi Devilman, Exploding With Evil",
     "number": "BT11-145",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4749,10 +4284,7 @@
   {
     "title": "Great Devilman, Demonic Trickster",
     "number": "BT11-146",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4780,10 +4312,7 @@
   {
     "title": "Broly, Savage Rush",
     "number": "BT11-147",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4812,10 +4341,7 @@
   {
     "title": "Rebellion Hammer",
     "number": "BT11-148",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -4837,10 +4363,7 @@
   {
     "title": "Dark Power Absorption",
     "number": "BT11-149",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4862,10 +4385,7 @@
   {
     "title": "Darkness Blast Stinger",
     "number": "BT11-150",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4886,10 +4406,7 @@
   {
     "title": "Instant Transmission 10x Kamehameha",
     "number": "BT11-151",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -4912,10 +4429,7 @@
   {
     "title": "SS4 Broly, the Great Destroyer",
     "number": "BT11-152",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Red",
@@ -4946,10 +4460,7 @@
   {
     "title": "Baby Hatchhyack, Saiyan Destroyer",
     "number": "BT11-153",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -4979,10 +4490,7 @@
   {
     "title": "Vegito, Warrior From Another Dimension",
     "number": "BT11-154",
-    "series": [
-      "Unison Warrior Series",
-      "Vermilion Bloodline"
-    ],
+    "series_text": "Unison Warrior Series Vermilion Bloodline",
     "rarity": "Secret Rare[SCR]",
     "type": "UNISON",
     "color": "Black",

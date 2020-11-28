@@ -2,10 +2,7 @@
   {
     "title": "Son Goku",
     "number": "SD11-01",
-    "series": [
-      "STARTER DECK",
-      "~INSTINCT SURPASSED~[DBS-SD11]"
-    ],
+    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Red",
@@ -28,10 +25,7 @@
   {
     "title": "Friendly Rival Frieza",
     "number": "SD11-02",
-    "series": [
-      "STARTER DECK",
-      "~INSTINCT SURPASSED~[DBS-SD11]"
-    ],
+    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red",
@@ -58,10 +52,7 @@
   {
     "title": "Ultra Instinct Son Goku, Universal Impulse",
     "number": "SD11-03",
-    "series": [
-      "STARTER DECK",
-      "~INSTINCT SURPASSED~[DBS-SD11]"
-    ],
+    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -89,10 +80,7 @@
   {
     "title": "SSB Vegeta, Steadfast Ally",
     "number": "SD11-04",
-    "series": [
-      "STARTER DECK",
-      "~INSTINCT SURPASSED~[DBS-SD11]"
-    ],
+    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -121,10 +109,7 @@
   {
     "title": "We're in This Together!",
     "number": "SD11-05",
-    "series": [
-      "STARTER DECK",
-      "~INSTINCT SURPASSED~[DBS-SD11]"
-    ],
+    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Red/Blue",

@@ -2,10 +2,7 @@
   {
     "title": "Cell",
     "number": "XD3-01",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Green",
@@ -31,10 +28,7 @@
   {
     "title": "Cell, Genetic Consumption",
     "number": "XD3-02",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -61,10 +55,7 @@
   {
     "title": "Android 18, Imminent Danger",
     "number": "XD3-03",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -92,10 +83,7 @@
   {
     "title": "Android 17, Impending Crisis",
     "number": "XD3-04",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -123,10 +111,7 @@
   {
     "title": "SS Son Goku, Valiant Breakthrough",
     "number": "XD3-05",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -154,10 +139,7 @@
   {
     "title": "SS Vegeta, Begrudging Support",
     "number": "XD3-06",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -184,10 +166,7 @@
   {
     "title": "Pernicious Progeny",
     "number": "XD3-07",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -210,10 +189,7 @@
   {
     "title": "SS2 Son Gohan, Wounded Victor",
     "number": "XD3-08",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -246,10 +222,7 @@
   {
     "title": "Cell, Perfection Misspent",
     "number": "XD3-09",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -277,10 +250,7 @@
   {
     "title": "Cell, Perfection Reclaimed",
     "number": "XD3-10",
-    "series": [
-      "EXPERT DECK",
-      "~THE ULTIMATE LIFE FORM~[DBS-XD03]"
-    ],
+    "series_text": "EXPERT DECK ~THE ULTIMATE LIFE FORM~[DBS-XD03]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green/Yellow",

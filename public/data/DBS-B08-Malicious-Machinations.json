@@ -2,10 +2,7 @@
   {
     "title": "Bulma",
     "number": "BT8-001",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Red",
@@ -33,10 +30,7 @@
   {
     "title": "Beerus",
     "number": "BT8-002",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -63,10 +57,7 @@
   {
     "title": "SS3 Goku, One Hit Wonder",
     "number": "BT8-003",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -95,10 +86,7 @@
   {
     "title": "Great Ape Son Goku, Abilities Amplified",
     "number": "BT8-004",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -127,10 +115,7 @@
   {
     "title": "Son Gohan, Determined Training",
     "number": "BT8-005",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -159,10 +144,7 @@
   {
     "title": "Son Gohan, Brainwashed",
     "number": "BT8-006",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -189,10 +171,7 @@
   {
     "title": "Son Goten, Rushing In",
     "number": "BT8-007",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -219,10 +198,7 @@
   {
     "title": "Son Goten, Brainwashed",
     "number": "BT8-008",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -249,10 +225,7 @@
   {
     "title": "Trunks, Brainwashed",
     "number": "BT8-009",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -281,10 +254,7 @@
   {
     "title": "Videl, Miraculous Aide",
     "number": "BT8-010",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -312,10 +282,7 @@
   {
     "title": "Chi-Chi, Motherly Majesty",
     "number": "BT8-011",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -342,10 +309,7 @@
   {
     "title": "Bulma, Unyielding Courage",
     "number": "BT8-012",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -375,10 +339,7 @@
   {
     "title": "Dependable Warrior Piccolo",
     "number": "BT8-013",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -406,10 +367,7 @@
   {
     "title": "Beerus, Biding His Time",
     "number": "BT8-014",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -437,10 +395,7 @@
   {
     "title": "Pilaf, the Cunning",
     "number": "BT8-015",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -467,10 +422,7 @@
   {
     "title": "Dr.Myuu, the Mastermind",
     "number": "BT8-016",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -498,10 +450,7 @@
   {
     "title": "Baby, Vengeful Blow",
     "number": "BT8-017",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -530,10 +479,7 @@
   {
     "title": "Baby, Vengeful Blow",
     "number": "BT8-017_PR02",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -562,10 +508,7 @@
   {
     "title": "Baby, the Overseer",
     "number": "BT8-018",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -592,10 +535,7 @@
   {
     "title": "Birth of a Super Saiyan God",
     "number": "BT8-019",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -617,10 +557,7 @@
   {
     "title": "Birthday Party",
     "number": "BT8-020",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -643,10 +580,7 @@
   {
     "title": "Flaming Death Ball",
     "number": "BT8-021",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -667,10 +601,7 @@
   {
     "title": "Beerus Ball",
     "number": "BT8-022",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -693,10 +624,7 @@
   {
     "title": "Beerus Ball",
     "number": "BT8-022_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "EXTRA",
     "color": "Red",
@@ -719,10 +647,7 @@
   {
     "title": "Android 18",
     "number": "BT8-023",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Blue",
@@ -748,10 +673,7 @@
   {
     "title": "Android 21",
     "number": "BT8-024",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -776,10 +698,7 @@
   {
     "title": "Kaio-Ken Son Goku, Strenuous Onslaught",
     "number": "BT8-025",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -806,10 +725,7 @@
   {
     "title": "Son Goku, the Rescuer",
     "number": "BT8-026",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -828,7 +744,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Dr.Uiro Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a Battle Card is returned to a player's hand by a skill, if {Son Goku, the Rescuer} isn't in play in your Battle Area, you may play this card from your hand. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\">, send this card from your Drop Area to your Warp : Choose up to 1 of your blue Battle Cards with an energy cost of 3 or less, or up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and return it to its owner's hand. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a Battle Card is returned to a player's hand by a skill, if {Son Goku, the Rescuer} isn't in play in your Battle Area, you may play this card from your hand. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\">, send this card from your Drop Area to your Warp : Choose up to 1 of your blue Battle Cards with an energy cost of 3 or less, or up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and return it to its owner's hand.",
     "skills": [
       "Auto",
       "Activate-Main",
@@ -838,10 +754,7 @@
   {
     "title": "Supreme Technique Son Gohan",
     "number": "BT8-027",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -870,10 +783,7 @@
   {
     "title": "Son Gohan, Calling for Help",
     "number": "BT8-028",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -900,10 +810,7 @@
   {
     "title": "Supreme Technique Vegeta",
     "number": "BT8-029",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -932,10 +839,7 @@
   {
     "title": "Supreme Technique Krillin",
     "number": "BT8-030",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -965,10 +869,7 @@
   {
     "title": "Krillin, the Cunning",
     "number": "BT8-031",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -995,10 +896,7 @@
   {
     "title": "Master Roshi, Masterly Majesty",
     "number": "BT8-032",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1025,10 +923,7 @@
   {
     "title": "Android 18, Speedy Substitution",
     "number": "BT8-033",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1055,10 +950,7 @@
   {
     "title": "Android 18, Speedy Substitution",
     "number": "BT8-033_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1085,10 +977,7 @@
   {
     "title": "Android 21, the Ringleader",
     "number": "BT8-034",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1118,10 +1007,7 @@
   {
     "title": "Maleficent Technique Frieza",
     "number": "BT8-035",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1149,10 +1035,7 @@
   {
     "title": "Nappa",
     "number": "BT8-036",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1179,10 +1062,7 @@
   {
     "title": "Maleficent Technique Ginyu",
     "number": "BT8-037",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1210,10 +1090,7 @@
   {
     "title": "Maleficent Technique Cell",
     "number": "BT8-038",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1241,10 +1118,7 @@
   {
     "title": "Dr.Uiro, Destruction Beam",
     "number": "BT8-039",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1274,10 +1148,7 @@
   {
     "title": "Dr.Uiro's Lab",
     "number": "BT8-040",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1301,10 +1172,7 @@
   {
     "title": "Android 21's Scheme",
     "number": "BT8-041",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1327,10 +1195,7 @@
   {
     "title": "Bulma's Advice",
     "number": "BT8-042",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1351,10 +1216,7 @@
   {
     "title": "Absolute Release Ball",
     "number": "BT8-043",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1377,10 +1239,7 @@
   {
     "title": "Absolute Release Ball",
     "number": "BT8-043_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1403,10 +1262,7 @@
   {
     "title": "Son Goku",
     "number": "BT8-044",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Green",
@@ -1433,10 +1289,7 @@
   {
     "title": "Dr.Uiro & Dr.Kochin",
     "number": "BT8-045",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -1460,10 +1313,7 @@
   {
     "title": "Son Goku, Prepping for Battle",
     "number": "BT8-046",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1490,10 +1340,7 @@
   {
     "title": "Bulma, the Problem Solver",
     "number": "BT8-047",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1521,10 +1368,7 @@
   {
     "title": "Mischievous Technique Gotenks",
     "number": "BT8-048",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1551,10 +1395,7 @@
   {
     "title": "Namekian Technique Piccolo",
     "number": "BT8-049",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1582,10 +1423,7 @@
   {
     "title": "Frenzied Warrior Piccolo",
     "number": "BT8-050",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1613,10 +1451,7 @@
   {
     "title": "Yamcha, the Cunning",
     "number": "BT8-051",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1643,10 +1478,7 @@
   {
     "title": "Oolong",
     "number": "BT8-052",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1673,10 +1505,7 @@
   {
     "title": "Beerus, Godly Majesty",
     "number": "BT8-053",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1695,7 +1524,7 @@
     "character": "Beerus",
     "special_trait": "God",
     "era": "Special",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand by a Battle Card's skill, if {Beerus, Godly Majesty} isn't in play in your Battle Area, you may play this card from your Drop Area. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, send this card from your Drop Area to your Warp, choose 1 card from your hand and place it in your Drop Area : Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand by a Battle Card's skill, if {Beerus, Godly Majesty} isn't in play in your Battle Area, you may play this card from your Drop Area. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, send this card from your Drop Area to your Warp, choose 1 card from your hand and place it in your Drop Area : Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.",
     "skills": [
       "Auto",
       "Activate-Main",
@@ -1705,10 +1534,7 @@
   {
     "title": "Masterful Technique Whis",
     "number": "BT8-054",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1736,10 +1562,7 @@
   {
     "title": "Android 21, a Brilliant Idea",
     "number": "BT8-055",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1769,10 +1592,7 @@
   {
     "title": "Dr.Uiro, a Fiendish Scheme",
     "number": "BT8-056",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1800,10 +1620,7 @@
   {
     "title": "Dr.Kochin, the Nefarious Scientist",
     "number": "BT8-057",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1831,10 +1648,7 @@
   {
     "title": "Kishime, Living Weapon",
     "number": "BT8-058",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1861,10 +1675,7 @@
   {
     "title": "Ebifrya, Living Weapon",
     "number": "BT8-059",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1892,10 +1703,7 @@
   {
     "title": "Misokatsun, Living Weapon",
     "number": "BT8-060",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1923,10 +1731,7 @@
   {
     "title": "Bio-Man, Living Weapon",
     "number": "BT8-061",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1953,10 +1758,7 @@
   {
     "title": "The Android Creator",
     "number": "BT8-062",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -1977,10 +1779,7 @@
   {
     "title": "Rise of Dr.Uiro",
     "number": "BT8-063",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2002,10 +1801,7 @@
   {
     "title": "Dr.Uiro's Revival",
     "number": "BT8-064",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2027,10 +1823,7 @@
   {
     "title": "Focused Breakthrough",
     "number": "BT8-065",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -2053,10 +1846,7 @@
   {
     "title": "Focused Breakthrough",
     "number": "BT8-065_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "EXTRA",
     "color": "Green",
@@ -2079,10 +1869,7 @@
   {
     "title": "Son Goku & Pan",
     "number": "BT8-066",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2108,10 +1895,7 @@
   {
     "title": "Super Baby 1",
     "number": "BT8-067",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2137,10 +1921,7 @@
   {
     "title": "Son Goku, the Path to Godhood",
     "number": "BT8-068",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2169,10 +1950,7 @@
   {
     "title": "Son Goku, the Path to Godhood",
     "number": "BT8-068_PR02",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2201,10 +1979,7 @@
   {
     "title": "SS3 Son Goku, Ever-Evolving",
     "number": "BT8-069",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2234,10 +2009,7 @@
   {
     "title": "Pan, Great Ape Whisperer",
     "number": "BT8-070",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2268,10 +2040,7 @@
   {
     "title": "Vegeta, Explosion of Fury",
     "number": "BT8-071",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2298,10 +2067,7 @@
   {
     "title": "Vegeta, the Sweet-Talker",
     "number": "BT8-072",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2328,10 +2094,7 @@
   {
     "title": "Potent Technique Vegeta",
     "number": "BT8-073",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2359,10 +2122,7 @@
   {
     "title": "Trunks, the Cunning",
     "number": "BT8-074",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2389,10 +2149,7 @@
   {
     "title": "Trunks, Saiyan Majesty",
     "number": "BT8-075",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2411,7 +2168,7 @@
     "character": "Trunks: GT",
     "special_trait": "Saiyan/Earthling",
     "era": "Baby Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> Place this card in your Drop Area from your hand : When an opponent's card is switched to Rest Mode by your skill, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, send this card from your Drop Area to your Warp : Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and switch it to Rest Mode. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> Place this card in your Drop Area from your hand : When an opponent's card is switched to Rest Mode by your skill, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, send this card from your Drop Area to your Warp : Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and switch it to Rest Mode.",
     "skills": [
       "Auto",
       "Activate-Battle",
@@ -2421,10 +2178,7 @@
   {
     "title": "Bulma, Brainwashed",
     "number": "BT8-076",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2451,10 +2205,7 @@
   {
     "title": "Bulla, Brainwashed",
     "number": "BT8-077",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2482,10 +2233,7 @@
   {
     "title": "Gotenks, the Unpredictable",
     "number": "BT8-078",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2513,10 +2261,7 @@
   {
     "title": "Mr. Buu",
     "number": "BT8-079",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2543,10 +2288,7 @@
   {
     "title": "Mai, a Sudden Encounter",
     "number": "BT8-080",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2574,10 +2316,7 @@
   {
     "title": "Shu, on the Offensive",
     "number": "BT8-081",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2605,10 +2344,7 @@
   {
     "title": "Baby Vegeta, an Unfair Choice",
     "number": "BT8-082",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2636,10 +2372,7 @@
   {
     "title": "Baby, Vengeful Upheaval",
     "number": "BT8-083",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2668,10 +2401,7 @@
   {
     "title": "Baby, Evil Origins",
     "number": "BT8-084",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2699,10 +2429,7 @@
   {
     "title": "Bingo Tournament Grand Prize",
     "number": "BT8-085",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2724,10 +2451,7 @@
   {
     "title": "Return of Planet Tuffle",
     "number": "BT8-086",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2749,10 +2473,7 @@
   {
     "title": "Blutz Wave Generator",
     "number": "BT8-087",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2774,10 +2495,7 @@
   {
     "title": "Super Galick Gun",
     "number": "BT8-088",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2800,10 +2518,7 @@
   {
     "title": "Super Galick Gun",
     "number": "BT8-088_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2826,10 +2541,7 @@
   {
     "title": "Dr.Lychee & Hatchhyack",
     "number": "BT8-089",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Black",
@@ -2855,10 +2567,7 @@
   {
     "title": "Hatchhyack, Fueled by Hatred",
     "number": "BT8-090",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -2890,10 +2599,7 @@
   {
     "title": "Hatchhyack, Fueled by Hatred",
     "number": "BT8-090_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Black",
@@ -2925,10 +2631,7 @@
   {
     "title": "Hatchhyack, Overwhelming Power",
     "number": "BT8-091",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2956,10 +2659,7 @@
   {
     "title": "Dr.Lychee, Inception of the Grudge",
     "number": "BT8-092",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2987,10 +2687,7 @@
   {
     "title": "Dr.Lychee, the Departed Spirit",
     "number": "BT8-093",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -3020,10 +2717,7 @@
   {
     "title": "Frieza, Ghost Warrior",
     "number": "BT8-094",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -3051,10 +2745,7 @@
   {
     "title": "Cooler, Ghost Warrior",
     "number": "BT8-095",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -3082,10 +2773,7 @@
   {
     "title": "Lord Slug, Ghost Warrior",
     "number": "BT8-096",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -3112,10 +2800,7 @@
   {
     "title": "Turles, Ghost Warrior",
     "number": "BT8-097",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -3142,10 +2827,7 @@
   {
     "title": "Ghost Warriors",
     "number": "BT8-098",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -3172,10 +2854,7 @@
   {
     "title": "Defender Godgardon",
     "number": "BT8-099",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -3203,10 +2882,7 @@
   {
     "title": "Defender Kawazu",
     "number": "BT8-100",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -3234,10 +2910,7 @@
   {
     "title": "Destron Gas",
     "number": "BT8-101",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -3258,10 +2931,7 @@
   {
     "title": "The Dark Planet",
     "number": "BT8-102",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Black",
@@ -3283,10 +2953,7 @@
   {
     "title": "Ultimate Blow",
     "number": "BT8-103",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -3308,10 +2975,7 @@
   {
     "title": "Super Kamehameha",
     "number": "BT8-104",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -3334,10 +2998,7 @@
   {
     "title": "Raditz, Arrival of the Invader",
     "number": "BT8-105",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -3367,10 +3028,7 @@
   {
     "title": "Son Goku, Energy Salvo",
     "number": "BT8-106",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -3399,10 +3057,7 @@
   {
     "title": "Vegeta, Energy Salvo",
     "number": "BT8-107",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -3433,10 +3088,7 @@
   {
     "title": "Hit, Rapid Movement",
     "number": "BT8-108",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -3465,10 +3117,7 @@
   {
     "title": "Son Goku, Dawn of Divinity",
     "number": "BT8-109",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3497,10 +3146,7 @@
   {
     "title": "Son Goku, Dawn of Divinity",
     "number": "BT8-109_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3529,10 +3175,7 @@
   {
     "title": "SS4 Son Goku, a Heartfelt Plea",
     "number": "BT8-110",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3563,10 +3206,7 @@
   {
     "title": "SS4 Son Goku, a Heartfelt Plea",
     "number": "BT8-110_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3597,10 +3237,7 @@
   {
     "title": "SS Vegeta, Raging Frenzy",
     "number": "BT8-111",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3619,7 +3256,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is red : When a 〈Bulma〉 card in your Battle Area is removed from your Battle Area by an opponent's skill or KO'd, you may play this card from your hand. If you do, you can't play {SS Vegeta, Raging Frenzy} for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is red : When a 〈Bulma〉 card in your Battle Area is removed from your Battle Area by an opponent's skill or KO'd, you may play this card from your hand. If you do, you can't play {SS Vegeta, Raging Frenzy} for the duration of the turn.",
     "skills": [
       "Double-Strike",
       "Energy-Exhaust",
@@ -3629,10 +3266,7 @@
   {
     "title": "Beerus, No Holds Barred",
     "number": "BT8-112",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3663,10 +3297,7 @@
   {
     "title": "Whis, the Spectator",
     "number": "BT8-113",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3695,10 +3326,7 @@
   {
     "title": "Great Ape Baby, the Ultimate Evil Lifeform",
     "number": "BT8-114",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3730,10 +3358,7 @@
   {
     "title": "Super Baby 2, Malicious Majesty",
     "number": "BT8-115",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3764,10 +3389,7 @@
   {
     "title": "Super Baby 1, All-Consuming Terror",
     "number": "BT8-116",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -3798,10 +3420,7 @@
   {
     "title": "Supreme Technique Son Goku",
     "number": "BT8-117",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3832,10 +3451,7 @@
   {
     "title": "Son Goku, Spirit of the Planet",
     "number": "BT8-118",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3869,10 +3485,7 @@
   {
     "title": "Son Gohan & Piccolo, Pupil and Master",
     "number": "BT8-119",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3903,10 +3516,7 @@
   {
     "title": "Android 17, Protector of Wildlife",
     "number": "BT8-120",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3936,10 +3546,7 @@
   {
     "title": "Android 16, Energy Amplification",
     "number": "BT8-121",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3967,10 +3574,7 @@
   {
     "title": "Android 16, Energy Amplification",
     "number": "BT8-121_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3998,10 +3602,7 @@
   {
     "title": "Android 21, Violent Predator",
     "number": "BT8-122",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -4032,10 +3633,7 @@
   {
     "title": "Android 21, Violent Predator",
     "number": "BT8-122_SPR",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -4066,10 +3664,7 @@
   {
     "title": "Gigantic Bomber Dr.Uiro",
     "number": "BT8-123",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -4100,10 +3695,7 @@
   {
     "title": "Madness Wand Dr.Kochin",
     "number": "BT8-124",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -4134,10 +3726,7 @@
   {
     "title": "Vegeta, Prideful Hero",
     "number": "BT8-125",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Noble Hero Rare[NHR]",
     "type": "BATTLE",
     "color": "Red",
@@ -4166,10 +3755,7 @@
   {
     "title": "Beerus, Destructive Villain",
     "number": "BT8-126",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Ignoble Villain Rare[IVR]",
     "type": "BATTLE",
     "color": "Red",
@@ -4197,10 +3783,7 @@
   {
     "title": "Son Goku, Prideful Hero",
     "number": "BT8-127",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Noble Hero Rare[NHR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -4232,10 +3815,7 @@
   {
     "title": "Android 21, Destructive Villain",
     "number": "BT8-128",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Ignoble Villain Rare[IVR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -4263,10 +3843,7 @@
   {
     "title": "Piccolo, Prideful Hero",
     "number": "BT8-129",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Noble Hero Rare[NHR]",
     "type": "BATTLE",
     "color": "Green",
@@ -4296,10 +3873,7 @@
   {
     "title": "Dr.Uiro, Destructive Villain",
     "number": "BT8-130",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Ignoble Villain Rare[IVR]",
     "type": "BATTLE",
     "color": "Green",
@@ -4329,10 +3903,7 @@
   {
     "title": "SS4 Son Goku, Prideful Hero",
     "number": "BT8-131",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Noble Hero Rare[NHR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4365,10 +3936,7 @@
   {
     "title": "Super Baby 2, Destructive Villain",
     "number": "BT8-132",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Ignoble Villain Rare[IVR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4400,10 +3968,7 @@
   {
     "title": "Heroic Strike",
     "number": "BT8-133",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Noble Hero Rare[NHR]",
     "type": "EXTRA",
     "color": "Black",
@@ -4425,10 +3990,7 @@
   {
     "title": "Villainous Counterstrike",
     "number": "BT8-134",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Ignoble Villain Rare[IVR]",
     "type": "EXTRA",
     "color": "Black",
@@ -4450,10 +4012,7 @@
   {
     "title": "Baby Janemba, Corrupt Coalescence",
     "number": "BT8-135",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -4484,10 +4043,7 @@
   {
     "title": "SS4 Vegeta, Peak of Primitive Power",
     "number": "BT8-136",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -4521,10 +4077,7 @@
   {
     "title": "Dragon Balls, Negative Energy Overflow",
     "number": "BT8-137",
-    "series": [
-      "Series 8",
-      "-MALICIOUS MACHINATIONS-"
-    ],
+    "series_text": "Series 8 -MALICIOUS MACHINATIONS-",
     "rarity": "Secret Rare[SCR]",
     "type": "EXTRA",
     "color": "Black",

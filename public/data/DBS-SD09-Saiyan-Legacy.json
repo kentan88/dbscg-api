@@ -2,10 +2,7 @@
   {
     "title": "King Vegeta",
     "number": "SD9-01",
-    "series": [
-      "STARTER DECK",
-      "~SAIYAN LEGACY~ [DBS-SD09]"
-    ],
+    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Red",
@@ -31,10 +28,7 @@
   {
     "title": "Raditz, Earth Invader",
     "number": "SD9-02",
-    "series": [
-      "STARTER DECK",
-      "~SAIYAN LEGACY~ [DBS-SD09]"
-    ],
+    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -61,10 +55,7 @@
   {
     "title": "Vegeta, Royal Prince",
     "number": "SD9-03",
-    "series": [
-      "STARTER DECK",
-      "~SAIYAN LEGACY~ [DBS-SD09]"
-    ],
+    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -93,10 +84,7 @@
   {
     "title": "Fated Kaio-Ken Son Goku",
     "number": "SD9-04",
-    "series": [
-      "STARTER DECK",
-      "~SAIYAN LEGACY~ [DBS-SD09]"
-    ],
+    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -130,10 +118,7 @@
   {
     "title": "King Vegeta's Dynasty",
     "number": "SD9-05",
-    "series": [
-      "STARTER DECK",
-      "~SAIYAN LEGACY~ [DBS-SD09]"
-    ],
+    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Red/Green",

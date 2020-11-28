@@ -2,10 +2,7 @@
   {
     "title": "Vegeta",
     "number": "TB1-001",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -20,7 +17,7 @@
       "Awaken"
     ],
     "title_back": "Saiyan Bond Vegeta",
-    "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you attack with a 《Saiyan》 Battle Card, if that card is 《Universe 7》 or 《Universe 6》, draw 1 card and choose the attacking card. The chosen card and this card gain +5000 power for the duration of the turn. ",
+    "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you attack with a 《Saiyan》 Battle Card, if that card is 《Universe 7》 or 《Universe 6》, draw 1 card and choose the attacking card. The chosen card and this card gain +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
       "Once-per-turn"
@@ -29,10 +26,7 @@
   {
     "title": "Kale",
     "number": "TB1-002",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Red",
@@ -55,10 +49,7 @@
   {
     "title": "Backbone of Universe 7 Son Goku",
     "number": "TB1-003",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -86,10 +77,7 @@
   {
     "title": "Backbone of Universe 7 Son Goku",
     "number": "TB1-003_PR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -117,10 +105,7 @@
   {
     "title": "Universe 7 Saiyan Prince Vegeta ",
     "number": "TB1-004",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -139,7 +124,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan/Universe 7",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Auto",
       "Triple-Strike"
@@ -148,10 +133,7 @@
   {
     "title": "Universe 7 Saiyan Prince Vegeta",
     "number": "TB1-004_SPR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -170,7 +152,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan/Universe 7",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Auto",
       "Triple-Strike"
@@ -179,10 +161,7 @@
   {
     "title": "Universe 7 Saiyan Prince Vegeta ",
     "number": "TB1-004_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -201,7 +180,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan/Universe 7",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, if your Leader Card is red, choose up to 1 of your other 《Saiyan》 Battle Cards in play which are 《Universe 7》 or 《Universe 6》 and switch it to Active Mode. Both that card and this card gain +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Auto",
       "Triple-Strike"
@@ -210,10 +189,7 @@
   {
     "title": "Gale Strike Vegeta",
     "number": "TB1-005",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -240,10 +216,7 @@
   {
     "title": "Majin Buu, Full of Energy",
     "number": "TB1-006",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -274,10 +247,7 @@
   {
     "title": "Surprise Attack Majin Buu",
     "number": "TB1-007",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -304,10 +274,7 @@
   {
     "title": "Foreseeing Hit",
     "number": "TB1-008",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -326,7 +293,7 @@
     "character": "Hit",
     "special_trait": "Alien/Universe 6",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, your opponent reveals their hand. Choose up to 2 Battle Cards with 35000 or less power from their hand and send them to the Warp. At the end of your opponent's next turn, return all cards sent to the Warp with this skill to their hand. ",
+    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, your opponent reveals their hand. Choose up to 2 Battle Cards with 35000 or less power from their hand and send them to the Warp. At the end of your opponent's next turn, return all cards sent to the Warp with this skill to their hand.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -335,10 +302,7 @@
   {
     "title": "Foreseeing Hit",
     "number": "TB1-008_PR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -357,7 +321,7 @@
     "character": "Hit",
     "special_trait": "Alien/Universe 6",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, your opponent reveals their hand. Choose up to 2 Battle Cards with 35000 or less power from their hand and send them to the Warp. At the end of your opponent's next turn, return all cards sent to the Warp with this skill to their hand. ",
+    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, your opponent reveals their hand. Choose up to 2 Battle Cards with 35000 or less power from their hand and send them to the Warp. At the end of your opponent's next turn, return all cards sent to the Warp with this skill to their hand.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -366,10 +330,7 @@
   {
     "title": "Dimension Leaper Hit",
     "number": "TB1-009",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -388,7 +349,7 @@
     "character": "Hit",
     "special_trait": "Alien/Universe 6",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Send this card to the Warp : At the beginning of your next turn, if your Leader Card is 《Universe 6》, play this card from the Warp in its owner's Battle Area. ",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Send this card to the Warp : At the beginning of your next turn, if your Leader Card is 《Universe 6》, play this card from the Warp in its owner's Battle Area.",
     "skills": [
       "Activate-Main"
     ]
@@ -396,10 +357,7 @@
   {
     "title": "Impeccable Super Saiyan Cabba",
     "number": "TB1-010",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -428,10 +386,7 @@
   {
     "title": "Impeccable Super Saiyan Cabba",
     "number": "TB1-010_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -460,10 +415,7 @@
   {
     "title": "Cabba, Universe Mediator",
     "number": "TB1-011",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -490,10 +442,7 @@
   {
     "title": "Cabba, Universe Mediator",
     "number": "TB1-011_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -520,10 +469,7 @@
   {
     "title": "Bold Super Saiyan 2 Caulifla",
     "number": "TB1-012",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -553,10 +499,7 @@
   {
     "title": "Bold Super Saiyan 2 Caulifla",
     "number": "TB1-012_PR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -586,10 +529,7 @@
   {
     "title": "Sister Attack Saiyan Caulifla",
     "number": "TB1-013",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -617,10 +557,7 @@
   {
     "title": "Caulifla",
     "number": "TB1-014",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -647,10 +584,7 @@
   {
     "title": "Relentless Super Saiyan Kale",
     "number": "TB1-015",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -681,10 +615,7 @@
   {
     "title": "Sister Attack Saiyan Kale",
     "number": "TB1-016",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -711,10 +642,7 @@
   {
     "title": "Sister Attack Saiyan Kale",
     "number": "TB1-016_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -741,10 +669,7 @@
   {
     "title": "Dauntless Kale",
     "number": "TB1-017",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -772,10 +697,7 @@
   {
     "title": "Ultimate Evolution Frost",
     "number": "TB1-018",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -806,10 +728,7 @@
   {
     "title": "Frost, The Tactician",
     "number": "TB1-019",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -836,10 +755,7 @@
   {
     "title": "Universe 6 Combination Botamo",
     "number": "TB1-020",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -866,10 +782,7 @@
   {
     "title": "Universe 6 Combination Magetta",
     "number": "TB1-021",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -888,7 +801,7 @@
     "character": "Magetta",
     "special_trait": "Alien/Universe 6",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your Battle Cards with energy costs of 1 or less. They gain +10000 power for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> (This card can't be chosen by the skills of your opponent's cards)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your Battle Cards with energy costs of 1 or less. They gain +10000 power for the duration of the turn.",
     "skills": [
       "Barrier",
       "Auto"
@@ -897,10 +810,7 @@
   {
     "title": "Union Attack Botamo and Magetta",
     "number": "TB1-022",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -928,10 +838,7 @@
   {
     "title": "Strategies of Universe 7",
     "number": "TB1-023",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -953,10 +860,7 @@
   {
     "title": "Time Kicker",
     "number": "TB1-024",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -977,10 +881,7 @@
   {
     "title": "Son Gohan",
     "number": "TB1-025",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1005,10 +906,7 @@
   {
     "title": "Bergamo",
     "number": "TB1-026",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Blue",
@@ -1031,10 +929,7 @@
   {
     "title": "Ready to Fight Son Goku",
     "number": "TB1-027",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1061,10 +956,7 @@
   {
     "title": "Ready to Fight Son Goku",
     "number": "TB1-027_PR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1091,10 +983,7 @@
   {
     "title": "Results of Training Son Gohan",
     "number": "TB1-028",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1125,10 +1014,7 @@
   {
     "title": "Focused Mind  Son Gohan",
     "number": "TB1-029",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1157,10 +1043,7 @@
   {
     "title": "Beerus, Universe 7 Divine Vanquisher",
     "number": "TB1-030",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1188,10 +1071,7 @@
   {
     "title": "Beerus, Universe 7 Divine Vanquisher",
     "number": "TB1-030_SPR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1219,10 +1099,7 @@
   {
     "title": "Whis, Mentor of Beerus",
     "number": "TB1-031",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1250,10 +1127,7 @@
   {
     "title": "Focused Mind Piccolo",
     "number": "TB1-032",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1272,7 +1146,7 @@
     "character": "Piccolo",
     "special_trait": "Namekian/God/Universe 7",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> <br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if you have 4 or more energy, this card gains +5000 power. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> <br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if you have 4 or more energy, this card gains +5000 power.",
     "skills": [
       "Blocker",
       "Barrier",
@@ -1282,10 +1156,7 @@
   {
     "title": "Focused Mind Piccolo",
     "number": "TB1-032_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1304,7 +1175,7 @@
     "character": "Piccolo",
     "special_trait": "Namekian/God/Universe 7",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> <br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if you have 4 or more energy, this card gains +5000 power. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> <br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if you have 4 or more energy, this card gains +5000 power.",
     "skills": [
       "Blocker",
       "Barrier",
@@ -1314,10 +1185,7 @@
   {
     "title": "Multi-Form Tien Shinhan",
     "number": "TB1-033",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1345,10 +1213,7 @@
   {
     "title": "Universe 9 Supreme Kai Roh",
     "number": "TB1-034",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1375,10 +1240,7 @@
   {
     "title": "Trio De Dangers Bergamo",
     "number": "TB1-035",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1407,10 +1269,7 @@
   {
     "title": "Brothers of Terror Bergamo",
     "number": "TB1-036",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1438,10 +1297,7 @@
   {
     "title": "Trio De Dangers Lavender",
     "number": "TB1-037",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1468,10 +1324,7 @@
   {
     "title": "Trio De Dangers Basil",
     "number": "TB1-038",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1490,7 +1343,7 @@
     "character": "Basil",
     "special_trait": "Alien/Trio De Dangers/Universe 9",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if another 《Trio De Dangers》 is in play in your Battle Area, this card gains +1000 power for each 1 energy you have and <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\">. ",
+    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if another 《Trio De Dangers》 is in play in your Battle Area, this card gains +1000 power for each 1 energy you have and <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\">.",
     "skills": [
       "Permanent",
       "Dual-Attack"
@@ -1499,10 +1352,7 @@
   {
     "title": "Iron Skin  Battler Chappil　",
     "number": "TB1-039",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1530,10 +1380,7 @@
   {
     "title": "Universe 9 Striker Comfrey",
     "number": "TB1-040",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1560,10 +1407,7 @@
   {
     "title": "Universe 9 Striker Hop",
     "number": "TB1-041",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1592,10 +1436,7 @@
   {
     "title": "Universe 9 Striker Oregano",
     "number": "TB1-042",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1622,10 +1463,7 @@
   {
     "title": "Universe 9 Striker Hyssop",
     "number": "TB1-043",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1653,10 +1491,7 @@
   {
     "title": "Sorrel, The Small Warrior",
     "number": "TB1-044",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1684,10 +1519,7 @@
   {
     "title": "Universe 9 Striker Roselle",
     "number": "TB1-045",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1714,10 +1546,7 @@
   {
     "title": "Spectrum Attack Obuni",
     "number": "TB1-046",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1744,10 +1573,7 @@
   {
     "title": "Murichim",
     "number": "TB1-047",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1774,10 +1600,7 @@
   {
     "title": "Dangers Triangle",
     "number": "TB1-048",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1799,10 +1622,7 @@
   {
     "title": "Shining Blaster",
     "number": "TB1-049",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1823,10 +1643,7 @@
   {
     "title": "Son Goku",
     "number": "TB1-050",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -1849,10 +1666,7 @@
   {
     "title": "Brianne De Chateau",
     "number": "TB1-051",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Green",
@@ -1865,7 +1679,7 @@
       "Auto",
       "Awaken"
     ],
-    "title_back": "Ribrianne, Maiden of Anger ",
+    "title_back": "Ribrianne, Maiden of Anger",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If ＜Kakunsa＞ and ＜Rozie＞ are in play in your Battle Area, choose 1 of your opponent's Battle Cards and KO it.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -1876,10 +1690,7 @@
   {
     "title": "Son Goku, Hope of Universe 7",
     "number": "TB1-052",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1910,10 +1721,7 @@
   {
     "title": "Son Goku, Hope of Universe 7",
     "number": "TB1-052_SPR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1944,10 +1752,7 @@
   {
     "title": "Destructo Disk Krillin",
     "number": "TB1-053",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1963,7 +1768,7 @@
     "energy_text": "3(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
-    "character": "Krillin ",
+    "character": "Krillin",
     "special_trait": "Earthling/Universe 7",
     "era": "Universe Survival Saga",
     "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is 《Universe 7》, choose 1 card in your life and add it to your hand. If you do so, choose any number of your opponent's Battle Cards for which the total cost adds up to 3 or less and KO them.",
@@ -1974,10 +1779,7 @@
   {
     "title": "Energy Guard Android 17",
     "number": "TB1-054",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2005,10 +1807,7 @@
   {
     "title": "Infinite Energy Android 18",
     "number": "TB1-055",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2035,10 +1834,7 @@
   {
     "title": "Maiden Squadron Leader Ribrianne",
     "number": "TB1-056",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2069,10 +1865,7 @@
   {
     "title": "Girl Warrior Brianne De Chateau",
     "number": "TB1-057",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2100,10 +1893,7 @@
   {
     "title": "Maiden Squadron Kakunsa",
     "number": "TB1-058",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2122,7 +1912,7 @@
     "character": "Kakunsa",
     "special_trait": "Alien/Maiden Squadron/Universe 2",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ＜Ribrianne＞ and ＜Rozie＞ are in play in your Battle Area, this card gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\">. ",
+    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ＜Ribrianne＞ and ＜Rozie＞ are in play in your Battle Area, this card gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\">.",
     "skills": [
       "Critical",
       "Permanent",
@@ -2132,10 +1922,7 @@
   {
     "title": "Maiden Squadron Rozie",
     "number": "TB1-059",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2163,10 +1950,7 @@
   {
     "title": "Zarbuto, Maiden Attendant",
     "number": "TB1-060",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2193,10 +1977,7 @@
   {
     "title": "Rabanra, Maiden Attendant ",
     "number": "TB1-061",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2224,10 +2005,7 @@
   {
     "title": "Teleporting Jimeze",
     "number": "TB1-062",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2255,10 +2033,7 @@
   {
     "title": "Vikal, Master of the Sky",
     "number": "TB1-063",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2286,10 +2061,7 @@
   {
     "title": "Zirloin, Maiden Attendant",
     "number": "TB1-064",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2318,10 +2090,7 @@
   {
     "title": "Attack Reflecting Prum",
     "number": "TB1-065",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2348,10 +2117,7 @@
   {
     "title": "Hermilla, The Sniper",
     "number": "TB1-066",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2379,10 +2145,7 @@
   {
     "title": "True Form Ganos",
     "number": "TB1-067",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2413,10 +2176,7 @@
   {
     "title": "Trickster Ganos",
     "number": "TB1-068",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2443,10 +2203,7 @@
   {
     "title": "Caway, Ki Master",
     "number": "TB1-069",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2473,10 +2230,7 @@
   {
     "title": "Dercori",
     "number": "TB1-070",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2503,10 +2257,7 @@
   {
     "title": "Maiden Transformation",
     "number": "TB1-071",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -2527,10 +2278,7 @@
   {
     "title": "Maiden Charge",
     "number": "TB1-072",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2551,10 +2299,7 @@
   {
     "title": "Frieza",
     "number": "TB1-073",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2569,7 +2314,7 @@
       "Awaken"
     ],
     "title_back": "Golden Frieza, The Final Assailant",
-    "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 《Universe 7》 from your hand in the Drop Area : Draw 2 cards. Then, choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode. ",
+    "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 《Universe 7》 from your hand in the Drop Area : Draw 2 cards. Then, choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode.",
     "skills_back": [
       "Activate-Main",
       "Once-per-turn"
@@ -2578,10 +2323,7 @@
   {
     "title": "Jiren",
     "number": "TB1-074",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2603,10 +2345,7 @@
   {
     "title": "Full Power Spirit Bomb Son Goku",
     "number": "TB1-075",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2635,10 +2374,7 @@
   {
     "title": "Full Power Spirit Bomb Son Goku",
     "number": "TB1-075_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2667,10 +2403,7 @@
   {
     "title": "Master Roshi, Forged of Will",
     "number": "TB1-076",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2698,10 +2431,7 @@
   {
     "title": "Master Roshi, Forged of Will",
     "number": "TB1-076_PR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2729,10 +2459,7 @@
   {
     "title": "Master Roshi, Forged of Will",
     "number": "TB1-076_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2760,10 +2487,7 @@
   {
     "title": "Frieza, Emperor of Universe 7",
     "number": "TB1-077",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2796,10 +2520,7 @@
   {
     "title": "Frieza, Emperor of Universe 7",
     "number": "TB1-077_SPR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2832,10 +2553,7 @@
   {
     "title": "Frieza, Emperor of Universe 7",
     "number": "TB1-077_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2868,10 +2586,7 @@
   {
     "title": "Coldhearted Strike Frieza",
     "number": "TB1-078",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2890,7 +2605,7 @@
     "character": "Frieza",
     "special_trait": "Frieza Clan/Universe 7",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 《Universe 7》 from your hand in the Drop Area. If you do so, choose up to 2 of your opponent's Battle Cards ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and switch them to Rest Mode. Those cards cannot be switched to Active Mode during your opponent's next Charge Phase. ",
+    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 《Universe 7》 from your hand in the Drop Area. If you do so, choose up to 2 of your opponent's Battle Cards ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and switch them to Rest Mode. Those cards cannot be switched to Active Mode during your opponent's next Charge Phase.",
     "skills": [
       "Dual-Attack",
       "Auto",
@@ -2900,10 +2615,7 @@
   {
     "title": "Coldhearted Strike Frieza",
     "number": "TB1-078_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2922,7 +2634,7 @@
     "character": "Frieza",
     "special_trait": "Frieza Clan/Universe 7",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 《Universe 7》 from your hand in the Drop Area. If you do so, choose up to 2 of your opponent's Battle Cards ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and switch them to Rest Mode. Those cards cannot be switched to Active Mode during your opponent's next Charge Phase. ",
+    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 《Universe 7》 from your hand in the Drop Area. If you do so, choose up to 2 of your opponent's Battle Cards ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and switch them to Rest Mode. Those cards cannot be switched to Active Mode during your opponent's next Charge Phase.",
     "skills": [
       "Dual-Attack",
       "Auto",
@@ -2932,10 +2644,7 @@
   {
     "title": "Agony of Hell Frieza",
     "number": "TB1-079",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2962,10 +2671,7 @@
   {
     "title": "Ally of Justice Toppo",
     "number": "TB1-080",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2992,10 +2698,7 @@
   {
     "title": "Absolute Justice Jiren",
     "number": "TB1-081",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3024,10 +2727,7 @@
   {
     "title": "Secret Vitality Jiren",
     "number": "TB1-082",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3054,10 +2754,7 @@
   {
     "title": "Swift Warrior Dyspo",
     "number": "TB1-083",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3084,10 +2781,7 @@
   {
     "title": "Hero Combination Vuon",
     "number": "TB1-084",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3115,10 +2809,7 @@
   {
     "title": "Hero Combination Kunshi",
     "number": "TB1-085",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3146,10 +2837,7 @@
   {
     "title": "Hero Combination Tupper",
     "number": "TB1-086",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3176,10 +2864,7 @@
   {
     "title": "Hero Combination Zoiray",
     "number": "TB1-087",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3207,10 +2892,7 @@
   {
     "title": "Ki Bomb Support Cocotte",
     "number": "TB1-088",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3226,7 +2908,7 @@
     "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
-    "character": "Cocotte ",
+    "character": "Cocotte",
     "special_trait": "Alien/Pride Troopers/Universe 11",
     "era": "Universe Survival Saga",
     "skills_text": "<img src=\"/images/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"/images/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader is 《Universe 11》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
@@ -3238,10 +2920,7 @@
   {
     "title": "Ki Bomb Support Cocotte",
     "number": "TB1-088_PR",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3257,7 +2936,7 @@
     "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
-    "character": "Cocotte ",
+    "character": "Cocotte",
     "special_trait": "Alien/Pride Troopers/Universe 11",
     "era": "Universe Survival Saga",
     "skills_text": "<img src=\"/images/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> (You can only include up to 4 cards with <img src=\"/images/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"> in your deck)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card, if your Leader is 《Universe 11》 and you have 5 or less life, draw 1 card and this card gains +10000 combo power for the duration of the turn.",
@@ -3269,10 +2948,7 @@
   {
     "title": "Hero Combination Kettol",
     "number": "TB1-089",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3301,10 +2977,7 @@
   {
     "title": "Hand Strike Kahseral",
     "number": "TB1-090",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3332,10 +3005,7 @@
   {
     "title": "Protean Being Majikayo",
     "number": "TB1-091",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3362,10 +3032,7 @@
   {
     "title": "Super Reaction Narirama",
     "number": "TB1-092",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3392,10 +3059,7 @@
   {
     "title": "Super Reaction Narirama",
     "number": "TB1-092_BD",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3422,10 +3086,7 @@
   {
     "title": "Cyborg Warrior Nigrisshi",
     "number": "TB1-093",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3453,10 +3114,7 @@
   {
     "title": "Katopesla",
     "number": "TB1-094",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3483,10 +3141,7 @@
   {
     "title": "Universe 7  Representative",
     "number": "TB1-095",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3508,10 +3163,7 @@
   {
     "title": "Cocotte Zone",
     "number": "TB1-096",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3532,10 +3184,7 @@
   {
     "title": "Son Goku, The Awakened Power",
     "number": "TB1-097",
-    "series": [
-      "Themed Booster",
-      "～The Tournament Of Power～"
-    ],
+    "series_text": "Themed Booster ~The Tournament Of Power~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Green",

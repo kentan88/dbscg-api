@@ -2,10 +2,7 @@
   {
     "title": "Vegeta",
     "number": "EX11-01",
-    "series": [
-      "EXPANSION SET 11",
-      "-Universe 7 Unison-"
-    ],
+    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Red",
@@ -29,10 +26,7 @@
   {
     "title": "Gotenks, Unison of Rage",
     "number": "EX11-02",
-    "series": [
-      "EXPANSION SET 11",
-      "-Universe 7 Unison-"
-    ],
+    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Red",
@@ -55,10 +49,7 @@
   {
     "title": "Whis, Destruction's Conductor",
     "number": "EX11-03",
-    "series": [
-      "EXPANSION SET 11",
-      "-Universe 7 Unison-"
-    ],
+    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -86,10 +77,7 @@
   {
     "title": "Beerus, Wrath of the Gods",
     "number": "EX11-04",
-    "series": [
-      "EXPANSION SET 11",
-      "-Universe 7 Unison-"
-    ],
+    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -119,10 +107,7 @@
   {
     "title": "Android 17, High Alert",
     "number": "EX11-05",
-    "series": [
-      "EXPANSION SET 11",
-      "-Universe 7 Unison-"
-    ],
+    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -151,10 +136,7 @@
   {
     "title": "Frieza, Fair-Weather Fiend",
     "number": "EX11-06",
-    "series": [
-      "EXPANSION SET 11",
-      "-Universe 7 Unison-"
-    ],
+    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -187,10 +169,7 @@
   {
     "title": "Omen of Awakening",
     "number": "EX11-07",
-    "series": [
-      "EXPANSION SET 11",
-      "-Universe 7 Unison-"
-    ],
+    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Red",

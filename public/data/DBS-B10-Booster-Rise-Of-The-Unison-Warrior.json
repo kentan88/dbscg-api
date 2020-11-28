@@ -2,10 +2,7 @@
   {
     "title": "Yamcha",
     "number": "BT10-001",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -27,10 +24,7 @@
   {
     "title": "Pilaf",
     "number": "BT10-002",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Red",
@@ -55,10 +49,7 @@
   {
     "title": "Vegito, Unison of Might",
     "number": "BT10-003",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Red",
@@ -80,10 +71,7 @@
   {
     "title": "Vegito, Unison of Might",
     "number": "BT10-003_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Red",
@@ -105,10 +93,7 @@
   {
     "title": "Syn Shenron, Unison of Calamity",
     "number": "BT10-004",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Red",
@@ -131,10 +116,7 @@
   {
     "title": "Syn Shenron, Unison of Calamity",
     "number": "BT10-004_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Red",
@@ -157,10 +139,7 @@
   {
     "title": "Vegeta, Elite Unison",
     "number": "BT10-005",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "UNISON",
     "color": "Red",
@@ -183,10 +162,7 @@
   {
     "title": "Son Goku, Savagery Awakened ",
     "number": "BT10-006",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -214,10 +190,7 @@
   {
     "title": "Son Goku, Bursting with Energy",
     "number": "BT10-007",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -245,10 +218,7 @@
   {
     "title": "Yamcha, Merciless Barrage",
     "number": "BT10-008",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -277,10 +247,7 @@
   {
     "title": "Yamcha, Merciless Barrage",
     "number": "BT10-008_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -309,10 +276,7 @@
   {
     "title": "Yamcha, the Desert Hyena",
     "number": "BT10-009",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -343,10 +307,7 @@
   {
     "title": "Master Roshi, Martial Virtuoso",
     "number": "BT10-010",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -373,10 +334,7 @@
   {
     "title": "Bulma the Bunny Girl",
     "number": "BT10-011",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -405,10 +363,7 @@
   {
     "title": "Bulma, Out Adventuring",
     "number": "BT10-012",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -438,10 +393,7 @@
   {
     "title": "Chi-Chi, Ox-King's Daughter",
     "number": "BT10-013",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -469,10 +421,7 @@
   {
     "title": "Innocent Princess Chi-Chi",
     "number": "BT10-014",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -501,10 +450,7 @@
   {
     "title": "Oolong, the Many-Faced",
     "number": "BT10-015",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -532,10 +478,7 @@
   {
     "title": "Oolong, Goku's Pal",
     "number": "BT10-016",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -563,10 +506,7 @@
   {
     "title": "Puar, Yamcha's Sidekick",
     "number": "BT10-017",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -593,10 +533,7 @@
   {
     "title": "Ox-King",
     "number": "BT10-018",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -623,10 +560,7 @@
   {
     "title": "Pilaf, Plotting World Domination",
     "number": "BT10-019",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -653,10 +587,7 @@
   {
     "title": "Pilaf, Dragon Ball Chaser",
     "number": "BT10-020",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -684,10 +615,7 @@
   {
     "title": "Shu, Pilaf's Admirer",
     "number": "BT10-021",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -714,10 +642,7 @@
   {
     "title": "Shu, Dragon Ball Chaser",
     "number": "BT10-022",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -745,10 +670,7 @@
   {
     "title": "Mai, the Gang's Femme Fatale",
     "number": "BT10-023",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -775,10 +697,7 @@
   {
     "title": "Mai, Dragon Ball Chaser",
     "number": "BT10-024",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -806,10 +725,7 @@
   {
     "title": "Pilaf Machine, the Master Bot",
     "number": "BT10-025",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -839,10 +755,7 @@
   {
     "title": "Pilaf Machine, Ostrich Form",
     "number": "BT10-026",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -872,10 +785,7 @@
   {
     "title": "Mercenary Tao, Unequaled Assassin",
     "number": "BT10-027",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -904,10 +814,7 @@
   {
     "title": "Pilaf's Castle",
     "number": "BT10-028",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -930,10 +837,7 @@
   {
     "title": "Pilaf Missile",
     "number": "BT10-029",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Red",
@@ -956,10 +860,7 @@
   {
     "title": "Wolf Fang Fist",
     "number": "BT10-030",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Red",
@@ -983,10 +884,7 @@
   {
     "title": "Trunks",
     "number": "BT10-031",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Blue",
@@ -1013,10 +911,7 @@
   {
     "title": "Fused Zamasu",
     "number": "BT10-032",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1041,10 +936,7 @@
   {
     "title": "SS Gotenks, Absolute Unison",
     "number": "BT10-033",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Blue",
@@ -1069,10 +961,7 @@
   {
     "title": "Supreme Kai of Time, Unison of History",
     "number": "BT10-034",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "UNISON",
     "color": "Blue",
@@ -1095,10 +984,7 @@
   {
     "title": "Zen-Oh, Cosmic Unison",
     "number": "BT10-035",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Blue",
@@ -1121,10 +1007,7 @@
   {
     "title": "Zen-Oh, Cosmic Unison",
     "number": "BT10-035_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Blue",
@@ -1147,10 +1030,7 @@
   {
     "title": "SSB Son Goku, Hope for Victory",
     "number": "BT10-036",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1178,10 +1058,7 @@
   {
     "title": "Son Goku",
     "number": "BT10-037",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1208,10 +1085,7 @@
   {
     "title": "Son Goku, Warrior That Crossed Time",
     "number": "BT10-038",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1238,10 +1112,7 @@
   {
     "title": "Son Gohan, Accelerated Slam",
     "number": "BT10-039",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1269,10 +1140,7 @@
   {
     "title": "SSB Vegeta, Blaze of Passion",
     "number": "BT10-040",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1300,10 +1168,7 @@
   {
     "title": "Vegeta, Savior of the Future",
     "number": "BT10-041",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1331,10 +1196,7 @@
   {
     "title": "Vegeta, Warrior That Crossed Time",
     "number": "BT10-042",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1363,10 +1225,7 @@
   {
     "title": "SS2 Trunks, for a Brighter Future",
     "number": "BT10-043",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1399,10 +1258,7 @@
   {
     "title": "SS Trunks, God-Sealing Technique",
     "number": "BT10-044",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1431,10 +1287,7 @@
   {
     "title": "SS Trunks, God-Sealing Technique",
     "number": "BT10-044_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1463,10 +1316,7 @@
   {
     "title": "SSB Vegito, Paralyzing Prowess",
     "number": "BT10-045",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1498,10 +1348,7 @@
   {
     "title": "Vegito, Infinite Radiance",
     "number": "BT10-046",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1532,10 +1379,7 @@
   {
     "title": "Bulma, Master Scientist",
     "number": "BT10-047",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1563,10 +1407,7 @@
   {
     "title": "Mai, Bulwark of the Future",
     "number": "BT10-048",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1593,10 +1434,7 @@
   {
     "title": "Respectful Master Gowasu",
     "number": "BT10-049",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1623,10 +1461,7 @@
   {
     "title": "Goku Black Rose, Lofty Aspirations",
     "number": "BT10-050",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1659,10 +1494,7 @@
   {
     "title": "Goku Black, Future Decimator",
     "number": "BT10-051",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1689,10 +1521,7 @@
   {
     "title": "Fused Zamasu, the Divine Immortal",
     "number": "BT10-052",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1723,10 +1552,7 @@
   {
     "title": "Fused Zamasu, Advocate for Evil",
     "number": "BT10-053",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1756,10 +1582,7 @@
   {
     "title": "Zamasu, Cosmic Traitor",
     "number": "BT10-054",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1786,10 +1609,7 @@
   {
     "title": "Zen-Oh, Edge of Space",
     "number": "BT10-055",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1817,10 +1637,7 @@
   {
     "title": "Final Hope Slash",
     "number": "BT10-056",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1844,10 +1661,7 @@
   {
     "title": "God-Slicing Black Kamehameha",
     "number": "BT10-057",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1870,10 +1684,7 @@
   {
     "title": "Tragedy Overground",
     "number": "BT10-058",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1897,10 +1708,7 @@
   {
     "title": "Absolute Confidence",
     "number": "BT10-059",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1921,10 +1729,7 @@
   {
     "title": "Son Goku",
     "number": "BT10-060",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -1949,10 +1754,7 @@
   {
     "title": "Ginyu",
     "number": "BT10-061",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Green",
@@ -1977,10 +1779,7 @@
   {
     "title": "SS Bardock, Paternal Unison",
     "number": "BT10-062",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Green",
@@ -2004,10 +1803,7 @@
   {
     "title": "SS Bardock, Paternal Unison",
     "number": "BT10-062_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Green",
@@ -2031,10 +1827,7 @@
   {
     "title": "Golden Frieza, Unison of Malice",
     "number": "BT10-063",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Green",
@@ -2057,10 +1850,7 @@
   {
     "title": "Demigra, Unison of Sorcery",
     "number": "BT10-064",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "UNISON",
     "color": "Green",
@@ -2084,10 +1874,7 @@
   {
     "title": "SS Son Goku, Pride of the Saiyans",
     "number": "BT10-065",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2117,10 +1904,7 @@
   {
     "title": "Intensive Training Son Goku",
     "number": "BT10-066",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2149,10 +1933,7 @@
   {
     "title": "Son Gohan, Potential Unlocked",
     "number": "BT10-067",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2181,10 +1962,7 @@
   {
     "title": "Vegeta, the Lone Prince",
     "number": "BT10-068",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2213,10 +1991,7 @@
   {
     "title": "Ultimate Power Piccolo",
     "number": "BT10-069",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2243,10 +2018,7 @@
   {
     "title": "Krillin, Potential Unlocked",
     "number": "BT10-070",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2275,10 +2047,7 @@
   {
     "title": "Bulma, Life on Namek",
     "number": "BT10-071",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2305,10 +2074,7 @@
   {
     "title": "Frieza, Cosmic Horror",
     "number": "BT10-072",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2336,10 +2102,7 @@
   {
     "title": "Frieza, Terrifying Transformation",
     "number": "BT10-073",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2368,10 +2131,7 @@
   {
     "title": "Frieza",
     "number": "BT10-074",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2398,10 +2158,7 @@
   {
     "title": "Frieza, Charismatic Villain",
     "number": "BT10-075",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2431,10 +2188,7 @@
   {
     "title": "Frieza, Charismatic Villain",
     "number": "BT10-075_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2464,10 +2218,7 @@
   {
     "title": "Ginyu, Backbone of the Force",
     "number": "BT10-076",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2495,10 +2246,7 @@
   {
     "title": "Ginyu the Bodysnatcher",
     "number": "BT10-077",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2528,10 +2276,7 @@
   {
     "title": "Recoome the Musclehead",
     "number": "BT10-078",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2559,10 +2304,7 @@
   {
     "title": "Jeice, Second in Command",
     "number": "BT10-079",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2590,10 +2332,7 @@
   {
     "title": "Burter, Fastest in the Universe",
     "number": "BT10-080",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2622,10 +2361,7 @@
   {
     "title": "Guldo, Psycho Psychic",
     "number": "BT10-081",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2654,10 +2390,7 @@
   {
     "title": "Dodoria, Brimming with Power",
     "number": "BT10-082",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2684,10 +2417,7 @@
   {
     "title": "Dodoria the Cold-Blooded",
     "number": "BT10-083",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2715,10 +2445,7 @@
   {
     "title": "Zarbon, Victory Over Beauty",
     "number": "BT10-084",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2746,10 +2473,7 @@
   {
     "title": "Zarbon the Gorgeous",
     "number": "BT10-085",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2777,10 +2501,7 @@
   {
     "title": "Frieza, Dark Infestation",
     "number": "BT10-086",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2810,10 +2531,7 @@
   {
     "title": "Frieza the Power Monger",
     "number": "BT10-087",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2846,10 +2564,7 @@
   {
     "title": "Dormant Potential Unleashed",
     "number": "BT10-088",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Green",
@@ -2872,10 +2587,7 @@
   {
     "title": "Blue Impulse",
     "number": "BT10-089",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2897,10 +2609,7 @@
   {
     "title": "Dark Death Ball",
     "number": "BT10-090",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Green",
@@ -2923,10 +2632,7 @@
   {
     "title": "One-Star Ball, Parasitic Darkness",
     "number": "BT10-091",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -2939,7 +2645,7 @@
     },
     "energy_cost": "0",
     "energy_text": "0(-)",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains 《Dark Dragon Ball》 in all areas.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose 1 of your cards and it gets +5000 power for the battle.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 〈Frieza〉 card with an energy cost of 4 in your Battle Area and place this card under it : Play up to 1 green 〈Frieza : Xeno〉 card in your deck or hand on top of the chosen card in Active Mode, then shuffle your deck if you looked through it. ",
+    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains 《Dark Dragon Ball》 in all areas.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose 1 of your cards and it gets +5000 power for the battle.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 〈Frieza〉 card with an energy cost of 4 in your Battle Area and place this card under it : Play up to 1 green 〈Frieza : Xeno〉 card in your deck or hand on top of the chosen card in Active Mode, then shuffle your deck if you looked through it.",
     "skills": [
       "Permanent",
       "Activate-Battle",
@@ -2949,10 +2655,7 @@
   {
     "title": "Gotenks",
     "number": "BT10-092",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2978,10 +2681,7 @@
   {
     "title": "Syn Shenron",
     "number": "BT10-093",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -3005,10 +2705,7 @@
   {
     "title": "SS Broly, Legendary Unison",
     "number": "BT10-094",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "UNISON",
     "color": "Yellow",
@@ -3031,10 +2728,7 @@
   {
     "title": "SS Gogeta, Dynamic Unison",
     "number": "BT10-095",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Yellow",
@@ -3059,10 +2753,7 @@
   {
     "title": "SS Gogeta, Dynamic Unison",
     "number": "BT10-095_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Yellow",
@@ -3087,10 +2778,7 @@
   {
     "title": "Mechikabura, Plotting Revival",
     "number": "BT10-096",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Yellow",
@@ -3116,10 +2804,7 @@
   {
     "title": "Son Goku, Absolute Annihilation",
     "number": "BT10-097",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3149,10 +2834,7 @@
   {
     "title": "Technique Chain Son Goku",
     "number": "BT10-098",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3181,10 +2863,7 @@
   {
     "title": "Son Goku, Adventure into the Unknown",
     "number": "BT10-099",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3212,10 +2891,7 @@
   {
     "title": "Counterblast Son Gohan",
     "number": "BT10-100",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3243,10 +2919,7 @@
   {
     "title": "Son Goten, Flash of Brilliance",
     "number": "BT10-101",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3273,10 +2946,7 @@
   {
     "title": "Son Goten the Eager",
     "number": "BT10-102",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3303,10 +2973,7 @@
   {
     "title": "Pan the Earnest",
     "number": "BT10-103",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3333,10 +3000,7 @@
   {
     "title": "Pan",
     "number": "BT10-104",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3363,10 +3027,7 @@
   {
     "title": "Vegeta, Prideful Transformation",
     "number": "BT10-105",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3396,10 +3057,7 @@
   {
     "title": "Vegeta, Prideful Transformation",
     "number": "BT10-105_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3429,10 +3087,7 @@
   {
     "title": "Vegeta, Earthbound Pride",
     "number": "BT10-106",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3460,10 +3115,7 @@
   {
     "title": "Vegeta the Impregnable",
     "number": "BT10-107",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3490,10 +3142,7 @@
   {
     "title": "Trunks, Flash of Brilliance",
     "number": "BT10-108",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3520,10 +3169,7 @@
   {
     "title": "Trunks the Eager",
     "number": "BT10-109",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3550,10 +3196,7 @@
   {
     "title": "Gotenks, Going All-Out",
     "number": "BT10-110",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3585,10 +3228,7 @@
   {
     "title": "Gotenks, Going All-Out",
     "number": "BT10-110_SPR",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3620,10 +3260,7 @@
   {
     "title": "Gotenks, Overwhelming Might",
     "number": "BT10-111",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3654,10 +3291,7 @@
   {
     "title": "Gotenks, the Power of Fusion",
     "number": "BT10-112",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3688,10 +3322,7 @@
   {
     "title": "Bulma, Devoted Supporter",
     "number": "BT10-113",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3718,10 +3349,7 @@
   {
     "title": "Giru, the Dragon Ball Discoverer",
     "number": "BT10-114",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3748,10 +3376,7 @@
   {
     "title": "Syn Shenron, Destruction Incarnate",
     "number": "BT10-115",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3783,10 +3408,7 @@
   {
     "title": "Syn Shenron, Shadow Dragon Leader",
     "number": "BT10-116",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3814,10 +3436,7 @@
   {
     "title": "Haze Shenron, Venomous Mist",
     "number": "BT10-117",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3846,10 +3465,7 @@
   {
     "title": "Haze Shenron, the Poisonmancer",
     "number": "BT10-118",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3877,10 +3493,7 @@
   {
     "title": "Negative Energy One-Star Ball",
     "number": "BT10-119",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3909,10 +3522,7 @@
   {
     "title": "Negative Energy Two-Star Ball",
     "number": "BT10-120",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3941,10 +3551,7 @@
   {
     "title": "Dark Dragon-Slaying Bullet",
     "number": "BT10-121",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3967,10 +3574,7 @@
   {
     "title": "Burning Kamehameha",
     "number": "BT10-122",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3992,10 +3596,7 @@
   {
     "title": "Released from Evil",
     "number": "BT10-123",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -4019,10 +3620,7 @@
   {
     "title": "Two-Star Ball, Parasitic Darkness",
     "number": "BT10-124",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -4045,10 +3643,7 @@
   {
     "title": "Shenron, Unison of Rescue",
     "number": "BT10-125",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "UNISON",
     "color": "Black",
@@ -4072,10 +3667,7 @@
   {
     "title": "Majin Buu, Wickedness Incarnate",
     "number": "BT10-126",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4103,10 +3695,7 @@
   {
     "title": "Bardock the Resolute",
     "number": "BT10-127",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4137,10 +3726,7 @@
   {
     "title": "Son Goku, Power of Legend",
     "number": "BT10-128",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4170,10 +3756,7 @@
   {
     "title": "Vegeta, Demonstration of Might",
     "number": "BT10-129",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4200,10 +3783,7 @@
   {
     "title": "Trunks, Elite Descendant",
     "number": "BT10-130",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4232,10 +3812,7 @@
   {
     "title": "Vegeks, Burning Impact Unleashed",
     "number": "BT10-131",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4264,10 +3841,7 @@
   {
     "title": "Vegeks, Spacetime Synthesis",
     "number": "BT10-132",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4299,10 +3873,7 @@
   {
     "title": "Demigra, the Sinister Sorcerer",
     "number": "BT10-133",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4329,10 +3900,7 @@
   {
     "title": "Mira, Explosion of Energy",
     "number": "BT10-134",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4361,10 +3929,7 @@
   {
     "title": "Mira, Faithful Servant",
     "number": "BT10-135",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4392,10 +3957,7 @@
   {
     "title": "Towa, Twisted Sister",
     "number": "BT10-136",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4423,10 +3985,7 @@
   {
     "title": "Towa, Secret Maneuver",
     "number": "BT10-137",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4454,10 +4013,7 @@
   {
     "title": "Gravy, the Dark Sorcerer",
     "number": "BT10-138",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4486,10 +4042,7 @@
   {
     "title": "Putine, the Dark Sorcerer",
     "number": "BT10-139",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4520,10 +4073,7 @@
   {
     "title": "Secret Identity Masked Saiyan",
     "number": "BT10-140",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4551,10 +4101,7 @@
   {
     "title": "Mechikabura, the Broken Seal",
     "number": "BT10-141",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4584,10 +4131,7 @@
   {
     "title": "Burning Impact",
     "number": "BT10-142",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Black",
@@ -4610,10 +4154,7 @@
   {
     "title": "Time Bullet",
     "number": "BT10-143",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -4636,10 +4177,7 @@
   {
     "title": "Vegeta & Trunks, No Holds Barred",
     "number": "BT10-144",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -4668,10 +4206,7 @@
   {
     "title": "Son Goku & Hit, Supreme Alliance",
     "number": "BT10-145",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -4703,10 +4238,7 @@
   {
     "title": "Vegeta & Bulma, Joined by Fate",
     "number": "BT10-146",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -4738,10 +4270,7 @@
   {
     "title": "Son Gohan & Piccolo, Skills Sharpened",
     "number": "BT10-147",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -4772,10 +4301,7 @@
   {
     "title": "Son Goku, Rival Seeker",
     "number": "BT10-148",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -4805,10 +4331,7 @@
   {
     "title": "Frieza, Colossal Dynamo",
     "number": "BT10-149",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -4839,10 +4362,7 @@
   {
     "title": "Cell, the Dark Parasite",
     "number": "BT10-150",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -4870,10 +4390,7 @@
   {
     "title": "Jiren, Alien Power",
     "number": "BT10-151",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -4905,10 +4422,7 @@
   {
     "title": "Great Ape Masked Saiyan, Primal Carnage",
     "number": "BT10-152",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Green",
@@ -4941,10 +4455,7 @@
   {
     "title": "SS3 Gotenks, Blazing Fusion",
     "number": "BT10-153",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4975,10 +4486,7 @@
   {
     "title": "SS4 Gogeta, Peerless Fusion",
     "number": "BT10-154",
-    "series": [
-      "Unison Warrior Series",
-      "Rise of the Unison Warrior"
-    ],
+    "series_text": "Unison Warrior Series Rise of the Unison Warrior",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Black",

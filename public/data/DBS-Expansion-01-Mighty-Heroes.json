@@ -2,10 +2,7 @@
   {
     "title": "Comrades Combined Son Goku",
     "number": "EX01-01",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -32,10 +29,7 @@
   {
     "title": "Comrades Combined Son Goku",
     "number": "EX01-01_PR",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -62,10 +56,7 @@
   {
     "title": "Comrades Combined Vegeta",
     "number": "EX01-02",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -92,10 +83,7 @@
   {
     "title": "Trunks, Link to the Future",
     "number": "EX01-03",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -123,10 +111,7 @@
   {
     "title": "SSB Vegito, the Savior",
     "number": "EX01-04",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -159,10 +144,7 @@
   {
     "title": "Unified Spirit Son Goten",
     "number": "EX01-05",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -190,10 +172,7 @@
   {
     "title": "Unified Spirit Trunks",
     "number": "EX01-06",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -221,10 +200,7 @@
   {
     "title": "Psyched Up Gotenks",
     "number": "EX01-07",
-    "series": [
-      "EXPANSION DECK BOX SET 01",
-      "-Mighty Heroes-"
-    ],
+    "series_text": "EXPANSION DECK BOX SET 01 -Mighty Heroes-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",

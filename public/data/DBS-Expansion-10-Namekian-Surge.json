@@ -2,10 +2,7 @@
   {
     "title": "Heavy Kick Krillin",
     "number": "EX10-01",
-    "series": [
-      "EXPANSION SET 10",
-      "-Namekian Surge-"
-    ],
+    "series_text": "EXPANSION SET 10 -Namekian Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -32,10 +29,7 @@
   {
     "title": "Master Roshi, Kamehameha Origins",
     "number": "EX10-02",
-    "series": [
-      "EXPANSION SET 10",
-      "-Namekian Surge-"
-    ],
+    "series_text": "EXPANSION SET 10 -Namekian Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -63,10 +57,7 @@
   {
     "title": "Piccolo",
     "number": "EX10-03",
-    "series": [
-      "EXPANSION SET 10",
-      "-Namekian Surge-"
-    ],
+    "series_text": "EXPANSION SET 10 -Namekian Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Blue/Green",
@@ -91,10 +82,7 @@
   {
     "title": "Kaio-Ken Son Goku Returns",
     "number": "EX10-04",
-    "series": [
-      "EXPANSION SET 10",
-      "-Namekian Surge-"
-    ],
+    "series_text": "EXPANSION SET 10 -Namekian Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -123,10 +111,7 @@
   {
     "title": "Dr. Uiro, Cybernetic Rebirth",
     "number": "EX10-05",
-    "series": [
-      "EXPANSION SET 10",
-      "-Namekian Surge-"
-    ],
+    "series_text": "EXPANSION SET 10 -Namekian Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -145,7 +130,7 @@
     "character": "Dr. Uiro",
     "special_trait": "Scientist",
     "era": "Dr. Uiro Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand by an opponent's skill or by your <img src=\"/images/Revive.png\" alt=\"Revive\" class=\"skillText\"> skill, you may play this card. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Drop Area from your hand by an opponent's skill or by your <img src=\"/images/Revive.png\" alt=\"Revive\" class=\"skillText\"> skill, you may play this card.",
     "skills": [
       "Blocker",
       "Energy-Exhaust",
@@ -156,10 +141,7 @@
   {
     "title": "Hidden Potential",
     "number": "EX10-06",
-    "series": [
-      "EXPANSION SET 10",
-      "-Namekian Surge-"
-    ],
+    "series_text": "EXPANSION SET 10 -Namekian Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Blue/Green",

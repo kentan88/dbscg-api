@@ -2,10 +2,7 @@
   {
     "title": "Yamcha",
     "number": "BT5-001",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -30,10 +27,7 @@
   {
     "title": "Pilaf",
     "number": "BT5-002",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Red",
@@ -59,10 +53,7 @@
   {
     "title": "Oblivious Rampage Son Goku",
     "number": "BT5-003",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -93,10 +84,7 @@
   {
     "title": "Son Goku",
     "number": "BT5-004",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -123,10 +111,7 @@
   {
     "title": "Feisty Chi-Chi",
     "number": "BT5-005",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -154,10 +139,7 @@
   {
     "title": "Grandpa Gohan",
     "number": "BT5-006",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -184,10 +166,7 @@
   {
     "title": "Grandpa Gohan",
     "number": "BT5-006_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -214,10 +193,7 @@
   {
     "title": "Grandpa Gohan, to the Rescue",
     "number": "BT5-007",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -245,10 +221,7 @@
   {
     "title": "Sideline Assist Bulma",
     "number": "BT5-008",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -276,10 +249,7 @@
   {
     "title": "Yamcha, at 100%",
     "number": "BT5-009",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -307,10 +277,7 @@
   {
     "title": "Yamcha, at 100%",
     "number": "BT5-009_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -338,10 +305,7 @@
   {
     "title": "Yamcha",
     "number": "BT5-010",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -368,10 +332,7 @@
   {
     "title": "Deadly Defender Krillin",
     "number": "BT5-011",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -399,10 +360,7 @@
   {
     "title": "Master Roshi, Martial Expert",
     "number": "BT5-012",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -430,10 +388,7 @@
   {
     "title": "Puar, Best Pal",
     "number": "BT5-013",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -460,10 +415,7 @@
   {
     "title": "Scheming Oolong",
     "number": "BT5-014",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -490,10 +442,7 @@
   {
     "title": "Combiner Mecha Pilaf Machine",
     "number": "BT5-015",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -520,10 +469,7 @@
   {
     "title": "Pilaf, Leader of the Crew",
     "number": "BT5-016",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -552,10 +498,7 @@
   {
     "title": "Shu, Trusted Lackey",
     "number": "BT5-017",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -584,10 +527,7 @@
   {
     "title": "Mai, Trusted Lackey",
     "number": "BT5-018",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -615,10 +555,7 @@
   {
     "title": "Bandages, to the Rescue",
     "number": "BT5-019",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -646,10 +583,7 @@
   {
     "title": "Spike, to the Rescue",
     "number": "BT5-020",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -676,10 +610,7 @@
   {
     "title": "Baba, Champions' Leader",
     "number": "BT5-021",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -706,10 +637,7 @@
   {
     "title": "King Piccolo, Terror Unleashed",
     "number": "BT5-022",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -739,10 +667,7 @@
   {
     "title": "King Piccolo, Terror Unleashed",
     "number": "BT5-022_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -772,10 +697,7 @@
   {
     "title": "Afterimage Technique",
     "number": "BT5-023",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -798,10 +720,7 @@
   {
     "title": "Afterimage Technique",
     "number": "BT5-023_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -824,10 +743,7 @@
   {
     "title": "Oolong's Wish",
     "number": "BT5-024",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -849,10 +765,7 @@
   {
     "title": "A King's Return to Youth",
     "number": "BT5-025",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -874,10 +787,7 @@
   {
     "title": "Son Gohan",
     "number": "BT5-026",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -903,10 +813,7 @@
   {
     "title": "Janemba",
     "number": "BT5-027",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Blue",
@@ -920,7 +827,7 @@
       "Awaken"
     ],
     "title_back": "Supreme Evil Janemba",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card, and this card gets +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card in your hand and place it in the Drop Area : During this turn, when your opponent activates <img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\">, they choose 3 cards from their hand and place them in their Drop Area. ",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card, and this card gets +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card in your hand and place it in the Drop Area : During this turn, when your opponent activates <img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\">, they choose 3 cards from their hand and place them in their Drop Area.",
     "skills_back": [
       "Auto",
       "Critical",
@@ -931,10 +838,7 @@
   {
     "title": "Ready Stance Son Goku",
     "number": "BT5-028",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -962,10 +866,7 @@
   {
     "title": "Super Saiyan Son Goku",
     "number": "BT5-029",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -992,10 +893,7 @@
   {
     "title": "Super Saiyan Son Goku",
     "number": "BT5-029_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1022,10 +920,7 @@
   {
     "title": "Resolute Strength Son Goku",
     "number": "BT5-030",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1055,10 +950,7 @@
   {
     "title": "Surestrike Son Gohan",
     "number": "BT5-031",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1087,10 +979,7 @@
   {
     "title": "Great Saiyaman, Town Hero",
     "number": "BT5-032",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1118,10 +1007,7 @@
   {
     "title": "Ki Barrage Son Goten",
     "number": "BT5-033",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1148,10 +1034,7 @@
   {
     "title": "Deadly Defender Vegeta",
     "number": "BT5-034",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1179,10 +1062,7 @@
   {
     "title": "Deadly Defender Vegeta",
     "number": "BT5-034_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1210,10 +1090,7 @@
   {
     "title": "Deadly Defender Vegeta",
     "number": "BT5-034_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1241,10 +1118,7 @@
   {
     "title": "Super Saiyan Vegeta",
     "number": "BT5-035",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1271,10 +1145,7 @@
   {
     "title": "Ki Barrage Trunks",
     "number": "BT5-036",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1301,10 +1172,7 @@
   {
     "title": "Vexing Outcome Veku",
     "number": "BT5-037",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1334,10 +1202,7 @@
   {
     "title": "Gogeta, Hero Revived",
     "number": "BT5-038",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1370,10 +1235,7 @@
   {
     "title": "Gogeta, Hero Revived",
     "number": "BT5-038_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1406,10 +1268,7 @@
   {
     "title": "Gogeta, Hero Revived",
     "number": "BT5-038_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1442,10 +1301,7 @@
   {
     "title": "Quick Thinkin' Gotenks",
     "number": "BT5-039",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1476,10 +1332,7 @@
   {
     "title": "Ghost Rampage SS Gotenks",
     "number": "BT5-040",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1508,10 +1361,7 @@
   {
     "title": "Ghost Rampage SS Gotenks",
     "number": "BT5-040_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1540,10 +1390,7 @@
   {
     "title": "North Kai, Keeping Watch",
     "number": "BT5-041",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1571,10 +1418,7 @@
   {
     "title": "North Kai, Keeping Watch",
     "number": "BT5-041_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1602,10 +1446,7 @@
   {
     "title": "South Kai, Keeping Watch",
     "number": "BT5-042",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1632,10 +1473,7 @@
   {
     "title": "South Kai, Keeping Watch",
     "number": "BT5-042_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1662,10 +1500,7 @@
   {
     "title": "West Kai, Keeping Watch",
     "number": "BT5-043",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1693,10 +1528,7 @@
   {
     "title": "East Kai, Keeping Watch",
     "number": "BT5-044",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1723,10 +1555,7 @@
   {
     "title": "King Yemma, Soul Supervisor",
     "number": "BT5-045",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1753,10 +1582,7 @@
   {
     "title": "Saike Demon, Rockin' Out",
     "number": "BT5-046",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1783,10 +1609,7 @@
   {
     "title": "Infernal Chain Janemba",
     "number": "BT5-047",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1815,10 +1638,7 @@
   {
     "title": "Infernal Chain Janemba",
     "number": "BT5-047_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1847,10 +1667,7 @@
   {
     "title": "Phantom Strike Janemba",
     "number": "BT5-048",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1879,10 +1696,7 @@
   {
     "title": "Childish Heart Janemba",
     "number": "BT5-049",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1912,10 +1726,7 @@
   {
     "title": "Dimension Magic",
     "number": "BT5-050",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1938,10 +1749,7 @@
   {
     "title": "Dimension Magic",
     "number": "BT5-050_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1964,10 +1772,7 @@
   {
     "title": "Dimension Magic",
     "number": "BT5-050_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1990,10 +1795,7 @@
   {
     "title": "Call of Justice",
     "number": "BT5-051",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2015,10 +1817,7 @@
   {
     "title": "Soul Punisher",
     "number": "BT5-052",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2040,10 +1839,7 @@
   {
     "title": "Pilaf",
     "number": "BT5-053",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -2069,10 +1865,7 @@
   {
     "title": "Pilaf",
     "number": "BT5-053_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -2098,10 +1891,7 @@
   {
     "title": "Super 17",
     "number": "BT5-054",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Green",
@@ -2125,10 +1915,7 @@
   {
     "title": "Twin Onslaught SS4 Son Goku",
     "number": "BT5-055",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2159,10 +1946,7 @@
   {
     "title": "Twin Onslaught SS4 Son Goku",
     "number": "BT5-055_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2193,10 +1977,7 @@
   {
     "title": "Super Saiyan Son Goku",
     "number": "BT5-056",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2223,10 +2004,7 @@
   {
     "title": "Spirited Search Pan",
     "number": "BT5-057",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2253,10 +2031,7 @@
   {
     "title": "SS Vegeta, No Holding Back",
     "number": "BT5-058",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2285,10 +2060,7 @@
   {
     "title": "Defensive Stance SS Vegeta",
     "number": "BT5-059",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2316,10 +2088,7 @@
   {
     "title": "Spirited Search SS Trunks",
     "number": "BT5-060",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2349,10 +2118,7 @@
   {
     "title": "Defensive Stance Piccolo",
     "number": "BT5-061",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2380,10 +2146,7 @@
   {
     "title": "Negotiator Krillin",
     "number": "BT5-062",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2411,10 +2174,7 @@
   {
     "title": "Physical Mastery Uub",
     "number": "BT5-063",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2441,10 +2201,7 @@
   {
     "title": "Endless Malice Android 17",
     "number": "BT5-064",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2472,10 +2229,7 @@
   {
     "title": "Deadly Defender Android 18",
     "number": "BT5-065",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2503,10 +2257,7 @@
   {
     "title": "Hell Fighter 17, Evil Revived",
     "number": "BT5-066",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2534,10 +2285,7 @@
   {
     "title": "Super 17, Cell Absorbed",
     "number": "BT5-067",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2567,10 +2315,7 @@
   {
     "title": "Super 17, Cell Absorbed",
     "number": "BT5-067_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2600,10 +2345,7 @@
   {
     "title": "Super 17, to Further Heights",
     "number": "BT5-068",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2635,10 +2377,7 @@
   {
     "title": "Dr. Myuu, Evil Genius",
     "number": "BT5-069",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2666,10 +2405,7 @@
   {
     "title": "Android 20, Vile Creator",
     "number": "BT5-070",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2697,10 +2433,7 @@
   {
     "title": "Infernal Fighter Nappa",
     "number": "BT5-071",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2728,10 +2461,7 @@
   {
     "title": "Infernal Emperor Frieza",
     "number": "BT5-072",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2758,10 +2488,7 @@
   {
     "title": "Infernal Villainy Cell",
     "number": "BT5-073",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2789,10 +2516,7 @@
   {
     "title": "General Rilldo",
     "number": "BT5-074",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2819,10 +2543,7 @@
   {
     "title": "General Rilldo",
     "number": "BT5-074_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2849,10 +2570,7 @@
   {
     "title": "Shocking Death Ball",
     "number": "BT5-075",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2875,10 +2593,7 @@
   {
     "title": "Unthinkable Fate",
     "number": "BT5-076",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2900,10 +2615,7 @@
   {
     "title": "Hidden Feelings",
     "number": "BT5-077",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2925,10 +2637,7 @@
   {
     "title": "Infernal Messenger",
     "number": "BT5-078",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -2949,10 +2658,7 @@
   {
     "title": "Master Roshi",
     "number": "BT5-079",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2974,10 +2680,7 @@
   {
     "title": "Sorbet",
     "number": "BT5-080",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Yellow",
@@ -3003,10 +2706,7 @@
   {
     "title": "Super Saiyan Blue Son Goku",
     "number": "BT5-081",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3033,10 +2733,7 @@
   {
     "title": "Super Saiyan Blue Son Goku",
     "number": "BT5-081_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3063,10 +2760,7 @@
   {
     "title": "Fired Up SS Son Gohan",
     "number": "BT5-082",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3094,10 +2788,7 @@
   {
     "title": "SSB Vegeta, Testing His Limits",
     "number": "BT5-083",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3129,10 +2820,7 @@
   {
     "title": "SSB Vegeta, Testing His Limits",
     "number": "BT5-083_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3164,10 +2852,7 @@
   {
     "title": "Kick Barrage Piccolo",
     "number": "BT5-084",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3195,10 +2880,7 @@
   {
     "title": "Krillin, Raring to Fight",
     "number": "BT5-085",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3225,10 +2907,7 @@
   {
     "title": "Tri-Beam Tien Shinhan",
     "number": "BT5-086",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3255,10 +2934,7 @@
   {
     "title": "Master Roshi, All Warmed Up",
     "number": "BT5-087",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3286,10 +2962,7 @@
   {
     "title": "Full Surveillance Jaco",
     "number": "BT5-088",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3317,10 +2990,7 @@
   {
     "title": "Full Surveillance Jaco",
     "number": "BT5-088_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3348,10 +3018,7 @@
   {
     "title": "Divine Cry Beerus",
     "number": "BT5-089",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3379,10 +3046,7 @@
   {
     "title": "Quick Obstruction Whis",
     "number": "BT5-090",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3410,10 +3074,7 @@
   {
     "title": "Frieza, Back from Hell",
     "number": "BT5-091",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3443,10 +3104,7 @@
   {
     "title": "Frieza, Back from Hell",
     "number": "BT5-091_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3476,10 +3134,7 @@
   {
     "title": "Deadly Defender Frieza",
     "number": "BT5-092",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3507,10 +3162,7 @@
   {
     "title": "Frieza, Biding His Time",
     "number": "BT5-093",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3538,10 +3190,7 @@
   {
     "title": "Frieza, Revenge in Motion",
     "number": "BT5-094",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3568,10 +3217,7 @@
   {
     "title": "Military Command Frieza",
     "number": "BT5-095",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3599,10 +3245,7 @@
   {
     "title": "Bitter Past Ginyu",
     "number": "BT5-096",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3632,10 +3275,7 @@
   {
     "title": "Dragon Ball Seeker Sorbet",
     "number": "BT5-097",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3663,10 +3303,7 @@
   {
     "title": "Ginyu",
     "number": "BT5-098",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3693,10 +3330,7 @@
   {
     "title": "Vicious Lackey Tagoma",
     "number": "BT5-099",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3723,10 +3357,7 @@
   {
     "title": "Savage Shisami",
     "number": "BT5-100",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3755,10 +3386,7 @@
   {
     "title": "Time Magic",
     "number": "BT5-101",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3782,10 +3410,7 @@
   {
     "title": "Time Magic",
     "number": "BT5-101_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3809,10 +3434,7 @@
   {
     "title": "Revival of the Emperor",
     "number": "BT5-102",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3834,10 +3456,7 @@
   {
     "title": "Personal Ambition",
     "number": "BT5-103",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3859,10 +3478,7 @@
   {
     "title": "Death Ball",
     "number": "BT5-104",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3883,15 +3499,12 @@
   {
     "title": "Black Masked Saiyan",
     "number": "BT5-105",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Black",
     "power": "10000",
-    "character": "Black Masked Saiyan ",
+    "character": "Black Masked Saiyan",
     "special_trait": "Saiyan",
     "era": "Dark Demon Realm Saga",
     "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Burst_3.png\" alt=\"Burst 3\" class=\"skillText\"> (You must place the top 3 cards of your deck in your Drop Area to activate this skill.) When this card attacks, draw 1 card.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may choose up to 2 of your energy, switch them to Active Mode, and flip this card over.",
@@ -3909,10 +3522,7 @@
   {
     "title": "Adventurous Son Goku",
     "number": "BT5-106",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -3941,10 +3551,7 @@
   {
     "title": "Dragon Ball Seeker Bulma",
     "number": "BT5-107",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -3973,10 +3580,7 @@
   {
     "title": "Kami, Global Unifier",
     "number": "BT5-108",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4008,10 +3612,7 @@
   {
     "title": "Kami, Global Unifier",
     "number": "BT5-108_BD",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4043,10 +3644,7 @@
   {
     "title": "Dende, New to the Job",
     "number": "BT5-109",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4077,10 +3675,7 @@
   {
     "title": "Shenron, the Wishgranter",
     "number": "BT5-110",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4109,10 +3704,7 @@
   {
     "title": "Shenron, the Wishgranter",
     "number": "BT5-110_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4141,10 +3733,7 @@
   {
     "title": "Black Masked Saiyan, the Devastator",
     "number": "BT5-111",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4172,10 +3761,7 @@
   {
     "title": "Black Masked Saiyan, the Devastator",
     "number": "BT5-111_SPR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4203,10 +3789,7 @@
   {
     "title": "Dark Power Black Masked Saiyan",
     "number": "BT5-112",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4233,10 +3816,7 @@
   {
     "title": "Dark Power Black Masked Saiyan",
     "number": "BT5-112_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4263,10 +3843,7 @@
   {
     "title": "Deadly Defender Son Goku",
     "number": "BT5-113",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4294,10 +3871,7 @@
   {
     "title": "Temporal Rescue Trunks",
     "number": "BT5-114",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4325,10 +3899,7 @@
   {
     "title": "Power Burst",
     "number": "BT5-115",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4351,10 +3922,7 @@
   {
     "title": "Dragon Radar",
     "number": "BT5-116",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Black",
@@ -4376,10 +3944,7 @@
   {
     "title": "Dragon Radar",
     "number": "BT5-116_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Black",
@@ -4401,10 +3966,7 @@
   {
     "title": "Dragon Ball",
     "number": "BT5-117",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4426,10 +3988,7 @@
   {
     "title": "Dragon Ball",
     "number": "BT5-117_PR",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4451,10 +4010,7 @@
   {
     "title": "A Child's Wish",
     "number": "BT5-118",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4476,10 +4032,7 @@
   {
     "title": "World Peace",
     "number": "BT5-119",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -4501,10 +4054,7 @@
   {
     "title": "Miraculous Fighter SS3 Gogeta",
     "number": "BT5-120",
-    "series": [
-      "Series 5",
-      " ～MIRACULOUS REVIVAL～"
-    ],
+    "series_text": "Series 5  ~MIRACULOUS REVIVAL~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Blue",

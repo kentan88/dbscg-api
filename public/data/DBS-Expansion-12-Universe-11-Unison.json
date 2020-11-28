@@ -2,10 +2,7 @@
   {
     "title": "Toppo",
     "number": "EX12-01",
-    "series": [
-      "EXPANSION SET 12",
-      "-Universe 11 Unison-"
-    ],
+    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Yellow",
@@ -28,10 +25,7 @@
   {
     "title": "Vegeta, Unison of Fury ",
     "number": "EX12-02",
-    "series": [
-      "EXPANSION SET 12",
-      "-Universe 11 Unison-"
-    ],
+    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Yellow",
@@ -56,10 +50,7 @@
   {
     "title": "Belmod, the Self-Indulgent",
     "number": "EX12-03",
-    "series": [
-      "EXPANSION SET 12",
-      "-Universe 11 Unison-"
-    ],
+    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -88,10 +79,7 @@
   {
     "title": "Marcarita, Tutor of Power",
     "number": "EX12-04",
-    "series": [
-      "EXPANSION SET 12",
-      "-Universe 11 Unison-"
-    ],
+    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -120,10 +108,7 @@
   {
     "title": "Dyspo, the Flashstriker",
     "number": "EX12-05",
-    "series": [
-      "EXPANSION SET 12",
-      "-Universe 11 Unison-"
-    ],
+    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -151,10 +136,7 @@
   {
     "title": "Kahseral, the Slashstriker",
     "number": "EX12-06",
-    "series": [
-      "EXPANSION SET 12",
-      "-Universe 11 Unison-"
-    ],
+    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -181,10 +163,7 @@
   {
     "title": "Spirit Fist",
     "number": "EX12-07",
-    "series": [
-      "EXPANSION SET 12",
-      "-Universe 11 Unison-"
-    ],
+    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Yellow",

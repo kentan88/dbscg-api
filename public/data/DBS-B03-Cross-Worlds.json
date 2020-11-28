@@ -2,10 +2,7 @@
   {
     "title": "Pan",
     "number": "BT3-001",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Red",
@@ -29,10 +26,7 @@
   {
     "title": "Dr. Myuu",
     "number": "BT3-002",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -57,10 +51,7 @@
   {
     "title": "Victorious Fist Super Saiyan 3 Son Goku",
     "number": "BT3-003",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -91,10 +82,7 @@
   {
     "title": "Rising Fist Super Saiyan 2 Son Goku",
     "number": "BT3-004",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -125,10 +113,7 @@
   {
     "title": "Determined Super Saiyan Son Goku",
     "number": "BT3-005",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -156,10 +141,7 @@
   {
     "title": "Determined Super Saiyan Son Goku",
     "number": "BT3-005_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -187,10 +169,7 @@
   {
     "title": "Pint-sized Warrior Son Goku",
     "number": "BT3-006",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -217,10 +196,7 @@
   {
     "title": "Shocking Future Son Goku",
     "number": "BT3-007",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -247,10 +223,7 @@
   {
     "title": "Fearless Pan",
     "number": "BT3-008",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -280,10 +253,7 @@
   {
     "title": "Fearless Pan",
     "number": "BT3-008_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -313,10 +283,7 @@
   {
     "title": "Pan",
     "number": "BT3-009",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -343,10 +310,7 @@
   {
     "title": "Reliable Trunks",
     "number": "BT3-010",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -376,10 +340,7 @@
   {
     "title": "Quick Rush Trunks",
     "number": "BT3-011",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -406,10 +367,7 @@
   {
     "title": "Dependable Robot Giru",
     "number": "BT3-012",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -437,10 +395,7 @@
   {
     "title": "Handy Giru",
     "number": "BT3-013",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -468,10 +423,7 @@
   {
     "title": "Hidden Power Uub",
     "number": "BT3-014",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -498,10 +450,7 @@
   {
     "title": "Bodyguard Ledgic",
     "number": "BT3-015",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -529,10 +478,7 @@
   {
     "title": "Bodyguard Ledgic",
     "number": "BT3-015_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -560,10 +506,7 @@
   {
     "title": "Power-absorbing Luud",
     "number": "BT3-016",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -592,10 +535,7 @@
   {
     "title": "Dr. Myuu, Under Baby's Control",
     "number": "BT3-017",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -622,10 +562,7 @@
   {
     "title": "Meta-Rilldo, Form Perfected",
     "number": "BT3-018",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -656,10 +593,7 @@
   {
     "title": "General Evolved, Hyper Meta-Rilldo",
     "number": "BT3-019",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -687,10 +621,7 @@
   {
     "title": "Hidden Ability, General Rilldo",
     "number": "BT3-020",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -717,10 +648,7 @@
   {
     "title": "Triple Union Super Sigma",
     "number": "BT3-021",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -748,10 +676,7 @@
   {
     "title": "Commander Nezi",
     "number": "BT3-022",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -779,10 +704,7 @@
   {
     "title": "Mega Cannon Sigma, Natt",
     "number": "BT3-023",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -809,10 +731,7 @@
   {
     "title": "Mega Cannon Sigma, Bizu",
     "number": "BT3-024",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -839,10 +758,7 @@
   {
     "title": "Mega Cannon Sigma Ribet",
     "number": "BT3-025",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -869,10 +785,7 @@
   {
     "title": "Pride and Justice Toppo",
     "number": "BT3-026",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -901,10 +814,7 @@
   {
     "title": "Pride and Justice Toppo",
     "number": "BT3-026_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -933,10 +843,7 @@
   {
     "title": "Unending Awakening",
     "number": "BT3-027",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -957,10 +864,7 @@
   {
     "title": "Grand Tour Spaceship",
     "number": "BT3-028",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -981,10 +885,7 @@
   {
     "title": "Baby's Subdual",
     "number": "BT3-029",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Red",
@@ -1005,10 +906,7 @@
   {
     "title": "Planet M-2",
     "number": "BT3-030",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -1031,10 +929,7 @@
   {
     "title": "Majin Buu",
     "number": "BT3-031",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Blue",
@@ -1058,10 +953,7 @@
   {
     "title": "Son Goku",
     "number": "BT3-032",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1085,10 +977,7 @@
   {
     "title": "Ultra Instinct -Sign- Son Goku",
     "number": "BT3-033",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1119,10 +1008,7 @@
   {
     "title": "Ultra Instinct -Sign- Son Goku",
     "number": "BT3-033_SPR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1153,10 +1039,7 @@
   {
     "title": "Ultimate Spirit Bomb Son Goku",
     "number": "BT3-034",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1188,10 +1071,7 @@
   {
     "title": "Furious Rush Super Saiyan 3 Son Goku",
     "number": "BT3-035",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1219,10 +1099,7 @@
   {
     "title": "Furious Rush Super Saiyan 3 Son Goku",
     "number": "BT3-035_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1250,10 +1127,7 @@
   {
     "title": "Final Explosion Prince of Destruction Vegeta",
     "number": "BT3-036",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1281,10 +1155,7 @@
   {
     "title": "Universal Leader, Grand Supreme Kai",
     "number": "BT3-037",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1311,10 +1182,7 @@
   {
     "title": "Unyielding Defender, East Supreme Kai",
     "number": "BT3-038",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1342,10 +1210,7 @@
   {
     "title": "Majin Defier, West Supreme Kai",
     "number": "BT3-039",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1373,10 +1238,7 @@
   {
     "title": "Majin Defier, West Supreme Kai",
     "number": "BT3-039_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1404,10 +1266,7 @@
   {
     "title": "Majin Defier, South Supreme Kai",
     "number": "BT3-040",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1435,10 +1294,7 @@
   {
     "title": "Majin Defier, North Supreme Kai",
     "number": "BT3-041",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1466,10 +1322,7 @@
   {
     "title": "Kibito, Kai's Attendant",
     "number": "BT3-042",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1496,10 +1349,7 @@
   {
     "title": "Powers Combined, Kibito Kai",
     "number": "BT3-043",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1527,10 +1377,7 @@
   {
     "title": "Powers Combined, Kibito Kai",
     "number": "BT3-043_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1558,10 +1405,7 @@
   {
     "title": "Thinks He's the Best Hercule",
     "number": "BT3-044",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1588,10 +1432,7 @@
   {
     "title": "Agent of Resurrection, Babidi",
     "number": "BT3-045",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1618,10 +1459,7 @@
   {
     "title": "Magician's Father, Bibidi",
     "number": "BT3-046",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1650,10 +1488,7 @@
   {
     "title": "The Ultimate Evil, Majin Buu",
     "number": "BT3-047",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1683,10 +1518,7 @@
   {
     "title": "Out of Control Evil, Majin Buu",
     "number": "BT3-048",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1715,10 +1547,7 @@
   {
     "title": "Power Absorbing Majin Buu",
     "number": "BT3-049",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1750,10 +1579,7 @@
   {
     "title": "Majin Buu, Dawn of the Rampage",
     "number": "BT3-050",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1783,10 +1609,7 @@
   {
     "title": "God Absorber Majin Buu",
     "number": "BT3-051",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1817,10 +1640,7 @@
   {
     "title": "The Most Evil Absorption in History",
     "number": "BT3-052",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1841,10 +1661,7 @@
   {
     "title": "Rebirth of Justice",
     "number": "BT3-053",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1865,10 +1682,7 @@
   {
     "title": "Buu Make You Cookie",
     "number": "BT3-054",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1889,10 +1703,7 @@
   {
     "title": "Vegito",
     "number": "BT3-055",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Green",
@@ -1916,10 +1727,7 @@
   {
     "title": "Android 13",
     "number": "BT3-056",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -1942,10 +1750,7 @@
   {
     "title": "Finishing Spirit Bomb Son Goku",
     "number": "BT3-057",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1975,10 +1780,7 @@
   {
     "title": "Pressure Assault Super Saiyan Son Goku",
     "number": "BT3-058",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2006,10 +1808,7 @@
   {
     "title": "Indomitable Spirit SSB Son Goku",
     "number": "BT3-059",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2039,10 +1838,7 @@
   {
     "title": "Dauntless Spirit SSB Vegeta",
     "number": "BT3-060",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2073,10 +1869,7 @@
   {
     "title": "Unyielding Justice SS2 Trunks",
     "number": "BT3-061",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2108,10 +1901,7 @@
   {
     "title": "Trunks, Bridge to the Future",
     "number": "BT3-062",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2138,10 +1928,7 @@
   {
     "title": "Hyper Rush SSB Vegito",
     "number": "BT3-063",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2171,10 +1958,7 @@
   {
     "title": "Hyper Rush SSB Vegito",
     "number": "BT3-063_SPR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2204,10 +1988,7 @@
   {
     "title": "Dreadful Duo, Android 17",
     "number": "BT3-064",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2237,10 +2018,7 @@
   {
     "title": "Dreadful Duo, Android 18",
     "number": "BT3-065",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2270,10 +2048,7 @@
   {
     "title": "Made to Destroy, Android 19",
     "number": "BT3-066",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2300,10 +2075,7 @@
   {
     "title": "Dr. Gero, Evil's Inventor",
     "number": "BT3-067",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2330,10 +2102,7 @@
   {
     "title": "Stouthearted Android 16",
     "number": "BT3-068",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2361,10 +2130,7 @@
   {
     "title": "Stouthearted Android 16",
     "number": "BT3-068_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2392,10 +2158,7 @@
   {
     "title": "Unending Destruction, Android 13",
     "number": "BT3-069",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2423,10 +2186,7 @@
   {
     "title": "Dawn of Terror, Android 13",
     "number": "BT3-070",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2455,10 +2215,7 @@
   {
     "title": "Unfeeling Destroyer Android 14",
     "number": "BT3-071",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2486,10 +2243,7 @@
   {
     "title": "Combination Attack Android 14",
     "number": "BT3-072",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2516,10 +2270,7 @@
   {
     "title": "Unfeeling Destroyer Android 15",
     "number": "BT3-073",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2546,10 +2297,7 @@
   {
     "title": "Android 15, Just Saying Hi",
     "number": "BT3-074",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2576,10 +2324,7 @@
   {
     "title": "Terror Scythe Goku Black",
     "number": "BT3-075",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2606,10 +2351,7 @@
   {
     "title": "Terror Scythe Goku Black",
     "number": "BT3-075_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2636,10 +2378,7 @@
   {
     "title": "Terror Scythe Goku Black",
     "number": "BT3-075_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -2666,10 +2405,7 @@
   {
     "title": "Twisted Justice, Fused Zamasu",
     "number": "BT3-076",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -2701,10 +2437,7 @@
   {
     "title": "Evil Psyche, Zamasu",
     "number": "BT3-077",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2734,10 +2467,7 @@
   {
     "title": "Evil Psyche, Zamasu",
     "number": "BT3-077_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -2767,10 +2497,7 @@
   {
     "title": "Unstoppable Ambition Super Saiyan Caulifla",
     "number": "BT3-078",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -2798,10 +2525,7 @@
   {
     "title": "To Save a Hopeful Future",
     "number": "BT3-079",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2822,10 +2546,7 @@
   {
     "title": "Create Android",
     "number": "BT3-080",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2846,10 +2567,7 @@
   {
     "title": "Speedy Surprise Attack",
     "number": "BT3-081",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -2870,10 +2588,7 @@
   {
     "title": "Bardock",
     "number": "BT3-082",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2896,10 +2611,7 @@
   {
     "title": "Son Goku",
     "number": "BT3-083",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -2924,10 +2636,7 @@
   {
     "title": "Desperate Warrior Super Saiyan Bardock",
     "number": "BT3-084",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2957,10 +2666,7 @@
   {
     "title": "Great Protector, Great Ape Bardock",
     "number": "BT3-085",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2990,10 +2696,7 @@
   {
     "title": "Striker Bardock",
     "number": "BT3-086",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3021,10 +2724,7 @@
   {
     "title": "Gine, Family of Justice",
     "number": "BT3-087",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3052,10 +2752,7 @@
   {
     "title": "Explosive Spirit Son Goku",
     "number": "BT3-088",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3084,10 +2781,7 @@
   {
     "title": "Explosive Spirit Son Goku",
     "number": "BT3-088_SPR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3116,10 +2810,7 @@
   {
     "title": "Explosive Spirit Son Goku",
     "number": "BT3-088_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3148,10 +2839,7 @@
   {
     "title": "Explosive Spirit Son Goku",
     "number": "BT3-088_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3180,10 +2868,7 @@
   {
     "title": "Rampaging Great Ape Son Goku",
     "number": "BT3-089",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3215,10 +2900,7 @@
   {
     "title": "No Openings Son Goku",
     "number": "BT3-090",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3245,10 +2927,7 @@
   {
     "title": "Kakarot, the Child Who Got Away",
     "number": "BT3-091",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3275,10 +2954,7 @@
   {
     "title": "Absolute Defense Great Ape King Vegeta",
     "number": "BT3-092",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3310,10 +2986,7 @@
   {
     "title": "Lord of the Great Apes, King Vegeta",
     "number": "BT3-093",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3340,10 +3013,7 @@
   {
     "title": "Vegeta",
     "number": "BT3-094",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3370,10 +3040,7 @@
   {
     "title": "Youthful Bulma",
     "number": "BT3-095",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3400,10 +3067,7 @@
   {
     "title": "Hidden Power Great Ape Tora",
     "number": "BT3-096",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3431,10 +3095,7 @@
   {
     "title": "Hidden Power Great Ape Tora",
     "number": "BT3-096_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3462,10 +3123,7 @@
   {
     "title": "Unwavering Solidarity Tora",
     "number": "BT3-097",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3492,10 +3150,7 @@
   {
     "title": "Hidden Power Great Ape Fasha",
     "number": "BT3-098",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3523,10 +3178,7 @@
   {
     "title": "Hidden Power Great Ape Fasha",
     "number": "BT3-098_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3554,10 +3206,7 @@
   {
     "title": "Unwavering Solidarity Fasha",
     "number": "BT3-099",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3584,10 +3233,7 @@
   {
     "title": "Unwavering Solidarity Shugesh",
     "number": "BT3-100",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3615,10 +3261,7 @@
   {
     "title": "Unwavering Solidarity Shugesh",
     "number": "BT3-100_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3646,10 +3289,7 @@
   {
     "title": "Unwavering Solidarity Borgos",
     "number": "BT3-101",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3676,10 +3316,7 @@
   {
     "title": "Nappa, Vegeta's Attendant",
     "number": "BT3-102",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3706,10 +3343,7 @@
   {
     "title": "Burgeoning Power Bergamo",
     "number": "BT3-103",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3737,10 +3371,7 @@
   {
     "title": "Flying Nimbus",
     "number": "BT3-104",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3761,10 +3392,7 @@
   {
     "title": "Flying Nimbus",
     "number": "BT3-104_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3785,10 +3413,7 @@
   {
     "title": "Flying Nimbus",
     "number": "BT3-104_PR02",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3809,10 +3434,7 @@
   {
     "title": "Planet Vegeta",
     "number": "BT3-105",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3834,10 +3456,7 @@
   {
     "title": "Planet Vegeta",
     "number": "BT3-105_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3859,10 +3478,7 @@
   {
     "title": "Planet Vegeta",
     "number": "BT3-105_PR02",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3884,10 +3500,7 @@
   {
     "title": "March of the Great Ape",
     "number": "BT3-106",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3908,10 +3521,7 @@
   {
     "title": "March of the Great Ape",
     "number": "BT3-106_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -3932,10 +3542,7 @@
   {
     "title": "Mira",
     "number": "BT3-107",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "LEADER",
     "color": "Black",
@@ -3961,10 +3568,7 @@
   {
     "title": "Trunks",
     "number": "BT3-108",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Black",
@@ -3977,7 +3581,7 @@
       "Auto",
       "Awaken"
     ],
-    "title_back": "Super Saiyan Trunks, Protector of Time ",
+    "title_back": "Super Saiyan Trunks, Protector of Time",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place up to 2 cards from the top of your deck in the Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then, you may choose 5 cards in your Drop Area and send them to your Warp. If you do so, this card gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
     "skills_back": [
       "Activate-Main",
@@ -3989,10 +3593,7 @@
   {
     "title": "SS3 Bardock, Power Unleashed",
     "number": "BT3-109",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4022,10 +3623,7 @@
   {
     "title": "Awakened Warrior Bardock",
     "number": "BT3-110",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4054,10 +3652,7 @@
   {
     "title": "Awakened Warrior Bardock",
     "number": "BT3-110_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4086,10 +3681,7 @@
   {
     "title": "Awakened Warrior Bardock",
     "number": "BT3-110_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4118,10 +3710,7 @@
   {
     "title": "Awakened Warrior Bardock",
     "number": "BT3-110_PR02",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4150,10 +3739,7 @@
   {
     "title": "Trunks, Power Overseeing Time",
     "number": "BT3-111",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4183,10 +3769,7 @@
   {
     "title": "Unrelenting Assault Trunks",
     "number": "BT3-112",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4214,10 +3797,7 @@
   {
     "title": "Supreme Kai of Time, World's Protector",
     "number": "BT3-113",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4245,10 +3825,7 @@
   {
     "title": "Towa, Reprogrammed Menace",
     "number": "BT3-114",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -4277,10 +3854,7 @@
   {
     "title": "Towa, Space Time Unleashed",
     "number": "BT3-115",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4307,10 +3881,7 @@
   {
     "title": "Dimension Breaker Mira",
     "number": "BT3-116",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4340,10 +3911,7 @@
   {
     "title": "Relentless Destruction Mira",
     "number": "BT3-117",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4371,10 +3939,7 @@
   {
     "title": "Relentless Destruction Mira",
     "number": "BT3-117_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4402,10 +3967,7 @@
   {
     "title": "Relentless Destruction Mira",
     "number": "BT3-117_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -4433,10 +3995,7 @@
   {
     "title": "Fu, Shrouded in Mystery",
     "number": "BT3-118",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4466,10 +4025,7 @@
   {
     "title": "Fu, Shrouded in Mystery",
     "number": "BT3-118_SPR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4499,10 +4055,7 @@
   {
     "title": "Fu, Shrouded in Mystery",
     "number": "BT3-118_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4532,10 +4085,7 @@
   {
     "title": "Shun Shun, Protector Majin",
     "number": "BT3-119",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4563,10 +4113,7 @@
   {
     "title": "Shun Shun, Protector Majin",
     "number": "BT3-119_BD",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4594,10 +4141,7 @@
   {
     "title": "Haru Haru, Attacker Majin",
     "number": "BT3-120",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4625,10 +4169,7 @@
   {
     "title": "Haru Haru, Attacker Majin",
     "number": "BT3-120_PR",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -4656,10 +4197,7 @@
   {
     "title": "Dark Plot",
     "number": "BT3-121",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4681,10 +4219,7 @@
   {
     "title": "Time's Judgement",
     "number": "BT3-122",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -4705,10 +4240,7 @@
   {
     "title": "Hyper Evolution Super Saiyan 4 Son Goku",
     "number": "BT3-123",
-    "series": [
-      "Series 3 Booster",
-      "～CROSS WORLDS～ "
-    ],
+    "series_text": "Series 3 Booster ~CROSS WORLDS~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Red",

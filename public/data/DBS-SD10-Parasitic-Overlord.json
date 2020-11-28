@@ -2,10 +2,7 @@
   {
     "title": "Baby Vegeta",
     "number": "SD10-01",
-    "series": [
-      "STARTER DECK",
-      "~PARASITIC OVERLORD~ [DBS-SD10]"
-    ],
+    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Yellow",
@@ -30,10 +27,7 @@
   {
     "title": "SS3 Son Goku, the Last Straw",
     "number": "SD10-02",
-    "series": [
-      "STARTER DECK",
-      "~PARASITIC OVERLORD~ [DBS-SD10]"
-    ],
+    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -61,10 +55,7 @@
   {
     "title": "Super Baby 1, the Conqueror",
     "number": "SD10-03",
-    "series": [
-      "STARTER DECK",
-      "~PARASITIC OVERLORD~ [DBS-SD10]"
-    ],
+    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -92,10 +83,7 @@
   {
     "title": "Super Baby 2, Vengeful Rampage",
     "number": "SD10-04",
-    "series": [
-      "STARTER DECK",
-      "~PARASITIC OVERLORD~ [DBS-SD10]"
-    ],
+    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -128,10 +116,7 @@
   {
     "title": "Battle to the Death",
     "number": "SD10-05",
-    "series": [
-      "STARTER DECK",
-      "~PARASITIC OVERLORD~ [DBS-SD10]"
-    ],
+    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Red/Yellow",

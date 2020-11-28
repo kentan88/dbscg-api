@@ -2,11 +2,7 @@
   {
     "title": "Son Goten, Strong of Heart",
     "number": "EX08-01",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -25,7 +21,7 @@
     "character": "Son Goten",
     "special_trait": "Saiyan/Earthling",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 〈Broly〉 card : When you combo with this card, choose up to 1 red Extra Card with <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> and an energy cost of 2 from your deck, place it in your Drop Area, then shuffle your deck. If you placed a card in your Drop Area, choose up to 1 of your energy, switch it to Active Mode, and if you have 5 or less cards in your hand, draw 1 card. ",
+    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 〈Broly〉 card : When you combo with this card, choose up to 1 red Extra Card with <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> and an energy cost of 2 from your deck, place it in your Drop Area, then shuffle your deck. If you placed a card in your Drop Area, choose up to 1 of your energy, switch it to Active Mode, and if you have 5 or less cards in your hand, draw 1 card.",
     "skills": [
       "Energy-Exhaust",
       "Auto",
@@ -35,11 +31,7 @@
   {
     "title": "Meticulous Scheming",
     "number": "EX08-02",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Blue/Yellow",
@@ -61,11 +53,7 @@
   {
     "title": "Super Baby 2, the Malicious Tyrant",
     "number": "EX08-03",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -93,11 +81,7 @@
   {
     "title": "SS Gogeta, All-Out Assault",
     "number": "EX08-04",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -129,11 +113,7 @@
   {
     "title": "Combination Attack",
     "number": "EX08-05",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Red/Blue",
@@ -155,11 +135,7 @@
   {
     "title": "SS Broly, All-Out Assault",
     "number": "EX08-06",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -189,11 +165,7 @@
   {
     "title": "Wailing Spirit",
     "number": "EX08-07",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Green/Yellow",

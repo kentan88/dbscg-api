@@ -2,10 +2,7 @@
   {
     "title": "Son Gohan",
     "number": "BT7-001",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Red",
@@ -31,10 +28,7 @@
   {
     "title": "Son Gohan",
     "number": "BT7-001_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Red",
@@ -60,10 +54,7 @@
   {
     "title": "Broly",
     "number": "BT7-002",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -88,10 +79,7 @@
   {
     "title": "Broly",
     "number": "BT7-002_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -116,10 +104,7 @@
   {
     "title": "Raditz, the Oppressor",
     "number": "BT7-003",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -148,10 +133,7 @@
   {
     "title": "Raditz, the Oppressor",
     "number": "BT7-003_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -180,10 +162,7 @@
   {
     "title": "Son Goku, Heavenly Salvation",
     "number": "BT7-004",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -212,10 +191,7 @@
   {
     "title": "Son Goku, Heavenly Salvation",
     "number": "BT7-004_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -244,10 +220,7 @@
   {
     "title": "Machspeed Kaio-Ken Son Goku",
     "number": "BT7-005",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -276,10 +249,7 @@
   {
     "title": "Machspeed Kaio-Ken Son Goku",
     "number": "BT7-005_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -308,10 +278,7 @@
   {
     "title": "Dependable Brother Son Gohan",
     "number": "BT7-006",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -342,10 +309,7 @@
   {
     "title": "Dependable Brother Son Gohan",
     "number": "BT7-006_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -376,10 +340,7 @@
   {
     "title": "Dependable Brother Son Gohan",
     "number": "BT7-006_SPR_S",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare Signature[SPR_S]",
     "type": "BATTLE",
     "color": "Red",
@@ -410,10 +371,7 @@
   {
     "title": "Helping Hand Son Gohan",
     "number": "BT7-007",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -442,10 +400,7 @@
   {
     "title": "Helping Hand Son Gohan",
     "number": "BT7-007_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -474,10 +429,7 @@
   {
     "title": "Wilderness Training Son Gohan",
     "number": "BT7-008",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -504,10 +456,7 @@
   {
     "title": "Wilderness Training Son Gohan",
     "number": "BT7-008_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -534,10 +483,7 @@
   {
     "title": "Exalted Trio Son Goten",
     "number": "BT7-009",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -566,10 +512,7 @@
   {
     "title": "Exalted Trio Son Goten",
     "number": "BT7-009_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -598,10 +541,7 @@
   {
     "title": "Last Resort Vegeta",
     "number": "BT7-010",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -629,10 +569,7 @@
   {
     "title": "Last Resort Vegeta",
     "number": "BT7-010_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -660,10 +597,7 @@
   {
     "title": "Exalted Trio Trunks",
     "number": "BT7-011",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -692,10 +626,7 @@
   {
     "title": "Exalted Trio Trunks",
     "number": "BT7-011_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -724,10 +655,7 @@
   {
     "title": "Father Figure Piccolo",
     "number": "BT7-012",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -754,10 +682,7 @@
   {
     "title": "Father Figure Piccolo",
     "number": "BT7-012_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -784,10 +709,7 @@
   {
     "title": "Krillin, Unforeseen Savior",
     "number": "BT7-013",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -815,10 +737,7 @@
   {
     "title": "Krillin, Unforeseen Savior",
     "number": "BT7-013_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -846,10 +765,7 @@
   {
     "title": "Exalted Trio Videl",
     "number": "BT7-014",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -876,10 +792,7 @@
   {
     "title": "Exalted Trio Videl",
     "number": "BT7-014_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -906,10 +819,7 @@
   {
     "title": "Coco, Village Princess",
     "number": "BT7-015",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -937,10 +847,7 @@
   {
     "title": "Coco, Village Princess",
     "number": "BT7-015_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -968,10 +875,7 @@
   {
     "title": "Coco's Grandpa, Village Oldster",
     "number": "BT7-016",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -998,10 +902,7 @@
   {
     "title": "Coco's Grandpa, Village Oldster",
     "number": "BT7-016_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -1028,10 +929,7 @@
   {
     "title": "Elder, Village Guardian",
     "number": "BT7-017",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -1058,10 +956,7 @@
   {
     "title": "Elder, Village Guardian",
     "number": "BT7-017_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -1088,10 +983,7 @@
   {
     "title": "Natade Village Monster",
     "number": "BT7-018",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -1118,10 +1010,7 @@
   {
     "title": "Natade Village Monster",
     "number": "BT7-018_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -1148,10 +1037,7 @@
   {
     "title": "Shaman, Ritual Master",
     "number": "BT7-019",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -1178,10 +1064,7 @@
   {
     "title": "Shaman, Ritual Master",
     "number": "BT7-019_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -1208,10 +1091,7 @@
   {
     "title": "Broly, Counter Reversal",
     "number": "BT7-020",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -1241,10 +1121,7 @@
   {
     "title": "Familial Bonds",
     "number": "BT7-021",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -1267,10 +1144,7 @@
   {
     "title": "Familial Bonds",
     "number": "BT7-021_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -1293,10 +1167,7 @@
   {
     "title": "Familial Bonds",
     "number": "BT7-021_PR02",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -1319,10 +1190,7 @@
   {
     "title": "Dormant Legend",
     "number": "BT7-022",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -1346,10 +1214,7 @@
   {
     "title": "Dormant Legend",
     "number": "BT7-022_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -1373,10 +1238,7 @@
   {
     "title": "Denial of Hope",
     "number": "BT7-023",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -1397,10 +1259,7 @@
   {
     "title": "Denial of Hope",
     "number": "BT7-023_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -1421,10 +1280,7 @@
   {
     "title": "The Final Guardian",
     "number": "BT7-024",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Red",
@@ -1447,10 +1303,7 @@
   {
     "title": "The Final Guardian",
     "number": "BT7-024_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Red",
@@ -1473,10 +1326,7 @@
   {
     "title": "Son Goku & Vegeta",
     "number": "BT7-025",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Blue",
@@ -1501,10 +1351,7 @@
   {
     "title": "Son Goku & Vegeta",
     "number": "BT7-025_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Blue",
@@ -1529,10 +1376,7 @@
   {
     "title": "Goku Black & Zamasu",
     "number": "BT7-026",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1557,10 +1401,7 @@
   {
     "title": "Goku Black & Zamasu",
     "number": "BT7-026_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -1585,10 +1426,7 @@
   {
     "title": "SSB Son Goku, the Sweeper",
     "number": "BT7-027",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1615,10 +1453,7 @@
   {
     "title": "SSB Son Goku, the Sweeper",
     "number": "BT7-027_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1645,10 +1480,7 @@
   {
     "title": "Saiyan Bloodline Son Goku",
     "number": "BT7-028",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1675,10 +1507,7 @@
   {
     "title": "Saiyan Bloodline Son Goku",
     "number": "BT7-028_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1705,10 +1534,7 @@
   {
     "title": "Undying Spirit Son Gohan",
     "number": "BT7-029",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1737,10 +1563,7 @@
   {
     "title": "Undying Spirit Son Gohan",
     "number": "BT7-029_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1769,10 +1592,7 @@
   {
     "title": "SS2 Trunks, Memories of the Past",
     "number": "BT7-030",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1801,10 +1621,7 @@
   {
     "title": "SS2 Trunks, Memories of the Past",
     "number": "BT7-030_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1833,10 +1650,7 @@
   {
     "title": "SS2 Trunks, Memories of the Past",
     "number": "BT7-030_SPR_S",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare Signature[SPR_S]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1865,10 +1679,7 @@
   {
     "title": "Trunks, Fighting the Darkness",
     "number": "BT7-031",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1895,10 +1706,7 @@
   {
     "title": "Trunks, Fighting the Darkness",
     "number": "BT7-031_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1925,10 +1733,7 @@
   {
     "title": "Trunks, the Sweeper",
     "number": "BT7-032",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1956,10 +1761,7 @@
   {
     "title": "Trunks, the Sweeper",
     "number": "BT7-032_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1987,10 +1789,7 @@
   {
     "title": "Bulma, Saying Farewell",
     "number": "BT7-033",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2017,10 +1816,7 @@
   {
     "title": "Bulma, Saying Farewell",
     "number": "BT7-033_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2047,10 +1843,7 @@
   {
     "title": "Mai, Filled with Energy",
     "number": "BT7-034",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2078,10 +1871,7 @@
   {
     "title": "Mai, Filled with Energy",
     "number": "BT7-034_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2109,10 +1899,7 @@
   {
     "title": "Whis, the Regulator",
     "number": "BT7-035",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2140,10 +1927,7 @@
   {
     "title": "Whis, the Regulator",
     "number": "BT7-035_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2171,10 +1955,7 @@
   {
     "title": "Gowasu, Zamasu's Master",
     "number": "BT7-036",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2201,10 +1982,7 @@
   {
     "title": "Gowasu, Zamasu's Master",
     "number": "BT7-036_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2231,10 +2009,7 @@
   {
     "title": "Almighty Do-Over Zen-Oh",
     "number": "BT7-037",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2263,10 +2038,7 @@
   {
     "title": "Almighty Do-Over Zen-Oh",
     "number": "BT7-037_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2295,10 +2067,7 @@
   {
     "title": "Vados",
     "number": "BT7-038",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2325,10 +2094,7 @@
   {
     "title": "Vados",
     "number": "BT7-038_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2355,10 +2121,7 @@
   {
     "title": "Kale, Sister of Annihilation",
     "number": "BT7-039",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2387,10 +2150,7 @@
   {
     "title": "Kale, Sister of Annihilation",
     "number": "BT7-039_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2419,10 +2179,7 @@
   {
     "title": "Kale, the Awakened Sister",
     "number": "BT7-040",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2450,10 +2207,7 @@
   {
     "title": "Kale, Timid Sister",
     "number": "BT7-041",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2481,10 +2235,7 @@
   {
     "title": "Kale, Timid Sister",
     "number": "BT7-041_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2512,10 +2263,7 @@
   {
     "title": "Goku Black, the Replicator",
     "number": "BT7-042",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2542,10 +2290,7 @@
   {
     "title": "Goku Black, the Replicator",
     "number": "BT7-042_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2572,10 +2317,7 @@
   {
     "title": "SS Rose Goku Black, Inviting the Darkness",
     "number": "BT7-043",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2603,10 +2345,7 @@
   {
     "title": "SS Rose Goku Black, Inviting the Darkness",
     "number": "BT7-043_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2634,10 +2373,7 @@
   {
     "title": "Goku Black, Evil's Accomplice",
     "number": "BT7-044",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2667,10 +2403,7 @@
   {
     "title": "Goku Black, Evil's Accomplice",
     "number": "BT7-044_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -2700,10 +2433,7 @@
   {
     "title": "Betrayal of the Master",
     "number": "BT7-045",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2724,10 +2454,7 @@
   {
     "title": "Betrayal of the Master",
     "number": "BT7-045_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2748,10 +2475,7 @@
   {
     "title": "Mass Replication",
     "number": "BT7-046",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2776,10 +2500,7 @@
   {
     "title": "Mass Replication",
     "number": "BT7-046_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2804,10 +2525,7 @@
   {
     "title": "You're Wide Open!",
     "number": "BT7-047",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2828,10 +2546,7 @@
   {
     "title": "You're Wide Open!",
     "number": "BT7-047_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2852,10 +2567,7 @@
   {
     "title": "All Too Easy...",
     "number": "BT7-048",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2878,10 +2590,7 @@
   {
     "title": "All Too Easy...",
     "number": "BT7-048_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Blue",
@@ -2904,10 +2613,7 @@
   {
     "title": "Raditz",
     "number": "BT7-049",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -2933,10 +2639,7 @@
   {
     "title": "Raditz",
     "number": "BT7-049_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -2962,10 +2665,7 @@
   {
     "title": "Son Goku",
     "number": "BT7-050",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Green",
@@ -2991,10 +2691,7 @@
   {
     "title": "Son Goku",
     "number": "BT7-050_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Green",
@@ -3020,10 +2717,7 @@
   {
     "title": "Raditz, Saiyan-In-Arms",
     "number": "BT7-051",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3052,10 +2746,7 @@
   {
     "title": "Raditz, Saiyan-In-Arms",
     "number": "BT7-051_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3084,10 +2775,7 @@
   {
     "title": "Raditz, Saiyan Assailant",
     "number": "BT7-052",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -3114,10 +2802,7 @@
   {
     "title": "Raditz, Saiyan Assailant",
     "number": "BT7-052_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -3144,10 +2829,7 @@
   {
     "title": "Unlikely Duo Son Goku",
     "number": "BT7-053",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3174,10 +2856,7 @@
   {
     "title": "Unlikely Duo Son Goku",
     "number": "BT7-053_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3204,10 +2883,7 @@
   {
     "title": "Son Gohan, Hope of the People",
     "number": "BT7-054",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3234,10 +2910,7 @@
   {
     "title": "Son Gohan, Hope of the People",
     "number": "BT7-054_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3264,10 +2937,7 @@
   {
     "title": "Son Gohan, Momentary Awakening",
     "number": "BT7-055",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3294,10 +2964,7 @@
   {
     "title": "Son Gohan, Momentary Awakening",
     "number": "BT7-055_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3324,10 +2991,7 @@
   {
     "title": "Son Goten, Out Adventuring",
     "number": "BT7-056",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3355,10 +3019,7 @@
   {
     "title": "Son Goten, Out Adventuring",
     "number": "BT7-056_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3386,10 +3047,7 @@
   {
     "title": "Great Ape Vegeta, Energy Manipulation",
     "number": "BT7-057",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3417,10 +3075,7 @@
   {
     "title": "Great Ape Vegeta, Energy Manipulation",
     "number": "BT7-057_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3448,10 +3103,7 @@
   {
     "title": "Vegeta the Cruel",
     "number": "BT7-058",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -3480,10 +3132,7 @@
   {
     "title": "Vegeta the Cruel",
     "number": "BT7-058_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -3512,10 +3161,7 @@
   {
     "title": "Trunks, Out Adventuring",
     "number": "BT7-059",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3545,10 +3191,7 @@
   {
     "title": "Trunks, Out Adventuring",
     "number": "BT7-059_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3578,10 +3221,7 @@
   {
     "title": "Piccolo, Special Beam Cannon Unleashed",
     "number": "BT7-060",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3611,10 +3251,7 @@
   {
     "title": "Krillin",
     "number": "BT7-061",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3641,10 +3278,7 @@
   {
     "title": "Krillin",
     "number": "BT7-061_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3671,10 +3305,7 @@
   {
     "title": "Kamehameha Blast Yamcha",
     "number": "BT7-062",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3702,10 +3333,7 @@
   {
     "title": "Kamehameha Blast Yamcha",
     "number": "BT7-062_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3733,10 +3361,7 @@
   {
     "title": "Sorrowful Strike Tien Shinhan",
     "number": "BT7-063",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3763,10 +3388,7 @@
   {
     "title": "Sorrowful Strike Tien Shinhan",
     "number": "BT7-063_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3793,10 +3415,7 @@
   {
     "title": "Chiaotzu, Desperate Measures",
     "number": "BT7-064",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3823,10 +3442,7 @@
   {
     "title": "Chiaotzu, Desperate Measures",
     "number": "BT7-064_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3853,10 +3469,7 @@
   {
     "title": "Yajirobe, Lying in Wait",
     "number": "BT7-065",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3883,10 +3496,7 @@
   {
     "title": "Yajirobe, Lying in Wait",
     "number": "BT7-065_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -3913,10 +3523,7 @@
   {
     "title": "Urgent Aid Kami",
     "number": "BT7-066",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3945,10 +3552,7 @@
   {
     "title": "Urgent Aid Kami",
     "number": "BT7-066_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -3977,10 +3581,7 @@
   {
     "title": "Nappa, the Cultivator",
     "number": "BT7-067",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -4007,10 +3608,7 @@
   {
     "title": "Nappa, the Cultivator",
     "number": "BT7-067_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -4037,10 +3635,7 @@
   {
     "title": "Saibaimen, Endless Explosions",
     "number": "BT7-068",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -4069,10 +3664,7 @@
   {
     "title": "Saibaimen, Endless Explosions",
     "number": "BT7-068_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -4101,10 +3693,7 @@
   {
     "title": "SS Broly, Legend Unleashed",
     "number": "BT7-069",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -4133,10 +3722,7 @@
   {
     "title": "SS Broly, Legend Unleashed",
     "number": "BT7-069_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -4165,10 +3751,7 @@
   {
     "title": "Double Sunday",
     "number": "BT7-070",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -4189,10 +3772,7 @@
   {
     "title": "Double Sunday",
     "number": "BT7-070_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -4213,10 +3793,7 @@
   {
     "title": "Power Ball",
     "number": "BT7-071",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -4239,10 +3816,7 @@
   {
     "title": "Power Ball",
     "number": "BT7-071_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -4265,10 +3839,7 @@
   {
     "title": "Hidden Power of the Saiyans",
     "number": "BT7-072",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -4289,10 +3860,7 @@
   {
     "title": "Hidden Power of the Saiyans",
     "number": "BT7-072_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -4313,10 +3881,7 @@
   {
     "title": "For the Greater Good",
     "number": "BT7-073",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Green",
@@ -4339,10 +3904,7 @@
   {
     "title": "For the Greater Good",
     "number": "BT7-073_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Green",
@@ -4365,10 +3927,7 @@
   {
     "title": "Hit",
     "number": "BT7-074",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Yellow",
@@ -4393,10 +3952,7 @@
   {
     "title": "Hit",
     "number": "BT7-074_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Yellow",
@@ -4421,10 +3977,7 @@
   {
     "title": "Caulifla & Kale",
     "number": "BT7-075",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -4447,10 +4000,7 @@
   {
     "title": "Caulifla & Kale",
     "number": "BT7-075_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -4473,10 +4023,7 @@
   {
     "title": "Super Saiyan Blue Vegeta",
     "number": "BT7-076",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4503,10 +4050,7 @@
   {
     "title": "Super Saiyan Blue Vegeta",
     "number": "BT7-076_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4533,10 +4077,7 @@
   {
     "title": "Saiyan Bloodline Vegeta",
     "number": "BT7-077",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4563,10 +4104,7 @@
   {
     "title": "Saiyan Bloodline Vegeta",
     "number": "BT7-077_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4593,10 +4131,7 @@
   {
     "title": "Champa the Trickster",
     "number": "BT7-078",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4626,10 +4161,7 @@
   {
     "title": "Champa the Trickster",
     "number": "BT7-078_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4659,10 +4191,7 @@
   {
     "title": "Hit, Pride of Universe 6",
     "number": "BT7-079",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4697,10 +4226,7 @@
   {
     "title": "Hit, Pride of Universe 6",
     "number": "BT7-079_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4735,10 +4261,7 @@
   {
     "title": "Hit, Pride of Universe 6",
     "number": "BT7-079_SPR_S",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare Signature[SPR_S]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4773,10 +4296,7 @@
   {
     "title": "Hit, Afterimage Master",
     "number": "BT7-080",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4804,10 +4324,7 @@
   {
     "title": "Hit, Afterimage Master",
     "number": "BT7-080_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4835,10 +4352,7 @@
   {
     "title": "Cabba, Undisguised Rage",
     "number": "BT7-081",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4866,10 +4380,7 @@
   {
     "title": "Cabba, Undisguised Rage",
     "number": "BT7-081_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4897,10 +4408,7 @@
   {
     "title": "Cabba, Brimming with Spirit",
     "number": "BT7-082",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4927,10 +4435,7 @@
   {
     "title": "Cabba, Brimming with Spirit",
     "number": "BT7-082_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4957,10 +4462,7 @@
   {
     "title": "Caulifla, the Awakened Sister",
     "number": "BT7-083",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -4988,10 +4490,7 @@
   {
     "title": "Caulifla, the Resilient Sister",
     "number": "BT7-084",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5018,10 +4517,7 @@
   {
     "title": "Caulifla, the Resilient Sister",
     "number": "BT7-084_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5048,10 +4544,7 @@
   {
     "title": "Caulifla, the Bold Sister",
     "number": "BT7-085",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5079,10 +4572,7 @@
   {
     "title": "Caulifla, the Bold Sister",
     "number": "BT7-085_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5110,10 +4600,7 @@
   {
     "title": "Ironclad Defense Frost",
     "number": "BT7-086",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5141,10 +4628,7 @@
   {
     "title": "Ironclad Defense Frost",
     "number": "BT7-086_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5172,10 +4656,7 @@
   {
     "title": "Frost, the Path to Full Power",
     "number": "BT7-087",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5202,10 +4683,7 @@
   {
     "title": "Frost, the Path to Full Power",
     "number": "BT7-087_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5232,10 +4710,7 @@
   {
     "title": "Botamo, Defender of Universe 6",
     "number": "BT7-088",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5263,10 +4738,7 @@
   {
     "title": "Botamo, Defender of Universe 6",
     "number": "BT7-088_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5294,10 +4766,7 @@
   {
     "title": "Magetta, Defender of Universe 6",
     "number": "BT7-089",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5325,10 +4794,7 @@
   {
     "title": "Magetta, Defender of Universe 6",
     "number": "BT7-089_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5356,10 +4822,7 @@
   {
     "title": "Namekian Partner Saonel",
     "number": "BT7-090",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5386,10 +4849,7 @@
   {
     "title": "Namekian Partner Saonel",
     "number": "BT7-090_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5416,10 +4876,7 @@
   {
     "title": "Namekian Partner Pirina",
     "number": "BT7-091",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5446,10 +4903,7 @@
   {
     "title": "Namekian Partner Pirina",
     "number": "BT7-091_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5476,10 +4930,7 @@
   {
     "title": "Zamasu, Inviting Despair",
     "number": "BT7-092",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5508,10 +4959,7 @@
   {
     "title": "Zamasu, Inviting Despair",
     "number": "BT7-092_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5540,10 +4988,7 @@
   {
     "title": "Hidden Ambition Zamasu",
     "number": "BT7-093",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5574,10 +5019,7 @@
   {
     "title": "Hidden Ambition Zamasu",
     "number": "BT7-093_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5608,10 +5050,7 @@
   {
     "title": "Zamasu, the Mastermind",
     "number": "BT7-094",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5639,10 +5078,7 @@
   {
     "title": "Zamasu, the Mastermind",
     "number": "BT7-094_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -5670,10 +5106,7 @@
   {
     "title": "Weak Spot Protection",
     "number": "BT7-095",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5694,10 +5127,7 @@
   {
     "title": "Weak Spot Protection",
     "number": "BT7-095_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5718,10 +5148,7 @@
   {
     "title": "Zero Mortals Plan",
     "number": "BT7-096",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5744,10 +5171,7 @@
   {
     "title": "Zero Mortals Plan",
     "number": "BT7-096_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5770,10 +5194,7 @@
   {
     "title": "Kefla's Fury",
     "number": "BT7-097",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5794,10 +5215,7 @@
   {
     "title": "Kefla's Fury",
     "number": "BT7-097_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5818,10 +5236,7 @@
   {
     "title": "Restrain",
     "number": "BT7-098",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5844,10 +5259,7 @@
   {
     "title": "Restrain",
     "number": "BT7-098_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -5870,10 +5282,7 @@
   {
     "title": "Son Goku, Dimensional Defender",
     "number": "BT7-099",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -5902,10 +5311,7 @@
   {
     "title": "Son Goku, Dimensional Defender",
     "number": "BT7-099_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -5934,10 +5340,7 @@
   {
     "title": "Son Goku, Making an Entrance",
     "number": "BT7-100",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -5965,10 +5368,7 @@
   {
     "title": "Son Goku, Making an Entrance",
     "number": "BT7-100_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -5996,10 +5396,7 @@
   {
     "title": "Vegeta, Making an Entrance",
     "number": "BT7-101",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -6027,10 +5424,7 @@
   {
     "title": "Vegeta, Making an Entrance",
     "number": "BT7-101_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -6058,10 +5452,7 @@
   {
     "title": "Super Saiyan Trunks",
     "number": "BT7-102",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -6088,10 +5479,7 @@
   {
     "title": "Super Saiyan Trunks",
     "number": "BT7-102_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -6118,10 +5506,7 @@
   {
     "title": "Trunks, Time Regulator",
     "number": "BT7-103",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -6149,10 +5534,7 @@
   {
     "title": "Trunks, Time Regulator",
     "number": "BT7-103_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -6180,10 +5562,7 @@
   {
     "title": "Supreme Kai of Time, Time Regulator",
     "number": "BT7-104",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -6211,10 +5590,7 @@
   {
     "title": "Supreme Kai of Time, Time Regulator",
     "number": "BT7-104_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -6242,10 +5618,7 @@
   {
     "title": "Demigra, the Sorcerer",
     "number": "BT7-105",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -6272,10 +5645,7 @@
   {
     "title": "Demigra, the Sorcerer",
     "number": "BT7-105_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -6302,10 +5672,7 @@
   {
     "title": "Towa, Dimension Leaper",
     "number": "BT7-106",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -6334,10 +5701,7 @@
   {
     "title": "Towa, Dimension Leaper",
     "number": "BT7-106_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -6366,10 +5730,7 @@
   {
     "title": "Assembling the Squad",
     "number": "BT7-107",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -6391,10 +5752,7 @@
   {
     "title": "Assembling the Squad",
     "number": "BT7-107_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -6416,10 +5774,7 @@
   {
     "title": "Time Transmission G",
     "number": "BT7-108",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -6442,10 +5797,7 @@
   {
     "title": "Time Transmission G",
     "number": "BT7-108_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -6468,10 +5820,7 @@
   {
     "title": "Tokitoki City",
     "number": "BT7-109",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -6495,10 +5844,7 @@
   {
     "title": "Tokitoki City",
     "number": "BT7-109_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -6522,10 +5868,7 @@
   {
     "title": "An Unexpected Turn",
     "number": "BT7-110",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -6547,10 +5890,7 @@
   {
     "title": "An Unexpected Turn",
     "number": "BT7-110_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -6572,10 +5912,7 @@
   {
     "title": "Kaio-Ken Son Goku, Defender of Earth",
     "number": "BT7-111",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6608,10 +5945,7 @@
   {
     "title": "Kaio-Ken Son Goku, Defender of Earth",
     "number": "BT7-111_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6644,10 +5978,7 @@
   {
     "title": "Son Goku & Piccolo, Budding Friendship",
     "number": "BT7-112",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6676,10 +6007,7 @@
   {
     "title": "Son Goku & Piccolo, Budding Friendship",
     "number": "BT7-112_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6708,10 +6036,7 @@
   {
     "title": "Son Gohan & Son Goten, Familial Bonds",
     "number": "BT7-113",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6741,10 +6066,7 @@
   {
     "title": "Son Gohan & Son Goten, Familial Bonds",
     "number": "BT7-113_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6774,10 +6096,7 @@
   {
     "title": "Vegeta, Saiyan Elite",
     "number": "BT7-114",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6809,10 +6128,7 @@
   {
     "title": "Broly, Tragedy Foretold",
     "number": "BT7-115",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6844,10 +6160,7 @@
   {
     "title": "Broly, Tragedy Foretold",
     "number": "BT7-115_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6879,10 +6192,7 @@
   {
     "title": "Broly, Rapid Barrage",
     "number": "BT7-116",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6913,10 +6223,7 @@
   {
     "title": "Broly, Rapid Barrage",
     "number": "BT7-116_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6947,10 +6254,7 @@
   {
     "title": "Broly, Demonic Origins",
     "number": "BT7-117",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -6979,10 +6283,7 @@
   {
     "title": "Broly, Demonic Origins",
     "number": "BT7-117_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -7011,10 +6312,7 @@
   {
     "title": "Meteoric Energy SSB Vegito",
     "number": "BT7-118",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7045,10 +6343,7 @@
   {
     "title": "Meteoric Energy SSB Vegito",
     "number": "BT7-118_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7079,10 +6374,7 @@
   {
     "title": "Meteoric Energy SSB Vegito",
     "number": "BT7-118_SPR_S",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare Signature[SPR_S]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7113,10 +6405,7 @@
   {
     "title": "Champa and Vados, Gracious Aid",
     "number": "BT7-119",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7146,10 +6435,7 @@
   {
     "title": "Beerus, Fickle God",
     "number": "BT7-120",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7178,10 +6464,7 @@
   {
     "title": "Beerus, Fickle God",
     "number": "BT7-120_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7210,10 +6493,7 @@
   {
     "title": "Meteoric Energy Kefla",
     "number": "BT7-121",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7247,10 +6527,7 @@
   {
     "title": "Meteoric Energy Kefla",
     "number": "BT7-121_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7284,10 +6561,7 @@
   {
     "title": "Kefla, the Peak of Perfection",
     "number": "BT7-122",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7317,10 +6591,7 @@
   {
     "title": "Kefla, the Peak of Perfection",
     "number": "BT7-122_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7350,10 +6621,7 @@
   {
     "title": "Fused Zamasu, Divine Providence",
     "number": "BT7-123",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7385,10 +6653,7 @@
   {
     "title": "Fused Zamasu, Divine Providence",
     "number": "BT7-123_SPR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7420,10 +6685,7 @@
   {
     "title": "Fused Zamasu, the Cunning",
     "number": "BT7-124",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7456,10 +6718,7 @@
   {
     "title": "Fused Zamasu, the Cunning",
     "number": "BT7-124_PR",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -7492,10 +6751,7 @@
   {
     "title": "SS3 Nappa, Saiyan Might",
     "number": "BT7-125",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Infinite Saiyan Rares[ISR]",
     "type": "BATTLE",
     "color": "Red",
@@ -7524,10 +6780,7 @@
   {
     "title": "SS3 Trunks, Saiyan Harmonizer",
     "number": "BT7-126",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Infinite Saiyan Rares[ISR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -7559,10 +6812,7 @@
   {
     "title": "SS3 Broly, Saiyan Berserker",
     "number": "BT7-127",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Infinite Saiyan Rares[ISR]",
     "type": "BATTLE",
     "color": "Green",
@@ -7592,10 +6842,7 @@
   {
     "title": "SS2 Kefla, Saiyan Synthesis",
     "number": "BT7-128",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Infinite Saiyan Rares[ISR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -7626,10 +6873,7 @@
   {
     "title": "Son Goku, Saiyan Transcendence",
     "number": "BT7-129",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Infinite Saiyan Rares[ISR]",
     "type": "BATTLE",
     "color": "Black",
@@ -7661,10 +6905,7 @@
   {
     "title": "SS3 Scramble - Raditz, Vegeta & Broly",
     "number": "BT7-130",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -7695,10 +6936,7 @@
   {
     "title": "Power of Potara - Vegito, Kefla & Zamasu",
     "number": "BT7-131",
-    "series": [
-      "Series7",
-      "～ASSAULT OF THE SAIYANS～"
-    ],
+    "series_text": "Series7 ~ASSAULT OF THE SAIYANS~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",

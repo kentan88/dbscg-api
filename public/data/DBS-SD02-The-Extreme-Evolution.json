@@ -2,10 +2,7 @@
   {
     "title": "Son Goku",
     "number": "SD2-01",
-    "series": [
-      "Series 3 Starter",
-      "～THE EXTREME EVOLUTION～"
-    ],
+    "series_text": "Series 3 Starter ~THE EXTREME EVOLUTION~",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Red",
@@ -29,10 +26,7 @@
   {
     "title": "Broken Limits Super Saiyan 3 Son Goku",
     "number": "SD2-02",
-    "series": [
-      "Series 3 Starter",
-      "～THE EXTREME EVOLUTION～"
-    ],
+    "series_text": "Series 3 Starter ~THE EXTREME EVOLUTION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red",
@@ -62,10 +56,7 @@
   {
     "title": "Unbreakable Super Saiyan Son Goku",
     "number": "SD2-03",
-    "series": [
-      "Series 3 Starter",
-      "～THE EXTREME EVOLUTION～"
-    ],
+    "series_text": "Series 3 Starter ~THE EXTREME EVOLUTION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red",
@@ -96,10 +87,7 @@
   {
     "title": "Unbreakable Super Saiyan Son Goku",
     "number": "SD2-03_PR",
-    "series": [
-      "Series 3 Starter",
-      "～THE EXTREME EVOLUTION～"
-    ],
+    "series_text": "Series 3 Starter ~THE EXTREME EVOLUTION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red",
@@ -130,10 +118,7 @@
   {
     "title": "Rushing Warrior Pan",
     "number": "SD2-04",
-    "series": [
-      "Series 3 Starter",
-      "～THE EXTREME EVOLUTION～"
-    ],
+    "series_text": "Series 3 Starter ~THE EXTREME EVOLUTION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red",
@@ -160,10 +145,7 @@
   {
     "title": "Chain Attack Trunks",
     "number": "SD2-05",
-    "series": [
-      "Series 3 Starter",
-      "～THE EXTREME EVOLUTION～"
-    ],
+    "series_text": "Series 3 Starter ~THE EXTREME EVOLUTION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red",

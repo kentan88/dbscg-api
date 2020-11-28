@@ -258,103 +258,99 @@ namespace :scraper do
         },
     ]
 
-    class Scraper
-      def cards
-        SERIES_LIST.each do |series|
-          puts "Seeding #{series[:title]}..."
 
-          url = "http://www.dbs-cardgame.com/asia/cardlist/?search=true&category=#{series[:category]}"
-          browser = Watir::Browser.new(:chrome, headless: true)
-          browser.goto(url)
-          doc = Nokogiri::HTML.parse(browser.html)
+    SERIES_LIST.each do |series|
+      puts "Seeding #{series[:title]}..."
 
-          card_list = []
-          list = doc.css('.list-inner li')
+      url = "http://www.dbs-cardgame.com/asia/cardlist/?search=true&category=#{series[:category]}"
+      browser = Watir::Browser.new(:chrome, headless: true)
+      browser.goto(url)
+      doc = Nokogiri::HTML.parse(browser.html)
 
-          list.each do |nodes|
-            card = {}
-            cards_front = nodes.css('.cardFront')
-            cards_back = nodes.css('.cardBack')
+      card_list = []
+      list = doc.css('.list-inner li')
 
-            cards_front.each do |card_front_nodes|
-              number_nodes = card_front_nodes.css('.cardNumber')
-              title_nodes = card_front_nodes.css('.cardName')
-              series_nodes = card_front_nodes.css('.seriesCol')
-              rarity_nodes = card_front_nodes.css('.rarityCol')
-              type_nodes = card_front_nodes.css('.typeCol')
-              color_nodes = card_front_nodes.css('.colorCol')
-              power_nodes = card_front_nodes.css('.powerCol')
-              energy_nodes = card_front_nodes.css('.energyCol')
-              combo_energy_nodes = card_front_nodes.css('.comboEnergyCol')
-              combo_power_nodes = card_front_nodes.css('.comboPowerCol')
-              character_nodes = card_front_nodes.css('.characterCol')
-              special_trait_nodes = card_front_nodes.css('.specialTraitCol')
-              era_nodes = card_front_nodes.css('.eraCol')
-              skills_nodes = card_front_nodes.css('.skillCol')
-              number = number_nodes.inner_text
+      list.each do |nodes|
+        card = {}
+        cards_front = nodes.css('.cardFront')
+        cards_back = nodes.css('.cardBack')
 
-              title = title_nodes.inner_text
-              series_list = series_nodes.children[3].inner_html.gsub("～", "~").split("<br>").join(" ")
-              rarity = rarity_nodes.children[3].inner_text
-              type = type_nodes.children[3].inner_text
-              color = color_nodes.children[3].inner_text
+        cards_front.each do |card_front_nodes|
+          number_nodes = card_front_nodes.css('.cardNumber')
+          title_nodes = card_front_nodes.css('.cardName')
+          series_nodes = card_front_nodes.css('.seriesCol')
+          rarity_nodes = card_front_nodes.css('.rarityCol')
+          type_nodes = card_front_nodes.css('.typeCol')
+          color_nodes = card_front_nodes.css('.colorCol')
+          power_nodes = card_front_nodes.css('.powerCol')
+          energy_nodes = card_front_nodes.css('.energyCol')
+          combo_energy_nodes = card_front_nodes.css('.comboEnergyCol')
+          combo_power_nodes = card_front_nodes.css('.comboPowerCol')
+          character_nodes = card_front_nodes.css('.characterCol')
+          special_trait_nodes = card_front_nodes.css('.specialTraitCol')
+          era_nodes = card_front_nodes.css('.eraCol')
+          skills_nodes = card_front_nodes.css('.skillCol')
+          number = number_nodes.inner_text.strip
+          title = title_nodes.inner_text
+          series_list = series_nodes.children[3].inner_html.strip.gsub("～", "~").split("<br>").join(" ")
+          rarity = rarity_nodes.children[3].inner_text.strip
+          type = type_nodes.children[3].inner_text.strip
+          color = color_nodes.children[3].inner_text.strip
 
-              card.merge!({
-                              title: title,
-                              number: number,
-                              series_text: series_list,
-                              rarity: rarity,
-                              type: type,
-                              color: color
-                          })
+          card.merge!({
+                          title: title,
+                          number: number,
+                          series_text: series_list,
+                          rarity: rarity,
+                          type: type,
+                          color: color,
+                      })
 
-              card['power'] = power_nodes.children[3].inner_text if power_nodes.children.length > 0
-              if energy_nodes.children.length > 0
-                energy_inner_html = energy_nodes.children[3].inner_html
-                card['energy'] = {
-                    red: energy_inner_html.scan(/red/).count,
-                    green: energy_inner_html.scan(/green/).count,
-                    blue: energy_inner_html.scan(/blue/).count,
-                    yellow: energy_inner_html.scan(/yellow/).count,
-                    black: energy_inner_html.scan(/black/).count
-                }
+          card['power'] = power_nodes.children[3].inner_text if power_nodes.children.length > 0
+          if energy_nodes.children.length > 0
+            energy_inner_html = energy_nodes.children[3].inner_html
+            card['energy'] = {
+                red: energy_inner_html.scan(/red/).count,
+                green: energy_inner_html.scan(/green/).count,
+                blue: energy_inner_html.scan(/blue/).count,
+                yellow: energy_inner_html.scan(/yellow/).count,
+                black: energy_inner_html.scan(/black/).count
+            }
 
-                card['energy_cost'] = energy_inner_html.scan(/^[0-9]*/)[0]
-                card['energy_text'] = energy_inner_html.gsub("../../images/cardlist/common/", "/images/")
-              end
-              card['combo_energy'] = combo_energy_nodes.children[3].inner_html if combo_energy_nodes.children.length > 0
-              card['combo_power'] = combo_power_nodes.children[3].inner_html if combo_power_nodes.children.length > 0
-              card['character'] = character_nodes.children[3].inner_text if character_nodes.children.length > 0
-              card['special_trait'] = special_trait_nodes.children[3].inner_text.strip if special_trait_nodes.children.length > 0
-              card['era'] = era_nodes.children[3].inner_text if era_nodes.children.length > 0
+            card['energy_cost'] = energy_inner_html.scan(/^[0-9]*/)[0]
+            card['energy_text'] = energy_inner_html.gsub("../../images/cardlist/common/", "/images/")
+          end
+          card['combo_energy'] = combo_energy_nodes.children[3].inner_html.strip if combo_energy_nodes.children.length > 0
+          card['combo_power'] = combo_power_nodes.children[3].inner_html.strip if combo_power_nodes.children.length > 0
+          card['character'] = character_nodes.children[3].inner_text.strip if character_nodes.children.length > 0
+          card['special_trait'] = special_trait_nodes.children[3].inner_text.strip if special_trait_nodes.children.length > 0
+          card['era'] = era_nodes.children[3].inner_text.strip if era_nodes.children.length > 0
 
-              if skills_nodes.children.length > 0
-                card['skills_text'] = skills_nodes.children[3].inner_html.gsub("../../images/cardlist/common/", "/images/")
-                card['skills'] = skills_nodes.children[3].inner_html.scan(/[a-zA-Z-]+.png/).map { |str| str.gsub(".png", "") }.uniq
-              end
-
-              card_list << card
-            end
-
-            cards_back.each do |card_back_nodes|
-              title_back_nodes = card_back_nodes.css('.cardName')
-              skills_back_nodes = card_back_nodes.css('.skillCol')
-
-              if cards_back.length > 0
-                card['title_back'] = title_back_nodes.inner_text
-
-                if skills_back_nodes.children.length > 0
-                  card['skills_back_text'] = skills_back_nodes.children[3].inner_html.gsub("../../images/cardlist/common", "/images")
-                  card['skills_back'] = skills_back_nodes.children[3].inner_html.scan(/[a-zA-Z\-_]+.png/).map { |str| str.gsub(".png", "") }.uniq
-                end
-              end
-            end
+          if skills_nodes.children.length > 0
+            card['skills_text'] = skills_nodes.children[3].inner_html.strip.gsub("../../images/cardlist/common/", "/images/")
+            card['skills'] = skills_nodes.children[3].inner_html.strip.scan(/[a-zA-Z-]+.png/).map { |str| str.gsub(".png", "") }.uniq
           end
 
-          File.open("public/data/#{series[:title]}.json", "w") do |f|
-            f.write(JSON.pretty_generate(card_list))
+          card_list << card
+        end
+
+        cards_back.each do |card_back_nodes|
+          title_back_nodes = card_back_nodes.css('.cardName')
+          skills_back_nodes = card_back_nodes.css('.skillCol')
+
+          if cards_back.length > 0
+            card['title_back'] = title_back_nodes.inner_text.strip
+
+            if skills_back_nodes.children.length > 0
+              card['skills_back_text'] = skills_back_nodes.children[3].inner_html.strip.gsub("../../images/cardlist/common", "/images")
+              card['skills_back'] = skills_back_nodes.children[3].inner_html.strip.scan(/[a-zA-Z\-_]+.png/).map { |str| str.gsub(".png", "") }.uniq
+            end
           end
         end
+      end
+
+      File.open("public/data/#{series[:title]}.json", "w") do |f|
+        f.write(JSON.pretty_generate(card_list))
       end
     end
   end

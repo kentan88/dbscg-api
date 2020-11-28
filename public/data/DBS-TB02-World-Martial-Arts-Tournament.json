@@ -2,10 +2,7 @@
   {
     "title": "Hercule",
     "number": "TB2-001",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -19,7 +16,7 @@
       "Awaken"
     ],
     "title_back": "Bundle of Confidence Hercule",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> During this card's battle, if there are cards in your Combo Area, draw 1 card and negate this skill for the duration of the battle. ",
+    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> During this card's battle, if there are cards in your Combo Area, draw 1 card and negate this skill for the duration of the battle.",
     "skills_back": [
       "Auto",
       "Activate-Battle"
@@ -28,10 +25,7 @@
   {
     "title": "Supreme Showdown Son Goku",
     "number": "TB2-002",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -60,10 +54,7 @@
   {
     "title": "Supreme Showdown Son Goku",
     "number": "TB2-002_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -92,10 +83,7 @@
   {
     "title": "Heroic Duo Son Gohan",
     "number": "TB2-003",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -122,10 +110,7 @@
   {
     "title": "Tiny Rivals Son Goten",
     "number": "TB2-004",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -154,10 +139,7 @@
   {
     "title": "Supreme Showdown Vegeta",
     "number": "TB2-005",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -187,10 +169,7 @@
   {
     "title": "Supreme Showdown Vegeta",
     "number": "TB2-005_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -220,10 +199,7 @@
   {
     "title": "Vegeta, Power Misused",
     "number": "TB2-006",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -251,10 +227,7 @@
   {
     "title": "Tiny Rivals Trunks",
     "number": "TB2-007",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -283,10 +256,7 @@
   {
     "title": "Mighty Mask, Powers Combined",
     "number": "TB2-008",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -314,10 +284,7 @@
   {
     "title": "Secret Treaty Android 18",
     "number": "TB2-009",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -344,10 +311,7 @@
   {
     "title": "Secret Treaty Hercule",
     "number": "TB2-010",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -375,10 +339,7 @@
   {
     "title": "Heroic Duo Videl",
     "number": "TB2-011",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -407,10 +368,7 @@
   {
     "title": "Hidden Power, East Supreme Kai",
     "number": "TB2-012",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -438,10 +396,7 @@
   {
     "title": "Dark Duo Babidi",
     "number": "TB2-013",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -469,10 +424,7 @@
   {
     "title": "Dark Duo Babidi",
     "number": "TB2-013_BD",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -500,10 +452,7 @@
   {
     "title": "Dark Duo Dabura",
     "number": "TB2-014",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -532,10 +481,7 @@
   {
     "title": "Dark Duo Dabura",
     "number": "TB2-014_BD",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -564,10 +510,7 @@
   {
     "title": "Tainted Power, Spopovich & Yamu",
     "number": "TB2-015",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -594,10 +537,7 @@
   {
     "title": "Pui Pui, Magician's Lackey",
     "number": "TB2-016",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -624,10 +564,7 @@
   {
     "title": "Razor's Edge Yakon",
     "number": "TB2-017",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -655,10 +592,7 @@
   {
     "title": "Babidi's Spaceship",
     "number": "TB2-018",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -680,10 +614,7 @@
   {
     "title": "Uub",
     "number": "TB2-019",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -706,10 +637,7 @@
   {
     "title": "Test of Strength Son Goku",
     "number": "TB2-020",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -737,10 +665,7 @@
   {
     "title": "Top of His Game Son Gohan",
     "number": "TB2-021",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -768,10 +693,7 @@
   {
     "title": "Scuffle Time Son Goten",
     "number": "TB2-022",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -799,10 +721,7 @@
   {
     "title": "Pan, Proudest Daughter",
     "number": "TB2-023",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -831,10 +750,7 @@
   {
     "title": "Pan, Proudest Daughter",
     "number": "TB2-023_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -863,10 +779,7 @@
   {
     "title": "Awakening Talent Pan",
     "number": "TB2-024",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -893,10 +806,7 @@
   {
     "title": "Awakening Talent Pan",
     "number": "TB2-024_PR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -923,10 +833,7 @@
   {
     "title": "Begrudging Respect Vegeta",
     "number": "TB2-025",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -954,10 +861,7 @@
   {
     "title": "Awkward Situation Trunks",
     "number": "TB2-026",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -985,10 +889,7 @@
   {
     "title": "Begrudging Respect Piccolo",
     "number": "TB2-027",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1018,10 +919,7 @@
   {
     "title": "Scuffle Time Mr. Buu",
     "number": "TB2-028",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1049,10 +947,7 @@
   {
     "title": "Hercule, Proudest Grandpa",
     "number": "TB2-029",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1080,10 +975,7 @@
   {
     "title": "Hercule, Proudest Grandpa",
     "number": "TB2-029_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1111,10 +1003,7 @@
   {
     "title": "Test of Strength Uub",
     "number": "TB2-030",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1142,10 +1031,7 @@
   {
     "title": "Wild Tiger, the Imposing",
     "number": "TB2-031",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1172,10 +1058,7 @@
   {
     "title": "Awkward Situation Otokosuki",
     "number": "TB2-032",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1202,10 +1085,7 @@
   {
     "title": "Shocking Latent Ability",
     "number": "TB2-033",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1226,10 +1106,7 @@
   {
     "title": "Son Goku",
     "number": "TB2-034",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -1252,10 +1129,7 @@
   {
     "title": "Fateful Reunion Son Goku",
     "number": "TB2-035",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1283,10 +1157,7 @@
   {
     "title": "Trading Blows Son Goku",
     "number": "TB2-036",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1313,10 +1184,7 @@
   {
     "title": "Fateful Reunion Chi-Chi",
     "number": "TB2-037",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1344,10 +1212,7 @@
   {
     "title": "Martial Daughter Chi-Chi",
     "number": "TB2-038",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1375,10 +1240,7 @@
   {
     "title": "Destined Conclusion Piccolo Jr.",
     "number": "TB2-039",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1407,10 +1269,7 @@
   {
     "title": "Destined Conclusion Piccolo Jr.",
     "number": "TB2-039_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1439,10 +1298,7 @@
   {
     "title": "Speed Attack Piccolo Jr.",
     "number": "TB2-040",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1469,10 +1325,7 @@
   {
     "title": "Double Impact Krillin",
     "number": "TB2-041",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1500,10 +1353,7 @@
   {
     "title": "Honed Moves Yamcha",
     "number": "TB2-042",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1531,10 +1381,7 @@
   {
     "title": "Tien Shinhan, Trading Moves",
     "number": "TB2-043",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1564,10 +1411,7 @@
   {
     "title": "Best Buddy Chiaotzu",
     "number": "TB2-044",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1594,10 +1438,7 @@
   {
     "title": "Destined Conclusion Hero",
     "number": "TB2-045",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1626,10 +1467,7 @@
   {
     "title": "Destined Conclusion Hero",
     "number": "TB2-045_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1658,10 +1496,7 @@
   {
     "title": "Trusting Relationship Kami",
     "number": "TB2-046",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1690,10 +1525,7 @@
   {
     "title": "Trusting Relationship Popo",
     "number": "TB2-047",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1720,10 +1552,7 @@
   {
     "title": "Mercenary Tao, Trading Moves",
     "number": "TB2-048",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1751,10 +1580,7 @@
   {
     "title": "Feet Kamehameha",
     "number": "TB2-049",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -1776,10 +1602,7 @@
   {
     "title": "Jackie Chun",
     "number": "TB2-050",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -1802,10 +1625,7 @@
   {
     "title": "Unyielding Victory Son Goku",
     "number": "TB2-051",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1836,10 +1656,7 @@
   {
     "title": "Unyielding Victory Son Goku",
     "number": "TB2-051_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1870,10 +1687,7 @@
   {
     "title": "Future Martial Artist Son Goku",
     "number": "TB2-052",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1901,10 +1715,7 @@
   {
     "title": "Toughened Up Krillin",
     "number": "TB2-053",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1932,10 +1743,7 @@
   {
     "title": "Unending Moves Yamcha",
     "number": "TB2-054",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1964,10 +1772,7 @@
   {
     "title": "Unending Moves Tien Shinhan",
     "number": "TB2-055",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1997,10 +1802,7 @@
   {
     "title": "Toughened Up Chiaotzu",
     "number": "TB2-056",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2029,10 +1831,7 @@
   {
     "title": "Master Roshi, Martial Meister",
     "number": "TB2-057",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2061,10 +1860,7 @@
   {
     "title": "Unyielding Victory Jackie Chun",
     "number": "TB2-058",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2093,10 +1889,7 @@
   {
     "title": "Unyielding Victory Jackie Chun",
     "number": "TB2-058_SPR",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2125,10 +1918,7 @@
   {
     "title": "Doublechop Nam",
     "number": "TB2-059",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2159,10 +1949,7 @@
   {
     "title": "Ginormous Strength Giran",
     "number": "TB2-060",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2181,7 +1968,7 @@
     "character": "Giran",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less, switch it to Rest Mode, and that card can't be switched to Active Mode during your opponent's next turn. ",
+    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less, switch it to Rest Mode, and that card can't be switched to Active Mode during your opponent's next turn.",
     "skills": [
       "Critical",
       "Auto"
@@ -2190,10 +1977,7 @@
   {
     "title": "Stenchful Bacterian",
     "number": "TB2-061",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2212,7 +1996,7 @@
     "character": "Bacterian",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -2220,10 +2004,7 @@
   {
     "title": "Stenchful Bacterian",
     "number": "TB2-061_BD",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2242,7 +2023,7 @@
     "character": "Bacterian",
     "special_trait": "Earthling/World Tournament",
     "era": "World Martial Arts Tournament Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may choose 1 card in your life and add it to your hand. If you do so, choose up to 1 of your opponent's Battle Cards, switch it to Rest Mode, and this card gains +10000 power for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -2250,10 +2031,7 @@
   {
     "title": "Risque Ranfan",
     "number": "TB2-062",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2280,10 +2058,7 @@
   {
     "title": "Master Shen, Martial Meister",
     "number": "TB2-063",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2312,10 +2087,7 @@
   {
     "title": "I'm the World Champion!",
     "number": "TB2-064",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2336,10 +2108,7 @@
   {
     "title": "Announcer",
     "number": "TB2-065",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Black",
@@ -2365,10 +2134,7 @@
   {
     "title": "Announcer, Ever-Curious",
     "number": "TB2-066",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2395,10 +2161,7 @@
   {
     "title": "Announcer, Play-By-Play Pro",
     "number": "TB2-067",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -2427,10 +2190,7 @@
   {
     "title": "World Tournament Arena",
     "number": "TB2-068",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Black",
@@ -2452,10 +2212,7 @@
   {
     "title": "Son Goku & Uub, Seeds of the Future",
     "number": "TB2-069",
-    "series": [
-      "Themed Booster",
-      "～World Martial Arts Tournament～"
-    ],
+    "series_text": "Themed Booster ~World Martial Arts Tournament~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Blue",

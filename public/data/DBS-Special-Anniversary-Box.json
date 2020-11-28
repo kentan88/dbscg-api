@@ -2,9 +2,7 @@
   {
     "title": "Trunks, Surge of Energy",
     "number": "EX06-01",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -32,9 +30,7 @@
   {
     "title": "Vegito, Polymorphic Potara",
     "number": "EX06-02",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -62,9 +58,7 @@
   {
     "title": "Almighty Technique Vados",
     "number": "EX06-03",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -92,9 +86,7 @@
   {
     "title": "Hit, Spacetime Transcended",
     "number": "EX06-04",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -123,9 +115,7 @@
   {
     "title": "Innocence Cannon Majin Buu",
     "number": "EX06-05",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -153,9 +143,7 @@
   {
     "title": "General Rilldo, Leader of Planet M-2",
     "number": "EX06-06",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -184,9 +172,7 @@
   {
     "title": "Mutant Genesis",
     "number": "EX06-07",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Red",
@@ -207,9 +193,7 @@
   {
     "title": "Son Goku, Path to the Infinite",
     "number": "EX06-08",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -228,7 +212,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Resurrection 'F' Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is blue and you also choose 1 of your blue Battle Cards with an energy cost of 4 and return it to its owner's hand : Play this card from your hand. ",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is blue and you also choose 1 of your blue Battle Cards with an energy cost of 4 and return it to its owner's hand : Play this card from your hand.",
     "skills": [
       "Activate-Main",
       "ball"
@@ -237,9 +221,7 @@
   {
     "title": "Vegeta, Energy Absorber",
     "number": "EX06-09",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -267,9 +249,7 @@
   {
     "title": "Trunks, Hope Renewed",
     "number": "EX06-10",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -296,9 +276,7 @@
   {
     "title": "Whis, Destruction's Aid",
     "number": "EX06-11",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -327,9 +305,7 @@
   {
     "title": "Goku Black, Countdown to Destruction",
     "number": "EX06-12",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -357,9 +333,7 @@
   {
     "title": "Fused Zamasu, Fusion Refined",
     "number": "EX06-13",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -390,9 +364,7 @@
   {
     "title": "Plan for Destruction",
     "number": "EX06-14",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Blue",
@@ -413,9 +385,7 @@
   {
     "title": "Son Goku, in Close Quarters",
     "number": "EX06-15",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -434,7 +404,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Future Trunks Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play or combo with this card, if there is a multicolor card in your energy, choose up to 1 of your opponent's Battle Cards with <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and an energy cost of 3 or less, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and KO it. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play or combo with this card, if there is a multicolor card in your energy, choose up to 1 of your opponent's Battle Cards with <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\"> and an energy cost of 3 or less, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and KO it.",
     "skills": [
       "Auto",
       "Barrier"
@@ -443,9 +413,7 @@
   {
     "title": "Son Gohan, Display of Strength",
     "number": "EX06-16",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -473,9 +441,7 @@
   {
     "title": "Krillin, Calling for Help",
     "number": "EX06-17",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -504,9 +470,7 @@
   {
     "title": "Paragus, Quelling the Beast",
     "number": "EX06-18",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -534,9 +498,7 @@
   {
     "title": "Android 13, the Brilliant",
     "number": "EX06-19",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -564,9 +526,7 @@
   {
     "title": "Android Troop - 14 & 15",
     "number": "EX06-20",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -593,9 +553,7 @@
   {
     "title": "Blazing Technique",
     "number": "EX06-21",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Green",
@@ -617,9 +575,7 @@
   {
     "title": "Bardock, the Enlightened",
     "number": "EX06-22",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -647,9 +603,7 @@
   {
     "title": "Son Goku, Unbreakable Will",
     "number": "EX06-23",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -677,9 +631,7 @@
   {
     "title": "Frieza, Malicious Streak",
     "number": "EX06-24",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -706,9 +658,7 @@
   {
     "title": "Ginyu, Helix Strike",
     "number": "EX06-25",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -737,9 +687,7 @@
   {
     "title": "Meta-Cooler Core, Ultimate Form",
     "number": "EX06-26",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -769,9 +717,7 @@
   {
     "title": "Swift Retaliation Cooler",
     "number": "EX06-27",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -800,9 +746,7 @@
   {
     "title": "Malevolent Revenge",
     "number": "EX06-28",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -823,9 +767,7 @@
   {
     "title": "Towa",
     "number": "EX06-29",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Black",
@@ -852,9 +794,7 @@
   {
     "title": "Bardock, Awakened Instincts",
     "number": "EX06-30",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -882,9 +822,7 @@
   {
     "title": "Supreme Kai of Time, Time Disruptor ",
     "number": "EX06-31",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -912,9 +850,7 @@
   {
     "title": "Demigra, Over Realm Unleashed",
     "number": "EX06-32",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -944,9 +880,7 @@
   {
     "title": "Mira, Self Reformation",
     "number": "EX06-33",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -976,9 +910,7 @@
   {
     "title": "Masked Saiyan, Beguiled Warrior",
     "number": "EX06-34",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -1007,9 +939,7 @@
   {
     "title": "Fu, the Dark Banisher",
     "number": "EX06-35",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -1038,9 +968,7 @@
   {
     "title": "A Crack in Spacetime",
     "number": "EX06-36",
-    "series": [
-      "Special Anniversary Box"
-    ],
+    "series_text": "Special Anniversary Box",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Black",

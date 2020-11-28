@@ -2,11 +2,7 @@
   {
     "title": "Son Goku, Preparing for BATTLE",
     "number": "EX07-01",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -34,11 +30,7 @@
   {
     "title": "Vegeta, Preparing for BATTLE",
     "number": "EX07-02",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -65,11 +57,7 @@
   {
     "title": "Whis, Godly Fundamentals",
     "number": "EX07-03",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -96,11 +84,7 @@
   {
     "title": "Gogeta, a Hero's Advent",
     "number": "EX07-04",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -128,11 +112,7 @@
   {
     "title": "Altered Reality",
     "number": "EX07-05",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Blue",
@@ -156,11 +136,7 @@
   {
     "title": "Broly, Preparing for BATTLE",
     "number": "EX07-06",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -189,11 +165,7 @@
   {
     "title": "Raditz, Ruthless Adversary",
     "number": "EX07-07",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -220,11 +192,7 @@
   {
     "title": "Frieza, Spiteful Strike",
     "number": "EX07-08",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -251,11 +219,7 @@
   {
     "title": "Paragus, the Forebearer",
     "number": "EX07-09",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -282,11 +246,7 @@
   {
     "title": "SS Caulifla, the Hellion",
     "number": "EX07-10",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -305,7 +265,7 @@
     "character": "Caulifla",
     "special_trait": "Saiyan/Alien/Universe 6",
     "era": "Universe Survival Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a yellow 《Universe 6》 card and your opponent has 3 or more energy : When you play this card, choose up to 1 blue 〈Kale〉 card with an energy cost of 4 in your Drop Area, negate its skills for the duration of the turn, and play it in Rest Mode; at the end of the turn, place the Battle Card played with this skill at the bottom of its owner's deck. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a yellow 《Universe 6》 card and your opponent has 3 or more energy : When you play this card, choose up to 1 blue 〈Kale〉 card with an energy cost of 4 in your Drop Area, negate its skills for the duration of the turn, and play it in Rest Mode; at the end of the turn, place the Battle Card played with this skill at the bottom of its owner's deck.",
     "skills": [
       "Auto"
     ]
@@ -313,11 +273,7 @@
   {
     "title": "Demigra, Demonic Overlord",
     "number": "EX07-11",
-    "series": [
-      "EXPANSION SET",
-      "Magnificent Collection",
-      "-Fusion Hero- / -Forsaken Warrior-"
-    ],
+    "series_text": "EXPANSION SET Magnificent Collection -Fusion Hero- / -Forsaken Warrior-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",

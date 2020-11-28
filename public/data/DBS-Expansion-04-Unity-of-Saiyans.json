@@ -2,10 +2,7 @@
   {
     "title": "SS Gogeta, Acrobatic Warrior",
     "number": "EX04-01",
-    "series": [
-      "EXPANSION SET04",
-      "-Unity of Saiyans- "
-    ],
+    "series_text": "EXPANSION SET04 -Unity of Saiyans-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -34,10 +31,7 @@
   {
     "title": "SS Broly, Rampaging Rush",
     "number": "EX04-02",
-    "series": [
-      "EXPANSION SET04",
-      "-Unity of Saiyans- "
-    ],
+    "series_text": "EXPANSION SET04 -Unity of Saiyans-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -64,10 +58,7 @@
   {
     "title": "SSB Gogeta, Resonant Explosion",
     "number": "EX04-03",
-    "series": [
-      "EXPANSION SET04",
-      "-Unity of Saiyans- "
-    ],
+    "series_text": "EXPANSION SET04 -Unity of Saiyans-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -98,10 +89,7 @@
   {
     "title": "Full Power Broly, Resonant Evolution",
     "number": "EX04-04",
-    "series": [
-      "EXPANSION SET04",
-      "-Unity of Saiyans- "
-    ],
+    "series_text": "EXPANSION SET04 -Unity of Saiyans-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red/Green",

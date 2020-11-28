@@ -2,10 +2,7 @@
   {
     "title": "Piccolo Jr.",
     "number": "SD4-01",
-    "series": [
-      "STARTER DECK",
-      "～THE Guardian of Namekians～【DBS-SD04】"
-    ],
+    "series_text": "STARTER DECK ~THE Guardian of Namekians~【DBS-SD04】",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Green",
@@ -30,10 +27,7 @@
   {
     "title": "Indomitable Link Son Gohan",
     "number": "SD4-02",
-    "series": [
-      "STARTER DECK",
-      "～THE Guardian of Namekians～【DBS-SD04】"
-    ],
+    "series_text": "STARTER DECK ~THE Guardian of Namekians~【DBS-SD04】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -60,10 +54,7 @@
   {
     "title": "Indomitable Link Piccolo",
     "number": "SD4-03",
-    "series": [
-      "STARTER DECK",
-      "～THE Guardian of Namekians～【DBS-SD04】"
-    ],
+    "series_text": "STARTER DECK ~THE Guardian of Namekians~【DBS-SD04】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -90,10 +81,7 @@
   {
     "title": "King Piccolo, Lord of Terror",
     "number": "SD4-04",
-    "series": [
-      "STARTER DECK",
-      "～THE Guardian of Namekians～【DBS-SD04】"
-    ],
+    "series_text": "STARTER DECK ~THE Guardian of Namekians~【DBS-SD04】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -122,10 +110,7 @@
   {
     "title": "Namekian Bond Saonel",
     "number": "SD4-05",
-    "series": [
-      "STARTER DECK",
-      "～THE Guardian of Namekians～【DBS-SD04】"
-    ],
+    "series_text": "STARTER DECK ~THE Guardian of Namekians~【DBS-SD04】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",

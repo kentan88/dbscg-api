@@ -2,10 +2,7 @@
   {
     "title": "Android 21",
     "number": "XD2-01",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Blue",
@@ -29,10 +26,7 @@
   {
     "title": "Android 17, Mechanical Prowess",
     "number": "XD2-02",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -59,10 +53,7 @@
   {
     "title": "Android 18, Mechanical Prowess",
     "number": "XD2-03",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -89,10 +80,7 @@
   {
     "title": "Android 16, Mechanical Prowess",
     "number": "XD2-04",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -121,10 +109,7 @@
   {
     "title": "Photon Wave",
     "number": "XD2-05",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue",
@@ -145,10 +130,7 @@
   {
     "title": "Might of the Red Ribbon Army",
     "number": "XD2-06",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue",
@@ -169,10 +151,7 @@
   {
     "title": "Android 16, A New Start",
     "number": "XD2-07",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -202,10 +181,7 @@
   {
     "title": "Android 21, A Bad Omen",
     "number": "XD2-08",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -235,10 +211,7 @@
   {
     "title": "Android 21, the Beautiful Scientist",
     "number": "XD2-09",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -266,10 +239,7 @@
   {
     "title": "Predation",
     "number": "XD2-10",
-    "series": [
-      "EXPERT DECK",
-      "~ANDROID DUALITY~[DBS-XD02]"
-    ],
+    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue/Green",

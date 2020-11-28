@@ -2,10 +2,7 @@
   {
     "title": "Frieza",
     "number": "BT9-001",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Red",
@@ -31,10 +28,7 @@
   {
     "title": "Cooler",
     "number": "BT9-002",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -58,10 +52,7 @@
   {
     "title": "Frieza, No Introductions",
     "number": "BT9-003",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -91,10 +82,7 @@
   {
     "title": "Clan Commander Frieza",
     "number": "BT9-004",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -121,10 +109,7 @@
   {
     "title": "Frieza, Death's Embrace",
     "number": "BT9-005",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -153,10 +138,7 @@
   {
     "title": "King Cold, Imminent Invasion",
     "number": "BT9-006",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -184,10 +166,7 @@
   {
     "title": "Meta-Cooler, Metallic Genesis",
     "number": "BT9-007",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -214,10 +193,7 @@
   {
     "title": "Meta-Cooler Core, Titanic Glare",
     "number": "BT9-008",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -244,10 +220,7 @@
   {
     "title": "Chilled, Pirate's Bounty",
     "number": "BT9-009",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -276,10 +249,7 @@
   {
     "title": "Son Gohan, Swift Reinforcement",
     "number": "BT9-010",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -306,10 +276,7 @@
   {
     "title": "SS Vegeta, Blast Barrage",
     "number": "BT9-011",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -338,10 +305,7 @@
   {
     "title": "Tien Shinhan, Spirit Vanisher",
     "number": "BT9-012",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -370,10 +334,7 @@
   {
     "title": "Android 17, Spirit Vanisher",
     "number": "BT9-013",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -401,10 +362,7 @@
   {
     "title": "Full-Power Frost",
     "number": "BT9-014",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -431,10 +389,7 @@
   {
     "title": "Chaos Beam Frost",
     "number": "BT9-015",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -463,10 +418,7 @@
   {
     "title": "Frost, Before the Storm",
     "number": "BT9-016",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -496,10 +448,7 @@
   {
     "title": "Cease to Exist",
     "number": "BT9-017",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Red",
@@ -523,10 +472,7 @@
   {
     "title": "We Are Universe 7",
     "number": "BT9-018",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -547,10 +493,7 @@
   {
     "title": "Thought I Was Finished?",
     "number": "BT9-019",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -571,10 +514,7 @@
   {
     "title": "You're Mine!",
     "number": "BT9-020",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -595,10 +535,7 @@
   {
     "title": "Android 17",
     "number": "BT9-021",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Blue",
@@ -628,10 +565,7 @@
   {
     "title": "Frieza, Unending Onslaught",
     "number": "BT9-022",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -660,10 +594,7 @@
   {
     "title": "Combo Attack Cooler",
     "number": "BT9-023",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -693,10 +624,7 @@
   {
     "title": "King Cold, Astral Tyrant",
     "number": "BT9-024",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -724,10 +652,7 @@
   {
     "title": "Chilled, Intergalactic Marauder",
     "number": "BT9-025",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -758,10 +683,7 @@
   {
     "title": "Ultra Instinct Son Goku, BATTLE Mastery",
     "number": "BT9-026",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -788,10 +710,7 @@
   {
     "title": "Frieza, Undying Emperor",
     "number": "BT9-027",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -818,10 +737,7 @@
   {
     "title": "Krillin, BATTLE Mastery",
     "number": "BT9-028",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -848,10 +764,7 @@
   {
     "title": "Piccolo, Namekian Lineage",
     "number": "BT9-029",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -880,10 +793,7 @@
   {
     "title": "Master Roshi",
     "number": "BT9-030",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -910,10 +820,7 @@
   {
     "title": "Android 18, Steadfast Technique",
     "number": "BT9-031",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -940,10 +847,7 @@
   {
     "title": "Majin Buu, Innocent Trickster",
     "number": "BT9-032",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -970,10 +874,7 @@
   {
     "title": "Whis, Tournament Spectator",
     "number": "BT9-033",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1000,10 +901,7 @@
   {
     "title": "Kale, Universe 6 Protector",
     "number": "BT9-034",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1034,10 +932,7 @@
   {
     "title": "Chaos Beam Volley",
     "number": "BT9-035",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1058,10 +953,7 @@
   {
     "title": "Barrier of Hope",
     "number": "BT9-036",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1085,10 +977,7 @@
   {
     "title": "Tournament of Power Arena",
     "number": "BT9-037",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1112,10 +1001,7 @@
   {
     "title": "Android 20",
     "number": "BT9-038",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Green",
@@ -1141,10 +1027,7 @@
   {
     "title": "Cell, Android Absorber",
     "number": "BT9-039",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1163,7 +1046,7 @@
     "character": "Cell",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a 〈Cell〉 card and the only cards in your Battle Area are 〈Android 17〉 cards : Play this card from your Drop Area, then your opponent chooses 1 card in their hand and places it in their Drop Area; you can't play {Cell, Android Absorber} for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is removed from your Battle Area by a skill, choose up to 1 〈Android 18〉 card with an energy cost of 3 in your Drop Area and play it with its skills negated for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a 〈Cell〉 card and the only cards in your Battle Area are 〈Android 17〉 cards : Play this card from your Drop Area, then your opponent chooses 1 card in their hand and places it in their Drop Area; you can't play {Cell, Android Absorber} for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is removed from your Battle Area by a skill, choose up to 1 〈Android 18〉 card with an energy cost of 3 in your Drop Area and play it with its skills negated for the duration of the turn.",
     "skills": [
       "Activate-Main",
       "ball",
@@ -1173,10 +1056,7 @@
   {
     "title": "Cell Jr., Minions Unleashed",
     "number": "BT9-040",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1203,10 +1083,7 @@
   {
     "title": "Android 19, Energy Fiend",
     "number": "BT9-041",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1234,10 +1111,7 @@
   {
     "title": "Android 18, Covert Combatant ",
     "number": "BT9-042",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1265,10 +1139,7 @@
   {
     "title": "Android 16, Prototype Power",
     "number": "BT9-043",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1296,10 +1167,7 @@
   {
     "title": "Android 13, Red Ribbon Raider",
     "number": "BT9-044",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1328,10 +1196,7 @@
   {
     "title": "Quick Sweep Android 17",
     "number": "BT9-045",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1360,10 +1225,7 @@
   {
     "title": "Toppo, Gaze of Justice",
     "number": "BT9-046",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1390,10 +1252,7 @@
   {
     "title": "Cocotte, Technique Unleashed",
     "number": "BT9-047",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1409,7 +1268,7 @@
     "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
-    "character": "Cocotte ",
+    "character": "Cocotte",
     "special_trait": "Alien/Pride Troopers/Universe 11",
     "era": "Universe Survival Saga",
     "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a 《Universe 11》 card, you have a 《Universe 11》 card in play, and you choose 1 card in your hand and place it in your Drop Area : Play this card from your Drop Area, and you can't play {Cocotte, Technique Unleashed} for the duration of the turn.",
@@ -1420,10 +1279,7 @@
   {
     "title": "Zoiray, Justice Spin",
     "number": "BT9-048",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1450,10 +1306,7 @@
   {
     "title": "Avian Assault Ganos",
     "number": "BT9-049",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1480,10 +1333,7 @@
   {
     "title": "Belmod, Double Devastation",
     "number": "BT9-050",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1512,10 +1362,7 @@
   {
     "title": "Artificial Impact",
     "number": "BT9-051",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Green",
@@ -1539,10 +1386,7 @@
   {
     "title": "Flash Bomber",
     "number": "BT9-052",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -1564,10 +1408,7 @@
   {
     "title": "Jiren",
     "number": "BT9-053",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Yellow",
@@ -1590,10 +1431,7 @@
   {
     "title": "Android 20, Mastermind Architect",
     "number": "BT9-054",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1622,10 +1460,7 @@
   {
     "title": "Android 18, Under Your Skin",
     "number": "BT9-055",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1654,10 +1489,7 @@
   {
     "title": "Android 17, Titan Toppler",
     "number": "BT9-056",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1685,10 +1517,7 @@
   {
     "title": "Android 14, Stoic Fist",
     "number": "BT9-057",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1715,10 +1544,7 @@
   {
     "title": "Android 15, Vicious Vendetta",
     "number": "BT9-058",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1745,10 +1571,7 @@
   {
     "title": "Hell Fighter 17, the Neutralizer",
     "number": "BT9-059",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1777,10 +1600,7 @@
   {
     "title": "Jiren, Righteous Leader",
     "number": "BT9-060",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1808,10 +1628,7 @@
   {
     "title": "Binary Blade Kahseral",
     "number": "BT9-061",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1838,10 +1655,7 @@
   {
     "title": "Caulifla, the Time Has Come",
     "number": "BT9-062",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1872,10 +1686,7 @@
   {
     "title": "Kunshi, Threaded Energy",
     "number": "BT9-063",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1903,10 +1714,7 @@
   {
     "title": "Vuon, Dynamite Blaster",
     "number": "BT9-064",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1933,10 +1741,7 @@
   {
     "title": "Trio De Dangers, Mark of the Wolves",
     "number": "BT9-065",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1964,10 +1769,7 @@
   {
     "title": "Marcarita, Adorable Assailant",
     "number": "BT9-066",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1994,10 +1796,7 @@
   {
     "title": "Justice Blast",
     "number": "BT9-067",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2021,10 +1820,7 @@
   {
     "title": "Light Bullet",
     "number": "BT9-068",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2045,10 +1841,7 @@
   {
     "title": "Mind Expansion",
     "number": "BT9-069",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2070,10 +1863,7 @@
   {
     "title": "Bibidi",
     "number": "BT9-070",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "LEADER",
     "color": "Black",
@@ -2096,10 +1886,7 @@
   {
     "title": "Dabura, Darkness Perfected",
     "number": "BT9-071",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -2128,10 +1915,7 @@
   {
     "title": "Yakon, Light Devourer",
     "number": "BT9-072",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2159,10 +1943,7 @@
   {
     "title": "Pui Pui, Devious Disruptor",
     "number": "BT9-073",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -2191,10 +1972,7 @@
   {
     "title": "Spopovich & Yamu",
     "number": "BT9-074",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2221,10 +1999,7 @@
   {
     "title": "Babidi, Unrepentant Sorcerer",
     "number": "BT9-075",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -2251,10 +2026,7 @@
   {
     "title": "Bibidi, Primeval Conjurer",
     "number": "BT9-076",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2282,10 +2054,7 @@
   {
     "title": "Majin Buu, Supreme Evil",
     "number": "BT9-077",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -2315,10 +2084,7 @@
   {
     "title": "Majin Buu, Unparalleled Absorption",
     "number": "BT9-078",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2348,10 +2114,7 @@
   {
     "title": "Majin Buu, Hybrid Absorption",
     "number": "BT9-079",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2381,10 +2144,7 @@
   {
     "title": "Majin Buu, Steadfast Absorption",
     "number": "BT9-080",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -2413,10 +2173,7 @@
   {
     "title": "Majin Buu, Supreme Absorption",
     "number": "BT9-081",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2446,10 +2203,7 @@
   {
     "title": "Majin Buu, Ghastly Rampage",
     "number": "BT9-082",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -2476,10 +2230,7 @@
   {
     "title": "Demonic Scream Majin Buu",
     "number": "BT9-083",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2506,10 +2257,7 @@
   {
     "title": "Majin Buu, Virtuous Demon",
     "number": "BT9-084",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2536,10 +2284,7 @@
   {
     "title": "Capricious Onslaught",
     "number": "BT9-085",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -2560,10 +2305,7 @@
   {
     "title": "Demonic Absorption",
     "number": "BT9-086",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Black",
@@ -2587,10 +2329,7 @@
   {
     "title": "Petrification",
     "number": "BT9-087",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -2612,10 +2351,7 @@
   {
     "title": "Divine Favor",
     "number": "BT9-088",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -2638,10 +2374,7 @@
   {
     "title": "Unexpected Recovery",
     "number": "BT9-089",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -2663,10 +2396,7 @@
   {
     "title": "Nappa, Demolition Man",
     "number": "BT9-090",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -2695,10 +2425,7 @@
   {
     "title": "Nappa, Demolition Man",
     "number": "BT9-090_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -2727,10 +2454,7 @@
   {
     "title": "Zamasu, Sacred Disbelief",
     "number": "BT9-091",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -2759,10 +2483,7 @@
   {
     "title": "Zamasu, Sacred Disbelief",
     "number": "BT9-091_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -2791,10 +2512,7 @@
   {
     "title": "Celestial Union Kefla",
     "number": "BT9-092",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -2827,10 +2545,7 @@
   {
     "title": "Hit, in Cold Blood",
     "number": "BT9-093",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -2862,10 +2577,7 @@
   {
     "title": "SS4 Son Goku, Saiyan Lineage",
     "number": "BT9-094",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -2896,10 +2608,7 @@
   {
     "title": "Super Baby 2, Malignant Force",
     "number": "BT9-095",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -2928,10 +2637,7 @@
   {
     "title": "Whis, Celestial Moderator",
     "number": "BT9-096",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -2960,10 +2666,7 @@
   {
     "title": "Whis, Celestial Moderator",
     "number": "BT9-096_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -2992,10 +2695,7 @@
   {
     "title": "SS Son Goku, Another Chance",
     "number": "BT9-097",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3014,7 +2714,7 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Special",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Revive_Blue-Green.png\" alt=\"Revive Blue/Green\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose any number of your opponent's Battle Cards with energy costs of 5 or less that add up to a total energy cost of 5 or less and KO them. ",
+    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Revive_Blue-Green.png\" alt=\"Revive Blue/Green\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose any number of your opponent's Battle Cards with energy costs of 5 or less that add up to a total energy cost of 5 or less and KO them.",
     "skills": [
       "Blocker",
       "Energy-Exhaust",
@@ -3025,10 +2725,7 @@
   {
     "title": "Android 16, Imperfect Assassin",
     "number": "BT9-098",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3060,10 +2757,7 @@
   {
     "title": "Android 18, Bionic Blitz",
     "number": "BT9-099",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3092,10 +2786,7 @@
   {
     "title": "Android 18, Bionic Blitz",
     "number": "BT9-099_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -3124,10 +2815,7 @@
   {
     "title": "Son Goku",
     "number": "BT9-100",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red/Blue",
@@ -3150,10 +2838,7 @@
   {
     "title": "Full-Power Frieza, 100% Overdrive",
     "number": "BT9-101",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3183,10 +2868,7 @@
   {
     "title": "Full-Power Frieza, 100% Overdrive",
     "number": "BT9-101_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3216,10 +2898,7 @@
   {
     "title": "Mecha Frieza, Energy Blight",
     "number": "BT9-102",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3248,10 +2927,7 @@
   {
     "title": "Cooler, Tyrannical Assault",
     "number": "BT9-103",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3283,10 +2959,7 @@
   {
     "title": "Cooler, Tyrannical Assault",
     "number": "BT9-103_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3318,10 +2991,7 @@
   {
     "title": "Ultra Instinct Son Goku, Energy Explosion",
     "number": "BT9-104",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3351,10 +3021,7 @@
   {
     "title": "SSB Vegeta, Inspired Technique",
     "number": "BT9-105",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3384,10 +3051,7 @@
   {
     "title": "Golden Frieza, Sovereign Technique",
     "number": "BT9-106",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3416,10 +3080,7 @@
   {
     "title": "Beerus, Divine Obliterator",
     "number": "BT9-107",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3448,10 +3109,7 @@
   {
     "title": "Beerus, Divine Obliterator",
     "number": "BT9-107_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3480,10 +3138,7 @@
   {
     "title": "Tyranny's Cost",
     "number": "BT9-108",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red/Blue",
@@ -3505,10 +3160,7 @@
   {
     "title": "Emperor's Death Beam",
     "number": "BT9-109",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Red/Blue",
@@ -3532,10 +3184,7 @@
   {
     "title": "Royal Condemnation",
     "number": "BT9-110",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Red/Blue",
@@ -3558,10 +3207,7 @@
   {
     "title": "Royal Condemnation",
     "number": "BT9-110_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "EXTRA",
     "color": "Red/Blue",
@@ -3584,10 +3230,7 @@
   {
     "title": "Catastrophic Blow",
     "number": "BT9-111",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Red/Blue",
@@ -3609,10 +3252,7 @@
   {
     "title": "Cell",
     "number": "BT9-112",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green/Yellow",
@@ -3636,10 +3276,7 @@
   {
     "title": "Cell, Unthinkable Perfection",
     "number": "BT9-113",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3671,10 +3308,7 @@
   {
     "title": "Cell, Unthinkable Perfection",
     "number": "BT9-113_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3706,10 +3340,7 @@
   {
     "title": "Cell, Devourer of the Masses",
     "number": "BT9-114",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3740,10 +3371,7 @@
   {
     "title": "Dr. Gero, Progenitor of Terror",
     "number": "BT9-115",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3772,10 +3400,7 @@
   {
     "title": "Dr. Gero, Progenitor of Terror",
     "number": "BT9-115_SPR",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3804,10 +3429,7 @@
   {
     "title": "Android 13, Adamantine Avenger",
     "number": "BT9-116",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3839,10 +3461,7 @@
   {
     "title": "Super 17, Hell's Storm Unleashed",
     "number": "BT9-117",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3873,10 +3492,7 @@
   {
     "title": "Super 17, Total Eclipse",
     "number": "BT9-118",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3907,10 +3523,7 @@
   {
     "title": "Jiren, Strength in Silence",
     "number": "BT9-119",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3942,10 +3555,7 @@
   {
     "title": "Toppo, Mortality Surpassed",
     "number": "BT9-120",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3976,10 +3586,7 @@
   {
     "title": "Dyspo, Unprecedented Speed",
     "number": "BT9-121",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -4010,10 +3617,7 @@
   {
     "title": "Ribrianne, Massive Love",
     "number": "BT9-122",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -4043,10 +3647,7 @@
   {
     "title": "Anilaza, the Soaring Colossus",
     "number": "BT9-123",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -4076,10 +3677,7 @@
   {
     "title": "Cell Games Arena",
     "number": "BT9-124",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green/Yellow",
@@ -4102,10 +3700,7 @@
   {
     "title": "Hit",
     "number": "BT9-125",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Reboot Leader Rare[RLR]",
     "type": "LEADER",
     "color": "Red",
@@ -4132,10 +3727,7 @@
   {
     "title": "Beerus",
     "number": "BT9-126",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Reboot Leader Rare[RLR]",
     "type": "LEADER",
     "color": "Blue",
@@ -4160,10 +3752,7 @@
   {
     "title": "Son Goku",
     "number": "BT9-127",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Reboot Leader Rare[RLR]",
     "type": "LEADER",
     "color": "Blue",
@@ -4187,10 +3776,7 @@
   {
     "title": "Son Gohan",
     "number": "BT9-128",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Reboot Leader Rare[RLR]",
     "type": "LEADER",
     "color": "Green",
@@ -4217,10 +3803,7 @@
   {
     "title": "Meta-Cooler",
     "number": "BT9-129",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Reboot Leader Rare[RLR]",
     "type": "LEADER",
     "color": "Yellow",
@@ -4245,10 +3828,7 @@
   {
     "title": "Frieza's Death Ball",
     "number": "BT9-130",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Iconic Attack Rare[IAR]",
     "type": "EXTRA",
     "color": "Red",
@@ -4270,10 +3850,7 @@
   {
     "title": "Ultra Instinct Goku's Kamehameha",
     "number": "BT9-131",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Iconic Attack Rare[IAR]",
     "type": "EXTRA",
     "color": "Blue",
@@ -4295,10 +3872,7 @@
   {
     "title": "Cell's Earth-Destroying Kamehameha",
     "number": "BT9-132",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Iconic Attack Rare[IAR]",
     "type": "EXTRA",
     "color": "Green",
@@ -4320,10 +3894,7 @@
   {
     "title": "Vegeta's Final Flash",
     "number": "BT9-133",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Iconic Attack Rare[IAR]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -4346,10 +3917,7 @@
   {
     "title": "Majin Buu's Human Extinction Attack",
     "number": "BT9-134",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Iconic Attack Rare[IAR]",
     "type": "EXTRA",
     "color": "Black",
@@ -4371,10 +3939,7 @@
   {
     "title": "Black Smoke Dragon, Eternal Evil",
     "number": "BT9-135",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Black",
@@ -4405,10 +3970,7 @@
   {
     "title": "Son Goku & Vegeta, Apex of Power",
     "number": "BT9-136",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -4440,10 +4002,7 @@
   {
     "title": "Cell Xeno, Unspeakable Abomination",
     "number": "BT9-137",
-    "series": [
-      "Series 9",
-      "-UNIVERSAL ONSLAUGHT-"
-    ],
+    "series_text": "Series 9 -UNIVERSAL ONSLAUGHT-",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Green/Yellow",

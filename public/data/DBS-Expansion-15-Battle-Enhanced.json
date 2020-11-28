@@ -2,10 +2,7 @@
   {
     "title": "Gogeta, Time for Payback",
     "number": "EX15-01",
-    "series": [
-      "EXPANSION SET 15",
-      "-Battle Enhanced-"
-    ],
+    "series_text": "EXPANSION SET 15 -Battle Enhanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -36,10 +33,7 @@
   {
     "title": "Vegeta, Protector of the Earth",
     "number": "EX15-02",
-    "series": [
-      "EXPANSION SET 15",
-      "-Battle Enhanced-"
-    ],
+    "series_text": "EXPANSION SET 15 -Battle Enhanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -68,10 +62,7 @@
   {
     "title": "Majin Buu, Malice Distilled",
     "number": "EX15-03",
-    "series": [
-      "EXPANSION SET 15",
-      "-Battle Enhanced-"
-    ],
+    "series_text": "EXPANSION SET 15 -Battle Enhanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -98,10 +89,7 @@
   {
     "title": "Garlic Jr., Immortal Avenger",
     "number": "EX15-04",
-    "series": [
-      "EXPANSION SET 15",
-      "-Battle Enhanced-"
-    ],
+    "series_text": "EXPANSION SET 15 -Battle Enhanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -133,10 +121,7 @@
   {
     "title": "Mira, Dimensional Superpower",
     "number": "EX15-05",
-    "series": [
-      "EXPANSION SET 15",
-      "-Battle Enhanced-"
-    ],
+    "series_text": "EXPANSION SET 15 -Battle Enhanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Black",

@@ -2,9 +2,7 @@
   {
     "title": "Frost, for the Clan",
     "number": "EX13-01",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Red",
@@ -27,9 +25,7 @@
   {
     "title": "Jiren, Legend of Universe 11",
     "number": "EX13-02",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Red",
@@ -55,9 +51,7 @@
   {
     "title": "Son Goku, Resolve Renewed",
     "number": "EX13-03",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -87,9 +81,7 @@
   {
     "title": "Vegeta, Resolve Renewed",
     "number": "EX13-04",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -119,9 +111,7 @@
   {
     "title": "Vegito, Resolve Combined",
     "number": "EX13-05",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -152,9 +142,7 @@
   {
     "title": "Frieza, Irate Emperor",
     "number": "EX13-06",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -183,9 +171,7 @@
   {
     "title": "Planet Vegeta's Final Moments",
     "number": "EX13-07",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Red",
@@ -206,9 +192,7 @@
   {
     "title": "Janemba, Wicked Agent of Destruction",
     "number": "EX13-08",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Blue",
@@ -233,9 +217,7 @@
   {
     "title": "Turles, Chaotic Agent of Destruction",
     "number": "EX13-09",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -264,9 +246,7 @@
   {
     "title": "Janemba, Raging Incarnation of Evil",
     "number": "EX13-10",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -295,9 +275,7 @@
   {
     "title": "Combo Attack Janemba",
     "number": "EX13-11",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -324,9 +302,7 @@
   {
     "title": "Restoration",
     "number": "EX13-12",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Blue",
@@ -347,9 +323,7 @@
   {
     "title": "Vegeta, Resolute Agent of Destruction",
     "number": "EX13-13",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Green",
@@ -375,9 +349,7 @@
   {
     "title": "Gokule, the Legendary Fusion Warrior",
     "number": "EX13-14",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -408,9 +380,7 @@
   {
     "title": "Son Goten & Trunks, Faultless Youth",
     "number": "EX13-15",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -438,9 +408,7 @@
   {
     "title": "Gotenks, the Grim Reaper of Justice",
     "number": "EX13-16",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -471,9 +439,7 @@
   {
     "title": "Cheelai & Lemo, the Bandits",
     "number": "EX13-17",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -502,9 +468,7 @@
   {
     "title": "Broly, Invincible Agent of Destruction",
     "number": "EX13-18",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -533,9 +497,7 @@
   {
     "title": "Lord Slug, Mighty Agent of Destruction",
     "number": "EX13-19",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -565,9 +527,7 @@
   {
     "title": "Android 13, Exterminating Agent of Destruction",
     "number": "EX13-20",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -595,9 +555,7 @@
   {
     "title": "Allied Reinforcements",
     "number": "EX13-21",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Green",
@@ -619,9 +577,7 @@
   {
     "title": "King Vegeta, Royal Pride",
     "number": "EX13-22",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Yellow",
@@ -643,9 +599,7 @@
   {
     "title": "Great Ape Bardock, Might of the Resistance",
     "number": "EX13-23",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -676,9 +630,7 @@
   {
     "title": "Boujack, Galactic Disruptor",
     "number": "EX13-24",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -705,9 +657,7 @@
   {
     "title": "Violent Rush Zangya",
     "number": "EX13-25",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -734,9 +684,7 @@
   {
     "title": "Garlic Jr., Immortal Agent of Destruction",
     "number": "EX13-26",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -764,9 +712,7 @@
   {
     "title": "The Agents of Destruction Strike Back",
     "number": "EX13-27",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -788,9 +734,7 @@
   {
     "title": "Full Moon",
     "number": "EX13-28",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -812,9 +756,7 @@
   {
     "title": "Babidi, Leader of the Agents of Destruction",
     "number": "EX13-29",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Black",
@@ -840,9 +782,7 @@
   {
     "title": "Son Goku Jr. & Vegeta Jr., Saiyan Scions",
     "number": "EX13-30",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Black",
@@ -864,9 +804,7 @@
   {
     "title": "Son Goku & Android 8, Bonds of Battle",
     "number": "EX13-31",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -894,9 +832,7 @@
   {
     "title": "Hatchhyack, Vengeful Agent of Destruction",
     "number": "EX13-32",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -925,9 +861,7 @@
   {
     "title": "Hatchhyack, Mad With Hate",
     "number": "EX13-33",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -957,9 +891,7 @@
   {
     "title": "Max Power Kamehameha",
     "number": "EX13-34",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Black",
@@ -981,9 +913,7 @@
   {
     "title": "Violent Rush Boujack",
     "number": "EX13-35",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -1016,9 +946,7 @@
   {
     "title": "Super 17, Hell's Ultimate Weapon",
     "number": "EX13-36",
-    "series": [
-      "Special Anniversary Box 2020"
-    ],
+    "series_text": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Green",

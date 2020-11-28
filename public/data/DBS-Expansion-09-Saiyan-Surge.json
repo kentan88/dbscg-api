@@ -2,10 +2,7 @@
   {
     "title": "Son Goku, Nimbus Voyager",
     "number": "EX09-01",
-    "series": [
-      "EXPANSION SET 09",
-      "-Saiyan Surge- "
-    ],
+    "series_text": "EXPANSION SET 09 -Saiyan Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -32,10 +29,7 @@
   {
     "title": "Vegeta, Time for Vacation",
     "number": "EX09-02",
-    "series": [
-      "EXPANSION SET 09",
-      "-Saiyan Surge- "
-    ],
+    "series_text": "EXPANSION SET 09 -Saiyan Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -63,10 +57,7 @@
   {
     "title": "Super Saiyan Son Goku",
     "number": "EX09-03",
-    "series": [
-      "EXPANSION SET 09",
-      "-Saiyan Surge- "
-    ],
+    "series_text": "EXPANSION SET 09 -Saiyan Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Red/Yellow",
@@ -91,10 +82,7 @@
   {
     "title": "Son Gohan & Videl, Power Couple",
     "number": "EX09-04",
-    "series": [
-      "EXPANSION SET 09",
-      "-Saiyan Surge- "
-    ],
+    "series_text": "EXPANSION SET 09 -Saiyan Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -124,10 +112,7 @@
   {
     "title": "Son Goten & Trunks, Back to Back",
     "number": "EX09-05",
-    "series": [
-      "EXPANSION SET 09",
-      "-Saiyan Surge- "
-    ],
+    "series_text": "EXPANSION SET 09 -Saiyan Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -155,10 +140,7 @@
   {
     "title": "Almighty Resistance",
     "number": "EX09-06",
-    "series": [
-      "EXPANSION SET 09",
-      "-Saiyan Surge- "
-    ],
+    "series_text": "EXPANSION SET 09 -Saiyan Surge-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Red/Yellow",

@@ -2,10 +2,7 @@
   {
     "title": "Super Saiyan God Son Goku",
     "number": "SD1-01",
-    "series": [
-      "Series 1 Starter",
-      "～THE AWAKENING～"
-    ],
+    "series_text": "Series 1 Starter ~THE AWAKENING~",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Blue",
@@ -28,10 +25,7 @@
   {
     "title": "God Rush Son Goku",
     "number": "SD1-02",
-    "series": [
-      "Series 1 Starter",
-      "～THE AWAKENING～"
-    ],
+    "series_text": "Series 1 Starter ~THE AWAKENING~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -63,10 +57,7 @@
   {
     "title": "SS3 Son Goku, Maximum Energy",
     "number": "SD1-03",
-    "series": [
-      "Series 1 Starter",
-      "～THE AWAKENING～"
-    ],
+    "series_text": "Series 1 Starter ~THE AWAKENING~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -98,10 +89,7 @@
   {
     "title": "Rapid Spirit Ball Son Goku",
     "number": "SD1-04",
-    "series": [
-      "Series 1 Starter",
-      "～THE AWAKENING～"
-    ],
+    "series_text": "Series 1 Starter ~THE AWAKENING~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -131,10 +119,7 @@
   {
     "title": "Vegeta, Prince of Speed",
     "number": "SD1-05",
-    "series": [
-      "Series 1 Starter",
-      "～THE AWAKENING～"
-    ],
+    "series_text": "Series 1 Starter ~THE AWAKENING~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",

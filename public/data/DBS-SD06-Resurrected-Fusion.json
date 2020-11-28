@@ -2,10 +2,7 @@
   {
     "title": "Gogeta",
     "number": "SD6-01",
-    "series": [
-      "STARTER DECK",
-      "～RESURRECTED FUSION～【DBS-SD06】"
-    ],
+    "series_text": "STARTER DECK ~RESURRECTED FUSION~【DBS-SD06】",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Blue",
@@ -30,10 +27,7 @@
   {
     "title": "Fusion Reborn Vegeta",
     "number": "SD6-02",
-    "series": [
-      "STARTER DECK",
-      "～RESURRECTED FUSION～【DBS-SD06】"
-    ],
+    "series_text": "STARTER DECK ~RESURRECTED FUSION~【DBS-SD06】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -61,10 +55,7 @@
   {
     "title": "Fusion Reborn Son Goku",
     "number": "SD6-03",
-    "series": [
-      "STARTER DECK",
-      "～RESURRECTED FUSION～【DBS-SD06】"
-    ],
+    "series_text": "STARTER DECK ~RESURRECTED FUSION~【DBS-SD06】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -92,10 +83,7 @@
   {
     "title": "Ultimate Fusion Gogeta",
     "number": "SD6-04",
-    "series": [
-      "STARTER DECK",
-      "～RESURRECTED FUSION～【DBS-SD06】"
-    ],
+    "series_text": "STARTER DECK ~RESURRECTED FUSION~【DBS-SD06】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
@@ -126,10 +114,7 @@
   {
     "title": "Great Saiyaman",
     "number": "SD6-05",
-    "series": [
-      "STARTER DECK",
-      "～RESURRECTED FUSION～【DBS-SD06】"
-    ],
+    "series_text": "STARTER DECK ~RESURRECTED FUSION~【DBS-SD06】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",

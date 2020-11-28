@@ -2,10 +2,7 @@
   {
     "title": "Vegeta : Xeno & Trunks : Xeno",
     "number": "SD14-01",
-    "series": [
-      "STARTER DECK",
-      "~Saiyan Wonder~[DBS-SD14]"
-    ],
+    "series_text": "STARTER DECK ~Saiyan Wonder~[DBS-SD14]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Black",
@@ -32,10 +29,7 @@
   {
     "title": "SS Gotenks, Fusion of Friendship",
     "number": "SD14-02",
-    "series": [
-      "STARTER DECK",
-      "~Saiyan Wonder~[DBS-SD14]"
-    ],
+    "series_text": "STARTER DECK ~Saiyan Wonder~[DBS-SD14]",
     "rarity": "Starter Rare[ST]",
     "type": "UNISON",
     "color": "Black",
@@ -59,10 +53,7 @@
   {
     "title": "Time Agent Vegeta",
     "number": "SD14-03",
-    "series": [
-      "STARTER DECK",
-      "~Saiyan Wonder~[DBS-SD14]"
-    ],
+    "series_text": "STARTER DECK ~Saiyan Wonder~[DBS-SD14]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Black",
@@ -94,10 +85,7 @@
   {
     "title": "Time Agent Trunks",
     "number": "SD14-04",
-    "series": [
-      "STARTER DECK",
-      "~Saiyan Wonder~[DBS-SD14]"
-    ],
+    "series_text": "STARTER DECK ~Saiyan Wonder~[DBS-SD14]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Black",
@@ -126,10 +114,7 @@
   {
     "title": "Supreme Kai of Time, Guardian of Spacetime",
     "number": "SD14-05",
-    "series": [
-      "STARTER DECK",
-      "~Saiyan Wonder~[DBS-SD14]"
-    ],
+    "series_text": "STARTER DECK ~Saiyan Wonder~[DBS-SD14]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Black",

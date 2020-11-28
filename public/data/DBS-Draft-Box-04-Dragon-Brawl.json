@@ -2,10 +2,7 @@
   {
     "title": "Son Goku, Might of Many",
     "number": "DB1-001",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -33,10 +30,7 @@
   {
     "title": "SS Vegeta, Exploiting Weakness",
     "number": "DB1-002",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -65,10 +59,7 @@
   {
     "title": "Trunks, Deluge of Power",
     "number": "DB1-003",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -87,7 +78,7 @@
     "character": "Trunks: GT",
     "special_trait": "Saiyan/Earthling",
     "era": "Black Star Dragon Ball Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Battle Card in battle is red : When you combo with this card, it gets +5000 combo power for the duration of the turn. ",
+    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Battle Card in battle is red : When you combo with this card, it gets +5000 combo power for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -95,10 +86,7 @@
   {
     "title": "Giru",
     "number": "DB1-004",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -125,10 +113,7 @@
   {
     "title": "Majin Buu, the Reincarnator",
     "number": "DB1-005",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -155,10 +140,7 @@
   {
     "title": "Champa, Destruction Perfected",
     "number": "DB1-006",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -189,10 +171,7 @@
   {
     "title": "Champa, Destruction Augmented",
     "number": "DB1-007",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -222,10 +201,7 @@
   {
     "title": "Vados, Assembled Might",
     "number": "DB1-008",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -254,10 +230,7 @@
   {
     "title": "Cabba, Surging Forward",
     "number": "DB1-009",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -284,10 +257,7 @@
   {
     "title": "Caulifla, Frenzied Sister",
     "number": "DB1-010",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -314,10 +284,7 @@
   {
     "title": "Kale, Frenzied Sister",
     "number": "DB1-011",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -345,10 +312,7 @@
   {
     "title": "Kefla, Roar of Destruction",
     "number": "DB1-012",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -378,10 +342,7 @@
   {
     "title": "Botamo and Magetta",
     "number": "DB1-013",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -408,10 +369,7 @@
   {
     "title": "Toppo, Righteous Aid",
     "number": "DB1-014",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -441,10 +399,7 @@
   {
     "title": "Toppo, Righteous Aid",
     "number": "DB1-014_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -474,10 +429,7 @@
   {
     "title": "Jiren, Shackles of the Past",
     "number": "DB1-015",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -509,10 +461,7 @@
   {
     "title": "Moginan, the Savage Strongman",
     "number": "DB1-016",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -541,10 +490,7 @@
   {
     "title": "Moginan, Alien Bonds",
     "number": "DB1-017",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -572,10 +518,7 @@
   {
     "title": "Moginan Underling, Relentless Horde",
     "number": "DB1-018",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -602,10 +545,7 @@
   {
     "title": "Niagara Drop",
     "number": "DB1-019",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -626,10 +566,7 @@
   {
     "title": "Galick Cannon",
     "number": "DB1-020",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "EXTRA",
     "color": "Red",
@@ -650,10 +587,7 @@
   {
     "title": "Ultra Instinct Son Goku, the Unstoppable",
     "number": "DB1-021",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -684,10 +618,7 @@
   {
     "title": "Ultra Instinct Son Goku, the Unstoppable",
     "number": "DB1-021_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -718,10 +649,7 @@
   {
     "title": "SS Son Goku, the Ever-Adapting",
     "number": "DB1-022",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -753,10 +681,7 @@
   {
     "title": "Son Gohan, Universe 7 United",
     "number": "DB1-023",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -783,10 +708,7 @@
   {
     "title": "SSB Vegeta, Universe 7 United",
     "number": "DB1-024",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -814,10 +736,7 @@
   {
     "title": "Krillin, Universe 7 United",
     "number": "DB1-025",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -844,10 +763,7 @@
   {
     "title": "Tien Shinhan, Universe 7 United ",
     "number": "DB1-026",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -874,10 +790,7 @@
   {
     "title": "Master Roshi, Universe 7 United ",
     "number": "DB1-027",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -905,10 +818,7 @@
   {
     "title": "Android 17, Universe 7 United ",
     "number": "DB1-028",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -935,10 +845,7 @@
   {
     "title": "Android 18, Universe 7 United",
     "number": "DB1-029",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -967,10 +874,7 @@
   {
     "title": "Majin Buu",
     "number": "DB1-030",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -997,10 +901,7 @@
   {
     "title": "Frieza, Universe 7 United",
     "number": "DB1-031",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1031,10 +932,7 @@
   {
     "title": "Whis, Keeper of Universe 7",
     "number": "DB1-032",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1064,10 +962,7 @@
   {
     "title": "Grand Kai, the Lazy Instructor",
     "number": "DB1-033",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1095,10 +990,7 @@
   {
     "title": "North Kai, Protector of Earth",
     "number": "DB1-034",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1128,10 +1020,7 @@
   {
     "title": "Bubbles",
     "number": "DB1-035",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1158,10 +1047,7 @@
   {
     "title": "Shu, Deluge of Power",
     "number": "DB1-036",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1188,10 +1074,7 @@
   {
     "title": "Mai, the Graceful Tactician",
     "number": "DB1-037",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1218,10 +1101,7 @@
   {
     "title": "Janemba, Infernal Intruder",
     "number": "DB1-038",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1251,10 +1131,7 @@
   {
     "title": "Kamehameha",
     "number": "DB1-039",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1267,7 +1144,7 @@
     },
     "energy_cost": "1",
     "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and place it at the bottom of its owner's deck. ",
+    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and place it at the bottom of its owner's deck.",
     "skills": [
       "Activate-Main"
     ]
@@ -1275,10 +1152,7 @@
   {
     "title": "Desperate Measures",
     "number": "DB1-040",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1299,10 +1173,7 @@
   {
     "title": "Swift Combo Kaio-Ken Son Goku",
     "number": "DB1-041",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1332,10 +1203,7 @@
   {
     "title": "Son Goten, Deluge of Power",
     "number": "DB1-042",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1362,10 +1230,7 @@
   {
     "title": "King Vegeta, Saiyan Ruler",
     "number": "DB1-043",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1395,10 +1260,7 @@
   {
     "title": "Trunks, the Prankster",
     "number": "DB1-044",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1426,10 +1288,7 @@
   {
     "title": "Dr. Brief, Father of a Genius",
     "number": "DB1-045",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1459,10 +1318,7 @@
   {
     "title": "Bulma's Mom, Mother of a Genius",
     "number": "DB1-046",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1489,10 +1345,7 @@
   {
     "title": "Bulma, Genius Inventor",
     "number": "DB1-047",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1519,10 +1372,7 @@
   {
     "title": "Piccolo, Assimilated Ability",
     "number": "DB1-048",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1551,10 +1401,7 @@
   {
     "title": "Krillin, Steadfast Defender",
     "number": "DB1-049",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1583,10 +1430,7 @@
   {
     "title": "Beerus, the Bad-Tempered",
     "number": "DB1-050",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1615,10 +1459,7 @@
   {
     "title": "Whis",
     "number": "DB1-051",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1645,10 +1486,7 @@
   {
     "title": "Broly, Free at Last",
     "number": "DB1-052",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1675,10 +1513,7 @@
   {
     "title": "Lemo",
     "number": "DB1-053",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1705,10 +1540,7 @@
   {
     "title": "Dr. Myuu, Weapon Surplus",
     "number": "DB1-054",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1735,10 +1567,7 @@
   {
     "title": "Super 17, Power Distilled",
     "number": "DB1-055",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1767,10 +1596,7 @@
   {
     "title": "SS Rose Goku Black, a Delicate Plan",
     "number": "DB1-056",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1800,10 +1626,7 @@
   {
     "title": "Fused Zamasu, Deity's Wrath",
     "number": "DB1-057",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1833,10 +1656,7 @@
   {
     "title": "Zamasu, the Undying",
     "number": "DB1-058",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1865,10 +1685,7 @@
   {
     "title": "Slumber Strike",
     "number": "DB1-059",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Green",
@@ -1889,10 +1706,7 @@
   {
     "title": "M2, the Phantasmagoric Planet",
     "number": "DB1-060",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -1915,10 +1729,7 @@
   {
     "title": "Great Ape Bardock, Raider's Warcry",
     "number": "DB1-061",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1946,10 +1757,7 @@
   {
     "title": "Great Ape Bardock, Raider's Warcry",
     "number": "DB1-061_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1977,10 +1785,7 @@
   {
     "title": "Gine, the Kind Saiyan",
     "number": "DB1-062",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2008,10 +1813,7 @@
   {
     "title": "Son Goku, Saiyan Reborn",
     "number": "DB1-063",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2038,10 +1840,7 @@
   {
     "title": "Great Ape Son Goku, Saiyan Instincts",
     "number": "DB1-064",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2069,10 +1868,7 @@
   {
     "title": "Pan, Natural Fighter",
     "number": "DB1-065",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2101,10 +1897,7 @@
   {
     "title": "King Vegeta, the Majestic Ruler",
     "number": "DB1-066",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2131,10 +1924,7 @@
   {
     "title": "Vegeta, the King's Son",
     "number": "DB1-067",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2161,10 +1951,7 @@
   {
     "title": "Tights, Sister of a Genius",
     "number": "DB1-068",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2191,10 +1978,7 @@
   {
     "title": "Chiaotzu, Gallant Pupil",
     "number": "DB1-069",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2222,10 +2006,7 @@
   {
     "title": "Oracle Fish",
     "number": "DB1-070",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2252,10 +2033,7 @@
   {
     "title": "Tora",
     "number": "DB1-071",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2282,10 +2060,7 @@
   {
     "title": "Fasha, Deluge of Power",
     "number": "DB1-072",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2312,10 +2087,7 @@
   {
     "title": "Shugesh, Raider's Warcry",
     "number": "DB1-073",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2342,10 +2114,7 @@
   {
     "title": "Borgos, Raider's Warcry",
     "number": "DB1-074",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2372,10 +2141,7 @@
   {
     "title": "Chilled, the Cruel",
     "number": "DB1-075",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2403,10 +2169,7 @@
   {
     "title": "Frieza, Cry of the Sovereign",
     "number": "DB1-076",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2434,10 +2197,7 @@
   {
     "title": "Ginyu, Ultimate Transformation",
     "number": "DB1-077",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2467,10 +2227,7 @@
   {
     "title": "Mercenary Tao, the Master",
     "number": "DB1-078",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2500,10 +2257,7 @@
   {
     "title": "Final Spirit Cannon",
     "number": "DB1-079",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2524,10 +2278,7 @@
   {
     "title": "Paternal Bonds",
     "number": "DB1-080",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2548,10 +2299,7 @@
   {
     "title": "Son Goku, Striking True",
     "number": "DB1-081",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -2578,10 +2326,7 @@
   {
     "title": "Trunks, Dimension Sniper",
     "number": "DB1-082",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Black",
@@ -2609,10 +2354,7 @@
   {
     "title": "Dende, Cry of the Soul",
     "number": "DB1-083",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2639,10 +2381,7 @@
   {
     "title": "Mira, Assault from the Skies",
     "number": "DB1-084",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -2671,10 +2410,7 @@
   {
     "title": "Fu, Mission Accomplished",
     "number": "DB1-085",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Black",
@@ -2702,10 +2438,7 @@
   {
     "title": "Remote Serious Bomb",
     "number": "DB1-086",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Black",
@@ -2726,10 +2459,7 @@
   {
     "title": "Burning Slash",
     "number": "DB1-087",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -2751,10 +2481,7 @@
   {
     "title": "Champa and Beerus, Capricious Gods",
     "number": "DB1-088",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -2785,10 +2512,7 @@
   {
     "title": "Champa and Beerus, Capricious Gods",
     "number": "DB1-088_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Green",
@@ -2819,10 +2543,7 @@
   {
     "title": "Son Goku and Vegeta, Saiyan Bonds",
     "number": "DB1-089",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
@@ -2852,10 +2573,7 @@
   {
     "title": "King Vegeta and Vegeta, Royal Bloodline",
     "number": "DB1-090",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -2885,10 +2603,7 @@
   {
     "title": "King Vegeta and Vegeta, Royal Bloodline",
     "number": "DB1-090_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Yellow",
@@ -2918,10 +2633,7 @@
   {
     "title": "Son Goku and Son Gohan, Saiyans of Earth",
     "number": "DB1-091",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -2951,10 +2663,7 @@
   {
     "title": "Son Goku and Son Gohan, Saiyans of Earth",
     "number": "DB1-091_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue/Green",
@@ -2984,10 +2693,7 @@
   {
     "title": "Hercule and Majin Buu, Friends Forever",
     "number": "DB1-092",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3017,10 +2723,7 @@
   {
     "title": "Hercule and Majin Buu, Friends Forever",
     "number": "DB1-092_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red/Blue",
@@ -3050,10 +2753,7 @@
   {
     "title": "Krillin and Android 18, Power Couple",
     "number": "DB1-093",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3083,10 +2783,7 @@
   {
     "title": "Krillin and Android 18, Power Couple",
     "number": "DB1-093_PR",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green/Yellow",
@@ -3116,10 +2813,7 @@
   {
     "title": "Vegeta, Saiyan Tag Team",
     "number": "DB1-094",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -3147,10 +2841,7 @@
   {
     "title": "Cabba, Saiyan Tag Team",
     "number": "DB1-095",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -3179,10 +2870,7 @@
   {
     "title": "Uneasy Alliance Son Goku",
     "number": "DB1-096",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -3210,10 +2898,7 @@
   {
     "title": "Uneasy Alliance Frieza",
     "number": "DB1-097",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -3240,10 +2925,7 @@
   {
     "title": "Son Gohan, Master and Pupil",
     "number": "DB1-098",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3272,10 +2954,7 @@
   {
     "title": "Piccolo, Master and Pupil",
     "number": "DB1-099",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -3302,10 +2981,7 @@
   {
     "title": "Bardock, Father and Son",
     "number": "DB1-100",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3332,10 +3008,7 @@
   {
     "title": "Son Goku, Father and Son",
     "number": "DB1-101",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -3363,10 +3036,7 @@
   {
     "title": "SS3 Tag Team Son Gohan",
     "number": "DB1-102",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Black",
@@ -3395,10 +3065,7 @@
   {
     "title": "SS3 Tag Team Trunks",
     "number": "DB1-103",
-    "series": [
-      "DRAFT BOX 04",
-      "-DRAGON BRAWL-"
-    ],
+    "series_text": "DRAFT BOX 04 -DRAGON BRAWL-",
     "rarity": "Duo Power Rare[DPR]",
     "type": "BATTLE",
     "color": "Black",

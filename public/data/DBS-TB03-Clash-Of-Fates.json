@@ -2,10 +2,7 @@
   {
     "title": "Frieza",
     "number": "TB3-001",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Red",
@@ -30,10 +27,7 @@
   {
     "title": "Final Showdown Frieza",
     "number": "TB3-002",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Red",
@@ -63,10 +57,7 @@
   {
     "title": "Final Showdown Frieza",
     "number": "TB3-002_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -96,10 +87,7 @@
   {
     "title": "Frieza, Storm of Blows",
     "number": "TB3-003",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -128,10 +116,7 @@
   {
     "title": "Evolutionary Process Frieza",
     "number": "TB3-004",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -159,10 +144,7 @@
   {
     "title": "Frieza, Overture to Battle",
     "number": "TB3-005",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -189,10 +171,7 @@
   {
     "title": "Body Change Ginyu",
     "number": "TB3-006",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Red",
@@ -220,10 +199,7 @@
   {
     "title": "Body Change Ginyu",
     "number": "TB3-006_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
@@ -251,10 +227,7 @@
   {
     "title": "Strikeforce Recoome",
     "number": "TB3-007",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -282,10 +255,7 @@
   {
     "title": "Strikeforce Burter",
     "number": "TB3-008",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -313,10 +283,7 @@
   {
     "title": "Strikeforce Jeice",
     "number": "TB3-009",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -344,10 +311,7 @@
   {
     "title": "Strikeforce Guldo",
     "number": "TB3-010",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -375,10 +339,7 @@
   {
     "title": "Dodoria, the Expendable",
     "number": "TB3-011",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Red",
@@ -406,10 +367,7 @@
   {
     "title": "Super Zarbon",
     "number": "TB3-012",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -436,10 +394,7 @@
   {
     "title": "Zarbon, Hidden Potential",
     "number": "TB3-013",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Red",
@@ -466,10 +421,7 @@
   {
     "title": "Strategic Mind Kikono",
     "number": "TB3-014",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Feature Rare[FR]",
     "type": "BATTLE",
     "color": "Red",
@@ -496,10 +448,7 @@
   {
     "title": "Recoome Ultra Fighting Bomber",
     "number": "TB3-015",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -521,10 +470,7 @@
   {
     "title": "Frieza's Spaceship",
     "number": "TB3-016",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Red",
@@ -546,10 +492,7 @@
   {
     "title": "Paralysis Technique",
     "number": "TB3-017",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Red",
@@ -570,10 +513,7 @@
   {
     "title": "Bardock",
     "number": "TB3-018",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Blue",
@@ -595,10 +535,7 @@
   {
     "title": "Final Strike Bardock",
     "number": "TB3-019",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -627,10 +564,7 @@
   {
     "title": "Final Strike Bardock",
     "number": "TB3-019_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -659,10 +593,7 @@
   {
     "title": "Gine, Mother of Hope",
     "number": "TB3-020",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -689,10 +620,7 @@
   {
     "title": "Son Goku, Striving to be the Best",
     "number": "TB3-021",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Feature Rare[FR]",
     "type": "BATTLE",
     "color": "Blue",
@@ -720,10 +648,7 @@
   {
     "title": "Kakarot, Bearer of Fate",
     "number": "TB3-022",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -751,10 +676,7 @@
   {
     "title": "Prince Vegeta",
     "number": "TB3-023",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -781,10 +703,7 @@
   {
     "title": "Burnished Bonds Tora",
     "number": "TB3-024",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -814,10 +733,7 @@
   {
     "title": "Planetary Invader Tora",
     "number": "TB3-025",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -844,10 +760,7 @@
   {
     "title": "Burnished Bonds Fasha",
     "number": "TB3-026",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Blue",
@@ -876,10 +789,7 @@
   {
     "title": "Planetary Invader Fasha",
     "number": "TB3-027",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Blue",
@@ -906,10 +816,7 @@
   {
     "title": "Burnished Bonds Shugesh",
     "number": "TB3-028",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -937,10 +844,7 @@
   {
     "title": "Burnished Bonds Borgos",
     "number": "TB3-029",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -969,10 +873,7 @@
   {
     "title": "Toolo, the Seer",
     "number": "TB3-030",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Blue",
@@ -1000,10 +901,7 @@
   {
     "title": "Future Punch",
     "number": "TB3-031",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1025,10 +923,7 @@
   {
     "title": "Tora's Red Armband",
     "number": "TB3-032",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1050,10 +945,7 @@
   {
     "title": "Tora's Red Armband",
     "number": "TB3-032_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1075,10 +967,7 @@
   {
     "title": "Dream the Future",
     "number": "TB3-033",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Blue",
@@ -1099,10 +988,7 @@
   {
     "title": "Son Goku",
     "number": "TB3-034",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Green",
@@ -1125,10 +1011,7 @@
   {
     "title": "Final Showdown Son Goku",
     "number": "TB3-035",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1157,10 +1040,7 @@
   {
     "title": "Final Showdown Son Goku",
     "number": "TB3-035_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1189,10 +1069,7 @@
   {
     "title": "Final Showdown Son Goku",
     "number": "TB3-035_BD",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1221,10 +1098,7 @@
   {
     "title": "Hyperspeed Son Goku",
     "number": "TB3-036",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1252,10 +1126,7 @@
   {
     "title": "Tenacious Spirit Son Gohan",
     "number": "TB3-037",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1286,10 +1157,7 @@
   {
     "title": "Tenacious Spirit Son Gohan",
     "number": "TB3-037_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1320,10 +1188,7 @@
   {
     "title": "Fledgling Duo Son Gohan",
     "number": "TB3-038",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1351,10 +1216,7 @@
   {
     "title": "Vegeta, Fully Recovered",
     "number": "TB3-039",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1382,10 +1244,7 @@
   {
     "title": "Tactical Victory Vegeta",
     "number": "TB3-040",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1413,10 +1272,7 @@
   {
     "title": "Ever-Dependable Bulma",
     "number": "TB3-041",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1444,10 +1300,7 @@
   {
     "title": "Persistent Assault Krillin",
     "number": "TB3-042",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Green",
@@ -1476,10 +1329,7 @@
   {
     "title": "Fledgling Duo Krillin",
     "number": "TB3-043",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1507,10 +1357,7 @@
   {
     "title": "Fledgling Duo Krillin",
     "number": "TB3-043_BD",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Green",
@@ -1538,10 +1385,7 @@
   {
     "title": "Dende",
     "number": "TB3-044",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Green",
@@ -1568,10 +1412,7 @@
   {
     "title": "Cheelai, the Beautiful",
     "number": "TB3-045",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Feature Rare[FR]",
     "type": "BATTLE",
     "color": "Green",
@@ -1599,10 +1440,7 @@
   {
     "title": "Plea for Salvation",
     "number": "TB3-046",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Green",
@@ -1624,10 +1462,7 @@
   {
     "title": "Frieza Army Healing Pod",
     "number": "TB3-047",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "EXTRA",
     "color": "Green",
@@ -1653,10 +1488,7 @@
   {
     "title": "Preemptive Strike",
     "number": "TB3-048",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -1677,10 +1509,7 @@
   {
     "title": "Preemptive Strike",
     "number": "TB3-048_PR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Green",
@@ -1701,10 +1530,7 @@
   {
     "title": "Dende",
     "number": "TB3-049",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Yellow",
@@ -1730,10 +1556,7 @@
   {
     "title": "Son Gohan",
     "number": "TB3-050",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1760,10 +1583,7 @@
   {
     "title": "Vegeta, Striving to be the Best",
     "number": "TB3-051",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Feature Rare[FR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1791,10 +1611,7 @@
   {
     "title": "Krillin, Ability Unleashed",
     "number": "TB3-052",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1821,10 +1638,7 @@
   {
     "title": "Piccolo, Fused with Nail",
     "number": "TB3-053",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1854,10 +1668,7 @@
   {
     "title": "Piccolo, Fused with Nail",
     "number": "TB3-053_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1887,10 +1698,7 @@
   {
     "title": "Piccolo, Potential Unleashed",
     "number": "TB3-054",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1919,10 +1727,7 @@
   {
     "title": "Namekian Solidarity Piccolo",
     "number": "TB3-055",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1949,10 +1754,7 @@
   {
     "title": "Ancient Wisdom Guru",
     "number": "TB3-056",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -1980,10 +1782,7 @@
   {
     "title": "Life or Death Nail",
     "number": "TB3-057",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2015,10 +1814,7 @@
   {
     "title": "Nail, Pride of Namek",
     "number": "TB3-058",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2046,10 +1842,7 @@
   {
     "title": "Wishmaker Dende",
     "number": "TB3-059",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Rare[R]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2078,10 +1871,7 @@
   {
     "title": "Cargo, Namekian Youth",
     "number": "TB3-060",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -2108,10 +1898,7 @@
   {
     "title": "Twin Revival",
     "number": "TB3-061",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2133,10 +1920,7 @@
   {
     "title": "Assimilate",
     "number": "TB3-062",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2157,10 +1941,7 @@
   {
     "title": "Solar Flare",
     "number": "TB3-063",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Yellow",
@@ -2182,10 +1963,7 @@
   {
     "title": "Dragon Ball",
     "number": "TB3-064",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Uncommon[UC]",
     "type": "LEADER",
     "color": "Black",
@@ -2212,10 +1990,7 @@
   {
     "title": "No Escape Son Goku",
     "number": "TB3-065",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "BATTLE",
     "color": "Black",
@@ -2244,10 +2019,7 @@
   {
     "title": "Newfound Power Porunga",
     "number": "TB3-066",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Super Rare[SR]",
     "type": "BATTLE",
     "color": "Black",
@@ -2276,10 +2048,7 @@
   {
     "title": "Newfound Power Porunga",
     "number": "TB3-066_SPR",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Black",
@@ -2308,10 +2077,7 @@
   {
     "title": "Porunga's Dragon Ball",
     "number": "TB3-067",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -2333,10 +2099,7 @@
   {
     "title": "Wish to Porunga",
     "number": "TB3-068",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Common[C]",
     "type": "EXTRA",
     "color": "Black",
@@ -2359,10 +2122,7 @@
   {
     "title": "Frieza, Army Reborn",
     "number": "TB3-069",
-    "series": [
-      "Themed Booster",
-      "～CLASH OF FATES～"
-    ],
+    "series_text": "Themed Booster ~CLASH OF FATES~",
     "rarity": "Secret Rare[SCR]",
     "type": "BATTLE",
     "color": "Red",

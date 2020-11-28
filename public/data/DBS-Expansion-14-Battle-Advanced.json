@@ -2,10 +2,7 @@
   {
     "title": "Ultimate Shenron, Dimensional Wishmaster",
     "number": "EX14-01",
-    "series": [
-      "EXPANSION SET 14",
-      "-Battle Advanced-"
-    ],
+    "series_text": "EXPANSION SET 14 -Battle Advanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Red",
@@ -29,10 +26,7 @@
   {
     "title": "Trunks, Power to Save the Future",
     "number": "EX14-02",
-    "series": [
-      "EXPANSION SET 14",
-      "-Battle Advanced-"
-    ],
+    "series_text": "EXPANSION SET 14 -Battle Advanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -60,10 +54,7 @@
   {
     "title": "Ginyu Force, the Showstoppers",
     "number": "EX14-03",
-    "series": [
-      "EXPANSION SET 14",
-      "-Battle Advanced-"
-    ],
+    "series_text": "EXPANSION SET 14 -Battle Advanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -92,10 +83,7 @@
   {
     "title": "Son Goten & Trunks, Super Saiyan Tag Team",
     "number": "EX14-04",
-    "series": [
-      "EXPANSION SET 14",
-      "-Battle Advanced-"
-    ],
+    "series_text": "EXPANSION SET 14 -Battle Advanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -124,10 +112,7 @@
   {
     "title": "Towa, Rewriting History",
     "number": "EX14-05",
-    "series": [
-      "EXPANSION SET 14",
-      "-Battle Advanced-"
-    ],
+    "series_text": "EXPANSION SET 14 -Battle Advanced-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",

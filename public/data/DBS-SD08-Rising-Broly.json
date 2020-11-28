@@ -2,10 +2,7 @@
   {
     "title": "Broly",
     "number": "SD8-01",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Green",
@@ -30,10 +27,7 @@
   {
     "title": "Broly, the Ravager",
     "number": "SD8-02",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -62,10 +56,7 @@
   {
     "title": "Broly, Rushing Forth",
     "number": "SD8-03",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -93,10 +84,7 @@
   {
     "title": "Defending Father Paragus",
     "number": "SD8-04",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -124,10 +112,7 @@
   {
     "title": "Cheelai, Frieza Force Soldier",
     "number": "SD8-05",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -157,10 +142,7 @@
   {
     "title": "Lemo, Frieza Force Soldier",
     "number": "SD8-06",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
@@ -189,10 +171,7 @@
   {
     "title": "Son Goku, Time to Fight",
     "number": "SD8-07",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -221,10 +200,7 @@
   {
     "title": "Vegeta, Time to Fight",
     "number": "SD8-08",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -252,10 +228,7 @@
   {
     "title": "Godly Destruction Whis",
     "number": "SD8-09",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -284,10 +257,7 @@
   {
     "title": "Godly Destruction Beerus",
     "number": "SD8-10",
-    "series": [
-      "STARTER DECK",
-      "～RISING BROLY～【DBS-SD08】"
-    ],
+    "series_text": "STARTER DECK ~RISING BROLY~【DBS-SD08】",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",

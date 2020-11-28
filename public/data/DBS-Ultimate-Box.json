@@ -2,9 +2,7 @@
   {
     "title": "Kefla",
     "number": "EX03-01",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Red",
@@ -29,9 +27,7 @@
   {
     "title": "Ghost Combo Gotenks",
     "number": "EX03-02",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -59,9 +55,7 @@
   {
     "title": "Virtuous Strength Gohan",
     "number": "EX03-03",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -89,9 +83,7 @@
   {
     "title": "Umbral Blade Dabura",
     "number": "EX03-04",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -120,9 +112,7 @@
   {
     "title": "Rampant Evil Majin Buu",
     "number": "EX03-05",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -151,9 +141,7 @@
   {
     "title": "Capricious Destroyer Champa",
     "number": "EX03-06",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
@@ -180,9 +168,7 @@
   {
     "title": "Vegeta",
     "number": "EX03-07",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Blue",
@@ -205,9 +191,7 @@
   {
     "title": "Awe-Inspiring Intimidator SSB Vegito",
     "number": "EX03-08",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -236,9 +220,7 @@
   {
     "title": "Determined Time Leaper Trunks",
     "number": "EX03-09",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -265,9 +247,7 @@
   {
     "title": "Nightmare Scythe Goku Black",
     "number": "EX03-10",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -295,9 +275,7 @@
   {
     "title": "Undying Link Zamasu",
     "number": "EX03-11",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -325,9 +303,7 @@
   {
     "title": "Indiscriminate Obliteration Sidra",
     "number": "EX03-12",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
@@ -355,9 +331,7 @@
   {
     "title": "Son Goku",
     "number": "EX03-13",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Green",
@@ -381,9 +355,7 @@
   {
     "title": "Last One Standing Son Goku",
     "number": "EX03-14",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -413,9 +385,7 @@
   {
     "title": "Last One Standing Son Goku",
     "number": "EX03-14_PR",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -445,9 +415,7 @@
   {
     "title": "Vile Replication Cell",
     "number": "EX03-15",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -474,9 +442,7 @@
   {
     "title": "Deathless Warrior Broly",
     "number": "EX03-16",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -506,9 +472,7 @@
   {
     "title": "Limitless Energy Android 17",
     "number": "EX03-17",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -537,9 +501,7 @@
   {
     "title": "Elegant Assistance Heles",
     "number": "EX03-18",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -567,9 +529,7 @@
   {
     "title": "Elegant Assistance Heles",
     "number": "EX03-18_PR",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
@@ -597,9 +557,7 @@
   {
     "title": "Jiren",
     "number": "EX03-19",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Yellow",
@@ -623,9 +581,7 @@
   {
     "title": "Indomitable SS Son Goku Jr. ",
     "number": "EX03-20",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -653,9 +609,7 @@
   {
     "title": "Space Pirate Chilled",
     "number": "EX03-21",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -682,9 +636,7 @@
   {
     "title": "Elite Bloodline Cooler",
     "number": "EX03-22",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -713,9 +665,7 @@
   {
     "title": "Frieza, Obsession of The Clan ",
     "number": "EX03-23",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -742,9 +692,7 @@
   {
     "title": "Clownish Destruction Belmod",
     "number": "EX03-24",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
@@ -773,9 +721,7 @@
   {
     "title": "Zen-Oh",
     "number": "EX03-25",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Black",
@@ -801,9 +747,7 @@
   {
     "title": "Forced Absorption Demigra",
     "number": "EX03-26",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -832,9 +776,7 @@
   {
     "title": "Forced Ejection Masked Saiyan",
     "number": "EX03-27",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -863,9 +805,7 @@
   {
     "title": "Smiling Madness Towa",
     "number": "EX03-28",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -895,9 +835,7 @@
   {
     "title": "Forced Destruction Mira",
     "number": "EX03-29",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
@@ -927,9 +865,7 @@
   {
     "title": "Toppo Unleashed",
     "number": "EX03-30",
-    "series": [
-      "ULTIMATE BOX"
-    ],
+    "series_text": "ULTIMATE BOX",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",

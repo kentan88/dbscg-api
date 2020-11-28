@@ -2,10 +2,7 @@
   {
     "title": "The Masked Saiyan",
     "number": "SD3-01",
-    "series": [
-      "Series 3 Starter",
-      "～THE DARK INVASION～"
-    ],
+    "series_text": "Series 3 Starter ~THE DARK INVASION~",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Black",
@@ -32,10 +29,7 @@
   {
     "title": "Killer Sword Trunks",
     "number": "SD3-02",
-    "series": [
-      "Series 3 Starter",
-      "～THE DARK INVASION～"
-    ],
+    "series_text": "Series 3 Starter ~THE DARK INVASION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Black",
@@ -65,10 +59,7 @@
   {
     "title": "Quick blade Trunks",
     "number": "SD3-03",
-    "series": [
-      "Series 3 Starter",
-      "～THE DARK INVASION～"
-    ],
+    "series_text": "Series 3 Starter ~THE DARK INVASION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Black",
@@ -95,10 +86,7 @@
   {
     "title": "Encroaching Threat Masked Saiyan",
     "number": "SD3-04",
-    "series": [
-      "Series 3 Starter",
-      "～THE DARK INVASION～"
-    ],
+    "series_text": "Series 3 Starter ~THE DARK INVASION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Black",
@@ -125,10 +113,7 @@
   {
     "title": "Power Aura Mira",
     "number": "SD3-05",
-    "series": [
-      "Series 3 Starter",
-      "～THE DARK INVASION～"
-    ],
+    "series_text": "Series 3 Starter ~THE DARK INVASION~",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Black",
