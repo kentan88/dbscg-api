@@ -1,6 +1,7 @@
 json.deck do
   json.id @deck.id
   json.name @deck.name
+  json.description @deck.description
 end
 
 json.leader_card do

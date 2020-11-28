@@ -32,7 +32,7 @@ class API::DecksController < ApplicationController
   end
 
   def deck_params
-    params.require(:deck).permit(:name, :card_id)
+    params.require(:deck).permit(:name, :description, :card_id)
   end
 
   private
