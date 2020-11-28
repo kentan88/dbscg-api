@@ -14,7 +14,7 @@ json.combo_power card.combo_power
 json.character card.character
 json.special_trait card.special_trait
 json.era card.era
-json.series card.series
+json.series_text card.series_text
 json.skills_text card.skills_text
 json.skills_back_text card.skills_back_text
 json.energy card.energy.to_json
