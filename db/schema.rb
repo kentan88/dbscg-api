@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_28_132038) do
+ActiveRecord::Schema.define(version: 2020_11_28_182001) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -84,6 +84,9 @@ ActiveRecord::Schema.define(version: 2020_11_28_132038) do
     t.integer "power"
     t.integer "power_back"
     t.string "number"
+    t.bigint "card_id", null: false
+    t.jsonb "stats", default: "{}"
+    t.index ["card_id"], name: "index_leaders_on_card_id"
     t.index ["number"], name: "index_leaders_on_number"
     t.index ["title"], name: "index_leaders_on_title"
     t.index ["title_back"], name: "index_leaders_on_title_back"
