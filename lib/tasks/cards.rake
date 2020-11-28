@@ -12,11 +12,14 @@ namespace :cards do
       data_hash = JSON.parse(file)
 
       data_hash.each do |data|
-        card = Card.find_by(number: data["number"])
-        if data["power_back"].length > 0
-          puts card.title
-          card.power_back = data["power_back"]
-          card.save!
+        if data["type"] == "LEADER"
+          card = Card.find_by(type: "LEADER", number: data["number"])
+          puts data
+          if data["power_back"].length > 0
+            puts card.title
+            card.power_back = data["power_back"]
+            card.save!
+          end
         end
       end
     end
