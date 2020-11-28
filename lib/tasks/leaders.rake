@@ -1,5 +1,3 @@
-require 'byebug'
-
 namespace :leaders do
   task :seed => :environment do
     Card.where(type: "LEADER").each do |card|
