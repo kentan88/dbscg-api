@@ -325,7 +325,7 @@ namespace :scraper do
               card['combo_energy'] = combo_energy_nodes.children[3].inner_html if combo_energy_nodes.children.length > 0
               card['combo_power'] = combo_power_nodes.children[3].inner_html if combo_power_nodes.children.length > 0
               card['character'] = character_nodes.children[3].inner_text if character_nodes.children.length > 0
-              card['special_trait'] = special_trait_nodes.children[3].inner_text if special_trait_nodes.children.length > 0
+              card['special_trait'] = special_trait_nodes.children[3].inner_text.strip if special_trait_nodes.children.length > 0
               card['era'] = era_nodes.children[3].inner_text if era_nodes.children.length > 0
 
               if skills_nodes.children.length > 0

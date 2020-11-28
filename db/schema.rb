@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_14_141828) do
+ActiveRecord::Schema.define(version: 2020_11_28_032135) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -37,6 +37,7 @@ ActiveRecord::Schema.define(version: 2020_11_14_141828) do
     t.text "skills_text"
     t.string "skills_back", default: [], array: true
     t.text "skills_back_text"
+    t.string "series_text"
     t.index ["character"], name: "index_cards_on_character"
     t.index ["color"], name: "index_cards_on_color"
     t.index ["combo_energy"], name: "index_cards_on_combo_energy"
@@ -49,6 +50,7 @@ ActiveRecord::Schema.define(version: 2020_11_14_141828) do
     t.index ["power_back"], name: "index_cards_on_power_back"
     t.index ["rarity"], name: "index_cards_on_rarity"
     t.index ["series"], name: "index_cards_on_series", using: :gin
+    t.index ["series_text"], name: "index_cards_on_series_text"
     t.index ["skills_back_text"], name: "index_cards_on_skills_back_text"
     t.index ["skills_text"], name: "index_cards_on_skills_text"
     t.index ["special_trait"], name: "index_cards_on_special_trait"
