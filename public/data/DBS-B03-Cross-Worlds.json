@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Pan, Ready to Fight",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you play a Battle Card, choose that card, and it gains +5000 power for the duration of the turn. Then, if its power is 20000 or more, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Auto",
@@ -41,6 +42,7 @@
       "Awaken"
     ],
     "title_back": "Scheming Dr. Myuu",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 《Machine Mutant》 Battle Card from your hand with 10000 or less power and play it.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -943,6 +945,7 @@
       "Awaken"
     ],
     "title_back": "Majin Buu, Completely Revived",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, place the top card of your deck under this card. Then, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 5 cards under this card and place them in the Drop Area : Switch this card to Active Mode. It gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -968,6 +971,7 @@
       "Awaken"
     ],
     "title_back": "Heightened Evolution Super Saiyan 3 Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can only place up to 6 energy.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 3 of your energy and switch them to Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -1717,6 +1721,7 @@
       "Awaken"
     ],
     "title_back": "Going All In, SSB Vegito",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if your opponent has no Battle Cards in their Battle Area, this card gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then, if your opponent has 2 or less Battle Cards, this card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -1741,6 +1746,7 @@
       "Awaken"
     ],
     "title_back": "Thirst for Destruction, Android 13",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent's ＜Son Goku＞ or Battle Card with an energy cost of 6 or less is placed in the Drop Area from any area by one of your skills, this card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Auto",
@@ -2602,6 +2608,7 @@
       "Awaken"
     ],
     "title_back": "Unwavering Justice Bardock",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your 《Saiyan》 is KO-ed, this card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -2626,6 +2633,7 @@
       "Awaken"
     ],
     "title_back": "Uncontrollable Great Ape Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your Battle Cards and switch it to Rest Mode : Choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode. Then, choose up to 1 of your opponent's Battle Card's in Rest Mode.<br>That card cannot switch to Active Mode during your opponent's next Charge Phase.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -3556,6 +3564,7 @@
       "Awaken"
     ],
     "title_back": "Dark Warrior Mira",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Warp has 5 cards or more in it, this card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\">.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place up to 2 cards from the top of your deck in the Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -3582,6 +3591,7 @@
       "Awaken"
     ],
     "title_back": "Super Saiyan Trunks, Protector of Time",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place up to 2 cards from the top of your deck in the Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then, you may choose 5 cards in your Drop Area and send them to your Warp. If you do so, this card gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
     "skills_back": [
       "Activate-Main",

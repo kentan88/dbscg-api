@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "SSB Vegito, Godhood Transcended",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 of your blue Unison Cards and it gets +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the battle.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If it's your opponent's turn : When one of your blue Unison Cards would be placed in your Drop Area or one of your blue Battle Cards is removed from your Battle Area by an opponent's skill or KO'd, switch up to 1 of your mono-blue energy to Active Mode and draw 1 card.",
     "skills_back": [
       "Auto",

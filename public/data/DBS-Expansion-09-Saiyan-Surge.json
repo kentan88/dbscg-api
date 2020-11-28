@@ -71,6 +71,7 @@
       "Surge"
     ],
     "title_back": "SSG Son Goku, Surge of Divinity",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 5 or less and you choose 1 card under this card and place it in its owner's Drop Area : Choose one-<br>・ Choose all of your opponent's Battle Cards, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and negate their skills for the duration of the turn.<br>・ This card gets +10000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Activate_Main-Battle",

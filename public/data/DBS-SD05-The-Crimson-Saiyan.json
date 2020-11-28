@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Long Odds SS4 Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When your life is less than or equal to your opponent's life, this card gains +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand) during your turn.",
     "skills_back": [
       "Auto",

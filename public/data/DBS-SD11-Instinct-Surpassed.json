@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Ultra Instinct Son Goku, Hero of Universe 7",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then choose up to 1 《Universe 7》 card in your Battle Area and it gets +5000 power for the duration of the turn.",
     "skills_back": [
       "Critical",

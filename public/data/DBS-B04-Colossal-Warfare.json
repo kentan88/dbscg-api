@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Energy Burst Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and if you have 4 or less cards in your hand, draw 1 card and this card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto"
@@ -38,6 +39,7 @@
       "Awaken"
     ],
     "title_back": "Rampaging Great Ape Baby",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then choose 1 of your Battle Cards and 1 of your opponent's Battle Cards, and they both lose -10000 power for the duration of the turn.",
     "skills_back": [
       "Auto"
@@ -732,6 +734,7 @@
       "Awaken"
     ],
     "title_back": "Iron Vow Trunks",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, if all of your energy is blue, choose up to 1 of your blue Battle Cards with an energy cost of 3 or more and up to 1 of your energy, then switch them to Active Mode.",
     "skills_back": [
       "Auto"
@@ -754,6 +757,7 @@
       "Awaken"
     ],
     "title_back": "Awakened Perfection Hirudegarn",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then, if you have 4 or more energy, your opponent chooses 1 card from their hand and places it on top of their deck.",
     "skills_back": [
       "Auto"
@@ -1402,6 +1406,7 @@
       "Awaken"
     ],
     "title_back": "Piccolo, Kami's Successor",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> <img src=\"/images/Bond_2.png\" alt=\"Bond 2\" class=\"skillText\">《Namekian》 (This skill takes effect when you have 2 or more of the specified Battle Cards in play ) : This card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\">.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then choose up to 1 《Namekian》 in your Battle Area and it gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -1428,6 +1433,7 @@
       "Awaken"
     ],
     "title_back": "Lord Slug, Gigantified",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your hand in your Drop Area : Your opponent chooses 1 card from their hand and places it in their Drop Area.",
     "skills_back": [
       "Auto",
@@ -2163,6 +2169,7 @@
       "Awaken"
     ],
     "title_back": "Uncontrollable Bardock",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Choose up to 1 of your opponent's Rest Mode Battle Cards and KO it.",
     "skills_back": [
       "Auto",
@@ -2187,6 +2194,7 @@
       "Awaken"
     ],
     "title_back": "Legacy Bearer Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then choose up to 1 《Goku's Lineage》 in your Battle Area. This card and the chosen card gain +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto"
@@ -3178,6 +3186,7 @@
       "Awaken"
     ],
     "title_back": "Ghastly Malice Demigra",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Wormhole.png\" alt=\"Wormhole\" class=\"skillText\"> (You can activate <img src=\"/images/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\"> and <img src=\"/images/Dark-Over-Realm.png\" alt=\"Dark Over Realm\" class=\"skillText\"> up to a total 2 times a turn)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose up to 3 black cards in your Warp and place them in your Drop Area.",
     "skills_back": [
       "Wormhole",
@@ -3206,6 +3215,7 @@
       "Awaken"
     ],
     "title_back": "Mira, One with Darkness",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 3 cards in your Warp and place them in your Drop Area : This card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",

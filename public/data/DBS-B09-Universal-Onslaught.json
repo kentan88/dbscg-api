@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Frieza, the Planet Wrecker",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 《Frieza Clan》 card in your Battle Area and it gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -43,6 +44,7 @@
       "Awaken"
     ],
     "title_back": "Cooler, Revenge Transformed",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When the power of one of your opponent's Battle Cards is decreased, your opponent places the top card of their deck in their Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When the power of one of your opponent's Battle Cards is decreased by the skill of one of your Battle Cards, draw 1 card.",
     "skills_back": [
       "Auto",
@@ -551,6 +553,7 @@
       "Awaken"
     ],
     "title_back": "Android 17, Universal Guardian",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose up to 1 of your opponent's Battle Cards, return it to its owner's hand, then choose up to 1 《Universe 7》 card in your Drop Area and add it to your hand.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If there are 9 or more multicolor Extra Cards and/or 《Universe 7》 cards in your Drop Area : This card gets +5000 power, <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -1016,6 +1019,7 @@
       "Awaken"
     ],
     "title_back": "Androids 20, 17, & 18, Bionic Renaissance",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if there are no cards in your Battle Area : Choose 1 green or yellow 《Android》 card with an energy cost of 3 or less in your Drop Area, and play it in Rest Mode with its skills negated for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -1422,6 +1426,7 @@
       "Awaken"
     ],
     "title_back": "Full-Power Jiren, the Unstoppable",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card and this card gets +5000 power for the duration of the turn.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose 1 card in your life and add it to your hand : Until the start of your next Main Phase, as long as you have a 《Universe 11》 card in play, you don't take damage from your opponent's attacks.",
     "skills_back": [
       "Auto",
@@ -1877,6 +1882,7 @@
       "Awaken"
     ],
     "title_back": "Majin Buu, One with Nothingness",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If you have no cards in your hand : At the end of your turn, draw 5 cards.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose one-<br>・ Choose 1 of your opponent's Battle Cards with an energy cost of 3 or less and place it under this card.<br>・ This card gets +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -2829,6 +2835,7 @@
       "Surge"
     ],
     "title_back": "Ultra Instinct Son Goku, Limits Surpassed",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 5 or less and you choose 1 card under this card and place it in its owner's Drop Area : Choose one-<br>・ If you have a 《Universe 7》 card in play, draw 1 card, then your opponent reveals their hand. Choose up to 1 Extra Card or Battle Card with 35000 power or less from it and place it in their Drop Area.<br>・ Choose up to 3 multicolor Extra Cards with different names in your Drop Area and/or Warp and add them to your hand.",
     "skills_back": [
       "Activate_Main-Battle",
@@ -3267,6 +3274,7 @@
       "Surge"
     ],
     "title_back": "Cell, Perfection Surpassed",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 4 or less, choose 1 card under this card and place it in its owner's Drop Area : Choose one-<br>・ Until the start of your next Main Phase, if your opponent plays a Battle Card, it is played in Rest Mode.<br>・ Choose up to 1 of your opponent's Battle Cards, KO it, then choose 1 card in your opponent's hand and place it in their Drop Area.",
     "skills_back": [
       "Activate-Main",
@@ -3714,6 +3722,7 @@
       "Awaken"
     ],
     "title_back": "Assassin Hit Returns",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, this card gets +5000 power for the duration of the turn, then choose up to 1 skill-less Battle Card in your Drop Area with an energy cost of 2 or less and play it.<br><img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose up to 1 of your opponent's Battle Cards with <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\">, or <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and KO it.",
     "skills_back": [
       "Auto",
@@ -3741,6 +3750,7 @@
       "Awaken"
     ],
     "title_back": "Beerus, God of Destruction Returns",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When your opponent's life is at 4 or less, any time this card would deal damage to your opponent, choose up to 1 card in your Drop Area and place it in your energy in Rest Mode instead.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose one-<br>・ Choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.<br>・ Draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/sixteen.png\" alt=\"sixteen\" class=\"skillTextBall\"> : You win the game.",
     "skills_back": [
       "Permanent",
@@ -3767,6 +3777,7 @@
       "Awaken"
     ],
     "title_back": "Heightened Evolution SS3 Son Goku Returns",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can only place up to 6 energy in your Energy Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card and this card gets +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 3 of your mono-blue energy and switch them to Active Mode.",
     "skills_back": [
       "Permanent",
@@ -3791,6 +3802,7 @@
       "Awaken"
     ],
     "title_back": "Father-Son Kamehameha Goku & Gohan Return",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> During your turn, choose 1 card in your life and place it in your Drop Area : This card gets +10000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Switch this card to Active Mode. At the end of this turn, you lose the game.",
     "skills_back": [
       "Auto",
@@ -3817,6 +3829,7 @@
       "Awaken"
     ],
     "title_back": "Nucleus of Evil Meta-Cooler Core Returns",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, place up to 3 cards from the top of your deck in your Drop Area, then choose up to 1 〈Meta-Cooler〉 or 〈Meta-Cooler Core〉 card in your Drop Area and add it to your hand.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If you have 2 or more 《Frieza Clan》 cards in play : Choose 1 of your opponent's Battle Cards, switch it to Rest Mode, and it can't be switched to Active Mode during your opponent's next Charge Phase.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose up to 1 〈Meta-Cooler〉 card in your Battle Area and it gets +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",

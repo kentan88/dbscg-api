@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Vegeta, Candidate of Destruction",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card's power is decreased by a skill, it gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the turn.",
     "skills_back": [
       "Auto",

@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Last Resort Frieza",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 《Frieza's Army》 card in your Battle Area and place it in its owner's Drop Area : Choose 1 card in your opponent's hand, discard it, then choose up to 1 of your green Unison Cards and it gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the turn.",
     "skills_back": [
       "Auto",

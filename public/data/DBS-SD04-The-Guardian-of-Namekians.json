@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Piccolo Jr., Evil Reborn",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 of your opponent's Battle Cards with an energy cost of 5 or less and KO it, then this card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",

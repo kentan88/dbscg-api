@@ -19,6 +19,7 @@
       "Awaken"
     ],
     "title_back": "Cell & Cell Jr., Endless Supremity",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 green or yellow card from your hand, place it under this card, then choose 1 card in your life and place it in your Drop Area : Draw 2 cards.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 2 cards under this card and place them in their owners' Drop Areas : Play 2 Cell Jr. tokens. (Cell Jr. tokens have 10000 power, 0 combo cost, and 5000 combo power.)",
     "skills_back": [
       "Activate-Main",

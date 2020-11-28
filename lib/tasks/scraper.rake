@@ -258,7 +258,6 @@ namespace :scraper do
         },
     ]
 
-
     SERIES_LIST.each do |series|
       puts "Seeding #{series[:title]}..."
 
@@ -306,9 +305,9 @@ namespace :scraper do
                           color: color,
                       })
 
-          card['power'] = power_nodes.children[3].inner_text if power_nodes.children.length > 0
+          card['power'] = power_nodes.children[3].inner_text.strip if power_nodes.children.length > 0
           if energy_nodes.children.length > 0
-            energy_inner_html = energy_nodes.children[3].inner_html
+            energy_inner_html = energy_nodes.children[3].inner_html.strip
             card['energy'] = {
                 red: energy_inner_html.scan(/red/).count,
                 green: energy_inner_html.scan(/green/).count,
@@ -337,11 +336,13 @@ namespace :scraper do
         cards_back.each do |card_back_nodes|
           title_back_nodes = card_back_nodes.css('.cardName')
           skills_back_nodes = card_back_nodes.css('.skillCol')
+          power_back_nodes = card_back_nodes.css('.powerCol')
 
           if cards_back.length > 0
             card['title_back'] = title_back_nodes.inner_text.strip
 
             if skills_back_nodes.children.length > 0
+              card['power_back'] = power_back_nodes.children[3].inner_text.strip if power_back_nodes.children.length > 0
               card['skills_back_text'] = skills_back_nodes.children[3].inner_html.strip.gsub("../../images/cardlist/common", "/images")
               card['skills_back'] = skills_back_nodes.children[3].inner_html.strip.scan(/[a-zA-Z\-_]+.png/).map { |str| str.gsub(".png", "") }.uniq
             end

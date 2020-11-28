@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Fusion Warrior Super Saiyan Vegito",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Each ＜Son Goku＞ and ＜Vegeta＞ in all of your areas gain red, blue, and green colors.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and if there are 10 or more total <son goku=\"\"> or <vegeta> in your Drop Area, this card gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.</vegeta></son>",
     "skills_back": [
       "Permanent",
@@ -42,6 +43,7 @@
       "Awaken"
     ],
     "title_back": "Soul Unleashed Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your hand in the Drop Area : This card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Battle",
@@ -66,6 +68,7 @@
       "Awaken"
     ],
     "title_back": "Babidi, Creator of Evil",
+    "power_back": "10000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your Battle Cards. It gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your Battle Cards attack, draw 1 card, and place up to 1 card from the top of your deck under your {Majin Buu's Sealed Ball}.",
     "skills_back": [
       "Activate-Main",
@@ -1028,6 +1031,7 @@
       "Awaken"
     ],
     "title_back": "Absolute God Fused Zamasu",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If damage is inflicted to your life, place 5 cards from the top of your deck in the Drop Area instead. (10 cards if you receive 2 damage)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -1052,6 +1056,7 @@
       "Awaken"
     ],
     "title_back": "Trunks, Hope for the Future",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> During your turn, when you combo with a card that has an energy cost of 2 or more, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Auto",
@@ -1076,6 +1081,7 @@
       "Awaken"
     ],
     "title_back": "Goku Black, The Bringer of Despair",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 2 or less life, this card gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking).<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -2259,6 +2265,7 @@
       "Awaken"
     ],
     "title_back": "Ultimate Lifeform Cell",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your hand under this card: Draw 2 cards.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 2 cards from under this card in the Drop Area : Choose up to 1 opponent Battle Card and KO that card.",
     "skills_back": [
       "Activate-Main",
@@ -2282,6 +2289,7 @@
       "Awaken"
     ],
     "title_back": "Father-Son Kamehameha　Goku&Gohan",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Remove all of your cards in the Drop Area from the game : This card gains +5000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking).<br>Then, at the end of the turn, you lose the game.",
     "skills_back": [
       "Auto",
@@ -2307,6 +2315,7 @@
       "Awaken"
     ],
     "title_back": "Diabolical Duo Androids 17 & 18",
+    "power_back": "10000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Reduce the energy costs of ＜Android 17＞ and ＜Android 18＞ in your hand by 1.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your life is 4 or less, all of your ＜Android 17＞ and ＜Android 18＞ gain +5000 power.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -3287,6 +3296,7 @@
       "Awaken"
     ],
     "title_back": "Nucleus of Evil Meta-Cooler Core",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If 3 or more of your ＜Meta-Cooler＞ are in play, choose 1 of your opponent's Battle Cards and switch it to Rest Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, place up to 3 cards from the top of your deck in the Drop Area. Choose up to 1 ＜Meta-Cooler＞ or ＜Meta-Cooler Core＞ from your Drop Area and add it to your hand.",
     "skills_back": [
       "Activate-Main",
@@ -3312,6 +3322,7 @@
       "Awaken"
     ],
     "title_back": "Cooler, Leader of Troops",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place up to 3 cards from the top of your deck in the Drop Area. If there was 1 or more 《Frieza Clan》 among them, this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -3336,6 +3347,7 @@
       "Awaken"
     ],
     "title_back": "Chilled, Harbinger of Destruction",
+    "power_back": "10000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, this card gains +5000 power.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card and play 1 Chilled's Army token. (Chilled's Army token has 10000 power)",
     "skills_back": [
       "Permanent",

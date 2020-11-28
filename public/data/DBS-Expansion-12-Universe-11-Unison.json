@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Toppo, Candidate of Destruction",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a yellow Unison Card with a specified cost of 2 in play, when a player plays a Battle Card, that player can't play Battle Cards for the turn.",
     "skills_back": [
       "Auto",

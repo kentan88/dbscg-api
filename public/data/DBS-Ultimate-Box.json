@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Explosive Power Kefla",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 《Universe 6》 in your hand and place it in your Drop Area : Choose this card or one of your 《Universe 6》 Battle Cards. It gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -182,6 +183,7 @@
       "Awaken"
     ],
     "title_back": "Explosive Power Vegeta",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 3 or more 《Universe 7》 in your Energy Area, this card gains +5000 power.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. You may choose up to 1 of your energy and add it to your hand. If you chose to add a card from your Ｅnergy Area to your hand, choose up to 1 card in your hand and add it to your energy.",
     "skills_back": [
       "Permanent",
@@ -345,6 +347,7 @@
       "Awaken"
     ],
     "title_back": "Explosive Power Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"><img src=\"/images/Bond_2.png\" alt=\"Bond 2\" class=\"skillText\"> 《Universe 7》 : During your turn, this card gains +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br>",
     "skills_back": [
       "Permanent",
@@ -571,6 +574,7 @@
       "Awaken"
     ],
     "title_back": "Explosive Power Jiren",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 9 《Universe 11》 in your Drop Area and send them to your Warp : This card gains <img src=\"/images/Quadruple-Strike.png\" alt=\"Quadruple Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -736,6 +740,7 @@
       "Awaken"
     ],
     "title_back": "Zen-Oh, Ruler of the Universe",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat cards with 《Universe》 as part of their special traits in all areas as if they had no specified cost. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, place up to 2 cards from the top of your deck in your Drop Area, and draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 10 cards in your Drop Area and send them to your Warp : Your opponent chooses 2 cards from their hand and places them in their Drop Area.",
     "skills_back": [
       "Permanent",

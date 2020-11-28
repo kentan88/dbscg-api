@@ -983,6 +983,7 @@
       "Awaken"
     ],
     "title_back": "Vile Strike Dark Prince Vegeta",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your hand in the Drop Area : This card gains +5000 and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -1010,6 +1011,7 @@
       "Awaken"
     ],
     "title_back": "Awakened Strike SSB Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and add it to your hand: This card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn. If you have 7 or more energy, this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -1035,6 +1037,7 @@
       "Awaken"
     ],
     "title_back": "Prodigious Strike Super Saiyan Gotenks",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks your opponent's Leader, if you have less cards in hand than your opponent, your opponent chooses 1 card in their hand and places it in the Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Auto"
@@ -1057,6 +1060,7 @@
       "Awaken"
     ],
     "title_back": "Bionic Strike Mecha Frieza",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you activate an Extra Card, you may choose 1 card in your life and add it to your hand. If you do, reduce the energy cost of that Extra Card by 2 for the duration of the turn. If this reduces the energy cost of that Extra Card to less than 1, you may activate the card without paying the specified cost.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -1809,6 +1813,7 @@
       "Awaken"
     ],
     "title_back": "Caulifla Running Wild",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and add it to your hand : Choose this card and all of your non-black Battle Cards. They gain +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -1833,6 +1838,7 @@
       "Awaken"
     ],
     "title_back": "Full Power Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If you have 6 or more energy, choose 1 card in your life and add it to your energy. After adding a card to your energy from your life with this skill, if you have 2 or less life, this card gains +10000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -1857,6 +1863,7 @@
       "Awaken"
     ],
     "title_back": "Saiyan Delusion Hercule",
+    "power_back": "5000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place all cards from your hand in the Drop Area (you can't activate this ability with no cards in hand) : This card gains +50000 power for the duration of the turn. If you placed 5 or more cards in the Drop Area with this skill, this card gains <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the duration of the turn. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -1883,6 +1890,7 @@
       "Awaken"
     ],
     "title_back": "Saiyan Power Great Ape Bardock",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards and switch it to Rest Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -2759,6 +2767,7 @@
       "Awaken"
     ],
     "title_back": "Broly, Legend's Dawning",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then you may choose 1 of your non-token, non-black Battle Cards and place it in your Drop Area. If you do so, your opponent chooses 1 card in their hand and places it in their Drop Area.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose up to 1 of your opponent's Battle Cards and KO it.",
     "skills_back": [
       "Auto",
@@ -2784,6 +2793,7 @@
       "Awaken"
     ],
     "title_back": "Miracle Strike Gogeta",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and place it in your Drop Area : Choose all of your opponent's Battle Cards ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, negate their skills for the duration of the turn, and this card gains +5000 power for the duration of the turn. You can only play Battle Cards by using <img src=\"/images/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\"> for the remainder of the turn.",
     "skills_back": [
       "Auto",
@@ -2812,6 +2822,7 @@
       "Awaken"
     ],
     "title_back": "Saiyan Power Baby",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your Battle Cards, and it loses -15000 power for the duration of the turn. If you do so, choose up to 2 of your opponent's Battle Cards, and they lose -10000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -2836,6 +2847,7 @@
       "Awaken"
     ],
     "title_back": "Stormfist Krillin",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area: This card gains +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -2861,6 +2873,7 @@
       "Awaken"
     ],
     "title_back": "Full-Size Power Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When your opponent has 4 or more Battle Cards in play, this card's attack can't be negated.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, if your opponent has 4 or more Battle Cards in play, this card gains <img src=\"/images/Quadruple-Strike.png\" alt=\"Quadruple Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -2886,6 +2899,7 @@
       "Awaken"
     ],
     "title_back": "Staunch Striker Son Goten",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the beginning of your opponent's Main Phase, you may choose 1 card in your hand and place it in your Drop Area. If you do so, this card gains +5000 power for the duration of the turn, and negate this skill for the duration of the game.",
     "skills_back": [
       "Auto"
@@ -3354,6 +3368,7 @@
       "Awaken"
     ],
     "title_back": "Relentless Speed Janemba",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and place 2 cards from the top of your opponent's deck in their Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is attacked, you may place 1 blue card from your hand in your Drop Area. If you do, negate the attack, and negate this skill for the duration of the game.",
     "skills_back": [
       "Auto"
@@ -3533,6 +3548,7 @@
       "Awaken"
     ],
     "title_back": "SS Gogeta, the Unstoppable",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\"> ： Choose 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your energy and place it in its owner's Drop Area : Draw 2 cards.",
     "skills_back": [
       "Auto",
@@ -3559,6 +3575,7 @@
       "Awaken"
     ],
     "title_back": "SS Gogeta, the Unstoppable",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\"> ： Choose 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your energy and place it in its owner's Drop Area : Draw 2 cards.",
     "skills_back": [
       "Auto",
@@ -3584,6 +3601,7 @@
       "Awaken"
     ],
     "title_back": "Broly, the Awakened Threat",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards and switch it to Rest Mode.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Choose up to 1 of your cards in Rest Mode and switch it to Active Mode.",
     "skills_back": [
       "Auto",
@@ -3608,6 +3626,7 @@
       "Awaken"
     ],
     "title_back": "Broly, the Awakened Threat",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards and switch it to Rest Mode.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Choose up to 1 of your cards in Rest Mode and switch it to Active Mode.",
     "skills_back": [
       "Auto",
@@ -4444,6 +4463,7 @@
       "Awaken"
     ],
     "title_back": "SSB Gogeta, Fusion Transcendent",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards with 10000 power or less and KO it.",
     "skills_back": [
       "Double-Strike",
@@ -5935,6 +5955,7 @@
       "Awaken"
     ],
     "title_back": "Vegeta, Furious Awakening",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card is also treated as red, green, and yellow. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you attack with this card, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -6451,6 +6472,7 @@
       "Surge"
     ],
     "title_back": "Broly, Surge of Brutality",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 3 or less and you choose 1 card under this card and place it in your Drop Area : Choose one-<br>・ Choose up to 1 Battle Card in your Drop Area, combo with it, then this card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.<br>・ Choose 1 of your opponent's Battle Cards, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and KO it.",
     "skills_back": [
       "Activate-Battle",
@@ -6529,6 +6551,7 @@
       "Surge"
     ],
     "title_back": "Kefla, Surge of Ferocity",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 4 or less and you choose 1 card under this card and place it in its owner's Drop Area : Choose one-<br>・ Draw 1 card, then choose up to 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck.<br>・ At the beginning of your opponent's next Main Phase, choose up to 3 multicolor cards in your Drop Area and add them to your hand.",
     "skills_back": [
       "Activate-Main",
@@ -6962,6 +6985,7 @@
       "Awaken"
     ],
     "title_back": "Zen-Oh, the All-Powerful",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card is also treated as blue, green, and yellow.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -7280,6 +7304,7 @@
       "Awaken"
     ],
     "title_back": "SSGSS Son Goku,  Soul Striker Reborn",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then switch up to 2 of your mono-blue energy to Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 1 of your blue Unison Cards and switch it to Active Mode.",
     "skills_back": [
       "Auto"
@@ -8301,6 +8326,7 @@
       "Awaken"
     ],
     "title_back": "SS4 Son Gohan, Awakened Ability",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then place up to 3 black cards from your Warp in your Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you activate an <img src=\"/images/Over-Realm.png\" alt=\"Over Realm\" class=\"skillText\"> skill, this card gets +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> or <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the turn.",
     "skills_back": [
       "Auto",
@@ -8991,6 +9017,7 @@
       "Awaken"
     ],
     "title_back": "Son Goku, Revenge of the Great Ape",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card is also treated as red, blue, and yellow.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",

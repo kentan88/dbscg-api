@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Self-Control Android 21",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't play Battle Cards with an original energy cost of 6 or more. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When a card in your energy is placed in your Drop Area by one of your skills, draw 1 card, then choose up to 1 Blue/Green multicolor card in your Drop Area, and add it to your energy in Rest Mode; at the start of your opponent's next Main Phase, choose up to 1 Blue/Green multicolor card in your energy and switch it to Active Mode.",
     "skills_back": [
       "Permanent",

@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Yamcha, Supersonic Striker",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 2 cards from the top of your deck, add up to 1 red card among them to your hand, then place any remaining cards in your Drop Area and this card gets +5000 power for the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If you have a red Unison Card in play : When your opponent takes damage from non-keyword skills on your Battle Cards or Unison Cards, deal 1 damage to your opponent, then negate this skill for the game.",
     "skills_back": [
       "Auto"
@@ -38,6 +39,7 @@
       "Awaken"
     ],
     "title_back": "Pilaf, Shu, and Mai Assemble!",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 3 of your Battle Cards and place them in their owners' Drop Areas : Choose 1 of your red Unison Cards and it gains <img src=\"/images/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\"> for the turn.",
     "skills_back": [
       "Auto",
@@ -899,6 +901,7 @@
       "Awaken"
     ],
     "title_back": "SS2 Trunks, Envoy of Justice",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your opponent's turn, if you would add a card from your life to your hand or place it in your Drop Area, you may reveal it and add it to your hand instead.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck; at the end of the turn, switch up to 1 of your mono-blue energy to Active Mode.",
     "skills_back": [
       "Permanent",
@@ -925,6 +928,7 @@
       "Awaken"
     ],
     "title_back": "Fused Zamasu, Divine Ruinbringer",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 of your energy in its owner's Drop Area : Choose one?<br>・ This card gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the turn.<br>・ Choose 1 of your opponent's Battle Cards and place it at the bottom of its owner's deck.",
     "skills_back": [
       "Auto",
@@ -1743,6 +1747,7 @@
       "Awaken"
     ],
     "title_back": "Ferocious Strike SS Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Burst_3.png\" alt=\"Burst 3\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 2 cards from your life in your Drop Area : Choose all of your Battle Cards and your opponent's Battle Cards, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and place them in their owners' Drop Areas.",
     "skills_back": [
       "Auto",
@@ -1768,6 +1773,7 @@
       "Awaken"
     ],
     "title_back": "Ginyu, New Leader of the Force",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, reveal the top card of your deck; if it's a green 《Ginyu Force》 card with an energy cost of 2, you may play it. Then draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 green 《Ginyu Force》 card in your Battle Area and it gets +10000 power for the battle.",
     "skills_back": [
       "Auto",
@@ -2670,6 +2676,7 @@
       "Awaken"
     ],
     "title_back": "SS Gotenks, Display of Mastery",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates an Extra Card, draw 1 card, then choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you activate <img src=\"/images/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\">, this card gets +5000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the turn.",
     "skills_back": [
       "Auto",
@@ -2695,6 +2702,7 @@
       "Awaken"
     ],
     "title_back": "Syn Shenron, Negative Energy Overflow",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose all yellow 《Shadow Dragon》 cards in your Battle Area and switch them to Active Mode.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : Play up to 7 《Shadow Dragon》 cards with different card names from your Drop Area.",
     "skills_back": [
       "Auto",

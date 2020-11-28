@@ -18,6 +18,7 @@
       "Awaken"
     ],
     "title_back": "Vegeks, the Unsung Fusion Hero",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can only play mono-black Battle Cards.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"><img src=\"/images/Sparking-20.png\" alt=\"Sparking 20\" class=\"skillText\"> (This skill takes effect when you have 20 or more cards in your Drop Area.) If you would lose the game by running out of cards in your deck, shuffle your Drop Area into your deck instead.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Draw 1 card, place 5 cards from the top of your deck in your Drop Area, then choose up to 1 of your black Unison Cards and it gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the turn.",
     "skills_back": [
       "Permanent",

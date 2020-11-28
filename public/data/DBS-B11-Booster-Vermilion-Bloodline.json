@@ -18,6 +18,7 @@
       "Awaken"
     ],
     "title_back": "SSB Gogeta, Prophet of Demise",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then this card gets +5000 power for the battle.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you activate a <img src=\"/images/Union.png\" alt=\"Union\" class=\"skillText\"> skill, draw 1 card.",
     "skills_back": [
       "Double-Strike",
@@ -45,6 +46,7 @@
       "Awaken"
     ],
     "title_back": "Broly, the Awakened Demon",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a red 〈Broly : Br〉 card in play, this card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\">.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then this card gets +5000 power for the battle.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> Choose 1 card in your hand and discard it : When one of your red 〈Broly : Br〉 cards is removed from your Battle Area by an opponent's skill or KO'd, choose up to 1 red 〈Broly : Br〉 card with an energy cost of 4 or less in your hand and play it.",
     "skills_back": [
       "Permanent",
@@ -895,6 +897,7 @@
       "Awaken"
     ],
     "title_back": "Baby, Spirit of the Tuffles",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Overlord.png\" alt=\"Overlord\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> (Place 1 of your Battle Cards with the <img src=\"/images/Servant.png\" alt=\"Servant\" class=\"skillText\"> skill at the bottom of your deck : Draw 1 card.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Look at up to 3 cards from the top of your deck, add up to 1 mono-blue card with a <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> skill among them to your hand, place the remaining cards at the bottom of your deck in any order, then choose 1 card in your hand and place it at the bottom of your deck.",
     "skills_back": [
       "Overlord",
@@ -923,6 +926,7 @@
       "Awaken"
     ],
     "title_back": "SS4 Vegeta, Ultimate Evolution",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates a <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> skill, switch this card to Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you deal damage to your opponent by attacking with this card, look at the top card of your deck; if it's a mono-blue card, you may place it in your energy in Rest Mode, otherwise place it on top of your deck.",
     "skills_back": [
       "Auto",
@@ -1768,6 +1772,7 @@
       "Awaken"
     ],
     "title_back": "Gotenks, Extravagant Assault",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent's Leader Card can't attack your Battle Cards.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, choose one-<br>・ Choose 1 of your opponent's Unison Cards and remove a marker from it.<br>・ You may choose 1 green card in your hand and discard it. If you do, play 2 Ghost Tokens in Rest Mode. (Ghost Tokens have 15000 power.)",
     "skills_back": [
       "Permanent",
@@ -1798,6 +1803,7 @@
       "Awaken"
     ],
     "title_back": "Babidi & Prince of Destruction Vegeta, Mightiest Majin",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Overlord.png\" alt=\"Overlord\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Add 1 card from your life to your hand : Draw 1 card, and this card gets +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : You may look at the bottom card of your deck; if it's a 〈Vegeta〉 card with an energy cost of 3 or less and the <img src=\"/images/Servant.png\" alt=\"Servant\" class=\"skillText\"> skill, you may play it, otherwise return it to the bottom of your deck.",
     "skills_back": [
       "Overlord",
@@ -2654,6 +2660,7 @@
       "Awaken"
     ],
     "title_back": "Son Gohan & Hire-Dragon, Boundless Friendship",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Draw 1 card, then play up to 1 yellow skill-less Battle Card with an energy cost of 1 from your Drop Area.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card is in a battle, if there is a 《Monster》 card in your Combo Area, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -2681,6 +2688,7 @@
       "Awaken"
     ],
     "title_back": "Garlic Jr., the Immortal Demon",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Overlord.png\" alt=\"Overlord\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When one of your opponent's cards attacks, you may choose 1 yellow 《Demon Clan》 card with an energy cost of 2 or less in your hand and play it in Rest Mode. If you do, negate this skill for the turn.",
     "skills_back": [
       "Overlord",
@@ -3538,6 +3546,7 @@
       "Awaken"
     ],
     "title_back": "SS4 Son Goku, Guardian of History",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, this card gets +5000 power for every 8 black Battle Cards in your Warp.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place up to 4 black Battle Cards from your Warp in your Drop Area, then draw 1 card.",
     "skills_back": [
       "Double-Strike",
@@ -3565,6 +3574,7 @@
       "Awaken"
     ],
     "title_back": "Dark Broly & Paragus, the Corrupted",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place up to 3 black Battle Cards with 30000 power from your Warp in your Drop Area, then draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose 1 black Battle Card with 30000 power in your hand or Battle Area and place it in its owner's Drop Area : This card gets +5000 power for the battle.",
     "skills_back": [
       "Activate-Main",

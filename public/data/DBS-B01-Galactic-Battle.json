@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "God of Destruction Champa",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place 1 card from your hand in the Drop Area : Choose this card or 1 of your Battle Cards. It gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -41,6 +42,7 @@
       "Awaken"
     ],
     "title_back": "Aide Vados",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards in Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. If this card attacks a Battle Card, it gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -64,6 +66,7 @@
       "Awaken"
     ],
     "title_back": "Assassin Hit",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of this turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\">, you may place 1 red card from your hand into the Drop Area. If you do so, negate that <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\">.",
     "skills_back": [
       "Auto",
@@ -990,6 +993,7 @@
       "Awaken"
     ],
     "title_back": "Super Saiyan Blue Vegeta",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : This card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn. If you have 7 or more blue energy, this card also gains +10000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -1015,6 +1019,7 @@
       "Awaken"
     ],
     "title_back": "Beerus, God of Destruction",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/sixteen.png\" alt=\"sixteen\" class=\"skillTextBall\">, Switch this card to Rest Mode : You win this game.",
     "skills_back": [
       "Auto",
@@ -1039,6 +1044,7 @@
       "Awaken"
     ],
     "title_back": "Super Saiyan Blue Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 7 or more energy, this card gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle).<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card. Then, this card gains +1000 power for each 1 energy you have for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -1064,6 +1070,7 @@
       "Awaken"
     ],
     "title_back": "Super Saiyan Blue Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 7 or more energy, this card gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle).<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card. Then, this card gains +1000 power for each 1 energy you have for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -2047,6 +2054,7 @@
       "Awaken"
     ],
     "title_back": "Super Saiyan God Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Double-Strike",
@@ -2071,6 +2079,7 @@
       "Awaken"
     ],
     "title_back": "Broly, The Legendary Super Saiyan",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Cards.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then, both players choose 1 card from their hand and 1 card from their Battle Area, and place those cards in their Drop Areas.",
     "skills_back": [
       "Permanent",
@@ -2094,6 +2103,7 @@
       "Awaken"
     ],
     "title_back": "Full Power Son Gohan",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"/images/six.png\" alt=\"six\" class=\"skillTextBall\"> : Choose all of your opponent's Battle Cards in the Battle Area and KO them.",
     "skills_back": [
       "Auto",
@@ -3062,6 +3072,7 @@
       "Awaken"
     ],
     "title_back": "Ultimate Form Golden Frieza",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\">  Place 1 of your ≪Frieza's Army≫ Battle Cards in the Drop Area : Choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -3086,6 +3097,7 @@
       "Awaken"
     ],
     "title_back": "Frieza, The Galactic Emperor",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 2 of your Battle Cards and switch them to Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Auto"
@@ -3109,6 +3121,7 @@
       "Awaken"
     ],
     "title_back": "Ginyu, The Malicious Transformation",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Add 1 card from your life to your hand : This card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn. If there are 2 or more of your ≪Ginyu Force≫ in play, this card gains an additional +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",

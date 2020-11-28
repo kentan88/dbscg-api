@@ -18,6 +18,7 @@
       "Awaken"
     ],
     "title_back": "King Vegeta, Leader of the Saiyans",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose one-<br>・You may choose 1 red or green 《Saiyan》 card in your Battle Area and place it in its owner's Drop Area. If you do, draw 1 card, and this card gets +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.<br>・Choose 1 Battle Card in your hand with an energy cost of 2 or less and play it with its skills negated for the duration of the turn, then draw 1 card.",
     "skills_back": [
       "Activate-Main",

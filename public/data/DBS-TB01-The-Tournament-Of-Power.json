@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Saiyan Bond Vegeta",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you attack with a 《Saiyan》 Battle Card, if that card is 《Universe 7》 or 《Universe 6》, draw 1 card and choose the attacking card. The chosen card and this card gain +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -40,6 +41,7 @@
       "Awaken"
     ],
     "title_back": "Lady of Destruction Kale",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ＜Caulifla＞ is in play in your Battle Area, you don't have to place cards from your hand in the Drop Area as a result of this card's skill.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then, place 1 card from your hand in the Drop Area and your opponent places 1 card from their hand in their Drop Area.",
     "skills_back": [
       "Permanent",
@@ -896,6 +898,7 @@
       "Awaken"
     ],
     "title_back": "Son Gohan, Leader of Universe 7",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> 《Universe 7》 in your Battle Area can combo when in Rest Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you combo with a 《Universe 7》 from your Battle Area during your turn, draw 2 cards.",
     "skills_back": [
       "Permanent",
@@ -920,6 +923,7 @@
       "Awaken"
     ],
     "title_back": "Bergamo, Eldest Brother",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When ＜Lavender＞ and ＜Basil＞ are in play in your Battle Area, your opponent's Leader Card cannot attack this card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Permanent",
@@ -1658,6 +1662,7 @@
       "Awaken"
     ],
     "title_back": "Sharpened Power Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is attacked, you may place 2 《Universe 7》 from your hand into your Drop Area. If you do so, negate that attack and this skill for the duration of the turn.",
     "skills_back": [
       "Auto"
@@ -1680,6 +1685,7 @@
       "Awaken"
     ],
     "title_back": "Ribrianne, Maiden of Anger",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If ＜Kakunsa＞ and ＜Rozie＞ are in play in your Battle Area, choose 1 of your opponent's Battle Cards and KO it.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
@@ -2314,6 +2320,7 @@
       "Awaken"
     ],
     "title_back": "Golden Frieza, The Final Assailant",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Universe_7.png\" alt=\"Warrior of Universe 7\" class=\"skillText\"><br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 《Universe 7》 from your hand in the Drop Area : Draw 2 cards. Then, choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode.",
     "skills_back": [
       "Activate-Main",
@@ -2337,6 +2344,7 @@
       "Awaken"
     ],
     "title_back": "Jiren, The Ultimate Warrior",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 2 《Universe 11》 in your Battle Area and switch them to Active Mode.",
     "skills_back": [
       "Auto"

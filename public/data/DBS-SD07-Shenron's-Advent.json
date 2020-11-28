@@ -18,6 +18,7 @@
       "Wish"
     ],
     "title_back": "Miraculous Arrival Shenron",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can't attack.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose one －<br>・Draw 1 card. <br>・Choose 1 ≪Desire≫ card in your hand with an energy cost less than or equal to your current energy and activate its <img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill.<br>・Remove 7 <img src=\"/images/Dragon-Ball.png\" alt=\"Dragon Ball\" class=\"skillText\"> cards in your Drop Area from the game. If you do, choose 1 of your Battle Cards and it gets +10000 power and <img src=\"/images/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\"> for the duration of the turn, then flip this card over at the end of the turn.",
     "skills_back": [
       "Permanent",

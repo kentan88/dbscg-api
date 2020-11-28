@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Bundle of Confidence Hercule",
+    "power_back": "10000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> During this card's battle, if there are cards in your Combo Area, draw 1 card and negate this skill for the duration of the battle.",
     "skills_back": [
       "Auto",
@@ -628,6 +629,7 @@
       "Awaken"
     ],
     "title_back": "Uub, Unknowing Power",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : Choose up to 1 of your opponent's Battle Cards and return it to its owner's hand, and this card gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -1120,6 +1122,7 @@
       "Awaken"
     ],
     "title_back": "Stopping Power Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card KO-s one of your opponent's Battle Card, switch this card to Active Mode.",
     "skills_back": [
       "Auto",
@@ -1616,6 +1619,7 @@
       "Awaken"
     ],
     "title_back": "Jackie Chun, the Mysterious Fighter",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of the turn.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During battles where this card is attacking a Battle Card in Rest Mode, your opponent can't combo.",
     "skills_back": [
       "Auto",
@@ -2124,6 +2128,7 @@
       "Awaken"
     ],
     "title_back": "Announcer, Referee Veteran",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Treat 《World Tournament》 in all areas as if they had no specified cost.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 2 of your Battle Cards with 《World Tournament》, they each gain +5000 power for the duration of the turn, then negate this skill for the duration of the game.",
     "skills_back": [
       "Permanent",

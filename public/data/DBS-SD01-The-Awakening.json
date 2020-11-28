@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "SSGSS Son Goku, The Soul Striker",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 5 or more energy, this card gains +5000 power.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.  Choose up to 2 of your blue energy and switch it to Active Mode.",
     "skills_back": [
       "Permanent",

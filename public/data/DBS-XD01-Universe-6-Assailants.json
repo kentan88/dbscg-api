@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Vegeta & Cabba, Master & Pupil",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gets +5000 power when all of your opponent's energy is in Rest Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent's Leader Card attacks, if all of your opponent's energy is in Rest Mode, choose up to 2 of your opponent's energy. Cards chosen with this card's skill can't be switched to Active Mode during your opponent's next Charge Phase.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When one of your card skills switches an opponent's Battle Card or energy to Rest Mode, draw 1 card.",
     "skills_back": [
       "Permanent",

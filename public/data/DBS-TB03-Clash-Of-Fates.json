@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Frieza, Metamorphic Threat",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 red 《Frieza's Army》 card in your Battle Area and KO it, then choose 1 card in your hand and place it in your Drop Area : This card gets +5000 power until the end of your opponent's next turn.",
     "skills_back": [
       "Auto",
@@ -527,6 +528,7 @@
       "Awaken"
     ],
     "title_back": "Bardock, Hope of the Saiyans",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card, and this card gets +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is attacked, if a 《Bardock's Crew》 card is in your Drop Area, you may choose 1 card from your life and place it in your Drop Area. If you do, negate the attack.",
     "skills_back": [
       "Auto"
@@ -1002,6 +1004,7 @@
       "Awaken"
     ],
     "title_back": "Son Goku, The Legendary Super Saiyan",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card, and if a 〈Krillin〉 card is in your Drop Area, this card gets +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -1546,6 +1549,7 @@
       "Wish"
     ],
     "title_back": "Piccolo, Brimming with Confidence",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose one-<br>・Draw 1 card.<br>・Choose 1 yellow 《Desire》 card in your hand with an energy cost less than or equal to your current energy and activate its <img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill.<br>・Remove 7 <img src=\"/images/Dragon-Ball.png\" alt=\"Dragon Ball\" class=\"skillText\"> cards in your Drop Area from the game. If you do, choose all of your yellow 《Namekian》 Leader Cards and yellow 《Namekian》 Battle Cards and they get +10000 power for the duration of the turn, then flip this card over at the end of the turn.",
     "skills_back": [
       "Activate-Main",
@@ -1979,6 +1983,7 @@
       "Wish"
     ],
     "title_back": "Porunga, Saviour of Namekians",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can't attack.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose one-<br>・Draw 1 card.<br>・Choose 1 《Desire》 card in your hand with an energy cost less than or equal to your current energy and activate its <img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill.<br>・Remove 7 <img src=\"/images/Dragon-Ball.png\" alt=\"Dragon Ball\" class=\"skillText\"> cards in your Drop Area from the game. If you do, choose 1 Battle Card with an energy cost less than or equal to your current energy from your Drop Area and play it, then flip this card over at the end of the turn.",
     "skills_back": [
       "Permanent",

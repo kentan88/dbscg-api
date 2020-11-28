@@ -782,6 +782,7 @@
       "Awaken"
     ],
     "title_back": "Towa, Chaosbringer",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 3 black cards in your Warp and place them in your Drop Area : Choose up to 1 〈Mira〉 card in your Battle Area and it gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">, choose 1 card in your hand and place it in your Drop Area : Choose up to 1 keyword skill on an opponent's Battle Card and negate it for the duration of the turn.",
     "skills_back": [
       "Activate-Main",

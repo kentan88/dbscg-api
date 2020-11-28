@@ -6,5 +6,6 @@ Rails.application.routes.draw do
     }
     resources :cards, only: [:index]
     resources :decks, only: [:index, :show, :create, :update]
+    resources :leaders, only: [:index]
   end
 end

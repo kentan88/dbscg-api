@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Knockout Strike Gogeta",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card. If you have 3 or more energy, this card gets +5000 power for the duration of the turn, and if you have 5 or more energy, this card also gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card from your hand and place it in your Drop Area : Your opponent can only activate <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> skills once for the duration of the turn.",
     "skills_back": [
       "Auto",

@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Son Gohan & Son Goten, Brotherly Bonds",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When one of your Battle Cards activates <img src=\"/images/Alliance.png\" alt=\"Alliance\" class=\"skillText\">, choose up to 1 of your opponent's Battle Cards with 30000 power or less and KO it.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> Choose 3 cards in your hand and place them in your Drop Area : Choose all of your red and green Battle Cards, then both the chosen cards and this card get +10000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -43,6 +44,7 @@
       "Awaken"
     ],
     "title_back": "Son Gohan & Son Goten, Brotherly Bonds",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When one of your Battle Cards activates <img src=\"/images/Alliance.png\" alt=\"Alliance\" class=\"skillText\">, choose up to 1 of your opponent's Battle Cards with 30000 power or less and KO it.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> Choose 3 cards in your hand and place them in your Drop Area : Choose all of your red and green Battle Cards, then both the chosen cards and this card get +10000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -69,6 +71,7 @@
       "Awaken"
     ],
     "title_back": "Broly, Recurring Nightmare",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose up to 1 of your opponent's Battle Cards with 10000 power or less and KO it.",
     "skills_back": [
       "Auto",
@@ -94,6 +97,7 @@
       "Awaken"
     ],
     "title_back": "Broly, Recurring Nightmare",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose up to 1 of your opponent's Battle Cards with 10000 power or less and KO it.",
     "skills_back": [
       "Auto",
@@ -1342,6 +1346,7 @@
       "Awaken"
     ],
     "title_back": "SSB Vegito, Energy Eruption",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you combo with 1 or more Battle Cards with a combo cost of 1 in your Energy Area using a skill, choose up to 1 of those Battle Cards, and when the battle ends the chosen card is returned to its owner's hand instead of being placed in its owner's Drop Area.",
     "skills_back": [
       "Auto",
@@ -1367,6 +1372,7 @@
       "Awaken"
     ],
     "title_back": "SSB Vegito, Energy Eruption",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you combo with 1 or more Battle Cards with a combo cost of 1 in your Energy Area using a skill, choose up to 1 of those Battle Cards, and when the battle ends the chosen card is returned to its owner's hand instead of being placed in its owner's Drop Area.",
     "skills_back": [
       "Auto",
@@ -1390,6 +1396,7 @@
       "Awaken"
     ],
     "title_back": "Fused Zamasu, Supreme Strike",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 5 cards from the top of your deck, choose up to 1 blue or yellow 〈Goku Black〉 or 〈Zamasu〉 card among them and add it to your hand, then shuffle your deck.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, this card gets -5000 power for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your opponent has 8 or more energy : Choose up to 4 cards from your opponent's life and place them at the bottom of their deck in any order.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\"> : Choose 1 of your opponent's Battle Cards and return it to its owner's hand.",
     "skills_back": [
       "Auto",
@@ -1415,6 +1422,7 @@
       "Awaken"
     ],
     "title_back": "Fused Zamasu, Supreme Strike",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 5 cards from the top of your deck, choose up to 1 blue or yellow 〈Goku Black〉 or 〈Zamasu〉 card among them and add it to your hand, then shuffle your deck.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, this card gets -5000 power for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your opponent has 8 or more energy : Choose up to 4 cards from your opponent's life and place them at the bottom of their deck in any order.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\"> : Choose 1 of your opponent's Battle Cards and return it to its owner's hand.",
     "skills_back": [
       "Auto",
@@ -2629,6 +2637,7 @@
       "Awaken"
     ],
     "title_back": "Raditz, Brotherly Hate",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, your opponent chooses 1 card from their hand and sends it to their Warp.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose up to 1 red or green 《Saiyan》 card in your Battle Area and it gets +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -2655,6 +2664,7 @@
       "Awaken"
     ],
     "title_back": "Raditz, Brotherly Hate",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, your opponent chooses 1 card from their hand and sends it to their Warp.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose up to 1 red or green 《Saiyan》 card in your Battle Area and it gets +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -2679,6 +2689,7 @@
       "Awaken"
     ],
     "title_back": "Kaio-Ken Son Goku, Training Complete",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't send cards from Drop Areas to Warps.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Burst-7.png\" alt=\"Burst 7\" class=\"skillText\"> (You must place the top 7 cards of your deck in your Drop Area to activate this skill.) When your opponent attacks with a card, negate that attack, then negate this skill for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your life is at 1 : Choose all of your opponent's Battle Cards with <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and KO them.",
     "skills_back": [
       "Permanent",
@@ -2705,6 +2716,7 @@
       "Awaken"
     ],
     "title_back": "Kaio-Ken Son Goku, Training Complete",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't send cards from Drop Areas to Warps.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Burst-7.png\" alt=\"Burst 7\" class=\"skillText\"> (You must place the top 7 cards of your deck in your Drop Area to activate this skill.) When your opponent attacks with a card, negate that attack, then negate this skill for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your life is at 1 : Choose all of your opponent's Battle Cards with <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and KO them.",
     "skills_back": [
       "Permanent",
@@ -3942,6 +3954,7 @@
       "Awaken"
     ],
     "title_back": "Time-Skip Hit",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent's Leader Card flips back to its front, choose up to 1 blue or yellow 《Universe 6》 card in your Drop Area with an energy cost of 3 or less and play it.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose up to 1 blue or yellow 《Universe 6》 card in your hand with an energy cost of 2 or less and play it.",
     "skills_back": [
       "Auto",
@@ -3967,6 +3980,7 @@
       "Awaken"
     ],
     "title_back": "Time-Skip Hit",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent's Leader Card flips back to its front, choose up to 1 blue or yellow 《Universe 6》 card in your Drop Area with an energy cost of 3 or less and play it.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose up to 1 blue or yellow 《Universe 6》 card in your hand with an energy cost of 2 or less and play it.",
     "skills_back": [
       "Auto",
@@ -3992,6 +4006,7 @@
       "Awaken"
     ],
     "title_back": "Kefla, Soul Overflowing",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then choose up to 1 《Universe 6》 card in your Battle Area, and both this card and the chosen card get +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto"
@@ -4015,6 +4030,7 @@
       "Awaken"
     ],
     "title_back": "Kefla, Soul Overflowing",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, then choose up to 1 《Universe 6》 card in your Battle Area, and both this card and the chosen card get +5000 power for the duration of the turn.",
     "skills_back": [
       "Auto"

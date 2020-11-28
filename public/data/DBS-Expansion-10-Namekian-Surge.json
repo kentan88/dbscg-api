@@ -72,6 +72,7 @@
       "Surge"
     ],
     "title_back": "Son Gohan & Piccolo, Surge of Consciousness",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 3 or less and you choose 1 card under this card and place it in its owner's Drop Area : Choose one-<br>・ Your opponent chooses 2 cards in their hand and sends them to their Warp.<br>・ Choose 1 Blue/Green multicolor card in your Drop Area, negate its <img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> skill, then place it in your energy.",
     "skills_back": [
       "Activate_Main-Battle",

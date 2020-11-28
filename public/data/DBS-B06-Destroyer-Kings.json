@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "SSB Gogeta, Fusion Perfected",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 red card from your hand and place it in your Drop Area : If there are 2 or more red 〈Son Goku : Br〉 cards and 2 or more red 〈Vegeta : Br〉 cards in your Drop Area, and it's your turn, your opponent can't activate <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> skills with energy costs of 2 or more for the duration of the turn, and this card gets +5000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -45,6 +46,7 @@
       "Awaken"
     ],
     "title_back": "Golden Frieza, the Majestic Emperor",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is attacked by a Battle Card, you may choose 1 red 《Frieza's Army》 card from your hand and place it in your Drop Area. If you do, negate that attack and this skill for the duration of the turn.",
     "skills_back": [
       "Activate-Main",
@@ -1319,6 +1321,7 @@
       "Wish"
     ],
     "title_back": "Son Goku, Energy Restored",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose one?<br>・Draw 1 card.<br>・Choose 1 blue or black 《Desire》 card in your hand with an energy cost less than or equal to your current energy and activate its <img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill.<br>・Remove 7 <img src=\"/images/Dragon-Ball.png\" alt=\"Dragon Ball\" class=\"skillText\"> cards in your Drop Area from the game. If you do, draw 2 cards, choose up to 2 of your blue energy, switch them to Active Mode, then flip this card over at the end of the turn.",
     "skills_back": [
       "Activate-Main",
@@ -1346,6 +1349,7 @@
       "Awaken"
     ],
     "title_back": "Majin Buu, Ability Absorber",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't send cards from Drop Areas to Warps.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Sparking_7.png\" alt=\"Sparking 7\" class=\"skillText\"> (This skill takes effect when you have 7 or more cards in your Drop Area.) When this card attacks, draw 1 card, and this card gets +5000 power for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your energy : You may place the chosen energy in your Drop Area. If you do, choose up to 1 〈Majin Buu〉 card in your Drop Area, and add it to your energy in Rest Mode.",
     "skills_back": [
       "Permanent",
@@ -2554,6 +2558,7 @@
       "Awaken"
     ],
     "title_back": "Paragus, Father of the Demon",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't add cards from your life to your hand during your turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your hand and place it in your Drop Area : Choose up to 1 〈Broly : Br〉 card in your Battle Area and it gets +5000 power for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -2582,6 +2587,7 @@
       "Wish"
     ],
     "title_back": "Cheelai and Lemo, the Kindhearted",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't add cards from your life to your hand during your turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose one-<br>・Draw 1 card.<br>・Choose 1 green or black 《Desire》 card in your hand with an energy cost less than or equal to your current energy and activate its <img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill.<br>・Remove 7 <img src=\"/images/Dragon-Ball.png\" alt=\"Dragon Ball\" class=\"skillText\"> cards in your Drop Area from the game.<br>If you do, choose up to 2 green 《Frieza's Army》 cards with an energy cost of 2 or less from your deck and play them, then shuffle your deck and flip this card over at the end of the turn.",
     "skills_back": [
       "Permanent",
@@ -3782,6 +3788,7 @@
       "Awaken"
     ],
     "title_back": "Untapped Power SS2 Son Gohan",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Sparking_5.png\" alt=\"Sparking 5\" class=\"skillText\"> (This skill takes effect when you have 5 or more cards in your Drop Area.) When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 yellow 《Saiyan》 card in your Drop Area with an energy cost of 3 or more, add it to your hand, and negate this skill for the duration of the game.",
     "skills_back": [
       "Auto",
@@ -3806,6 +3813,7 @@
       "Awaken"
     ],
     "title_back": "Boujack, the Pirate Captain",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can combo with 《Boujack Brigade》 cards in Rest Mode in your Battle Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When a 《Boujack Brigade》 card is played in your Battle Area, draw 1 card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with 1 of your cards during your turn, if your Combo Area has 2 or more 《Boujack Brigade》 cards that you comboed with from a Battle Area, choose up to 1 of your opponent's Battle Cards in Rest Mode and KO it, and if you KO'd a card, negate this skill for the duration of the turn.",
     "skills_back": [
       "Permanent",
@@ -4929,6 +4937,7 @@
       "Once-per-turn"
     ],
     "title_back": "Bonds of Friendship Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 {Four-Star Ball} from your hand and reveal it : Draw 2 cards, then choose 1 card from your hand and place it in your Drop Area.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you combo with a skill-less card, that card gets +5000 combo power for the duration of the turn.",
     "skills_back": [
       "Activate-Main",
@@ -4955,6 +4964,7 @@
       "Wish"
     ],
     "title_back": "Super Shenron, the Almighty",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can't attack.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose one-<br>・Draw 1 card.<br>・Choose 1 《Desire》 card from your hand with an energy cost less than or equal to your current energy and activate its <img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill.<br>・Remove 7 <img src=\"/images/Dragon-Ball.png\" alt=\"Dragon Ball\" class=\"skillText\"> cards in your Drop Area from the game and choose 20 cards from your Drop Area then shuffle them into your deck. If you do, flip this card over at the end of the turn and take another turn after this one.",
     "skills_back": [
       "Permanent",

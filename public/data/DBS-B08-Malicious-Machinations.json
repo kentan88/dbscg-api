@@ -19,6 +19,7 @@
       "Awaken"
     ],
     "title_back": "Bulma, Familial Bonds",
+    "power_back": "10000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> All red and yellow 《Saiyan》 and 《Earthling》 cards in your Battle Area gain <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\">. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Draw 2 cards.",
     "skills_back": [
       "Permanent",
@@ -45,6 +46,7 @@
       "Awaken"
     ],
     "title_back": "Beerus, Furious Strike",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose 1 of your opponent's Battle Cards and KO it. <br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 Red/Yellow multicolor card in your Drop Area and combo with it.",
     "skills_back": [
       "Activate-Main",
@@ -663,6 +665,7 @@
       "Awaken"
     ],
     "title_back": "Dependable Sister Android 18",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 Clone Token in your opponent's Battle Area and remove it from the game : Choose up to 1 of your opponent's Battle Cards with an energy cost of 1, return it to its owner's hand, then reduce the combo cost of all blue and green cards in your hand and Battle Area by 1 for the duration of the turn.",
     "skills_back": [
       "Auto",
@@ -689,6 +692,7 @@
       "Awaken"
     ],
     "title_back": "Android 21, Malevolence Unbound",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 Clone Token in your opponent's Battle Area and remove it from the game : Draw 1 card, then choose up to 1 of your opponent's Battle Cards with an energy cost of 1 and return it to its owner's hand, then at the start of your opponent's next Main Phase, choose up to 1 Blue/Green multicolor card in your energy and switch it to Active Mode.",
     "skills_back": [
       "Activate-Main",
@@ -1278,6 +1282,7 @@
       "Awaken"
     ],
     "title_back": "Kaio-Ken Son Goku, Turning the Tide",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When one of your Battle Cards activates <img src=\"/images/Revive.png\" alt=\"Revive\" class=\"skillText\">, draw 2 cards. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your Blue/Green multicolor Battle Cards in Rest Mode, and until the start of your next Main Phase, as long as the chosen card is in Rest Mode, your opponent's cards can't attack Leader Cards.",
     "skills_back": [
       "Auto",
@@ -1303,6 +1308,7 @@
       "Awaken"
     ],
     "title_back": "Dr.Uiro, the Evil Scientist",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it in your Drop Area : Choose up to 1 keyword skill on 1 of your opponent's Battle Cards and negate it for the duration of the turn. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If a {Dr.Uiro's Lab} in your Battle Area has 17 or more cards under it : You win the game.",
     "skills_back": [
       "Auto",
@@ -1885,6 +1891,7 @@
       "Awaken"
     ],
     "title_back": "SS4 Son Goku, Senses Regained",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking.)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your life and add it to your hand : Switch this card to Active Mode.",
     "skills_back": [
       "Double-Strike",
@@ -1910,6 +1917,7 @@
       "Awaken"
     ],
     "title_back": "Super Baby 2, Awakened Malevolence",
+    "power_back": "10000",
     "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When the power of your opponent's Leader Card is reduced to 0 or less, this card gains <img src=\"/images/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose up to 1 《Brainwashed》 card in your hand and play it.",
     "skills_back": [
       "Auto",
@@ -2558,6 +2566,7 @@
       "Awaken"
     ],
     "title_back": "Hatchhyack, Malice Assimilated",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can only play black Battle Cards.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a Battle Card attacks, the player who attacked can't attack with tokens or Battle Cards with energy costs of 7 or less other than the card they attacked with for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, this card gets +5000 power for the duration of the turn, and you draw 1 card.",
     "skills_back": [
       "Permanent",

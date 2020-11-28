@@ -17,6 +17,7 @@
       "Awaken"
     ],
     "title_back": "Super Baby 2, Out for Revenge",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Dual-Attack",

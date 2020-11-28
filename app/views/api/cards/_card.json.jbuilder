@@ -10,6 +10,7 @@ json.energy_cost card.energy_cost
 json.combo_energy card.combo_energy
 json.energy_text card.energy_text
 json.power card.power
+json.power_back card.power_back
 json.combo_power card.combo_power
 json.character card.character
 json.special_trait card.special_trait

@@ -18,6 +18,7 @@
       "Awaken"
     ],
     "title_back": "Bardock, Unbound by Darkness",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place the top 3 cards of your deck in the Drop Area : If you place a black card in the Drop Area with this skill, this card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn. If a card of any other color is placed in the Drop Area, this card also gains +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",

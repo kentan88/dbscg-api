@@ -16,6 +16,7 @@
       "Awaken"
     ],
     "title_back": "Rising Spirit Super Saiyan Son Goku",
+    "power_back": "15000",
     "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, when your life is at 3 or less, this card gains +5000 power.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and if this card's power is 25000 or more, it gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
     "skills_back": [
       "Permanent",
