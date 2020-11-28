@@ -294,7 +294,7 @@ namespace :scraper do
               number = number_nodes.inner_text
 
               title = title_nodes.inner_text
-              series_list = series_nodes.children[3].inner_html.split("<br>")
+              series_list = series_nodes.children[3].inner_html.gsub("～", "~").split("<br>").join(" ")
               rarity = rarity_nodes.children[3].inner_text
               type = type_nodes.children[3].inner_text
               color = color_nodes.children[3].inner_text
@@ -302,7 +302,7 @@ namespace :scraper do
               card.merge!({
                               title: title,
                               number: number,
-                              series: series_list,
+                              series_text: series_list,
                               rarity: rarity,
                               type: type,
                               color: color
