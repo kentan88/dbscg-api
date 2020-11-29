@@ -2,19 +2,12 @@
   {
     "title": "Frost, for the Clan",
     "number": "EX13-01",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Red",
     "power": "15000",
-    "energy": {
-      "red": 2,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a red 〈Frieza : Br〉 card : Look at up to 4 cards from the top of your deck, add up to 1 mono-red Extra Card among them to your hand, then shuffle your deck.<br><img src=\"/images/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a red 〈Frieza : Br〉 card : Add up to 2 mono-red Extra Cards from your Drop Area to your hand.",
     "skills": [
@@ -25,19 +18,12 @@
   {
     "title": "Jiren, Legend of Universe 11",
     "number": "EX13-02",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Red",
     "power": "20000",
-    "energy": {
-      "red": 3,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent plays a Battle Card or Unison Card, you may choose that card and it gets -10000 power for the turn. If you do, negate this skill for the turn.<br><img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> This card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the turn.<br><img src=\"/images/UNISON_minus_03.png\" alt=\"UNISON -3\" class=\"skillText unisonText\"><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your opponent's Battle Cards, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and it gets -25000 power for the turn.",
     "skills": [
@@ -51,19 +37,12 @@
   {
     "title": "Son Goku, Resolve Renewed",
     "number": "EX13-03",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "10000",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -81,19 +60,12 @@
   {
     "title": "Vegeta, Resolve Renewed",
     "number": "EX13-04",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "10000",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -111,19 +83,12 @@
   {
     "title": "Vegito, Resolve Combined",
     "number": "EX13-05",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "25000",
-    "energy": {
-      "red": 2,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "5",
+    "energy": "5",
     "energy_text": "5(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -142,19 +107,12 @@
   {
     "title": "Frieza, Irate Emperor",
     "number": "EX13-06",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "25000",
-    "energy": {
-      "red": 3,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "7",
+    "energy": "7",
     "energy_text": "7(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -171,18 +129,11 @@
   {
     "title": "Planet Vegeta's Final Moments",
     "number": "EX13-07",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Red",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack, then if your Leader Card is a red 〈Frieza : Br〉 card, choose all of you and your opponent's Leader Cards and Battle Cards and they get -10000 power for the turn.",
     "skills": [
@@ -192,19 +143,12 @@
   {
     "title": "Janemba, Wicked Agent of Destruction",
     "number": "EX13-08",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Blue",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 2,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/UNISON_plus-minus_00.png\" alt=\"UNISON 0\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> You and your opponent draw 1 card, then your opponent places the top card of their deck in their Drop Area.<br><img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> This card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the turn.<br><img src=\"/images/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"> If your opponent has 15 or less cards in their deck : This card gets +15000 power and <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> for the turn.",
     "skills": [
@@ -217,19 +161,12 @@
   {
     "title": "Turles, Chaotic Agent of Destruction",
     "number": "EX13-09",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 2,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -246,19 +183,12 @@
   {
     "title": "Janemba, Raging Incarnation of Evil",
     "number": "EX13-10",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "20000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 4,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -275,19 +205,12 @@
   {
     "title": "Combo Attack Janemba",
     "number": "EX13-11",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 2,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -302,18 +225,11 @@
   {
     "title": "Restoration",
     "number": "EX13-12",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Blue",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack, then if your Leader Card is a blue 〈Android 21〉 card and you have a Blue/Green multicolor card in your energy, choose up to 1 〈Android 16〉 card with an energy cost of 2 or less in your hand and play it.",
     "skills": [
@@ -323,19 +239,12 @@
   {
     "title": "Vegeta, Resolute Agent of Destruction",
     "number": "EX13-13",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Green",
     "power": "20000",
-    "energy": {
-      "red": 0,
-      "green": 4,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> Choose 1 card in your hand and discard it : When this card is played, choose all of your opponent's Battle Cards, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and KO them.<br><img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> This card gets +5000 power for the turn.<br><img src=\"/images/UNISON_minus_05.png\" alt=\"UNISON -5\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is an 《Evil Wizard》 card or all of your energy is mono-green : Choose 3 cards in your opponent's hand and discard them.",
     "skills": [
@@ -349,19 +258,12 @@
   {
     "title": "Gokule, the Legendary Fusion Warrior",
     "number": "EX13-14",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
     "power": "1001",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -380,19 +282,12 @@
   {
     "title": "Son Goten & Trunks, Faultless Youth",
     "number": "EX13-15",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 2,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -408,19 +303,12 @@
   {
     "title": "Gotenks, the Grim Reaper of Justice",
     "number": "EX13-16",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
     "power": "25000",
-    "energy": {
-      "red": 0,
-      "green": 3,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "6",
+    "energy": "6",
     "energy_text": "6(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -439,19 +327,12 @@
   {
     "title": "Cheelai & Lemo, the Bandits",
     "number": "EX13-17",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
     "power": "10000",
-    "energy": {
-      "red": 0,
-      "green": 2,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -468,19 +349,12 @@
   {
     "title": "Broly, Invincible Agent of Destruction",
     "number": "EX13-18",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
     "power": "20000",
-    "energy": {
-      "red": 0,
-      "green": 3,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -497,19 +371,12 @@
   {
     "title": "Lord Slug, Mighty Agent of Destruction",
     "number": "EX13-19",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 2,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "10000",
@@ -527,19 +394,12 @@
   {
     "title": "Android 13, Exterminating Agent of Destruction",
     "number": "EX13-20",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Green",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 2,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -555,18 +415,11 @@
   {
     "title": "Allied Reinforcements",
     "number": "EX13-21",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Green",
-    "energy": {
-      "red": 0,
-      "green": 2,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains 《Desire》 in all areas.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a 〈Cheelai : Br/Lemo : Br〉 card and you choose 1 card in your hand and discard it : Choose one?<br>・ If you have no cards in your Battle Area, play up to 1 green 〈Broly : Br〉 card with an energy cost of 4 from your deck and up to 1 green 〈Cheelai : Br〉 or 〈Lemo : Br〉 card from your deck, then shuffle your deck.<br>・ Play up to 1 green 〈Cheelai : Br〉 or 〈Lemo : Br〉 card from your Drop Area.",
     "skills": [
@@ -577,19 +430,12 @@
   {
     "title": "King Vegeta, Royal Pride",
     "number": "EX13-22",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Yellow",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is yellow : Look at up to 5 cards from the top of your deck, add up to 1 mono-yellow 《Great Ape》 card among them to your hand, then shuffle your deck.<br><img src=\"/images/UNISON_minus_04.png\" alt=\"UNISON -4\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Play up to 2 mono-yellow 《Great Ape》 cards with different names and energy costs of 4 or less from your deck, then shuffle your deck.",
     "skills": [
@@ -599,19 +445,12 @@
   {
     "title": "Great Ape Bardock, Might of the Resistance",
     "number": "EX13-23",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -630,19 +469,12 @@
   {
     "title": "Boujack, Galactic Disruptor",
     "number": "EX13-24",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -657,19 +489,12 @@
   {
     "title": "Violent Rush Zangya",
     "number": "EX13-25",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "3000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -684,19 +509,12 @@
   {
     "title": "Garlic Jr., Immortal Agent of Destruction",
     "number": "EX13-26",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -712,18 +530,11 @@
   {
     "title": "The Agents of Destruction Strike Back",
     "number": "EX13-27",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Yellow",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 1,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains 《Agent of Destruction》 in all areas.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Look at up to 2 cards from the top of your deck, add up to 2 cards with {Agent of Destruction} in their card names among them to your hand, then place the remaining cards at the bottom of your deck in any order and you can't activate copies of this card for the turn. If you added cards to your hand, add up to 1 card from your life to your hand.",
     "skills": [
@@ -734,18 +545,11 @@
   {
     "title": "Full Moon",
     "number": "EX13-28",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Yellow",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 1,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a 《Great Ape》 card in play in your Battle Area, you can activate this card's <img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> skill from your hand without paying its energy cost.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your mono-yellow cards and it gets +10000 power for the battle; if it's your opponent's turn, choose up to 1 《Great Ape》 card in your Battle Area and switch it to Active Mode.",
     "skills": [
@@ -756,7 +560,7 @@
   {
     "title": "Babidi, Leader of the Agents of Destruction",
     "number": "EX13-29",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Black",
@@ -783,19 +587,12 @@
   {
     "title": "Son Goku Jr. & Vegeta Jr., Saiyan Scions",
     "number": "EX13-30",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Black",
     "power": "10000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(-)",
     "skills_text": "<img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose this card and all of your skill-less Battle Cards and they get +5000 power for the turn.<br><img src=\"/images/UNISON_minus_01.png\" alt=\"UNISON -1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Play up to 2 skill-less Battle Cards with energy costs of 1 from your deck or Drop Area, then shuffle your deck if you looked through it.<br><img src=\"/images/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Shuffle 2 skill-less Battle Cards from your Drop Area into your deck : Draw 2 cards.",
     "skills": [
@@ -805,19 +602,12 @@
   {
     "title": "Son Goku & Android 8, Bonds of Battle",
     "number": "EX13-31",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(-)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -833,19 +623,12 @@
   {
     "title": "Hatchhyack, Vengeful Agent of Destruction",
     "number": "EX13-32",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
     "power": "20000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(-)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -862,19 +645,12 @@
   {
     "title": "Hatchhyack, Mad With Hate",
     "number": "EX13-33",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Black",
     "power": "30000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "9",
+    "energy": "9",
     "energy_text": "9(-)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -892,18 +668,11 @@
   {
     "title": "Max Power Kamehameha",
     "number": "EX13-34",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Black",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(-)",
     "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. You may send 4 cards from your Drop Area to your Warp. If you do, return this card from your Drop Area to your hand, and you can't activate copies of this card for the turn.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards with an energy cost greater than their current energy and send it to its owner's Warp.",
     "skills": [
@@ -914,19 +683,12 @@
   {
     "title": "Violent Rush Boujack",
     "number": "EX13-35",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Yellow",
     "power": "20000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 2,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "7",
+    "energy": "7",
     "energy_text": "7(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -947,19 +709,12 @@
   {
     "title": "Super 17, Hell's Ultimate Weapon",
     "number": "EX13-36",
-    "series_text": "Special Anniversary Box 2020",
+    "series": "Special Anniversary Box 2020",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Blue/Green",
     "power": "25000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "5",
+    "energy": "5",
     "energy_text": "5(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",

@@ -2,7 +2,7 @@
   {
     "title": "Toppo",
     "number": "EX12-01",
-    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
+    "series": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Yellow",
@@ -26,19 +26,12 @@
   {
     "title": "Vegeta, Unison of Fury ",
     "number": "EX12-02",
-    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
+    "series": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Yellow",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose this card or 1 of your Battle Cards and switch it to Rest Mode : Add a marker to this card.<br><img src=\"/images/UNISON_minus_01.png\" alt=\"UNISON -1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Your opponent can't attack with Battle Cards with energy costs greater than their current energy until the end of their next turn.<br><img src=\"/images/UNISON_minus_03.png\" alt=\"UNISON -3\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your opponent's energy, switch it to Rest Mode, then this card gets +5000 power, <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">, and <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> for the turn.",
     "skills": [
@@ -51,19 +44,12 @@
   {
     "title": "Belmod, the Self-Indulgent",
     "number": "EX12-03",
-    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
+    "series": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "20000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -80,19 +66,12 @@
   {
     "title": "Marcarita, Tutor of Power",
     "number": "EX12-04",
-    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
+    "series": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "19000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -109,19 +88,12 @@
   {
     "title": "Dyspo, the Flashstriker",
     "number": "EX12-05",
-    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
+    "series": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -137,19 +109,12 @@
   {
     "title": "Kahseral, the Slashstriker",
     "number": "EX12-06",
-    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
+    "series": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "4000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 1,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -164,18 +129,11 @@
   {
     "title": "Spirit Fist",
     "number": "EX12-07",
-    "series_text": "EXPANSION SET 12 -Universe 11 Unison-",
+    "series": "EXPANSION SET 12 -Universe 11 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Yellow",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 1,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> When the Battle Card is played, you may choose it and switch it to Rest Mode.<br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a 《Universe 11》 card and it's your turn : Choose up to 1 of your Leader Cards or up to 1 of your yellow Unison Cards with a specified cost of 2 and it gets +10000 power for the turn.",
     "skills": [

@@ -2,7 +2,7 @@
   {
     "title": "King Vegeta",
     "number": "SD9-01",
-    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
+    "series": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Red",
@@ -29,19 +29,12 @@
   {
     "title": "Raditz, Earth Invader",
     "number": "SD9-02",
-    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
+    "series": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -56,19 +49,12 @@
   {
     "title": "Vegeta, Royal Prince",
     "number": "SD9-03",
-    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
+    "series": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
     "power": "10000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -85,19 +71,12 @@
   {
     "title": "Fated Kaio-Ken Son Goku",
     "number": "SD9-04",
-    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
+    "series": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Green",
     "power": "20000",
-    "energy": {
-      "red": 1,
-      "green": 1,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -119,18 +98,11 @@
   {
     "title": "King Vegeta's Dynasty",
     "number": "SD9-05",
-    "series_text": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
+    "series": "STARTER DECK ~SAIYAN LEGACY~ [DBS-SD09]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Red/Green",
-    "energy": {
-      "red": 1,
-      "green": 1,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in your Battle Area. It remains in your Battle Area until you activate another <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in its owner's Drop Area.)<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Battle Area and your Leader Card is a 〈King Vegeta〉 card, choose up to 1 《Saiyan》 card with an energy cost of 2 or less in your hand, and play it with its skills negated for the duration of the turn. If you played a card, draw 2 cards.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent attacks with a card, you may choose 1 red card in your Energy Area, switch it to Rest Mode, and place this card in its owner's Drop Area. If you do, negate the attack.",
     "skills": [

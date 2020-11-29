@@ -2,7 +2,7 @@
   {
     "title": "Frieza",
     "number": "SD13-01",
-    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
+    "series": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Green",
@@ -29,19 +29,12 @@
   {
     "title": "Frieza : Xeno, Darkness Overflowing",
     "number": "SD13-02",
-    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
+    "series": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "UNISON",
     "color": "Green",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 2,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If this card would lose a marker from an opponent's attack, you may place 1 card from your life in your Drop Area instead.<br><img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card in your hand and discard it : Draw 1 card.<br><img src=\"/images/UNISON_minus_01.png\" alt=\"UNISON -1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it, or choose up to 1 of their Unison Cards and remove a marker from it.",
     "skills": [
@@ -52,19 +45,12 @@
   {
     "title": "Ginyu, Frieza's Greatest Soldier",
     "number": "SD13-03",
-    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
+    "series": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 2,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -79,19 +65,12 @@
   {
     "title": "Zarbon, Frieza's Right-Hand Man",
     "number": "SD13-04",
-    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
+    "series": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
     "power": "4000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -108,19 +87,12 @@
   {
     "title": "Dodoria, Frieza's Devoted Servant",
     "number": "SD13-05",
-    "series_text": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
+    "series": "STARTER DECK ~Clan Collusion~[DBS-SD13]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Green",
     "power": "4000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",

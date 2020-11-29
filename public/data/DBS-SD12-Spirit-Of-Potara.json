@@ -2,7 +2,7 @@
   {
     "title": "Vegito",
     "number": "SD12-01",
-    "series_text": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
+    "series": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Blue",
@@ -29,19 +29,12 @@
   {
     "title": "Gogeta, Pursuit of Power",
     "number": "SD12-02",
-    "series_text": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
+    "series": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
     "rarity": "Starter Rare[ST]",
     "type": "UNISON",
     "color": "Blue",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 2,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is a blue 《Saiyan》 card and you have a blue 《Saiyan》 Battle Card in play in Rest Mode, your Leader Cards don't take damage from attacks.<br><img src=\"/images/UNISON_plus-minus_00.png\" alt=\"UNISON 0\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 of your Leader Cards or Battle Cards and switch it to Rest Mode : Add a marker to this card.<br><img src=\"/images/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Draw 1 card, then choose 1 of your opponent's Battle Cards with an energy cost greater than their current energy, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and place it at the bottom of its owner's deck.",
     "skills": [
@@ -53,19 +46,12 @@
   {
     "title": "SSB Son Goku, Tenacious Warrior",
     "number": "SD12-03",
-    "series_text": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
+    "series": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "4000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -80,19 +66,12 @@
   {
     "title": "SSB Vegeta, Heroic Warrior",
     "number": "SD12-04",
-    "series_text": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
+    "series": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 2,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -109,19 +88,12 @@
   {
     "title": "SS Trunks, Architect of Peace",
     "number": "SD12-05",
-    "series_text": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
+    "series": "STARTER DECK ~Spirit of Potara~[DBS-SD12]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "5000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",

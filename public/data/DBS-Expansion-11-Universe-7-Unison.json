@@ -2,7 +2,7 @@
   {
     "title": "Vegeta",
     "number": "EX11-01",
-    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
+    "series": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "LEADER",
     "color": "Red",
@@ -27,19 +27,12 @@
   {
     "title": "Gotenks, Unison of Rage",
     "number": "EX11-02",
-    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
+    "series": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "UNISON",
     "color": "Red",
     "power": "15000",
-    "energy": {
-      "red": 2,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "",
+    "energy": "",
     "energy_text": "X(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your Leader Card's power is decreased by a skill, it gets +10000 power for the turn.<br><img src=\"/images/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 card in your life and add it to your hand, then choose 1 of your Leader Cards and it gets -5000 power for the turn.<br><img src=\"/images/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 of your Leader Cards and it gets -5000 power for the turn : Look at your opponent's hand, choose up to 1 multicolor Battle Card or Battle Card with 10000 power or less in it, and place it in its owner's Drop Area.",
     "skills": [
@@ -50,19 +43,12 @@
   {
     "title": "Whis, Destruction's Conductor",
     "number": "EX11-03",
-    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
+    "series": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "5000",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -78,19 +64,12 @@
   {
     "title": "Beerus, Wrath of the Gods",
     "number": "EX11-04",
-    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
+    "series": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "15000",
-    "energy": {
-      "red": 2,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -108,19 +87,12 @@
   {
     "title": "Android 17, High Alert",
     "number": "EX11-05",
-    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
+    "series": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "10000",
-    "energy": {
-      "red": 2,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -137,19 +109,12 @@
   {
     "title": "Frieza, Fair-Weather Fiend",
     "number": "EX11-06",
-    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
+    "series": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "BATTLE",
     "color": "Red",
     "power": "20000",
-    "energy": {
-      "red": 3,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -170,18 +135,11 @@
   {
     "title": "Omen of Awakening",
     "number": "EX11-07",
-    "series_text": "EXPANSION SET 11 -Universe 7 Unison-",
+    "series": "EXPANSION SET 11 -Universe 7 Unison-",
     "rarity": "Expansion Rare[EX]",
     "type": "EXTRA",
     "color": "Red",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is red and you choose 1 card in your life and place it in your Drop Area : If the Battle Card being played has 20000 power or less, it is placed in its owner's Drop Area instead of being played.<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a red Unison Card with a specified cost of 2 in play, reduce the energy cost of this card in your hand by 1.",
     "skills": [

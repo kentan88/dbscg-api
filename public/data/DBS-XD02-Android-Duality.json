@@ -2,7 +2,7 @@
   {
     "title": "Android 21",
     "number": "XD2-01",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Blue",
@@ -27,19 +27,12 @@
   {
     "title": "Android 17, Mechanical Prowess",
     "number": "XD2-02",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "5000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -54,19 +47,12 @@
   {
     "title": "Android 18, Mechanical Prowess",
     "number": "XD2-03",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -81,19 +67,12 @@
   {
     "title": "Android 16, Mechanical Prowess",
     "number": "XD2-04",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue",
     "power": "10000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -110,18 +89,11 @@
   {
     "title": "Photon Wave",
     "number": "XD2-05",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 2,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Draw 1 card, then choose all of your opponent's Battle Cards and return them to their owners' hands.",
     "skills": [
@@ -131,18 +103,11 @@
   {
     "title": "Might of the Red Ribbon Army",
     "number": "XD2-06",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Draw 1 card. <br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 Blue/Green multicolor card in your energy, add it to your hand, then remove this card in your Drop Area from the game : Choose 1 card in your hand and place it in your energy in Rest Mode.",
     "skills": [
@@ -152,19 +117,12 @@
   {
     "title": "Android 16, A New Start",
     "number": "XD2-07",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue/Green",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -182,19 +140,12 @@
   {
     "title": "Android 21, A Bad Omen",
     "number": "XD2-08",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue/Green",
     "power": "25000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "5",
+    "energy": "5",
     "energy_text": "5(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -212,19 +163,12 @@
   {
     "title": "Android 21, the Beautiful Scientist",
     "number": "XD2-09",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Blue/Green",
     "power": "10000",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 2,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -240,18 +184,11 @@
   {
     "title": "Predation",
     "number": "XD2-10",
-    "series_text": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
+    "series": "EXPERT DECK ~ANDROID DUALITY~[DBS-XD02]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Blue/Green",
-    "energy": {
-      "red": 0,
-      "green": 1,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br>[Activate : Main] Draw 2 cards, then choose up to 1 of your opponent's Battle Cards with an energy cost of 1 and KO it.",
     "skills": [

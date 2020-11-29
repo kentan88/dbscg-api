@@ -2,7 +2,7 @@
   {
     "title": "Son Goku",
     "number": "SD11-01",
-    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
+    "series": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Red",
@@ -26,19 +26,12 @@
   {
     "title": "Friendly Rival Frieza",
     "number": "SD11-02",
-    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
+    "series": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red",
     "power": "20000",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -53,19 +46,12 @@
   {
     "title": "Ultra Instinct Son Goku, Universal Impulse",
     "number": "SD11-03",
-    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
+    "series": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Blue",
     "power": "16000",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -81,19 +67,12 @@
   {
     "title": "SSB Vegeta, Steadfast Ally",
     "number": "SD11-04",
-    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
+    "series": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Blue",
     "power": "25000",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "5",
+    "energy": "5",
     "energy_text": "5(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -110,18 +89,11 @@
   {
     "title": "We're in This Together!",
     "number": "SD11-05",
-    "series_text": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
+    "series": "STARTER DECK ~INSTINCT SURPASSED~[DBS-SD11]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Red/Blue",
-    "energy": {
-      "red": 2,
-      "green": 0,
-      "blue": 1,
-      "yellow": 0,
-      "black": 0
-    },
-    "energy_cost": "4",
+    "energy": "4",
     "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a 《Universe 7》 card, choose all of your opponent's Battle Cards with 25000 power or less and KO them.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a 《Universe 7》 card : Add this card from your Drop Area to your hand.",
     "skills": [

@@ -2,7 +2,7 @@
   {
     "title": "Baby Vegeta",
     "number": "SD10-01",
-    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
+    "series": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "LEADER",
     "color": "Yellow",
@@ -28,19 +28,12 @@
   {
     "title": "SS3 Son Goku, the Last Straw",
     "number": "SD10-02",
-    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
+    "series": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "5000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 1,
-      "black": 0
-    },
-    "energy_cost": "1",
+    "energy": "1",
     "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -56,19 +49,12 @@
   {
     "title": "Super Baby 1, the Conqueror",
     "number": "SD10-03",
-    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
+    "series": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Yellow",
     "power": "15000",
-    "energy": {
-      "red": 0,
-      "green": 0,
-      "blue": 0,
-      "yellow": 1,
-      "black": 0
-    },
-    "energy_cost": "3",
+    "energy": "3",
     "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
@@ -84,19 +70,12 @@
   {
     "title": "Super Baby 2, Vengeful Rampage",
     "number": "SD10-04",
-    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
+    "series": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "BATTLE",
     "color": "Red/Yellow",
     "power": "25000",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 2,
-      "black": 0
-    },
-    "energy_cost": "5",
+    "energy": "5",
     "energy_text": "5(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
@@ -117,18 +96,11 @@
   {
     "title": "Battle to the Death",
     "number": "SD10-05",
-    "series_text": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
+    "series": "STARTER DECK ~PARASITIC OVERLORD~ [DBS-SD10]",
     "rarity": "Starter Rare[ST]",
     "type": "EXTRA",
     "color": "Red/Yellow",
-    "energy": {
-      "red": 1,
-      "green": 0,
-      "blue": 0,
-      "yellow": 1,
-      "black": 0
-    },
-    "energy_cost": "2",
+    "energy": "2",
     "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> (If this card is placed in an Energy Area from any area, it must be placed there in Rest Mode.)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is yellow : Choose up to 3 cards in your life, add them to your hand, then choose up to 1 of your opponent's Battle Cards ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and it gets -25000 power for the duration of the turn.",
     "skills": [
