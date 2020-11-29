@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_28_094754) do
+ActiveRecord::Schema.define(version: 2020_11_29_160337) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -83,7 +83,9 @@ ActiveRecord::Schema.define(version: 2020_11_28_094754) do
     t.string "number"
     t.text "stats", default: "{}"
     t.text "jsonb", default: "{}"
+    t.string "card_number"
     t.index ["card_id"], name: "index_leaders_on_card_id"
+    t.index ["card_number"], name: "index_leaders_on_card_number"
     t.index ["number"], name: "index_leaders_on_number"
     t.index ["title"], name: "index_leaders_on_title"
     t.index ["title_back"], name: "index_leaders_on_title_back"
