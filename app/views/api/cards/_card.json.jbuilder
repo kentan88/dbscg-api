@@ -18,4 +18,3 @@ json.era card.era
 json.series_text card.series_text
 json.skills_text card.skills_text
 json.skills_back_text card.skills_back_text
-json.energy card.energy.to_json

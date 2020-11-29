@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_28_182001) do
+ActiveRecord::Schema.define(version: 2020_11_29_021133) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -19,12 +19,10 @@ ActiveRecord::Schema.define(version: 2020_11_28_182001) do
     t.string "title", null: false
     t.string "title_back"
     t.string "number", null: false
-    t.string "series", default: [], array: true
     t.string "rarity", null: false
     t.string "type", null: false
     t.string "color"
     t.integer "energy_cost"
-    t.jsonb "energy", default: "{}", null: false
     t.text "energy_text"
     t.integer "combo_energy"
     t.integer "combo_power"
@@ -42,14 +40,12 @@ ActiveRecord::Schema.define(version: 2020_11_28_182001) do
     t.index ["color"], name: "index_cards_on_color"
     t.index ["combo_energy"], name: "index_cards_on_combo_energy"
     t.index ["combo_power"], name: "index_cards_on_combo_power"
-    t.index ["energy"], name: "index_cards_on_energy", using: :gin
     t.index ["energy_cost"], name: "index_cards_on_energy_cost"
     t.index ["era"], name: "index_cards_on_era"
     t.index ["number"], name: "index_cards_on_number"
     t.index ["power"], name: "index_cards_on_power"
     t.index ["power_back"], name: "index_cards_on_power_back"
     t.index ["rarity"], name: "index_cards_on_rarity"
-    t.index ["series"], name: "index_cards_on_series", using: :gin
     t.index ["series_text"], name: "index_cards_on_series_text"
     t.index ["skills_back_text"], name: "index_cards_on_skills_back_text"
     t.index ["skills_text"], name: "index_cards_on_skills_text"

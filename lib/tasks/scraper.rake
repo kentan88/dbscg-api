@@ -308,13 +308,13 @@ namespace :scraper do
           card['power'] = power_nodes.children[3].inner_text.strip if power_nodes.children.length > 0
           if energy_nodes.children.length > 0
             energy_inner_html = energy_nodes.children[3].inner_html.strip
-            card['energy'] = {
-                red: energy_inner_html.scan(/red/).count,
-                green: energy_inner_html.scan(/green/).count,
-                blue: energy_inner_html.scan(/blue/).count,
-                yellow: energy_inner_html.scan(/yellow/).count,
-                black: energy_inner_html.scan(/black/).count
-            }
+            # card['energy'] = {
+            #     red: energy_inner_html.scan(/red/).count,
+            #     green: energy_inner_html.scan(/green/).count,
+            #     blue: energy_inner_html.scan(/blue/).count,
+            #     yellow: energy_inner_html.scan(/yellow/).count,
+            #     black: energy_inner_html.scan(/black/).count
+            # }
 
             card['energy_cost'] = energy_inner_html.scan(/^[0-9]*/)[0]
             card['energy_text'] = energy_inner_html.gsub("../../images/cardlist/common/", "/images/")
