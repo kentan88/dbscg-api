@@ -2,14 +2,15 @@ class API::DecksController < ApplicationController
   def index
     user_id = extract_user_id_from_token
 
-    @decks =
+    q =
         if params[:me].present? && user_id.present?
           Deck.includes(:user, :leader_card).where(user_id: user_id)
         else
           Deck.includes(:user, :leader_card)
         end
 
-    @decks = @decks.order(updated_at: :desc).page(params[:page]).per(25)
+    q = q.order(updated_at: :desc).ransack(params[:q])
+    @decks = q.result(distinct: true).page(params[:page]).per(25)
   end
 
   def show
