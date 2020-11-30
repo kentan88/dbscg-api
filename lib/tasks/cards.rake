@@ -19,11 +19,12 @@ namespace :cards do
       end
     end
 
-    result_hash.each_key do |card_id|
-      count = result_hash[card_id]["count"]
-      rating = (count.to_f / decks.count)
-      Card.find(card_id).update_column(:rating, rating)
-    end
+    puts pp result_hash
+    # result_hash.each_key do |card_id|
+    #   count = result_hash[card_id]["count"]
+    #   rating = (count.to_f / decks.count)
+    #   Card.find(card_id).update_column(:rating, rating)
+    # end
   end
 
 
