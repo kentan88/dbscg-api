@@ -7,7 +7,7 @@ class API::CardsController < ApplicationController
 
   def ratings
     cards = Card.where.not(rating: 0)
-    ratings = Hash[cards.collect { |item| [item.id, item.rating] } ]
+    ratings = Hash[cards.collect { |item| [item.number, item.rating] } ]
 
     render json: { ratings: ratings }
   end
