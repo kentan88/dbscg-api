@@ -36,7 +36,7 @@ ActiveRecord::Schema.define(version: 2020_11_30_124033) do
     t.text "skills_text"
     t.string "skills_back", default: [], array: true
     t.text "skills_back_text"
-    t.float "rating", default: 0.0
+    t.decimal "rating", precision: 5, scale: 2, default: "0.0"
     t.index ["character"], name: "index_cards_on_character"
     t.index ["color"], name: "index_cards_on_color"
     t.index ["combo_energy"], name: "index_cards_on_combo_energy"
