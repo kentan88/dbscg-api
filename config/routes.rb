@@ -7,6 +7,7 @@ Rails.application.routes.draw do
     resources :cards, only: [:index] do
       collection do
         get :ratings
+        get :leaders
       end
     end
     resources :decks, only: [:index, :show, :create, :update] do
@@ -14,6 +15,5 @@ Rails.application.routes.draw do
         post :clone
       end
     end
-    resources :leaders, only: [:index]
   end
 end

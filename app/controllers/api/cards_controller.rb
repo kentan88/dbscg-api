@@ -11,4 +11,8 @@ class API::CardsController < ApplicationController
 
     render json: { ratings: ratings }
   end
+
+  def leaders
+    @cards = Card.leaders.order({ rating: :desc })
+  end
 end
