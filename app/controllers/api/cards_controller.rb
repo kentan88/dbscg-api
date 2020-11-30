@@ -12,6 +12,6 @@ class API::CardsController < ApplicationController
   end
 
   def leaders
-    @cards = Card.leaders.order({ rating: :desc })
+    @cards = Card.leaders.order({ rating: :desc, title: :asc })
   end
 end
