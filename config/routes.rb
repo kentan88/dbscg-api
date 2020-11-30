@@ -4,7 +4,11 @@ Rails.application.routes.draw do
         sessions: 'api/users/sessions',
         registrations: 'api/users/registrations'
     }
-    resources :cards, only: [:index]
+    resources :cards, only: [:index] do
+      collection do
+        get :ratings
+      end
+    end
     resources :decks, only: [:index, :show, :create, :update] do
       member do
         post :clone
