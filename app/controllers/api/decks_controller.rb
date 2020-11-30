@@ -35,6 +35,7 @@ class API::DecksController < ApplicationController
   def clone
     clone_deck = Deck.find(params[:id])
     @deck = clone_deck.deep_clone except: :user_id, include: [:deck_cards]
+    @deck.name = "[CLONED] #{@deck.name}"
     @deck.user_id = @user_id
 
     @deck.save
