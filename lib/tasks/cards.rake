@@ -6,38 +6,29 @@ namespace :cards do
     decks.each do |deck|
       leader = deck.leader_card
 
+      leader_card_hash ||= result_hash[leader.id] || { count: 0 }
+      result_hash[leader.id] =
+          {
+              card_id: leader.id,
+              title: leader.title,
+              count: leader_card_hash[:count] + 1
+          }
+
       deck.deck_cards.each do |deck_card|
-        deck_card_hash ||= result_hash[deck_card.card_id] || { "count" => 0 }
-
-
+        deck_card_hash ||= result_hash[deck_card.card_id] || { count: 0 }
         result_hash[deck_card.card_id] =
             {
-                "card_id" => deck_card.card_id,
-                "title" => deck_card.card.title,
-                "count" => deck_card_hash["count"] + 1
+                card_id: deck_card.card_id,
+                title: deck_card.card.title,
+                count: deck_card_hash[:count] + 1
             }
       end
     end
 
-    puts pp result_hash
-    # result_hash.each_key do |card_id|
-    #   count = result_hash[card_id]["count"]
-    #   rating = (count.to_f / decks.count)
-    #   Card.find(card_id).update_column(:rating, rating)
-    # end
+    result_hash.each_key do |card_id|
+      count = result_hash[card_id][:count]
+      rating = (count.to_f / decks.count)
+      Card.find(card_id).update_column(:rating, rating)
+    end
   end
-
-
-    #   total_num_of_decks = Deck.where(card_id: card_id).count
-    #
-    #   leader = Leader.find_by(card_id: card_id)
-    #   leader.stats = {
-    #       deck: {
-    #           total: total_num_of_decks
-    #       },
-    #       results: result_hash[card_id].values.map { |element| element.as_json }.sort_by { |z| z["count"] }.reverse
-    #   }
-    #   leader.save!
-    # end
-  # end
 end
