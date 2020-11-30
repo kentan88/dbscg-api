@@ -1,4 +1,6 @@
 class API::DecksController < ApplicationController
+  before_action :extract_user_id_from_token, only: [:create, :clone]
+
   def index
     user_id = extract_user_id_from_token
 
@@ -18,16 +20,22 @@ class API::DecksController < ApplicationController
   end
 
   def create
-    user_id = extract_user_id_from_token
-
     @deck = Deck.new(deck_params)
-    @deck.user_id = user_id
+    @deck.user_id = @user_id
 
     params[:deck][:deck_cards].each do |_key, value|
       card_id = value["id"]
       quantity = value["quantity"]
       @deck.deck_cards.new(card_id: card_id, quantity: quantity)
     end
+
+    @deck.save
+  end
+
+  def clone
+    clone_deck = Deck.find(params[:id])
+    @deck = clone_deck.deep_clone except: :user_id, include: [:deck_cards]
+    @deck.user_id = @user_id
 
     @deck.save
   end
@@ -39,7 +47,7 @@ class API::DecksController < ApplicationController
   private
 
   def extract_user_id_from_token
-    JWT.decode(user_token, "secret", false)[0]["id"] rescue nil
+    @user_id = JWT.decode(user_token, "secret", false)[0]["id"] rescue nil
   end
 
   def user_token
