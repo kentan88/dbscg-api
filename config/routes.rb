@@ -4,7 +4,7 @@ Rails.application.routes.draw do
         sessions: 'api/users/sessions',
         registrations: 'api/users/registrations'
     }
-    resources :cards, only: [] do
+    resources :cards, only: [:index] do
       collection do
         get :ratings
         get :leaders
