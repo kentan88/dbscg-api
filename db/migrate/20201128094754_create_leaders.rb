@@ -7,7 +7,7 @@ class CreateLeaders < ActiveRecord::Migration[6.0]
       t.integer :power
       t.integer :power_back
       t.string :number
-      t.text :stats, :jsonb, default: '{}'
+      t.jsonb :stats, default: '{}'
     end
 
     add_index :leaders, :title

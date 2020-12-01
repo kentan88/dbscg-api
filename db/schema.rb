@@ -10,10 +10,16 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_11_30_124033) do
+ActiveRecord::Schema.define(version: 2020_12_01_014023) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "albums", force: :cascade do |t|
+    t.bigint "user_id", null: false
+    t.jsonb "data", default: "{}"
+    t.index ["user_id"], name: "index_albums_on_user_id"
+  end
 
   create_table "cards", force: :cascade do |t|
     t.string "title", null: false
@@ -109,6 +115,7 @@ ActiveRecord::Schema.define(version: 2020_11_30_124033) do
     t.index ["username"], name: "index_users_on_username", unique: true
   end
 
+  add_foreign_key "albums", "users"
   add_foreign_key "deck_cards", "cards"
   add_foreign_key "deck_cards", "decks"
   add_foreign_key "decks", "cards"
