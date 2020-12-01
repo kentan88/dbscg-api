@@ -19,13 +19,17 @@ class API::DecksController < ApplicationController
     @deck = Deck.includes(deck_cards: [:card]).find(params[:id])
   end
 
+  def edit
+    @deck = Deck.includes(deck_cards: [:card]).find(params[:id])
+  end
+
   def create
     @deck = Deck.new(deck_params)
     @deck.user_id = @user_id
 
-    params[:deck][:deck_cards].each do |_key, value|
-      card_id = value["id"]
-      quantity = value["quantity"]
+    params[:deck][:deck_cards].each do |deck_card|
+      card_id = deck_card["id"]
+      quantity = deck_card["quantity"]
       @deck.deck_cards.new(card_id: card_id, quantity: quantity)
     end
 
