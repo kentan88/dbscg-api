@@ -6,7 +6,7 @@ Rails.application.routes.draw do
     }
     resources :cards, only: [:index] do
       collection do
-        get :ratings
+        get :data
         get :leaders
       end
     end
