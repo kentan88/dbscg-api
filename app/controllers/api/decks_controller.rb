@@ -34,6 +34,8 @@ class API::DecksController < ApplicationController
     end
 
     @deck.save
+    puts @deck.errors.full_messages
+    @deck.save
   end
 
   def modify
@@ -53,7 +55,6 @@ class API::DecksController < ApplicationController
       quantity = deck_card["quantity"]
       @deck.deck_cards.new(card_id: card_id, quantity: quantity)
     end
-
 
     @deck.save
   end
