@@ -1,5 +1,5 @@
 class API::DecksController < ApplicationController
-  before_action :extract_user_id_from_token, only: [:create, :clone]
+  before_action :extract_user_id_from_token, only: [:create, :modify, :clone]
 
   def index
     user_id = extract_user_id_from_token
@@ -32,6 +32,28 @@ class API::DecksController < ApplicationController
       quantity = deck_card["quantity"]
       @deck.deck_cards.new(card_id: card_id, quantity: quantity)
     end
+
+    @deck.save
+  end
+
+  def modify
+    @deck = Deck.find(params[:id])
+    @deck.deck_cards.destroy_all
+
+    if @deck.user_id != @user_id
+      @deck = Deck.new(deck_params)
+      @deck.user_id = @user_id
+    else
+      @deck.name = params[:deck][:name]
+      @deck.description = params[:deck][:description]
+    end
+
+    params[:deck][:deck_cards].each do |deck_card|
+      card_id = deck_card["id"]
+      quantity = deck_card["quantity"]
+      @deck.deck_cards.new(card_id: card_id, quantity: quantity)
+    end
+
 
     @deck.save
   end

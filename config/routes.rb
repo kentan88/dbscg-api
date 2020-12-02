@@ -10,8 +10,9 @@ Rails.application.routes.draw do
         get :leaders
       end
     end
-    resources :decks, only: [:index, :show, :create, :update] do
+    resources :decks, only: [:index, :show, :create] do
       member do
+        post :modify
         post :clone
       end
     end

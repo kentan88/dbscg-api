@@ -5,6 +5,7 @@ namespace :decks do
 
     data = [
         {
+
             deck_title: "Ultimate Vegeks #1",
             deck_cards: [
                 {title: "Haru Haru, Shun Shun's Sister", quantity: 2},
