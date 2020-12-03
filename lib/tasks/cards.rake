@@ -1,5 +1,7 @@
 namespace :cards do
   task :rating => :environment do
+    Card.update_all(:rating, 0)
+
     result_hash = {}
 
     decks = Deck.where("created_at >= (?)", 30.days.ago).includes([deck_cards: :card])
