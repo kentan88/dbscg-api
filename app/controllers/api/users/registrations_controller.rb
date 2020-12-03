@@ -30,7 +30,7 @@ class API::Users::RegistrationsController < Devise::RegistrationsController
     end
 
     @user = User.new(sign_up_params)
-    @user.build_album
+    @user.build_album({ data: {} })
 
     if @user.save
       token = JWT.encode @user.as_json, "secret", 'none'
