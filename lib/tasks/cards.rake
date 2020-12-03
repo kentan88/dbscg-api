@@ -1,6 +1,6 @@
 namespace :cards do
   task :rating => :environment do
-    Card.update_all(:rating, 0)
+    Card.update_all({ rating: 0 })
 
     result_hash = {}
 
