@@ -18,12 +18,13 @@ Rails.application.routes.draw do
       end
     end
 
-    resources :albums, only: [:update]
 
     resources :users, only: [] do
       collection do
         get :info
       end
     end
+
+    match '/albums/:card_number', to: 'albums#update', via: :put
   end
 end

@@ -3,7 +3,12 @@ class API::AlbumsController < ApplicationController
 
   def update
     @album = Album.find_by(user_id: @user_id)
-    @album.data = params[:album][:data]
-    @album.save
+    data = @album.data.as_json
+
+    card_number = params[:card_number].to_s
+    data[card_number] = !data[card_number]
+
+    @album.data = data
+    @album.update_column(:data, @album.data)
   end
 end
