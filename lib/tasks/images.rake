@@ -97,12 +97,14 @@ namespace :images do
     Card.where("id >= ?", 3172).each do |card|
       if card.type == "LEADER"
         path = Rails.root.join('public', 'images', "#{card.number}_b.png")
+        path_2 = Rails.root.join('public', 'images', "#{card.number}.png")
 
-        if File.file?(path)
+        if File.file?(path) && File.file?(path_2)
           puts "image exist skip"
         else
           File.open(path, 'wb') do |fo|
             puts "downloading"
+            fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}.png").read
             fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}_b.png").read
           end
         end
