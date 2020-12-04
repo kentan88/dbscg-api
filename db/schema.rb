@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 2020_12_01_014023) do
 
   create_table "albums", force: :cascade do |t|
     t.bigint "user_id", null: false
-    t.jsonb "data", default: "{}"
+    t.jsonb "data"
     t.index ["user_id"], name: "index_albums_on_user_id"
   end
 

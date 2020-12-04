@@ -1,4 +1,4 @@
-require 'json'
+# require 'json'
 
 # DeckCard.delete_all
 # Deck.delete_all
@@ -17,14 +17,3 @@ require 'json'
 #     card.save!
 #   end
 # end
-
-
-file = File.read("#{Rails.root}/public/data/DBS-Ultimate-Deck.json")
-data_hash = JSON.parse(file)
-
-data_hash.each do |data|
-  card = Card.new(data)
-  card.title = card.title.strip
-  card.skills_text = nil if card.skills_text == "-"
-  card.save!
-end
