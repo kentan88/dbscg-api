@@ -19,7 +19,7 @@ require 'json'
 # end
 
 
-file = File.read("#{Rails.root}/public/data/DBS-B12-Booster-Vicious-Rejuvenation.json")
+file = File.read("#{Rails.root}/public/data/DBS-Ultimate-Deck.json")
 data_hash = JSON.parse(file)
 
 data_hash.each do |data|
