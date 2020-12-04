@@ -105,6 +105,10 @@ namespace :images do
           File.open(path, 'wb') do |fo|
             puts "downloading"
             fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}.png").read
+          end
+
+          File.open(path_2, 'wb') do |fo|
+            puts "downloading"
             fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}_b.png").read
           end
         end
