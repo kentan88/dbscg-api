@@ -26,9 +26,9 @@ class API::DecksController < ApplicationController
     @deck.user_id = @user_id
 
     params[:deck][:deck_cards].each do |deck_card|
-      card_id = deck_card["id"]
+      card = Card.find_by(number: deck_card["number"])
       quantity = deck_card["quantity"]
-      @deck.deck_cards.new(card_id: card_id, quantity: quantity)
+      @deck.deck_cards.new(card_id: card.id, quantity: quantity)
     end
 
     @deck.save
