@@ -24,6 +24,7 @@ class API::DecksController < ApplicationController
   def create
     @deck = Deck.new(deck_params)
     @deck.user_id = @user_id
+    @deck.leader_card = Card.find_by(number: params[:deck][:leader_card_number])
 
     params[:deck][:deck_cards].each do |deck_card|
       card = Card.find_by(number: deck_card["number"])
@@ -65,6 +66,6 @@ class API::DecksController < ApplicationController
   end
 
   def deck_params
-    params.require(:deck).permit(:name, :description, :card_id)
+    params.require(:deck).permit(:name, :description)
   end
 end
