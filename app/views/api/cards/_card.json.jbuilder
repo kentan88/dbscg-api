@@ -1,4 +1,3 @@
-json.id card.id
 json.number card.number
 json.color card.color
 json.title card.title
