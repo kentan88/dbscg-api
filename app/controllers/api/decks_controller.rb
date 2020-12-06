@@ -21,13 +21,7 @@ class API::DecksController < ApplicationController
     @deck = Deck.new(deck_params)
     @deck.user_id = @user_id
     @deck.leader_card = Card.find_by(number: params[:deck][:leader_card_number])
-
-    params[:deck][:deck_cards].each do |deck_card|
-      card = Card.find_by(number: deck_card["number"])
-      quantity = deck_card["quantity"]
-      @deck.deck_cards.new(card_id: card.id, quantity: quantity)
-    end
-
+    build_deck_cards
     @deck.save
   end
 
@@ -42,12 +36,7 @@ class API::DecksController < ApplicationController
     @deck.deck_cards.destroy_all
     @deck.name = params[:deck][:name]
     @deck.description = params[:deck][:description]
-    params[:deck][:deck_cards].each do |deck_card|
-      card = Card.find_by(number: deck_card["number"])
-      quantity = deck_card["quantity"]
-      @deck.deck_cards.new(card_id: card.id, quantity: quantity)
-    end
-
+    build_deck_cards
     @deck.save
   end
 
@@ -56,8 +45,27 @@ class API::DecksController < ApplicationController
     @deck = clone_deck.deep_clone except: :user_id, include: [:deck_cards]
     @deck.name = "[CLONED] #{@deck.name}" unless @deck.name.include?("[CLONED]")
     @deck.user_id = @user_id
-
     @deck.save
+  end
+
+  def destroy
+    @deck = Deck.find(params[:id])
+
+    if @deck.user_id != @user_id
+      render :status => 400, :json => {:message => 'Unauthorized'}
+      return
+    end
+
+    @deck.destroy
+  end
+
+  private
+  def build_deck_cards
+    params[:deck][:deck_cards].each do |deck_card|
+      card = Card.find_by(number: deck_card["number"])
+      quantity = deck_card["quantity"]
+      @deck.deck_cards.new(card_id: card.id, quantity: quantity)
+    end
   end
 
   def deck_params

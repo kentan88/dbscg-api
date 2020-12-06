@@ -11,7 +11,7 @@ Rails.application.routes.draw do
       end
     end
 
-    resources :decks, only: [:index, :show, :create] do
+    resources :decks, only: [:index, :show, :create, :destroy] do
       member do
         post :modify
         post :clone
