@@ -1,4 +1,3 @@
-# json.(card, *card.attribute_names)
 json.id card.id
 json.number card.number
 json.color card.color
