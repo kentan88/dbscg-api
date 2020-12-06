@@ -32,7 +32,7 @@ namespace :ratings do
       count = result_hash[card_id][:count]
       rating = (count.to_f / decks.count)
 
-      final_result[card.number] = rating
+      final_result[card.number] = rating.round(2)
     end
 
     info = Info.first || Info.create
