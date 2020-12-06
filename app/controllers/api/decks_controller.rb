@@ -1,5 +1,5 @@
 class API::DecksController < ApplicationController
-  before_action :extract_user_id_from_token, only: [:index, :create, :modify, :clone]
+  before_action :extract_user_id_from_token
 
   def index
     q =
@@ -14,10 +14,6 @@ class API::DecksController < ApplicationController
   end
 
   def show
-    @deck = Deck.includes(deck_cards: [:card]).find(params[:id])
-  end
-
-  def edit
     @deck = Deck.includes(deck_cards: [:card]).find(params[:id])
   end
 
@@ -37,20 +33,19 @@ class API::DecksController < ApplicationController
 
   def modify
     @deck = Deck.find(params[:id])
-    @deck.deck_cards.destroy_all
 
     if @deck.user_id != @user_id
-      @deck = Deck.new(deck_params)
-      @deck.user_id = @user_id
-    else
-      @deck.name = params[:deck][:name]
-      @deck.description = params[:deck][:description]
+      render :status => 400, :json => {:message => 'Unauthorized'}
+      return
     end
 
+    @deck.deck_cards.destroy_all
+    @deck.name = params[:deck][:name]
+    @deck.description = params[:deck][:description]
     params[:deck][:deck_cards].each do |deck_card|
-      card_id = deck_card["id"]
+      card = Card.find_by(number: deck_card["number"])
       quantity = deck_card["quantity"]
-      @deck.deck_cards.new(card_id: card_id, quantity: quantity)
+      @deck.deck_cards.new(card_id: card.id, quantity: quantity)
     end
 
     @deck.save
