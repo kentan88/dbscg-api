@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_01_014023) do
+ActiveRecord::Schema.define(version: 2020_12_06_100809) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -42,7 +42,6 @@ ActiveRecord::Schema.define(version: 2020_12_01_014023) do
     t.text "skills_text"
     t.string "skills_back", default: [], array: true
     t.text "skills_back_text"
-    t.decimal "rating", precision: 5, scale: 2, default: "0.0"
     t.index ["character"], name: "index_cards_on_character"
     t.index ["color"], name: "index_cards_on_color"
     t.index ["combo_energy"], name: "index_cards_on_combo_energy"
@@ -53,7 +52,6 @@ ActiveRecord::Schema.define(version: 2020_12_01_014023) do
     t.index ["power"], name: "index_cards_on_power"
     t.index ["power_back"], name: "index_cards_on_power_back"
     t.index ["rarity"], name: "index_cards_on_rarity"
-    t.index ["rating"], name: "index_cards_on_rating"
     t.index ["series"], name: "index_cards_on_series"
     t.index ["skills_back_text"], name: "index_cards_on_skills_back_text"
     t.index ["skills_text"], name: "index_cards_on_skills_text"
@@ -82,6 +80,12 @@ ActiveRecord::Schema.define(version: 2020_12_01_014023) do
     t.index ["card_id"], name: "index_decks_on_card_id"
     t.index ["private"], name: "index_decks_on_private"
     t.index ["user_id"], name: "index_decks_on_user_id"
+  end
+
+  create_table "infos", force: :cascade do |t|
+    t.jsonb "ratings"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "leaders", force: :cascade do |t|

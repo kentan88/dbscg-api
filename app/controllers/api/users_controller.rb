@@ -3,10 +3,9 @@ class API::UsersController < ApplicationController
 
   def info
     @user = User.find(@user_id) if @user_id rescue nil
-    cards = Card.where.not(rating: 0)
-    ratings = Hash[cards.collect { |item| [item.number, item.rating] } ]
     album = @user.try(:album).try(:data)
+    ratings = Info.first.ratings
 
-    render json: { ratings: ratings, album: album }
+    render json: { album: album, ratings: ratings }
   end
 end
