@@ -2,11 +2,12 @@ class API::DecksController < ApplicationController
   before_action :extract_user_id_from_token
 
   def index
+    deck = Deck.includes(:user, :leader_card)
     q =
         if params[:me].present? && @user_id.present?
-          Deck.includes(:user, :leader_card).where(user_id: @user_id)
+          deck.where(user_id: @user_id)
         else
-          Deck.includes(:user, :leader_card)
+          deck.make_public
         end
 
     q = q.order(updated_at: :desc).ransack(params[:q])

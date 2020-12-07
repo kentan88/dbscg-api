@@ -5,5 +5,4 @@ class Card < ApplicationRecord
   scope :battles, -> { where(type: "BATTLE") }
   scope :extras, -> { where(type: "EXTRA") }
   scope :unisons, -> { where(type: "UNISON") }
-
 end

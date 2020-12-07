@@ -6,4 +6,7 @@ class Deck < ApplicationRecord
 
   validates :name, presence: true
   validates_associated :deck_cards
+
+  scope :make_public, -> { where(private: false) }
+  scope :make_private, -> { where(private: true) }
 end
