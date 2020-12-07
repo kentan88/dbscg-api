@@ -48,6 +48,17 @@ class API::DecksController < ApplicationController
     @deck.save
   end
 
+  def toggle_public_private
+    @deck = Deck.find(params[:id])
+
+    if @deck.user_id != @user_id
+      render :status => 400, :json => {:message => 'Unauthorized'}
+      return
+    end
+
+    @deck.update_column(:private, !@deck.private)
+  end
+
   def destroy
     @deck = Deck.find(params[:id])
 

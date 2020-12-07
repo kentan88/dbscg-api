@@ -15,6 +15,7 @@ Rails.application.routes.draw do
       member do
         post :modify
         post :clone
+        put :toggle_public_private
       end
     end
 
