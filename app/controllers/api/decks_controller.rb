@@ -34,7 +34,8 @@ class API::DecksController < ApplicationController
       return
     end
 
-    @deck.deck_cards.destroy_all
+    @deck.leader_card = Card.find_by(number: params[:deck][:leader_card_number])
+    @deck.deck_cards.delete_all
     @deck.name = params[:deck][:name]
     @deck.description = params[:deck][:description]
     build_deck_cards
