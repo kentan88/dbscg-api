@@ -19,7 +19,6 @@ Rails.application.routes.draw do
       end
     end
 
-
     resources :users, only: [] do
       collection do
         get :info
