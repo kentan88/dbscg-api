@@ -49,7 +49,7 @@ class API::DecksController < ApplicationController
     @deck.save
   end
 
-  def toggle_public_private
+  def make_public_private
     @deck = Deck.find(params[:id])
 
     if @deck.user_id != @user_id
