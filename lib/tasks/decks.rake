@@ -196,7 +196,7 @@ namespace :decks do
       deck = Deck.create!(user_id: user.id, name: deck_item[:deck_title], card_id: leader_card.id)
       deck_item[:deck_cards].each do |card_item|
         card = Card.find_by!(title: card_item[:title].strip)
-        deck.deck_cards << DeckCard.create(card_id: card.id, quantity: card_item[:quantity])
+        deck.deck_cards << DeckCard.create(number: card.number, quantity: card_item[:quantity], type: "main")
       end
     end
   end
