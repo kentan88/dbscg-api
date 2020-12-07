@@ -13,6 +13,6 @@ json.leader_card do
 end
 
 json.cards @deck.deck_cards do |deck_card|
-  json.number deck_card.card.number
+  json.number deck_card.number
   json.quantity deck_card.quantity
 end

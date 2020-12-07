@@ -15,7 +15,7 @@ class API::DecksController < ApplicationController
   end
 
   def show
-    @deck = Deck.includes(deck_cards: [:card]).find(params[:id])
+    @deck = Deck.includes(:deck_cards).find(params[:id])
   end
 
   def create
@@ -75,9 +75,10 @@ class API::DecksController < ApplicationController
   private
   def build_deck_cards
     params[:deck][:deck_cards].each do |deck_card|
-      card = Card.find_by(number: deck_card["number"])
-      quantity = deck_card["quantity"]
-      @deck.deck_cards.new(card_id: card.id, quantity: quantity)
+      @deck.deck_cards.new(
+          number: deck_card["number"],
+          quantity: deck_card["quantity"]
+      )
     end
   end
 
