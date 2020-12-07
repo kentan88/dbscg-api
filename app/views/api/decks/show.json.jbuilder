@@ -15,4 +15,5 @@ end
 json.cards @deck.deck_cards do |deck_card|
   json.number deck_card.number
   json.quantity deck_card.quantity
+  json.type deck_card.type
 end

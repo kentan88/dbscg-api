@@ -77,7 +77,8 @@ class API::DecksController < ApplicationController
     params[:deck][:deck_cards].each do |deck_card|
       @deck.deck_cards.new(
           number: deck_card["number"],
-          quantity: deck_card["quantity"]
+          quantity: deck_card["quantity"],
+          type: deck_card["deck_type"]
       )
     end
   end
