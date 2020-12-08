@@ -21,9 +21,8 @@ class API::DecksController < ApplicationController
   def create
     @deck = Deck.new(deck_params)
     @deck.user_id = @user_id
-    @deck.leader_card = Card.find_by(number: params[:deck][:leader_card_number])
     build_deck_cards
-    @deck.save
+    @deck.save!
   end
 
   def modify
@@ -34,9 +33,9 @@ class API::DecksController < ApplicationController
       return
     end
 
-    @deck.leader_card = Card.find_by(number: params[:deck][:leader_card_number])
     @deck.deck_cards.delete_all
     @deck.name = params[:deck][:name]
+    @deck.leader_number = params[:deck][:leader_number]
     @deck.description = params[:deck][:description]
     build_deck_cards
     @deck.save
@@ -84,6 +83,6 @@ class API::DecksController < ApplicationController
   end
 
   def deck_params
-    params.require(:deck).permit(:name, :description)
+    params.require(:deck).permit(:name, :leader_number, :description)
   end
 end

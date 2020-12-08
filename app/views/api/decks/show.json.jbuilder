@@ -9,7 +9,7 @@ json.deck do
 end
 
 json.leader_card do
-  json.number @deck.leader_card.number
+  json.number @deck.leader_number
 end
 
 json.cards @deck.deck_cards do |deck_card|
