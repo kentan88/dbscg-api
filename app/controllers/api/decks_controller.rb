@@ -2,7 +2,7 @@ class API::DecksController < ApplicationController
   before_action :extract_user_id_from_token
 
   def index
-    deck = Deck.includes(:user, :leader_card)
+    deck = Deck.includes(:user, :deck_cards, :leader_card)
     q =
         if params[:me].present? && @user_id.present?
           deck.where(user_id: @user_id)
