@@ -4,13 +4,11 @@ namespace :ratings do
 
     decks = Deck.where("created_at >= (?)", 30.days.ago).includes([deck_cards: :card])
     decks.each do |deck|
-      leader = deck.leader_card
 
-      leader_card_hash ||= result_hash[leader.number] || { count: 0 }
-      result_hash[leader.number] =
+      leader_card_hash ||= result_hash[deck.leader_number] || { count: 0 }
+      result_hash[deck.leader_number] =
           {
-              number: leader.number,
-              title: leader.title,
+              number: deck.leader_number,
               count: leader_card_hash[:count] + 1
           }
 
@@ -19,7 +17,6 @@ namespace :ratings do
         result_hash[deck_card.number] =
             {
                 card_id: deck_card.number,
-                title: deck_card.card.title,
                 count: deck_card_hash[:count] + 1
             }
       end
