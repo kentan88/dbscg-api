@@ -12,11 +12,11 @@ namespace :ratings do
               count: leader_card_hash[:count] + 1
           }
 
-      deck.deck_cards.each do |deck_card|
-        deck_card_hash ||= result_hash[deck_card.number] || { count: 0 }
-        result_hash[deck_card.number] =
+      deck.main_deck_cards.merge(deck.side_deck_cards).each do |number, value|
+        deck_card_hash ||= result_hash[number] || { count: 0 }
+        result_hash[number] =
             {
-                card_id: deck_card.number,
+                card_id: number,
                 count: deck_card_hash[:count] + 1
             }
       end
