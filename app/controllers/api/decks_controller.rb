@@ -2,7 +2,7 @@ class API::DecksController < ApplicationController
   before_action :extract_user_id_from_token
 
   def index
-    deck = Deck.includes(:user, :deck_cards)
+    deck = Deck.all
     q =
         if params[:me].present? && @user_id.present?
           deck.where(user_id: @user_id)
@@ -10,8 +10,8 @@ class API::DecksController < ApplicationController
           deck.make_public
         end
 
-    q = q.order(updated_at: :desc).ransack(params[:q])
-    @decks = q.result(distinct: true).page(params[:page]).per(25)
+    q = q.order(updated_at: :desc)
+    @decks = q.page(params[:page]).per(25)
   end
 
   def show
@@ -21,7 +21,6 @@ class API::DecksController < ApplicationController
   def create
     @deck = Deck.new(deck_params)
     @deck.user_id = @user_id
-    build_deck_cards
     @deck.save!
   end
 
@@ -29,21 +28,17 @@ class API::DecksController < ApplicationController
     @deck = Deck.find(params[:id])
 
     if @deck.user_id != @user_id
-      render :status => 400, :json => {:message => 'Unauthorized'}
+      render status: 400, json: {message: 'Unauthorized'}
       return
     end
 
-    @deck.deck_cards.delete_all
-    @deck.name = params[:deck][:name]
-    @deck.leader_number = params[:deck][:leader_number]
-    @deck.description = params[:deck][:description]
-    build_deck_cards
+    @deck.assign_attributes(deck_params)
     @deck.save
   end
 
   def clone
     clone_deck = Deck.find(params[:id])
-    @deck = clone_deck.deep_clone except: :user_id, include: [:deck_cards]
+    @deck = clone_deck.deep_clone except: :user_id
     @deck.name = "[CLONED] #{@deck.name}" unless @deck.name.include?("[CLONED]")
     @deck.user_id = @user_id
     @deck.save
@@ -53,7 +48,7 @@ class API::DecksController < ApplicationController
     @deck = Deck.find(params[:id])
 
     if @deck.user_id != @user_id
-      render :status => 400, :json => {:message => 'Unauthorized'}
+      render status: 400, json: {message: 'Unauthorized'}
       return
     end
 
@@ -64,7 +59,7 @@ class API::DecksController < ApplicationController
     @deck = Deck.find(params[:id])
 
     if @deck.user_id != @user_id
-      render :status => 400, :json => {:message => 'Unauthorized'}
+      render status: 400, json: {message: 'Unauthorized'}
       return
     end
 
@@ -72,17 +67,8 @@ class API::DecksController < ApplicationController
   end
 
   private
-  def build_deck_cards
-    params[:deck][:deck_cards].each do |deck_card|
-      @deck.deck_cards.new(
-          number: deck_card["number"],
-          quantity: deck_card["quantity"],
-          type: deck_card["deck_type"]
-      )
-    end
-  end
 
   def deck_params
-    params.require(:deck).permit(:name, :leader_number, :description)
+    params.require(:deck).permit(:name, :leader_number, :description, main_deck_cards: {}, side_deck_cards: {})
   end
 end

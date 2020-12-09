@@ -1,13 +1,15 @@
 class API::CardsController < ApplicationController
-  before_action :extract_user_id_from_token, only: [:data]
-
   def index
-    @cards = Card.all
+    # @cards = Card.all
+
     # q = Card.order(energy_cost: :asc, title: :asc).ransack(params[:q])
     # @cards = q.result(distinct: true).page(params[:page]).per(25)
-  end
 
-  def leaders
-    @cards = Card.leaders.order({ title: :asc })
+    # result_hash = {}
+    # @cards.each do |card|
+    #   result_hash[card.number] = card.as_json.reject { |key| key == "skills" || key == "skills_back" }
+    # end
+    #
+    # render json: result_hash
   end
 end

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_08_054656) do
+ActiveRecord::Schema.define(version: 2020_12_09_124554) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -81,7 +81,12 @@ ActiveRecord::Schema.define(version: 2020_12_08_054656) do
     t.datetime "updated_at", precision: 6, null: false
     t.boolean "private", default: false
     t.string "leader_number"
+    t.jsonb "main_deck_cards"
+    t.jsonb "side_deck_cards"
+    t.string "username"
+    t.boolean "draft", default: false
     t.index ["card_id"], name: "index_decks_on_card_id"
+    t.index ["draft"], name: "index_decks_on_draft"
     t.index ["private"], name: "index_decks_on_private"
     t.index ["user_id"], name: "index_decks_on_user_id"
   end

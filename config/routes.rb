@@ -5,11 +5,7 @@ Rails.application.routes.draw do
         registrations: 'api/users/registrations'
     }
 
-    resources :cards, only: [:index] do
-      collection do
-        get :leaders
-      end
-    end
+    # resources :cards, only: [:index]
 
     resources :decks, only: [:index, :show, :create, :destroy] do
       member do

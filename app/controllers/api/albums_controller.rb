@@ -5,7 +5,7 @@ class API::AlbumsController < ApplicationController
     @album = Album.find_by(user_id: @user_id)
 
     unless @album.present?
-      render :status => 400, :json => {:message => 'Unauthorized'}
+      render status: 400, json: {message: 'Unauthorized'}
       return
     end
 
