@@ -10,8 +10,8 @@ class API::DecksController < ApplicationController
           deck.make_public
         end
 
-    q = q.order(updated_at: :desc)
-    @decks = q.page(params[:page]).per(25)
+    q = q.order(updated_at: :desc).ransack(params[:q])
+    @decks = q.result(distinct: true).page(params[:page]).per(25)
   end
 
   def show
