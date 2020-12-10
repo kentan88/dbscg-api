@@ -3,7 +3,7 @@ json.decks @decks do |deck|
   json.name deck.name
   json.leader_number deck.leader_number
   json.created_by deck.username
-  json.updated_at deck.updated_at.strftime("%F")
+  json.updated_at "#{time_ago_in_words(deck.updated_at)} ago"
   json.main_deck_cards deck.main_deck_cards
   json.side_deck_cards deck.side_deck_cards
 end
