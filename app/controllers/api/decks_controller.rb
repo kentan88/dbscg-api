@@ -20,7 +20,9 @@ class API::DecksController < ApplicationController
 
   def create
     @deck = Deck.new(deck_params)
-    @deck.user_id = @user_id
+    user = User.find(@user_id)
+    @deck.user_id = user.id
+    @deck.username = user.username
     @deck.save!
   end
 
