@@ -16,6 +16,11 @@ class API::DecksController < ApplicationController
 
   def show
     @deck = Deck.includes(:deck_cards).find(params[:id])
+
+    if @deck.user_id != @user_id && @deck.private
+      render status: 400, json: {message: 'Unauthorized'}
+      return
+    end
   end
 
   def create
@@ -35,7 +40,7 @@ class API::DecksController < ApplicationController
     end
 
     @deck.assign_attributes(deck_params)
-    @deck.save
+    @deck.save!
   end
 
   def clone
@@ -43,7 +48,7 @@ class API::DecksController < ApplicationController
     @deck = clone_deck.deep_clone except: :user_id
     @deck.name = "[CLONED] #{@deck.name}" unless @deck.name.include?("[CLONED]")
     @deck.user_id = @user_id
-    @deck.save
+    @deck.save!
   end
 
   def make_public_private
