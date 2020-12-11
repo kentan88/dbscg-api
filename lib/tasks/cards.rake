@@ -22,4 +22,19 @@ namespace :cards do
 
     puts results.sort.uniq
   end
+
+
+  task :dups => :environment do
+    dups = []
+    Card.all.each do |card|
+      if !card.valid?
+        dups << card.number
+      end
+    end
+
+    dups.uniq.each do |number|
+      card = Card.find_by(number: number)
+      card.destroy
+    end
+  end
 end
