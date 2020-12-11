@@ -1,13 +1,4 @@
 namespace :cards do
-  task :typo => :environment do
-    Card.where(series: 'Series6 ~DESTROYER KINGS~').update_all({ series: "Series 6 ~DESTROYER KINGS~"})
-    Card.where(series: 'Series7 ~ASSAULT OF THE SAIYANS~').update_all({ series: "Series 7 ~ASSAULT OF THE SAIYANS~"})
-    Card.where("special_trait ilike (?)", "%Universe7").each do |card|
-      card.special_trait = card.special_trait.gsub("Universe7", "Universe 7")
-      card.save
-    end
-  end
-
   task :special_traits => :environment do
     results = []
     all_special_traits = Card.all.collect(&:special_trait).compact.sort.uniq
@@ -22,7 +13,6 @@ namespace :cards do
 
     puts results.sort.uniq
   end
-
 
   task :dups => :environment do
     dups = []
