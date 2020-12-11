@@ -2,7 +2,7 @@ namespace :ratings do
   task :update => :environment do
     result_hash = {}
 
-    decks = Deck.where("created_at >= (?)", 30.days.ago).includes([deck_cards: :card])
+    decks = Deck.where("created_at >= (?)", 30.days.ago)
     decks.each do |deck|
 
       leader_card_hash ||= result_hash[deck.leader_number] || { count: 0 }
