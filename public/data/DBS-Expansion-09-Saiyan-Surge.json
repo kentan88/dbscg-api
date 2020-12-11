@@ -8,13 +8,13 @@
     "color": "Red",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is red and you place this card in its owner's Drop Area : When this card attacks a Battle Card, if that card has 25000 power or less, KO it.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is red and you place this card in its owner's Drop Area : When this card attacks a Battle Card, if that card has 25000 power or less, KO it.",
     "skills": [
       "Auto"
     ]
@@ -28,13 +28,13 @@
     "color": "Yellow",
     "power": "20000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"> Place this card in its owner's Drop Area : Choose up to 1 red or yellow 〈Son Goku〉 card with an energy cost of 2 in your hand or Drop Area and play it.",
+    "skills_text": "<img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/common/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"> Place this card in its owner's Drop Area : Choose up to 1 red or yellow 〈Son Goku〉 card with an energy cost of 2 in your hand or Drop Area and play it.",
     "skills": [
       "Critical",
       "Main-Battle"
@@ -51,14 +51,14 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 2 cards, then choose 1 card in your hand and place it in your Drop Area.<br><img src=\"/images/Awaken_Surge.png\" alt=\"Awaken: Surge\" class=\"skillText\"> Choose 1 red card and 1 yellow card in your hand and place them under this card : You may draw 3 cards, then choose up to 1 of your energy, switch it to Active Mode, and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 2 cards, then choose 1 card in your hand and place it in your Drop Area.<br><img src=\"/images/common/Awaken_Surge.png\" alt=\"Awaken: Surge\" class=\"skillText\"> Choose 1 red card and 1 yellow card in your hand and place them under this card : You may draw 3 cards, then choose up to 1 of your energy, switch it to Active Mode, and flip this card over.",
     "skills": [
       "Auto",
       "Surge"
     ],
     "title_back": "SSG Son Goku, Surge of Divinity",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 5 or less and you choose 1 card under this card and place it in its owner's Drop Area : Choose one-<br>・ Choose all of your opponent's Battle Cards, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and negate their skills for the duration of the turn.<br>・ This card gets +10000 power and <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
+    "skills_back_text": "<img src=\"/images/common/Activate_Main-Battle.png\" alt=\"Activate: Main/Battle\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your life is at 5 or less and you choose 1 card under this card and place it in its owner's Drop Area : Choose one-<br>・ Choose all of your opponent's Battle Cards, ignoring <img src=\"/images/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and negate their skills for the duration of the turn.<br>・ This card gets +10000 power and <img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Activate_Main-Battle",
       "Once-per-turn",
@@ -75,13 +75,13 @@
     "color": "Red/Yellow",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Gohan: Adolescence/Videl",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is yellow and you place this card from your hand in your Drop Area : Draw 1 card, then choose up to 2 of your opponent's Battle Cards, ignoring <img src=\"/images/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and they get -5000 power for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is yellow and you place this card from your hand in your Drop Area : Draw 1 card, then choose up to 2 of your opponent's Battle Cards, ignoring <img src=\"/images/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\">, and they get -5000 power for the duration of the turn.",
     "skills": [
       "Energy-Exhaust",
       "Activate-Main",
@@ -98,13 +98,13 @@
     "color": "Red/Yellow",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goten/Trunks: Youth",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card being played is played in Rest Mode, then play this card.<br>",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card being played is played in Rest Mode, then play this card.<br>",
     "skills": [
       "Energy-Exhaust",
       "Counter-Play"
@@ -118,8 +118,8 @@
     "type": "EXTRA",
     "color": "Red/Yellow",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Counter-Counter.png\" alt=\"Counter Counter\" class=\"skillText\"> If your Leader Card is red and you choose 1 yellow card in your hand and place it in your Drop Area : Negate the <img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> skill.",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/common/Counter-Counter.png\" alt=\"Counter Counter\" class=\"skillText\"> If your Leader Card is red and you choose 1 yellow card in your hand and place it in your Drop Area : Negate the <img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> skill.",
     "skills": [
       "Energy-Exhaust",
       "Counter-Counter",

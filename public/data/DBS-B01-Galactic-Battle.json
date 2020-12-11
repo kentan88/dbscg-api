@@ -10,7 +10,7 @@
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your Battle Card attacks a Leader Card, if the attacking card has 15000 or more power, draw 1 card.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your Battle Card attacks a Leader Card, if the attacking card has 15000 or more power, draw 1 card.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Once-per-turn",
@@ -18,7 +18,7 @@
     ],
     "title_back": "God of Destruction Champa",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place 1 card from your hand in the Drop Area : Choose this card or 1 of your Battle Cards. It gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills_back_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place 1 card from your hand in the Drop Area : Choose this card or 1 of your Battle Cards. It gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills_back": [
       "Auto",
       "Activate-Main",
@@ -36,14 +36,14 @@
     "character": "Vados",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards in Active Mode.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards in Active Mode.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Permanent",
       "Awaken"
     ],
     "title_back": "Aide Vados",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards in Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. If this card attacks a Battle Card, it gains +5000 power for the duration of the turn.",
+    "skills_back_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can attack Battle Cards in Active Mode.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. If this card attacks a Battle Card, it gains +5000 power for the duration of the turn.",
     "skills_back": [
       "Permanent",
       "Auto"
@@ -60,14 +60,14 @@
     "character": "Hit",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, it gains +5000 power for the duration of the turn.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, it gains +5000 power for the duration of the turn.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Assassin Hit",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of this turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\">, you may place 1 red card from your hand into the Drop Area. If you do so, negate that <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\">.",
+    "skills_back_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card, and this card gains +5000 power for the duration of this turn.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">, you may place 1 red card from your hand into the Drop Area. If you do so, negate that <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">.",
     "skills_back": [
       "Auto",
       "Once-per-turn",
@@ -83,13 +83,13 @@
     "color": "Red",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Champa＞<br><img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your opponent's Battle Cards in the Battle Area with 15000 or less power and KO them.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Champa＞<br><img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your opponent's Battle Cards in the Battle Area with 15000 or less power and KO them.",
     "skills": [
       "Evolve",
       "ball",
@@ -107,13 +107,13 @@
     "color": "Red",
     "power": "16000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -128,13 +128,13 @@
     "color": "Red",
     "power": "16000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -149,13 +149,13 @@
     "color": "Red",
     "power": "16000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -170,13 +170,13 @@
     "color": "Red",
     "power": "16000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 of your attacking cards. It gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the battle.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -191,13 +191,13 @@
     "color": "Red",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play a red 《Alien》, it gains +5000 power for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play a red 《Alien》, it gains +5000 power for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -211,13 +211,13 @@
     "color": "Red",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Champa",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 red ＜Champa＞ among them and add it to your hand. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 red ＜Champa＞ among them and add it to your hand. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -231,13 +231,13 @@
     "color": "Red",
     "power": "20000",
     "energy": "5",
-    "energy_text": "5(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Vados",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 3 cards from the top of your deck. Choose up to 1 《Alien》 with power 15000 or less among them and play it. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 3 cards from the top of your deck. Choose up to 1 《Alien》 with power 15000 or less among them and play it. Then, shuffle your deck.",
     "skills": [
       "Dual-Attack",
       "Auto"
@@ -252,13 +252,13 @@
     "color": "Red",
     "power": "20000",
     "energy": "5",
-    "energy_text": "5(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Vados",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 3 cards from the top of your deck. Choose up to 1 《Alien》 with power 15000 or less among them and play it. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, look at up to 3 cards from the top of your deck. Choose up to 1 《Alien》 with power 15000 or less among them and play it. Then, shuffle your deck.",
     "skills": [
       "Dual-Attack",
       "Auto"
@@ -273,13 +273,13 @@
     "color": "Red",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Vados",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 red 《Alien》 among them and add it to your hand. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 red 《Alien》 among them and add it to your hand. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -293,13 +293,13 @@
     "color": "Red",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Vados",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is red and your life is 4 or lower, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is red and your life is 4 or lower, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -313,13 +313,13 @@
     "color": "Red",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Vados",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is red and your life is 4 or lower, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is red and your life is 4 or lower, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -333,13 +333,13 @@
     "color": "Red",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Hit",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Hit＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, inflict 2 damage to your opponent.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Hit＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, inflict 2 damage to your opponent.",
     "skills": [
       "Evolve",
       "ball",
@@ -357,13 +357,13 @@
     "color": "Red",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Hit",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Hit＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, inflict 2 damage to your opponent.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Hit＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, inflict 2 damage to your opponent.",
     "skills": [
       "Evolve",
       "ball",
@@ -381,7 +381,7 @@
     "color": "Red",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Hit",
@@ -401,13 +401,13 @@
     "color": "Red",
     "power": "20000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Cabba",
     "special_trait": "Alien/Saiyan",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Cabba＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, switch this card to Active Mode.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Cabba＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, switch this card to Active Mode.",
     "skills": [
       "Evolve",
       "ball",
@@ -425,13 +425,13 @@
     "color": "Red",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Cabba",
     "special_trait": "Alien/Saiyan",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\">  When this card attacks, you may choose 1 card from your life and add it to your hand.  If you do so, this card gains +10000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">  (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\">  When this card attacks, you may choose 1 card from your life and add it to your hand.  If you do so, this card gains +10000 power and <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">  (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -446,13 +446,13 @@
     "color": "Red",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Cabba",
     "special_trait": "Alien/Saiyan",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\">  When this card attacks, you may choose 1 card from your life and add it to your hand.  If you do so, this card gains +10000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">  (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\">  When this card attacks, you may choose 1 card from your life and add it to your hand.  If you do so, this card gains +10000 power and <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">  (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -467,13 +467,13 @@
     "color": "Red",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frost",
     "special_trait": "Alien/Frieza Clan",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Frost＞ (Play this card on top of the specified card)<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Battle Card, KO that card after the battle. Then, if your opponent's Leader Card has 10000 or less power, inflict 1 damage to your opponent.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Frost＞ (Play this card on top of the specified card)<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Battle Card, KO that card after the battle. Then, if your opponent's Leader Card has 10000 or less power, inflict 1 damage to your opponent.",
     "skills": [
       "Evolve",
       "ball",
@@ -491,13 +491,13 @@
     "color": "Red",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Frost",
     "special_trait": "Alien/Frieza Clan",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"skillTextBall\">: ＜Frost＞ (Play this card on top of the specified card)<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">: ＜Frost＞ (Play this card on top of the specified card)<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)",
     "skills": [
       "Evolve",
       "ball",
@@ -513,13 +513,13 @@
     "color": "Red",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Frost",
     "special_trait": "Alien/Frieza Clan",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\"> : Look at up to 7 cards from the top of your deck, choose one ＜Frost＞ with <img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> among them and Evolve this card into it. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\"> : Look at up to 7 cards from the top of your deck, choose one ＜Frost＞ with <img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> among them and Evolve this card into it. Then, shuffle your deck.",
     "skills": [
       "Activate-Main",
       "two",
@@ -535,13 +535,13 @@
     "color": "Red",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Botamo",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This Card can attack Battle Cards that are in Active Mode.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This Card can attack Battle Cards that are in Active Mode.",
     "skills": [
       "Permanent"
     ]
@@ -555,13 +555,13 @@
     "color": "Red",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Botamo",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -575,13 +575,13 @@
     "color": "Red",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Botamo",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -595,13 +595,13 @@
     "color": "Red",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Magetta",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot be KO-ed in battle.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot be KO-ed in battle.",
     "skills": [
       "Permanent"
     ]
@@ -615,13 +615,13 @@
     "color": "Red",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Magetta",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot be KO-ed in battle.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot be KO-ed in battle.",
     "skills": [
       "Permanent"
     ]
@@ -635,13 +635,13 @@
     "color": "Red",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Magetta",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -655,13 +655,13 @@
     "color": "Red",
     "power": "20000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Universe 6 Supreme Kai",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 ＜Supreme Kai's Attendant＞ from your deck and play it. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 ＜Supreme Kai's Attendant＞ from your deck and play it. Then, shuffle your deck.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -676,13 +676,13 @@
     "color": "Red",
     "power": "10000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Supreme Kai's Attendant",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Card with 15000 or more power.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Card with 15000 or more power.",
     "skills": [
       "Permanent"
     ]
@@ -695,8 +695,8 @@
     "type": "EXTRA",
     "color": "Red",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose any number of opponent Battle Cards of which the total power adds up to 30000 or less and KO those cards.",
+    "energy_text": "4(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose any number of opponent Battle Cards of which the total power adds up to 30000 or less and KO those cards.",
     "skills": [
       "Activate-Main"
     ]
@@ -709,8 +709,8 @@
     "type": "EXTRA",
     "color": "Red",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, you may switch up to 1 of your Battle Cards to Active Mode.",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, you may switch up to 1 of your Battle Cards to Active Mode.",
     "skills": [
       "Counter-Attack"
     ]
@@ -723,8 +723,8 @@
     "type": "EXTRA",
     "color": "Red",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards with 12000 or less power in the Battle Area and KO that card.",
+    "energy_text": "1(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 of your opponent's Battle Cards with 12000 or less power in the Battle Area and KO that card.",
     "skills": [
       "Activate-Main"
     ]
@@ -738,7 +738,7 @@
     "color": "Red",
     "energy": "0",
     "energy_text": "0(-)",
-    "skills_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your red cards. It gains +6000 power for the duration of the battle.",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your red cards. It gains +6000 power for the duration of the battle.",
     "skills": [
       "Activate-Battle"
     ]
@@ -754,7 +754,7 @@
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : This card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : This card gains <img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Activate-Main",
       "Once-per-turn",
@@ -763,7 +763,7 @@
     ],
     "title_back": "Super Saiyan Blue Vegeta",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : This card gains <img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn. If you have 7 or more blue energy, this card also gains +10000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
+    "skills_back_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card from your life and add it to your hand : This card gains <img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the duration of the turn. If you have 7 or more blue energy, this card also gains +10000 power for the duration of the turn.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
       "Once-per-turn",
@@ -782,14 +782,14 @@
     "character": "Beerus",
     "special_trait": "God",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, if you have 3 or more energy, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it. <br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, if you have 3 or more energy, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and KO it. <br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Beerus, God of Destruction",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/sixteen.png\" alt=\"sixteen\" class=\"skillTextBall\">, Switch this card to Rest Mode : You win this game.",
+    "skills_back_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/sixteen.png\" alt=\"sixteen\" class=\"skillTextBall\">, Switch this card to Rest Mode : You win this game.",
     "skills_back": [
       "Auto",
       "Activate-Main",
@@ -807,14 +807,14 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, it gains +1000 for each 1 energy you have, for the duration of the turn.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, it gains +1000 for each 1 energy you have, for the duration of the turn.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Super Saiyan Blue Son Goku",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 7 or more energy, this card gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle).<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card. Then, this card gains +1000 power for each 1 energy you have for the duration of the turn.",
+    "skills_back_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 7 or more energy, this card gains <img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle).<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card. Then, this card gains +1000 power for each 1 energy you have for the duration of the turn.",
     "skills_back": [
       "Permanent",
       "Dual-Attack",
@@ -833,14 +833,14 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, it gains +1000 for each 1 energy you have, for the duration of the turn.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, it gains +1000 for each 1 energy you have, for the duration of the turn.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Super Saiyan Blue Son Goku",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 7 or more energy, this card gains <img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle).<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card. Then, this card gains +1000 power for each 1 energy you have for the duration of the turn.",
+    "skills_back_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When you have 7 or more energy, this card gains <img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle).<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, draw 1 card. Then, this card gains +1000 power for each 1 energy you have for the duration of the turn.",
     "skills_back": [
       "Permanent",
       "Dual-Attack",
@@ -857,13 +857,13 @@
     "color": "Blue",
     "power": "30000",
     "energy": "7",
-    "energy_text": "7(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "7(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent cannot activate <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> against this card's attack and cannot activate <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> during this card's attack.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent cannot activate <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> against this card's attack and cannot activate <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> during this card's attack.",
     "skills": [
       "Evolve",
       "ball",
@@ -883,13 +883,13 @@
     "color": "Blue",
     "power": "30000",
     "energy": "7",
-    "energy_text": "7(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "7(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent cannot activate <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> against this card's attack and cannot activate <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> during this card's attack.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent cannot activate <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> against this card's attack and cannot activate <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> during this card's attack.",
     "skills": [
       "Evolve",
       "ball",
@@ -909,13 +909,13 @@
     "color": "Blue",
     "power": "30000",
     "energy": "7",
-    "energy_text": "7(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "7(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent cannot activate <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\"> against this card's attack and cannot activate <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> during this card's attack.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/three.png\" alt=\"three\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent cannot activate <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> against this card's attack and cannot activate <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> during this card's attack.",
     "skills": [
       "Evolve",
       "ball",
@@ -935,13 +935,13 @@
     "color": "Blue",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 5 or more energy, this card gains +10000 power.",
+    "skills_text": "<img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in their Drop Area instead of their hand)<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, if you have 5 or more energy, this card gains +10000 power.",
     "skills": [
       "Critical",
       "Permanent"
@@ -956,13 +956,13 @@
     "color": "Blue",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 blue ＜Son Goku＞ among them and add it to your hand. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 blue ＜Son Goku＞ among them and add it to your hand. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -976,13 +976,13 @@
     "color": "Blue",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 blue ＜Son Goku＞ among them and add it to your hand. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 blue ＜Son Goku＞ among them and add it to your hand. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -996,13 +996,13 @@
     "color": "Blue",
     "power": "25000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Gohan: Adolescence",
     "special_trait": "Saiyan/Earthling",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)",
     "skills": [
       "Double-Strike"
     ]
@@ -1016,7 +1016,7 @@
     "color": "Blue",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Goten",
@@ -1036,13 +1036,13 @@
     "color": "Blue",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Vegeta＞<br><img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\">  When a card evolves into this card, choose up to 1 opponent Battle Card with <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and return it to their hand.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Vegeta＞<br><img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\">  When a card evolves into this card, choose up to 1 opponent Battle Card with <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and return it to their hand.",
     "skills": [
       "Evolve",
       "ball",
@@ -1062,13 +1062,13 @@
     "color": "Blue",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in the Drop Area instead of their hand)",
+    "skills_text": "<img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> (When this card inflicts damage to your opponent's life, they place that many cards in the Drop Area instead of their hand)",
     "skills": [
       "Critical"
     ]
@@ -1082,7 +1082,7 @@
     "color": "Blue",
     "power": "20000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Vegeta",
@@ -1102,7 +1102,7 @@
     "color": "Blue",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Trunks: Youth",
@@ -1122,13 +1122,13 @@
     "color": "Blue",
     "power": "1000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Bulma",
     "special_trait": "Earthling",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 ＜Whis＞ with an energy cost of 4 or lower from your deck and add it to your hand.  Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 ＜Whis＞ with an energy cost of 4 or lower from your deck and add it to your hand.  Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -1142,13 +1142,13 @@
     "color": "Blue",
     "power": "25000",
     "energy": "7",
-    "energy_text": "7(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "7(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Beerus",
     "special_trait": "God",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, your opponent may choose 2 cards from their hand and place them in the Drop Area. If they don't, choose all of your opponent's Battle Cards and energy. Place them in the Drop Area.",
+    "skills_text": "<img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, your opponent may choose 2 cards from their hand and place them in the Drop Area. If they don't, choose all of your opponent's Battle Cards and energy. Place them in the Drop Area.",
     "skills": [
       "Triple-Strike",
       "Auto"
@@ -1163,13 +1163,13 @@
     "color": "Blue",
     "power": "20000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Beerus",
     "special_trait": "God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you have 5 or more energy, choose up to 1opponent Battle Card and KO that card.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you have 5 or more energy, choose up to 1opponent Battle Card and KO that card.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -1184,13 +1184,13 @@
     "color": "Blue",
     "power": "40000",
     "energy": "12",
-    "energy_text": "12(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "12(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Whis",
     "special_trait": "God",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Quadruple-Strike.png\" alt=\"Quadruple Strike\" class=\"skillText\"> (This card inflicts 4 damage instead of 1 when attacking)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card's attack and skill cannot be negated.<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ＜Beerus＞, after your current turn ends, take another turn.",
+    "skills_text": "<img src=\"/images/common/Quadruple-Strike.png\" alt=\"Quadruple Strike\" class=\"skillText\"> (This card inflicts 4 damage instead of 1 when attacking)<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card's attack and skill cannot be negated.<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is ＜Beerus＞, after your current turn ends, take another turn.",
     "skills": [
       "Quadruple-Strike",
       "Permanent",
@@ -1206,13 +1206,13 @@
     "color": "Blue",
     "power": "10000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Whis",
     "special_trait": "God",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, add 1 card to your energy from the top of your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, add 1 card to your energy from the top of your deck.",
     "skills": [
       "Auto"
     ]
@@ -1226,13 +1226,13 @@
     "color": "Blue",
     "power": "10000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Whis",
     "special_trait": "God",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, add 1 card to your energy from the top of your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, add 1 card to your energy from the top of your deck.",
     "skills": [
       "Auto"
     ]
@@ -1246,13 +1246,13 @@
     "color": "Blue",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Piccolo",
     "special_trait": "Namekian/God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is blue and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is blue and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -1266,13 +1266,13 @@
     "color": "Blue",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Piccolo",
     "special_trait": "Namekian/God",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is blue and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is blue and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -1286,13 +1286,13 @@
     "color": "Blue",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Piccolo",
     "special_trait": "Namekian/God",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -1306,13 +1306,13 @@
     "color": "Blue",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Majin Buu",
     "special_trait": "Majin",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, draw 1 card.",
     "skills": [
       "Auto"
     ]
@@ -1326,13 +1326,13 @@
     "color": "Blue",
     "power": "16000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Jaco",
     "special_trait": "Galactic Patrol",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 card in your opponent's Combo Area and return it to their hand.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, choose 1 card in your opponent's Combo Area and return it to their hand.",
     "skills": [
       "Auto"
     ]
@@ -1346,13 +1346,13 @@
     "color": "Blue",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Monaka",
     "special_trait": "Alien",
     "era": "Champa Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you do not have any Battle Cards other than this card in play, choose up to 1 of your opponent's Battle Cards. Place that card  on top of the opponent's deck, and all cards that were under it in the Drop Area.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if you do not have any Battle Cards other than this card in play, choose up to 1 of your opponent's Battle Cards. Place that card  on top of the opponent's deck, and all cards that were under it in the Drop Area.",
     "skills": [
       "Auto"
     ]
@@ -1366,13 +1366,13 @@
     "color": "Blue",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "North Kai",
     "special_trait": "God",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -1385,8 +1385,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "5",
-    "energy_text": "5(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> During this turn, you may activate your Leader Card's <img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> even if you have 5 or more life. Then, choose up to 4 of your energy and switch them to Active Mode.",
+    "energy_text": "5(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> During this turn, you may activate your Leader Card's <img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> even if you have 5 or more life. Then, choose up to 4 of your energy and switch them to Active Mode.",
     "skills": [
       "Activate-Main",
       "Awaken"
@@ -1400,8 +1400,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
     "skills": [
       "Activate-Main"
     ]
@@ -1414,8 +1414,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
     "skills": [
       "Activate-Main"
     ]
@@ -1428,8 +1428,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
     "skills": [
       "Activate-Main"
     ]
@@ -1442,8 +1442,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1card from your hand, and add it to your energy.",
     "skills": [
       "Activate-Main"
     ]
@@ -1456,8 +1456,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your cards. It gains +5000 power for the duration of the turn. Then, choose up to 2 of your energy and switch them to Active Mode.",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your cards. It gains +5000 power for the duration of the turn. Then, choose up to 2 of your energy and switch them to Active Mode.",
     "skills": [
       "Activate-Battle"
     ]
@@ -1470,8 +1470,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your cards. It gains +5000 power for the duration of the turn. Then, choose up to 2 of your energy and switch them to Active Mode.",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your cards. It gains +5000 power for the duration of the turn. Then, choose up to 2 of your energy and switch them to Active Mode.",
     "skills": [
       "Activate-Battle"
     ]
@@ -1484,8 +1484,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your cards. It gains +5000 power for the duration of the turn. Then, choose up to 2 of your energy and switch them to Active Mode.",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your cards. It gains +5000 power for the duration of the turn. Then, choose up to 2 of your energy and switch them to Active Mode.",
     "skills": [
       "Activate-Battle"
     ]
@@ -1498,8 +1498,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Your Leader Card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn. Then, draw 1 card.",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Your Leader Card gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking) for the duration of the turn. Then, draw 1 card.",
     "skills": [
       "Activate-Main",
       "Double-Strike"
@@ -1513,8 +1513,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 of your energy and switch it to Active Mode.",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Counter-Attack"
     ]
@@ -1527,8 +1527,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 of your energy and switch it to Active Mode.",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Counter-Attack"
     ]
@@ -1541,8 +1541,8 @@
     "type": "EXTRA",
     "color": "Blue",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 of your energy and switch it to Active Mode.",
+    "energy_text": "1(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 of your energy and switch it to Active Mode.",
     "skills": [
       "Counter-Attack"
     ]
@@ -1558,14 +1558,14 @@
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Double-Strike",
       "Awaken"
     ],
     "title_back": "Super Saiyan God Son Goku",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
+    "skills_back_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Double-Strike",
       "Auto"
@@ -1582,7 +1582,7 @@
     "character": "Broly",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Cards.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, both players choose 1 card from their hand and place it in the Drop Area.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, both players choose 1 card from their hand and place it in the Drop Area.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Permanent",
       "Auto",
@@ -1590,7 +1590,7 @@
     ],
     "title_back": "Broly, The Legendary Super Saiyan",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Cards.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then, both players choose 1 card from their hand and 1 card from their Battle Area, and place those cards in their Drop Areas.",
+    "skills_back_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card. Then, both players choose 1 card from their hand and 1 card from their Battle Area, and place those cards in their Drop Areas.",
     "skills_back": [
       "Permanent",
       "Auto"
@@ -1607,14 +1607,14 @@
     "character": "Son Gohan: Adolescence",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, if you have more life than your opponent, draw 1 card.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, if you have more life than your opponent, draw 1 card.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Full Power Son Gohan",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"/images/six.png\" alt=\"six\" class=\"skillTextBall\"> : Choose all of your opponent's Battle Cards in the Battle Area and KO them.",
+    "skills_back_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> <img src=\"/images/common/six.png\" alt=\"six\" class=\"skillTextBall\"> : Choose all of your opponent's Battle Cards in the Battle Area and KO them.",
     "skills_back": [
       "Auto",
       "Activate-Main",
@@ -1631,13 +1631,13 @@
     "color": "Green",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ＜Krillin＞ is in your Drop Area, this card gains <img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose any number of your opponent's Battle Cards of which the total cost adds up to 6 or less and KO them.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Son Goku＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If ＜Krillin＞ is in your Drop Area, this card gains <img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\">. <br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose any number of your opponent's Battle Cards of which the total cost adds up to 6 or less and KO them.",
     "skills": [
       "Evolve",
       "ball",
@@ -1657,7 +1657,7 @@
     "color": "Green",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Goku",
@@ -1677,13 +1677,13 @@
     "color": "Green",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Gohan: Youth",
     "special_trait": "Saiyan/Earthling",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 ＜Krillin＞ among them and add it to your hand.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck. Choose up to 1 ＜Krillin＞ among them and add it to your hand.",
     "skills": [
       "Auto"
     ]
@@ -1697,13 +1697,13 @@
     "color": "Green",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Gohan: Adolescence",
     "special_trait": "Saiyan/Earthling",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -1717,13 +1717,13 @@
     "color": "Green",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "5000",
     "character": "Son Goten",
     "special_trait": "Saiyan/Earthling",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> During your turn, when you Combo with this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> During your turn, when you Combo with this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.",
     "skills": [
       "Auto"
     ]
@@ -1737,13 +1737,13 @@
     "color": "Green",
     "power": "20000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Play this card from your hand.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Play this card from your hand.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards with an energy cost of 4 or less and KO it.",
     "skills": [
       "Double-Strike",
       "Counter-Attack",
@@ -1759,13 +1759,13 @@
     "color": "Green",
     "power": "20000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your life to the Drop Area : Choose 1 of your opponent's Battle Cards and KO it.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your life to the Drop Area : Choose 1 of your opponent's Battle Cards and KO it.",
     "skills": [
       "Double-Strike",
       "Activate-Main",
@@ -1781,13 +1781,13 @@
     "color": "Green",
     "power": "20000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your life to the Drop Area : Choose 1 of your opponent's Battle Cards and KO it.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your life to the Drop Area : Choose 1 of your opponent's Battle Cards and KO it.",
     "skills": [
       "Double-Strike",
       "Activate-Main",
@@ -1803,13 +1803,13 @@
     "color": "Green",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle)<br><img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot be attacked by a Leader Card.",
+    "skills_text": "<img src=\"/images/common/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle)<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot be attacked by a Leader Card.",
     "skills": [
       "Revenge",
       "Permanent"
@@ -1824,13 +1824,13 @@
     "color": "Green",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Trunks: Future",
     "special_trait": "Saiyan/Earthling",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">:＜Trunks: Future＞ (Play this card on top of the specified card)<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, choose up to 1 card from your Drop Area and add it to your hand.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">:＜Trunks: Future＞ (Play this card on top of the specified card)<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, choose up to 1 card from your Drop Area and add it to your hand.",
     "skills": [
       "Evolve",
       "ball",
@@ -1849,13 +1849,13 @@
     "color": "Green",
     "power": "10000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Trunks: Future",
     "special_trait": "Saiyan/Earthling",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Cards.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card cannot attack Battle Cards.",
     "skills": [
       "Permanent"
     ]
@@ -1869,13 +1869,13 @@
     "color": "Green",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Trunks: Youth",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is green and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is green and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -1889,13 +1889,13 @@
     "color": "Green",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Trunks: Youth",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is green and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is green and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -1909,13 +1909,13 @@
     "color": "Green",
     "power": "25000",
     "energy": "5",
-    "energy_text": "5(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Gotenks",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\"> ＜Gotenks＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\"> ＜Gotenks＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card.",
     "skills": [
       "Evolve",
       "ball",
@@ -1933,13 +1933,13 @@
     "color": "Green",
     "power": "25000",
     "energy": "5",
-    "energy_text": "5(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Gotenks",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\"> ＜Gotenks＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\"> ＜Gotenks＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card.",
     "skills": [
       "Evolve",
       "ball",
@@ -1957,13 +1957,13 @@
     "color": "Green",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Gotenks",
     "special_trait": "Saiyan/Earthling",
     "era": "Battle of Gods Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, your opponent chooses 1 card from their hand and places it in the Drop Area.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks a Leader Card, your opponent chooses 1 card from their hand and places it in the Drop Area.",
     "skills": [
       "Auto"
     ]
@@ -1977,13 +1977,13 @@
     "color": "Green",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Krillin",
     "special_trait": "Earthling",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -1997,13 +1997,13 @@
     "color": "Green",
     "power": "30000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Broly",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Broly＞ <br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards from your opponent's hand at random and place them in the Drop Area.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Broly＞ <br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards from your opponent's hand at random and place them in the Drop Area.",
     "skills": [
       "Evolve",
       "ball",
@@ -2021,13 +2021,13 @@
     "color": "Green",
     "power": "30000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Broly",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Broly＞<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards from your opponent's hand at random and place them in the Drop Area.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Broly＞<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards from your opponent's hand at random and place them in the Drop Area.",
     "skills": [
       "Evolve",
       "ball",
@@ -2045,13 +2045,13 @@
     "color": "Green",
     "power": "30000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Broly",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Broly＞ <br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards from your opponent's hand at random and place them in the Drop Area.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Broly＞ <br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 cards from your opponent's hand at random and place them in the Drop Area.",
     "skills": [
       "Evolve",
       "ball",
@@ -2069,13 +2069,13 @@
     "color": "Green",
     "power": "20000",
     "energy": "5",
-    "energy_text": "5(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Broly",
     "special_trait": "Saiyan/Bio Warrior",
     "era": "Broly Saga",
-    "skills_text": "【Evolve】 <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Broly＞ (Play this card on top of the specified card)<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br>[Auto} When a card evolves into this card, your opponent chooses two cards from their hand, and places them in the Drop Area.",
+    "skills_text": "【Evolve】 <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Broly＞ (Play this card on top of the specified card)<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br>[Auto} When a card evolves into this card, your opponent chooses two cards from their hand, and places them in the Drop Area.",
     "skills": [
       "ball",
       "two",
@@ -2091,13 +2091,13 @@
     "color": "Green",
     "power": "20000",
     "energy": "5",
-    "energy_text": "5(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "5(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Broly",
     "special_trait": "Saiyan/Bio Warrior",
     "era": "Broly Saga",
-    "skills_text": "【Evolve】 <img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Broly＞ (Play this card on top of the specified card)<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br>[Auto} When a card evolves into this card, your opponent chooses two cards from their hand, and places them in the Drop Area.",
+    "skills_text": "【Evolve】 <img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">: ＜Broly＞ (Play this card on top of the specified card)<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br>[Auto} When a card evolves into this card, your opponent chooses two cards from their hand, and places them in the Drop Area.",
     "skills": [
       "ball",
       "two",
@@ -2113,13 +2113,13 @@
     "color": "Green",
     "power": "30000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Broly",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)",
+    "skills_text": "<img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)",
     "skills": [
       "Triple-Strike"
     ]
@@ -2133,13 +2133,13 @@
     "color": "Green",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Broly",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck and add 1 green ＜Broly＞ among them to your hand. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck and add 1 green ＜Broly＞ among them to your hand. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -2153,13 +2153,13 @@
     "color": "Green",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Broly",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck and add 1 green ＜Broly＞ among them to your hand. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 7 cards from the top of your deck and add 1 green ＜Broly＞ among them to your hand. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -2173,13 +2173,13 @@
     "color": "Green",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Paragus",
     "special_trait": "Saiyan",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose and activate 1 {Broly's Ring} from your deck. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose and activate 1 {Broly's Ring} from your deck. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -2193,13 +2193,13 @@
     "color": "Green",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Bio Warrior",
     "special_trait": "Bio Warrior",
     "era": "Broly Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in the Drop Area from the Battle Area, if your Leader Card is ＜Broly＞, you may place 1 card from your hand in the Drop Area. If you do, play this card.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in the Drop Area from the Battle Area, if your Leader Card is ＜Broly＞, you may place 1 card from your hand in the Drop Area. If you do, play this card.",
     "skills": [
       "Auto"
     ]
@@ -2212,8 +2212,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your Battle Cards. It gains +10000 power and <img src=\"/images/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle) for the duration of the turn.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your Battle Cards. It gains +10000 power and <img src=\"/images/common/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle) for the duration of the turn.",
     "skills": [
       "Activate-Battle",
       "Revenge"
@@ -2227,8 +2227,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your Battle Cards. It gains +10000 power and <img src=\"/images/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle) for the duration of the turn.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 1 of your Battle Cards. It gains +10000 power and <img src=\"/images/common/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle) for the duration of the turn.",
     "skills": [
       "Activate-Battle",
       "Revenge"
@@ -2242,8 +2242,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
     "skills": [
       "Counter-Attack"
     ]
@@ -2256,8 +2256,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
     "skills": [
       "Counter-Attack"
     ]
@@ -2270,8 +2270,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
     "skills": [
       "Counter-Attack"
     ]
@@ -2284,8 +2284,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack. Then, choose up to 1 opponent Battle Card with an energy cost of 1 or less and KO that card.",
     "skills": [
       "Counter-Attack"
     ]
@@ -2298,8 +2298,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in the Drop Area)<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your hand is not affected by your  Leader Card Broly's skill.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Field.png\" alt=\"Field\" class=\"skillText\"> (Place and activate this card in the Battle Area. It remains in the Battle Area until you activate another <img src=\"/images/common/Field.png\" alt=\"Field\" class=\"skillText\">. When you do, place this card in the Drop Area)<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your hand is not affected by your  Leader Card Broly's skill.",
     "skills": [
       "Field",
       "Permanent"
@@ -2313,8 +2313,8 @@
     "type": "EXTRA",
     "color": "Green",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 opponent Battle Card with an energy cost of 2 or less and KO that card.",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 opponent Battle Card with an energy cost of 2 or less and KO that card.",
     "skills": [
       "Activate-Main"
     ]
@@ -2330,7 +2330,7 @@
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 of your ≪Frieza's Army≫ Battle Cards in the Drop Area : Choose up to 1 of your energy and switch it to Active Mode. Then, draw 1 card. <br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 of your ≪Frieza's Army≫ Battle Cards in the Drop Area : Choose up to 1 of your energy and switch it to Active Mode. Then, draw 1 card. <br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Activate-Main",
       "Once-per-turn",
@@ -2338,7 +2338,7 @@
     ],
     "title_back": "Ultimate Form Golden Frieza",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\">  Place 1 of your ≪Frieza's Army≫ Battle Cards in the Drop Area : Choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card. <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
+    "skills_back_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\">  Place 1 of your ≪Frieza's Army≫ Battle Cards in the Drop Area : Choose up to 2 of your energy and switch them to Active Mode. Then, draw 1 card. <br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
       "Once-per-turn",
@@ -2356,14 +2356,14 @@
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 1 of your Battle Cards and switch it to Active Mode.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 1 of your Battle Cards and switch it to Active Mode.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Awaken"
     ],
     "title_back": "Frieza, The Galactic Emperor",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 2 of your Battle Cards and switch them to Active Mode.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
+    "skills_back_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, choose up to 2 of your Battle Cards and switch them to Active Mode.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Auto"
     ]
@@ -2379,7 +2379,7 @@
     "character": "Ginyu",
     "special_trait": "Ginyu Force/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\">  Flip over 1 face-down card in your life : If the flipped card is ≪Ginyu Force≫ but not ＜Ginyu＞, play that card. If not, add it to your hand. <br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\">  Flip over 1 face-down card in your life : If the flipped card is ≪Ginyu Force≫ but not ＜Ginyu＞, play that card. If not, add it to your hand. <br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You may draw 2 cards and flip this card over.",
     "skills": [
       "Activate-Main",
       "Once-per-turn",
@@ -2387,7 +2387,7 @@
     ],
     "title_back": "Ginyu, The Malicious Transformation",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Add 1 card from your life to your hand : This card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn. If there are 2 or more of your ≪Ginyu Force≫ in play, this card gains an additional +5000 power for the duration of the turn.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
+    "skills_back_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Add 1 card from your life to your hand : This card gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn. If there are 2 or more of your ≪Ginyu Force≫ in play, this card gains an additional +5000 power for the duration of the turn.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.",
     "skills_back": [
       "Activate-Main",
       "Once-per-turn",
@@ -2404,13 +2404,13 @@
     "color": "Yellow",
     "power": "30000",
     "energy": "7",
-    "energy_text": "7(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "7(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Frieza＞<br><img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, place all Rest Mode Battle Cards except for this card in the Drop Area. Then, choose all Active Mode Battle Cards except for this card and switch them to Rest Mode.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Frieza＞<br><img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, place all Rest Mode Battle Cards except for this card in the Drop Area. Then, choose all Active Mode Battle Cards except for this card and switch them to Rest Mode.",
     "skills": [
       "Evolve",
       "ball",
@@ -2428,13 +2428,13 @@
     "color": "Yellow",
     "power": "30000",
     "energy": "7",
-    "energy_text": "7(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "7(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Frieza＞<br><img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, place all Rest Mode Battle Cards except for this card in the Drop Area. Then, choose all Active Mode Battle Cards except for this card and switch them to Rest Mode.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/four.png\" alt=\"four\" class=\"skillTextBall\">: ＜Frieza＞<br><img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, place all Rest Mode Battle Cards except for this card in the Drop Area. Then, choose all Active Mode Battle Cards except for this card and switch them to Rest Mode.",
     "skills": [
       "Evolve",
       "ball",
@@ -2452,13 +2452,13 @@
     "color": "Yellow",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> <br><img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you activate this card's <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\">, switch this card to Active Mode after the battle.",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> <br><img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) <br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you activate this card's <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">, switch this card to Active Mode after the battle.",
     "skills": [
       "Blocker",
       "Triple-Strike",
@@ -2474,13 +2474,13 @@
     "color": "Yellow",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> <br><img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you activate this card's <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\">, switch this card to Active Mode after the battle.",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> <br><img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"> (This card inflicts 3 damage instead of 1 when attacking) <br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you activate this card's <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\">, switch this card to Active Mode after the battle.",
     "skills": [
       "Blocker",
       "Triple-Strike",
@@ -2496,13 +2496,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Frieza＞ (Play this card on top of the specified card)<br><img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, choose all of your opponent's cards with <img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and switch them to Rest Mode.",
+    "skills_text": "<img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> <img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">: ＜Frieza＞ (Play this card on top of the specified card)<br><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, choose all of your opponent's cards with <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> and switch them to Rest Mode.",
     "skills": [
       "Evolve",
       "ball",
@@ -2521,13 +2521,13 @@
     "color": "Yellow",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Frieza's Army》 among them with an energy cost of 2 or less and add it to your hand. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, look at up to 3 cards from the top of your deck. Choose up to 1 《Frieza's Army》 among them with an energy cost of 2 or less and add it to your hand. Then, shuffle your deck.",
     "skills": [
       "Auto"
     ]
@@ -2541,13 +2541,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 2 opponent Rest Mode Battle Cards and KO those cards. Then, this card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 2 opponent Rest Mode Battle Cards and KO those cards. Then, this card gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Dual-Attack",
       "Auto",
@@ -2563,13 +2563,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Frieza",
     "special_trait": "Frieza Clan/Frieza's Army",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 2 opponent Rest Mode Battle Cards and KO those cards. Then, this card gains <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"> (Once per turn, when this card attacks, switch this card to Active Mode after the battle)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, you may place 1 card from your hand in the Drop Area. If you do so, choose up to 2 opponent Rest Mode Battle Cards and KO those cards. Then, this card gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Dual-Attack",
       "Auto",
@@ -2585,13 +2585,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "King Cold",
     "special_trait": "Frieza Clan",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> <br><img src=\"/images/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle)<br><img src=\"/images/Counter-Battle-Card-Attack.png\" alt=\"Counter Battle Card Attack\" class=\"skillText\"> Play this card from your hand and change the target of the attack to this card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 opponent Battle Card and switch it to Rest Mode.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> <br><img src=\"/images/common/Revenge.png\" alt=\"Revenge\" class=\"skillText\"> (When this card is attacked, KO the attacking card after the battle)<br><img src=\"/images/common/Counter-Battle-Card-Attack.png\" alt=\"Counter Battle Card Attack\" class=\"skillText\"> Play this card from your hand and change the target of the attack to this card.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 opponent Battle Card and switch it to Rest Mode.",
     "skills": [
       "Double-Strike",
       "Revenge",
@@ -2608,13 +2608,13 @@
     "color": "Yellow",
     "power": "1000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Sorbet",
     "special_trait": "Frieza's Army",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> ] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card) <br><img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your hand in the Drop Area : Look at up to 2 cards from the top of your deck. Choose up to 2 ≪Frieza's Army≫ among them and place them in your Combo Area. Place any other cards in the Drop Area.",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> ] (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card) <br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> <img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Place 1 card from your hand in the Drop Area : Look at up to 2 cards from the top of your deck. Choose up to 2 ≪Frieza's Army≫ among them and place them in your Combo Area. Place any other cards in the Drop Area.",
     "skills": [
       "Blocker",
       "Activate-Battle",
@@ -2630,13 +2630,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Tagoma",
     "special_trait": "Frieza's Army",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If this card is in Rest Mode, your opponent cannot attack your other Battle Cards.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If this card is in Rest Mode, your opponent cannot attack your other Battle Cards.",
     "skills": [
       "Permanent"
     ]
@@ -2650,13 +2650,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Shisami",
     "special_trait": "Frieza's Army",
     "era": "Resurrection ‘F’ Saga",
-    "skills_text": "<img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 opponent Battle Cards. They cannot be switched to Active Mode during your opponent's next Charge Phase.",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> (This card inflicts 2 damage instead of 1 when attacking)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 2 opponent Battle Cards. They cannot be switched to Active Mode during your opponent's next Charge Phase.",
     "skills": [
       "Double-Strike",
       "Auto"
@@ -2671,13 +2671,13 @@
     "color": "Yellow",
     "power": "25000",
     "energy": "6",
-    "energy_text": "6(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "6(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Ginyu",
     "special_trait": "Ginyu Force/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your ≪Ginyu Force≫ Battle Cards. Those cards gain +10000 power and <img src=\"/images/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose all of your ≪Ginyu Force≫ Battle Cards. Those cards gain +10000 power and <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the duration of the turn.",
     "skills": [
       "Auto",
       "Double-Strike"
@@ -2692,13 +2692,13 @@
     "color": "Yellow",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Recoome",
     "special_trait": "Ginyu Force/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains +6000 power during your opponent's turn.",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains +6000 power during your opponent's turn.",
     "skills": [
       "Permanent"
     ]
@@ -2712,13 +2712,13 @@
     "color": "Yellow",
     "power": "10000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Burter",
     "special_trait": "Ginyu Force/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, switch this card to Active Mode.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, switch this card to Active Mode.",
     "skills": [
       "Auto"
     ]
@@ -2732,13 +2732,13 @@
     "color": "Yellow",
     "power": "10000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Jeice",
     "special_trait": "Ginyu Force/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card) <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, look at up to 3 cards from the top of your deck. Choose up to 1 《Ginyu Force》 other than ＜Ginyu＞ among them and play it. Then, shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card) <br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card from your hand, look at up to 3 cards from the top of your deck. Choose up to 1 《Ginyu Force》 other than ＜Ginyu＞ among them and play it. Then, shuffle your deck.",
     "skills": [
       "Blocker",
       "Auto"
@@ -2753,13 +2753,13 @@
     "color": "Yellow",
     "power": "2000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Guldo",
     "special_trait": "Ginyu Force/Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card) <br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is  《Frieza's Army》, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and switch it to Rest Mode.",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card) <br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, if your Leader Card is  《Frieza's Army》, choose up to 1 of your opponent's Battle Cards with an energy cost of 2 or less and switch it to Rest Mode.",
     "skills": [
       "Blocker",
       "Auto"
@@ -2774,13 +2774,13 @@
     "color": "Yellow",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Dodoria",
     "special_trait": "Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is yellow and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is yellow and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -2794,13 +2794,13 @@
     "color": "Yellow",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "0",
     "character": "Dodoria",
     "special_trait": "Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is yellow and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you Combo with this card, if your Leader Card is yellow and your life is 4 or less, draw 1 card and add +10000 to this card's Combo for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -2814,13 +2814,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Zarbon",
     "special_trait": "Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> During your opponent's turn, when you Combo with this card, choose up to 1 of your Battle Cards and switch it to Active Mode.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> During your opponent's turn, when you Combo with this card, choose up to 1 of your Battle Cards and switch it to Active Mode.",
     "skills": [
       "Auto"
     ]
@@ -2834,7 +2834,7 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Appule",
@@ -2854,7 +2854,7 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Sui",
@@ -2874,7 +2874,7 @@
     "color": "Yellow",
     "power": "20000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Banan",
@@ -2894,13 +2894,13 @@
     "color": "Yellow",
     "power": "12000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Cui",
     "special_trait": "Frieza's Army",
     "era": "Frieza Saga",
-    "skills_text": "<img src=\"/images/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> (When one of your other cards is attacked, you may switch this card to Rest Mode and change the target of the attack to this card)",
     "skills": [
       "Blocker"
     ]
@@ -2913,8 +2913,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is yellow, negate the attack.Afterwards, the opponent's Battle Cards are unable to attack for the duration of the turn.",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is yellow, negate the attack.Afterwards, the opponent's Battle Cards are unable to attack for the duration of the turn.",
     "skills": [
       "Counter-Attack"
     ]
@@ -2927,8 +2927,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is ≪Frieza's Army≫, the Battle Card played has its skill negated for the duration of the turn.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is ≪Frieza's Army≫, the Battle Card played has its skill negated for the duration of the turn.",
     "skills": [
       "Counter-Play"
     ]
@@ -2941,8 +2941,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is ≪Frieza's Army≫, the Battle Card played has its skill negated for the duration of the turn.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is ≪Frieza's Army≫, the Battle Card played has its skill negated for the duration of the turn.",
     "skills": [
       "Counter-Play"
     ]
@@ -2955,8 +2955,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is ≪Frieza's Army≫, the Battle Card played has its skill negated for the duration of the turn.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card is ≪Frieza's Army≫, the Battle Card played has its skill negated for the duration of the turn.",
     "skills": [
       "Counter-Play"
     ]
@@ -2969,8 +2969,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Counter.png\" alt=\"Counter Counter\" class=\"skillText\"> Place 1 yellow card from your hand in the Drop Area : Negate the <img src=\"/images/Counter.png\" alt=\"Counter\" class=\"skillText\">.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Counter.png\" alt=\"Counter Counter\" class=\"skillText\"> Place 1 yellow card from your hand in the Drop Area : Negate the <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\">.",
     "skills": [
       "Counter-Counter",
       "Counter"
@@ -2984,8 +2984,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 ≪Frieza's Army≫ card of energy cost 2 or less from your deck, and play it in Rest Mode. Then, shuffle your deck.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 ≪Frieza's Army≫ card of energy cost 2 or less from your deck, and play it in Rest Mode. Then, shuffle your deck.",
     "skills": [
       "Activate-Main"
     ]
@@ -2998,8 +2998,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 ≪Frieza's Army≫ card of energy cost 2 or less from your deck, and play it in Rest Mode. Then, shuffle your deck.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 ≪Frieza's Army≫ card of energy cost 2 or less from your deck, and play it in Rest Mode. Then, shuffle your deck.",
     "skills": [
       "Activate-Main"
     ]
@@ -3012,8 +3012,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
     "skills": [
       "Counter-Play"
     ]
@@ -3026,8 +3026,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
     "skills": [
       "Counter-Play"
     ]
@@ -3040,8 +3040,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
     "skills": [
       "Counter-Play"
     ]
@@ -3054,8 +3054,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
     "skills": [
       "Counter-Play"
     ]
@@ -3068,8 +3068,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> The Battle Card played is played in Rest Mode.",
     "skills": [
       "Counter-Play"
     ]

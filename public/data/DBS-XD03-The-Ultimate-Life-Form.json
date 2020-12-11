@@ -10,7 +10,7 @@
     "character": "Cell",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Leader Area, choose up to 1 {Cell Games Arena} from your deck, activate it, and you can't activate <img src=\"/images/Field.png\" alt=\"Field\" class=\"skillText\"> cards for the duration of the game.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 green or yellow card from your hand, place it under this card, then choose 1 card in your life and place it in your Drop Area : Draw 2 cards.<br><img src=\"/images/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> If there is a total of 4 or more energy between you and your opponent : You may draw 2 cards and flip this card over.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is placed in your Leader Area, choose up to 1 {Cell Games Arena} from your deck, activate it, and you can't activate <img src=\"/images/common/Field.png\" alt=\"Field\" class=\"skillText\"> cards for the duration of the game.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 green or yellow card from your hand, place it under this card, then choose 1 card in your life and place it in your Drop Area : Draw 2 cards.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> If there is a total of 4 or more energy between you and your opponent : You may draw 2 cards and flip this card over.",
     "skills": [
       "Auto",
       "Field",
@@ -20,7 +20,7 @@
     ],
     "title_back": "Cell & Cell Jr., Endless Supremity",
     "power_back": "15000",
-    "skills_back_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 green or yellow card from your hand, place it under this card, then choose 1 card in your life and place it in your Drop Area : Draw 2 cards.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 2 cards under this card and place them in their owners' Drop Areas : Play 2 Cell Jr. tokens. (Cell Jr. tokens have 10000 power, 0 combo cost, and 5000 combo power.)",
+    "skills_back_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 green or yellow card from your hand, place it under this card, then choose 1 card in your life and place it in your Drop Area : Draw 2 cards.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 2 cards under this card and place them in their owners' Drop Areas : Play 2 Cell Jr. tokens. (Cell Jr. tokens have 10000 power, 0 combo cost, and 5000 combo power.)",
     "skills_back": [
       "Activate-Main",
       "Once-per-turn"
@@ -35,13 +35,13 @@
     "color": "Green",
     "power": "5000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Cell",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"> Choose 1 〈Android 17〉 card in your Drop Area and place it under this card : Choose up to 1 Green/Yellow multicolor 〈Cell〉 card with an energy cost of 4 from your hand or deck, play it on top of this card in Active Mode, then shuffle your deck if you looked through it.",
+    "skills_text": "<img src=\"/images/common/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"> Choose 1 〈Android 17〉 card in your Drop Area and place it under this card : Choose up to 1 Green/Yellow multicolor 〈Cell〉 card with an energy cost of 4 from your hand or deck, play it on top of this card in Active Mode, then shuffle your deck if you looked through it.",
     "skills": [
       "Union-Absorb"
     ]
@@ -55,13 +55,13 @@
     "color": "Green",
     "power": "15000",
     "energy": "3",
-    "energy_text": "3(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Android 18",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\">, if your Leader Card is an 《Android》 card and you send this card from your Drop Area to your Warp : Choose up to 1 green or yellow 《Android》 card with an energy cost of 1 in your Drop Area and add it to your hand.",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">, if your Leader Card is an 《Android》 card and you send this card from your Drop Area to your Warp : Choose up to 1 green or yellow 《Android》 card with an energy cost of 1 in your Drop Area and add it to your hand.",
     "skills": [
       "Activate-Main",
       "one"
@@ -76,13 +76,13 @@
     "color": "Green",
     "power": "4000",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Android 17",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack and play this card.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is an 《Android》 card : When you play this card, choose up to 1 Battle Card with an energy cost of 4 or less that has {Android} in its name from your deck, place it in your Drop Area, then shuffle your deck.",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack and play this card.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is an 《Android》 card : When you play this card, choose up to 1 Battle Card with an energy cost of 4 or less that has {Android} in its name from your deck, place it in your Drop Area, then shuffle your deck.",
     "skills": [
       "Counter-Attack",
       "Auto"
@@ -97,13 +97,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Son Goku",
     "special_trait": "Saiyan",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card from your Drop Area, choose up to 1 Green/Yellow multicolor 〈Son Gohan : Childhood〉 card in your Battle Area and switch it to Active Mode.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your opponent has 4 or more energy and you have a 〈Cell〉 card with an energy cost of 4 or more in play : Play this card from your hand; if you do, choose up to 1 of your opponent's cards, switch it to Rest Mode, and you can't play {SS Son Goku, Valiant Breakthrough} for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you combo with this card from your Drop Area, choose up to 1 Green/Yellow multicolor 〈Son Gohan : Childhood〉 card in your Battle Area and switch it to Active Mode.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your opponent has 4 or more energy and you have a 〈Cell〉 card with an energy cost of 4 or more in play : Play this card from your hand; if you do, choose up to 1 of your opponent's cards, switch it to Rest Mode, and you can't play {SS Son Goku, Valiant Breakthrough} for the duration of the turn.",
     "skills": [
       "Auto",
       "Activate-Main"
@@ -118,13 +118,13 @@
     "color": "Yellow",
     "power": "15000",
     "energy": "2",
-    "energy_text": "2(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "0",
     "combo_power": "5000",
     "character": "Vegeta",
     "special_trait": "Saiyan",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's skill-less Battle Cards, KO it, and this card gets +5000 power for the duration of the turn.",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's skill-less Battle Cards, KO it, and this card gets +5000 power for the duration of the turn.",
     "skills": [
       "Auto"
     ]
@@ -137,8 +137,8 @@
     "type": "EXTRA",
     "color": "Yellow",
     "energy": "1",
-    "energy_text": "1(<img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
-    "skills_text": "<img src=\"/images/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 2 Cell Jr. tokens in your Battle Area and remove them from the game : For each Cell Jr. token you remove from the game with this skill, choose up to 1 of your opponent's cards and switch it to Rest Mode.<br><img src=\"/images/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a 〈Cell〉 card : Add this card to your hand from your Drop Area.",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose up to 2 Cell Jr. tokens in your Battle Area and remove them from the game : For each Cell Jr. token you remove from the game with this skill, choose up to 1 of your opponent's cards and switch it to Rest Mode.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a 〈Cell〉 card : Add this card to your hand from your Drop Area.",
     "skills": [
       "Activate-Battle",
       "Activate-Main",
@@ -154,13 +154,13 @@
     "color": "Green/Yellow",
     "power": "30000",
     "energy": "8",
-    "energy_text": "8(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "8(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Son Gohan: Childhood",
     "special_trait": "Saiyan/Earthling",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Successor.png\" alt=\"Successor\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/one.png\" alt=\"one\" class=\"skillTextBall\"> (Choose any number of your mono-green, mono-yellow, or Green/Yellow multicolor Battle Cards whose energy costs add up?to the energy cost of this card, place them in their owners' Drop Areas, then play this card from your hand.)<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, choose up to 1 yellow 〈Son Goku〉 card in your Drop Area and combo it with this card.",
+    "skills_text": "<img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/common/Successor.png\" alt=\"Successor\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\"> (Choose any number of your mono-green, mono-yellow, or Green/Yellow multicolor Battle Cards whose energy costs add up?to the energy cost of this card, place them in their owners' Drop Areas, then play this card from your hand.)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, choose up to 1 yellow 〈Son Goku〉 card in your Drop Area and combo it with this card.",
     "skills": [
       "Triple-Strike",
       "Energy-Exhaust",
@@ -180,13 +180,13 @@
     "color": "Green/Yellow",
     "power": "20000",
     "energy": "8",
-    "energy_text": "8(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "8(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Cell",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards and KO it.<br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> Choose 1 〈Android 18〉 card under this card and place it in its owner's Drop Area : When your opponent's card attacks, negate the attack, then choose up to 1 Green/Yellow multicolor 〈Cell〉 card with an energy cost of 4 under this card, play it, and place this card in its owner's Drop Area.",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you play this card, choose up to 1 of your opponent's Battle Cards and KO it.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> Choose 1 〈Android 18〉 card under this card and place it in its owner's Drop Area : When your opponent's card attacks, negate the attack, then choose up to 1 Green/Yellow multicolor 〈Cell〉 card with an energy cost of 4 under this card, play it, and place this card in its owner's Drop Area.",
     "skills": [
       "Energy-Exhaust",
       "Auto"
@@ -201,13 +201,13 @@
     "color": "Green/Yellow",
     "power": "15000",
     "energy": "4",
-    "energy_text": "4(<img src=\"/images/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
     "combo_energy": "1",
     "combo_power": "10000",
     "character": "Cell",
     "special_trait": "Android",
     "era": "Android Cell Saga",
-    "skills_text": "<img src=\"/images/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"><img src=\"/images/green_ball.png\" alt=\"\" class=\"skillTextBall\">, choose 1 〈Android 18〉 card in your Drop Area and place it under this card : Choose up to 1 〈Cell〉 card with an energy cost of 8 from your deck or hand, play it on top of this card in Active Mode, then shuffle your deck if you looked through it.<br><img src=\"/images/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/Auto.png\" alt=\"Auto\" class=\"skillText\"> If you have 4 or more energy : When this card is placed in a Drop Area from a Battle Area by a skill, choose up to 1 〈Cell〉 card with an energy cost of 8 in your Drop Area and play it.",
+    "skills_text": "<img src=\"/images/common/Union-Absorb.png\" alt=\"Union-Absorb\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, choose 1 〈Android 18〉 card in your Drop Area and place it under this card : Choose up to 1 〈Cell〉 card with an energy cost of 8 from your deck or hand, play it on top of this card in Active Mode, then shuffle your deck if you looked through it.<br><img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If you have 4 or more energy : When this card is placed in a Drop Area from a Battle Area by a skill, choose up to 1 〈Cell〉 card with an energy cost of 8 in your Drop Area and play it.",
     "skills": [
       "Union-Absorb",
       "ball",

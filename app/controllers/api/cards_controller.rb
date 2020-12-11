@@ -1,6 +1,6 @@
 class API::CardsController < ApplicationController
   def index
-    # @cards = Card.all
+    @cards = Card.all
 
     # q = Card.order(energy_cost: :asc, title: :asc).ransack(params[:q])
     # @cards = q.result(distinct: true).page(params[:page]).per(25)

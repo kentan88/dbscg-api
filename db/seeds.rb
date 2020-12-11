@@ -1,3 +1,5 @@
+Info.create({ ratings: {}})
+
 Dir.glob("#{Rails.root}/public/data/**").sort.each do |filename|
   file = File.read(filename)
   data_hash = JSON.parse(file)
