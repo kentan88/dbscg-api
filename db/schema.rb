@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_09_124554) do
+ActiveRecord::Schema.define(version: 2020_12_11_093333) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -61,21 +61,9 @@ ActiveRecord::Schema.define(version: 2020_12_09_124554) do
     t.index ["type"], name: "index_cards_on_type"
   end
 
-  create_table "deck_cards", force: :cascade do |t|
-    t.bigint "deck_id", null: false
-    t.bigint "card_id"
-    t.integer "quantity"
-    t.string "number"
-    t.string "type"
-    t.index ["card_id"], name: "index_deck_cards_on_card_id"
-    t.index ["deck_id"], name: "index_deck_cards_on_deck_id"
-    t.index ["number"], name: "index_deck_cards_on_number"
-  end
-
   create_table "decks", force: :cascade do |t|
     t.string "name"
     t.bigint "user_id", null: false
-    t.bigint "card_id"
     t.text "description"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -85,7 +73,6 @@ ActiveRecord::Schema.define(version: 2020_12_09_124554) do
     t.jsonb "side_deck_cards"
     t.string "username"
     t.boolean "draft", default: false
-    t.index ["card_id"], name: "index_decks_on_card_id"
     t.index ["draft"], name: "index_decks_on_draft"
     t.index ["private"], name: "index_decks_on_private"
     t.index ["user_id"], name: "index_decks_on_user_id"
@@ -129,9 +116,6 @@ ActiveRecord::Schema.define(version: 2020_12_09_124554) do
   end
 
   add_foreign_key "albums", "users"
-  add_foreign_key "deck_cards", "cards"
-  add_foreign_key "deck_cards", "decks"
-  add_foreign_key "decks", "cards"
   add_foreign_key "decks", "users"
   add_foreign_key "group_users", "groups"
   add_foreign_key "group_users", "users"

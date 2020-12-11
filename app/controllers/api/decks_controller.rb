@@ -15,7 +15,7 @@ class API::DecksController < ApplicationController
   end
 
   def show
-    @deck = Deck.includes(:deck_cards).find(params[:id])
+    @deck = Deck.find(params[:id])
 
     if @deck.user_id != @user_id && @deck.private
       render status: 400, json: {message: 'Unauthorized'}
