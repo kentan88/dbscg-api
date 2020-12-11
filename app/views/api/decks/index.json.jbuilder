@@ -6,6 +6,7 @@ json.decks @decks do |deck|
   json.updated_at "#{time_ago_in_words(deck.updated_at)} ago"
   json.main_deck_cards deck.main_deck_cards
   json.side_deck_cards deck.side_deck_cards
+  json.rating deck.rating
 end
 
 json.partial! 'shared/pagination', collection: @decks
