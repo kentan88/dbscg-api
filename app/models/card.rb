@@ -1,6 +1,8 @@
 class Card < ApplicationRecord
   self.inheritance_column = :_type_disabled
 
+  validates :number, uniqueness: true
+
   scope :leaders, -> { where(type: "LEADER") }
   scope :battles, -> { where(type: "BATTLE") }
   scope :extras, -> { where(type: "EXTRA") }

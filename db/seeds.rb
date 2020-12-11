@@ -8,6 +8,10 @@ Dir.glob("#{Rails.root}/public/data/**").sort.each do |filename|
     card = Card.new(data)
     card.title = card.title.strip
     card.skills_text = nil if card.skills_text == "-"
-    card.save!
+    if card.save
+      puts "#{card.number} exists. Created"
+    else
+      puts "#{card.number} exists. Not saving"
+    end
   end
 end
