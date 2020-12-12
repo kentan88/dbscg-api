@@ -10,7 +10,10 @@ class API::DecksController < ApplicationController
           deck.make_public
         end
 
+    puts "--------"
     q = q.where.contains(colors: params[:q][:colors_contain]) if params[:q] && params[:q][:colors_contain]
+    puts "--------"
+
     q = q.order(updated_at: :desc).ransack(params[:q])
     @decks = q.result(distinct: true).page(params[:page]).per(25)
   end
