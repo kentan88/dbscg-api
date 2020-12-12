@@ -6,12 +6,21 @@ class AddColorsToDecks < ActiveRecord::Migration[6.0]
 
     decks = Deck.all
     decks.each do |deck|
-      colors = deck.main_deck_cards.collect do |number, count|
+      mono_colors = deck.main_deck_cards.collect do |number, count|
         card = Card.find_by(number: number)
         card.color.split("/")
       end
 
-      deck.update_column(:colors, colors.flatten.uniq.sort)
+      colors_hash = {colors: {}}
+      deck.main_deck_cards.each do |number, count|
+        card = Card.find_by(number: number)
+        colors_hash[:colors][card.color] = (colors_hash[:colors][card.color] || 0) + count
+      end
+
+      deck.update_columns({
+                              colors: mono_colors.flatten.uniq.sort,
+                              data: colors_hash
+                          })
     end
   end
 end
