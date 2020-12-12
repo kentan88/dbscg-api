@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_12_063356) do
+ActiveRecord::Schema.define(version: 2020_12_12_112727) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -75,6 +75,7 @@ ActiveRecord::Schema.define(version: 2020_12_12_063356) do
     t.boolean "draft", default: false
     t.jsonb "user_ratings", default: {}
     t.float "rating", default: 0.0
+    t.text "colors", default: [], array: true
     t.index ["draft"], name: "index_decks_on_draft"
     t.index ["private"], name: "index_decks_on_private"
     t.index ["rating"], name: "index_decks_on_rating"
