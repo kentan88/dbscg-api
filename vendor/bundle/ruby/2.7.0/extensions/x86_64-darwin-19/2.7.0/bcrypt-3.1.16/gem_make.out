@@ -1,5 +1,5 @@
 current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/2.7.0/gems/bcrypt-3.1.16/ext/mri
-/Users/kentan/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/kentan/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20201212-65623-1j0rbx5.rb extconf.rb
+/Users/kentan/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/kentan/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20201212-81547-p7h1vm.rb extconf.rb
 creating Makefile
 
 current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/2.7.0/gems/bcrypt-3.1.16/ext/mri
@@ -36,4 +36,4 @@ linking shared-object bcrypt_ext.bundle
 
 current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/2.7.0/gems/bcrypt-3.1.16/ext/mri
 make "DESTDIR=" install
-/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bcrypt_ext.bundle ./.gem.20201212-65623-93ml4m
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bcrypt_ext.bundle ./.gem.20201212-81547-1pl12af

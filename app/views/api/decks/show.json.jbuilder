@@ -9,3 +9,4 @@ json.can_vote true
 json.leader_number @deck.leader_number
 json.main_deck_cards @deck.main_deck_cards
 json.side_deck_cards @deck.side_deck_cards
+json.colors @deck.data["colors"]

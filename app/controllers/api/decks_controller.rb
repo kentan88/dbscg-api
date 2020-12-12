@@ -29,6 +29,7 @@ class API::DecksController < ApplicationController
     user = User.find(@user_id)
     @deck.user_id = user.id
     @deck.username = user.username
+    @deck.colors = get_colors(params[:deck][:data][:colors])
     @deck.save!
   end
 
@@ -41,6 +42,7 @@ class API::DecksController < ApplicationController
     end
 
     @deck.assign_attributes(deck_params)
+    @deck.colors = get_colors(params[:deck][:data][:colors])
     @deck.save!
   end
 
@@ -76,7 +78,18 @@ class API::DecksController < ApplicationController
 
   private
 
+  def get_colors(colors)
+    colors.reject { |_k, v| v <= 0 }.keys.map { |color| color.split("/") }.flatten.uniq rescue []
+  end
+
   def deck_params
-    params.require(:deck).permit(:name, :leader_number, :description, main_deck_cards: {}, side_deck_cards: {})
+    params.require(:deck).permit(
+        :name,
+        :leader_number,
+        :description,
+        main_deck_cards: {},
+        side_deck_cards: {},
+        data: {}
+    )
   end
 end

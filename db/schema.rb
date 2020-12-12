@@ -75,7 +75,9 @@ ActiveRecord::Schema.define(version: 2020_12_12_112727) do
     t.boolean "draft", default: false
     t.jsonb "user_ratings", default: {}
     t.float "rating", default: 0.0
+    t.jsonb "data", default: {}
     t.text "colors", default: [], array: true
+    t.index ["colors"], name: "index_decks_on_colors"
     t.index ["draft"], name: "index_decks_on_draft"
     t.index ["private"], name: "index_decks_on_private"
     t.index ["rating"], name: "index_decks_on_rating"
