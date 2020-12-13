@@ -8,6 +8,7 @@ json.decks @decks do |deck|
   json.side_deck_cards deck.side_deck_cards
   json.rating deck.rating
   json.colors deck.colors
+  json.draft deck.draft
 end
 
 json.partial! 'shared/pagination', collection: @decks

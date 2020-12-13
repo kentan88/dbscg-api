@@ -7,7 +7,7 @@ class API::DecksController < ApplicationController
         if params[:me].present? && @user_id.present?
           deck.where(user_id: @user_id)
         else
-          deck.make_public
+          deck.not_draft.make_public
         end
 
     q = q.where.contains(colors: params[:q][:colors_contain]) if params[:q] && params[:q][:colors_contain]
@@ -18,7 +18,7 @@ class API::DecksController < ApplicationController
   def show
     @deck = Deck.find(params[:id])
 
-    if @deck.user_id != @user_id && @deck.private
+    if @deck.user_id != @user_id && (@deck.private || @deck.draft)
       render status: 400, json: {message: 'Unauthorized'}
       return
     end
@@ -29,6 +29,7 @@ class API::DecksController < ApplicationController
     user = User.find(@user_id)
     @deck.user_id = user.id
     @deck.username = user.username
+    @deck.draft = @deck.main_deck_cards.inject(0) { |sum, tuple| sum += tuple[1] } < 50
     @deck.colors = get_colors(params[:deck][:data][:colors])
     @deck.save!
   end
