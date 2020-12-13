@@ -31,7 +31,9 @@ class API::DecksController < ApplicationController
     @deck.username = user.username
     @deck.draft = @deck.main_deck_cards.inject(0) { |sum, tuple| sum += tuple[1] } < 50
     @deck.colors = get_colors(params[:deck][:data][:colors])
-    @deck.save!
+    unless @deck.save
+      render json: { error: @deck.errors.full_messages }
+    end
   end
 
   def modify
