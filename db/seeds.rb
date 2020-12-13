@@ -7,7 +7,7 @@ Dir.glob("#{Rails.root}/public/data/**").sort.each do |filename|
     card.title = card.title.strip
     card.skills_text = nil if card.skills_text == "-"
     if card.save
-      puts "#{card.number} exists. Created"
+      puts "#{card.number} created"
     else
       puts "#{card.number} exists. Not saving"
     end

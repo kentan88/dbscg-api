@@ -320,8 +320,6 @@ namespace :scraper do
             energy_inner_html = energy_nodes.children[3].inner_html.strip
 
             if type == "UNISON"
-              puts "unison!!"
-              puts energy_inner_html.scan(/png*/).size
               card['energy'] = energy_inner_html.scan(/png*/).size
             else
               card['energy'] = energy_inner_html.scan(/^[0-9]*/)[0]
