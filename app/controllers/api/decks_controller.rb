@@ -43,6 +43,7 @@ class API::DecksController < ApplicationController
     end
 
     @deck.assign_attributes(deck_params)
+    @deck.draft = @deck.main_deck_cards.inject(0) { |sum, tuple| sum += tuple[1] } < 50
     @deck.colors = get_colors(params[:deck][:data][:colors])
     @deck.save!
   end
