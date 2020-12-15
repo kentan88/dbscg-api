@@ -11,12 +11,13 @@ class API::AlbumsController < ApplicationController
 
     data = @album.data.as_json
 
-    card_number = params[:card_number].to_s
-    data[card_number] = !data[card_number]
+    number = params[:number].to_s
+    quantity = params[:quantity]
+    data[number] = params[:quantity]
 
     @album.data = data
     @album.update_column(:data, @album.data)
 
-    render json: {success: true}
+    render json: { number: number, quantity: quantity }
   end
 end

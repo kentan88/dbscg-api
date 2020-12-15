@@ -22,6 +22,6 @@ Rails.application.routes.draw do
     end
 
     match '/landing', to: 'landing#index', via: :get
-    match '/albums/:card_number', to: 'albums#update', via: :put
+    match '/albums/:number', to: 'albums#update', via: :put
   end
 end
