@@ -13,7 +13,7 @@ class API::AlbumsController < ApplicationController
 
     number = params[:number].to_s
     quantity = params[:quantity]
-    data[number] = params[:quantity]
+    data[number] = quantity || 1
 
     @album.data = data
     @album.update_column(:data, @album.data)
