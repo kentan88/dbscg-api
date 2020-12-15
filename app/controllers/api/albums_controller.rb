@@ -9,7 +9,7 @@ class API::AlbumsController < ApplicationController
       return
     end
 
-    data = @album.data.as_json
+    data = @album.data.as_json || {}
 
     number = params[:number].to_s
     quantity = params[:quantity]
