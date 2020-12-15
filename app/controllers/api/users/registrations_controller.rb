@@ -20,15 +20,6 @@ class API::Users::RegistrationsController < Devise::RegistrationsController
       return
     end
 
-    if params[:user][:email]
-      duplicate_user = User.find_by_email(params[:user][:email])
-      unless duplicate_user.nil?
-        render :status => 409,
-               :json => {:message => 'Duplicate email. A user already exists with that email address.'}
-        return
-      end
-    end
-
     @user = User.new(sign_up_params)
     @user.build_album({ data: {} })
 
@@ -37,7 +28,7 @@ class API::Users::RegistrationsController < Devise::RegistrationsController
       render(status: 200, json: {token: token})
     else
       render :status => 400,
-             :json => {:message => @user.errors.full_messages}
+             :json => {:message => @user.errors.full_messages[0]}
     end
   end
 
