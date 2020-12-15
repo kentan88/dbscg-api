@@ -9,7 +9,12 @@ class API::AlbumsController < ApplicationController
       return
     end
 
-    data = @album.data.as_json || {}
+    unless @album.data.present?
+      render status: 400, json: {message: 'Unauthorized'}
+      return
+    end
+
+    data = @album.data.as_json
 
     number = params[:number].to_s
     quantity = params[:quantity]
