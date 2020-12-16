@@ -6,6 +6,7 @@ class CreateDecks < ActiveRecord::Migration[6.0]
       t.text :description
       t.boolean :private, default: false
       t.string :leader_number
+      t.string :username
       t.boolean :draft, default: false
 
       t.timestamps

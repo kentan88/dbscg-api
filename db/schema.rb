@@ -90,7 +90,7 @@ ActiveRecord::Schema.define(version: 2020_12_16_183901) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.jsonb "trending", default: {}
-    t.text "pricing", default: [], array: true
+    t.json "pricing", default: [], array: true
     t.jsonb "tcg_mapping", default: {}
   end
 

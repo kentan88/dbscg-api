@@ -1,7 +1,7 @@
 class API::LandingController < ApplicationController
   def index
-    trending = Info.last.trending
+    info = Info.first
 
-    render json: { trending: trending }
+    render json: { trending: info.trending, pricing: info.pricing }
   end
 end
