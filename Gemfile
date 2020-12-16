@@ -25,6 +25,7 @@ gem 'jwt'
 gem 'faker'
 gem 'deep_cloneable', '~> 3.0.0'
 gem 'active_record_extended'
+gem 'httparty'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
