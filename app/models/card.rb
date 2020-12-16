@@ -1,6 +1,8 @@
 class Card < ApplicationRecord
   self.inheritance_column = :_type_disabled
 
+  has_many :pricings, foreign_key: :card_number, primary_key: :number
+
   validates :number, uniqueness: true
 
   scope :leaders, -> { where(type: "LEADER") }

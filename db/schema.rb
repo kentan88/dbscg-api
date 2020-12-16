@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_16_082923) do
+ActiveRecord::Schema.define(version: 2020_12_16_164114) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -85,28 +85,18 @@ ActiveRecord::Schema.define(version: 2020_12_16_082923) do
     t.index ["user_id"], name: "index_decks_on_user_id"
   end
 
-  create_table "group_users", force: :cascade do |t|
-    t.bigint "group_id", null: false
-    t.bigint "user_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["group_id"], name: "index_group_users_on_group_id"
-    t.index ["user_id"], name: "index_group_users_on_user_id"
-  end
-
-  create_table "groups", force: :cascade do |t|
-    t.string "name"
-    t.bigint "user_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["user_id"], name: "index_groups_on_user_id"
-  end
-
   create_table "infos", force: :cascade do |t|
     t.jsonb "ratings"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.jsonb "trending", default: {}
+  end
+
+  create_table "pricings", force: :cascade do |t|
+    t.string "card_number", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["card_number"], name: "index_pricings_on_card_number"
   end
 
   create_table "users", force: :cascade do |t|
@@ -125,7 +115,4 @@ ActiveRecord::Schema.define(version: 2020_12_16_082923) do
 
   add_foreign_key "albums", "users"
   add_foreign_key "decks", "users"
-  add_foreign_key "group_users", "groups"
-  add_foreign_key "group_users", "users"
-  add_foreign_key "groups", "users"
 end
