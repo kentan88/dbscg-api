@@ -21,6 +21,7 @@ class CreateCards < ActiveRecord::Migration[6.0]
       t.text :skills_text
       t.string :skills_back, array: true, default: []
       t.text :skills_back_text
+      t.integer :limit, :integer, default: 0
     end
 
     add_index :cards, :title

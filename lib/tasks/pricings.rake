@@ -1,6 +1,5 @@
 require 'httparty'
 require 'json'
-require 'byebug'
 
 namespace :pricings do
   # task :mapping => :environment do
