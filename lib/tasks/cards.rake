@@ -18,7 +18,7 @@ namespace :cards do
     cards = Card.all
     cards.update_all({limit: 4 })
 
-    cards = Card.where(rarity: ['Special Rare Signature[SPR_S]', 'Special Rare[SPR]'])
+    cards = Card.where(rarity: ['Secret Rare[SCR]'])
     cards.update_all({limit: 1 })
 
     cards = Card.where("skills_text ILIKE '%You can include as many%'")
