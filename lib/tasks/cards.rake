@@ -1,4 +1,19 @@
 namespace :cards do
+  task :update_skills_text => :environment do
+    cards = Card.all
+
+    cards.each do |card|
+      if card.skills_text.try(:scan, /images\/common/).try(:size).try(:>, 0)
+        puts "skip"
+      else
+        puts "updating"
+        card.skills_back_text = card.skills_back_text.try(:gsub, "images", "images/common")
+        card.skills_text = card.skills_text.try(:gsub, "images", "images/common")
+        card.save
+      end
+    end
+  end
+
   task :update_limit => :environment do
     cards = Card.all
     cards.update_all({limit: 4 })
