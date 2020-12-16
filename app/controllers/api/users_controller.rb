@@ -3,7 +3,7 @@ class API::UsersController < ApplicationController
 
   def info
     @user = User.find(@user_id) if @user_id rescue nil
-    album = @user.album.data || {}
+    album = @user.album.data rescue {}
     ratings = Info.first.ratings
 
     render json: { album: album, ratings: ratings }
