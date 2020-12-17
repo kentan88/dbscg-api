@@ -31,7 +31,7 @@ namespace :pricings do
         "Authorization" => "Bearer #{access_token}"
     }).body)["totalItems"]
 
-    mapping_hash = {}
+    mapping_list = []
     product_ids = []
     (0...total_number_of_items).to_a.in_groups_of(limit) do |group|
       offset = group[0]
@@ -46,7 +46,8 @@ namespace :pricings do
 
       cards.each do |card|
         product_ids << card["productId"]
-        mapping_hash[card["productId"]] = card["extendedData"].find { |extended_data| extended_data["name"] == "Number" }["value"]
+        card_number = card["extendedData"].find { |extended_data| extended_data["name"] == "Number" }["value"]
+        mapping_list << {  "url" => card["url"], "number" => card_number, "productId" => card["productId"], "imageUrl" => card["imageUrl"], title: card["cleanName"] }
       end
     end
 
@@ -55,7 +56,7 @@ namespace :pricings do
     ###########
     ###########
 
-    pricing_hash = []
+    pricing_list = []
     # data = JSON.parse(File.read("#{Rails.root}/public/pricing/mapping.json"))
     # product_ids = data.map { |product_id, v| product_id }
 
@@ -67,16 +68,18 @@ namespace :pricings do
       }).body)
 
       results["results"].each do |result|
-        pricing_hash << result
+        pricing_list << result
       end
     end
 
-    puts "pricing_hash: #{pricing_hash}"
-    puts "tcg_mapping: #{mapping_hash}"
+    final_pricing = mapping_list.map do |list|
+      pricings = pricing_list.filter { |pricing| pricing["productId"] == list["productId"]}
+      list.merge({ pricings: pricings })
+    end
 
     info = Info.first
-    info.pricing = pricing_hash
-    info.tcg_mapping = mapping_hash
+    info.pricing = final_pricing
+    info.tcg_mapping = nil
     info.save!
   end
 end

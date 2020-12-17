@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_16_183901) do
+ActiveRecord::Schema.define(version: 2020_12_17_102056) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -91,7 +91,7 @@ ActiveRecord::Schema.define(version: 2020_12_16_183901) do
     t.datetime "updated_at", precision: 6, null: false
     t.jsonb "trending", default: {}
     t.json "pricing", default: [], array: true
-    t.jsonb "tcg_mapping", default: {}
+    t.json "tcg_mapping", default: [], array: true
   end
 
   create_table "pricings", force: :cascade do |t|

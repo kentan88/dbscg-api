@@ -1,8 +1,8 @@
 class API::PricingsController < ApplicationController
   def index
     info = Info.first
-    pricing = info.pricing.reject { |pricing| pricing["marketPrice"] == nil }
+    products = info.pricing
 
-    render json: { pricing: pricing }
+    render json: { products: products }
   end
 end
