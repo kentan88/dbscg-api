@@ -6,6 +6,7 @@ Rails.application.routes.draw do
     }
 
     resources :cards, only: [:index]
+    resources :pricings, only: [:index]
 
     resources :decks, only: [:index, :show, :create, :destroy] do
       member do
