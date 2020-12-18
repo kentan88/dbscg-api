@@ -313,6 +313,7 @@ namespace :scraper do
                           rarity: rarity,
                           type: type,
                           color: color,
+                          limit: 4
                       })
 
           card['power'] = power_nodes.children[3].inner_text.strip if power_nodes.children.length > 0

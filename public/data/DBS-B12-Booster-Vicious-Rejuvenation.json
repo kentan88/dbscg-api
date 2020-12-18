@@ -496,7 +496,7 @@
     "character": "Piano",
     "special_trait": "Demon Clan",
     "era": "King Piccolo Saga",
-    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your Leader Card is a red 〈King Piccolo〉 card : When a card is placed in your life face up from any area other than your life, draw 1 card.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a red 〈King Piccolo〉 card and you flip 1 face-up card in your life face down : When this card is placed in your Drop Area from your Battle Area by an opponent's skill, play this card from your Drop Area with its skills negated for the turn.<br>",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your Leader Card is a red ＜King Piccolo＞ card : When a card is placed in your life face up from any area other than your life, draw 1 card.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a red ＜King Piccolo＞ card and you flip 1 face-up card in your life face down : When this card is placed in your Drop Area from your Battle Area by an opponent's skill, play this card from your Drop Area with its skills negated for the turn.<br>",
     "skills": [
       "Unique",
       "Auto",
@@ -1141,6 +1141,629 @@
     ]
   },
   {
+    "title": "Lord Slug",
+    "number": "BT12-055",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "LEADER",
+    "color": "Green",
+    "power": "10000",
+    "character": "Lord Slug",
+    "special_trait": "Namekian/Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you and your opponent draw 1 card.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If you have 3 or more green energy : When you activate a <img src=\"/images/common/Rejuvenate.png\" alt=\"Rejuvenate\" class=\"skillText unisonText\"> skill, draw 2 cards, then flip this card over.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less : You and your opponent may draw 1 card, then you switch up to 2 of your energy to Active Mode and flip this card over.",
+    "skills": [
+      "Auto",
+      "Rejuvenate",
+      "Awaken"
+    ],
+    "title_back": "Lord Slug, Rejuvenated Invader",
+    "power_back": "20000",
+    "skills_back_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your opponent has 7 or fewer cards in their hand, this card gets -5000 power during battles on your opponent's turn.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, you and your opponent draw 1 card.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your opponent has 10 or more cards in their hand : Play up to 1 mono-green 《Slug's Army》 card with an energy cost of 2 or less from your Drop Area.",
+    "skills_back": [
+      "Permanent",
+      "Auto",
+      "Activate-Main",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "Turles",
+    "number": "BT12-056",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "LEADER",
+    "color": "Green",
+    "power": "10000",
+    "character": "Turles",
+    "special_trait": "Saiyan/Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If a 《Turles Crusher Corps》 card in your Battle Area would be placed in its owner's Drop Area by one of your skills, it's sent to its owner's Warp instead.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When you place this card in your Leader Area, place up to 1 {The Tree of Might} from your deck in your opponent's Battle Area.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, add up to 1 card from your life to your hand, look at up to 5 cards from the top of your deck, add up to 1 《Turles Crusher Corps》 card among them to your hand, then shuffle your deck.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 4 or less or your opponent has 3 or more life face up : You may draw 1 card, switch up to 1 of your energy to Active Mode, and flip this card over.",
+    "skills": [
+      "Permanent",
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Turles, Fiendish Force",
+    "power_back": "15000",
+    "skills_back_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If a 《Turles Crusher Corps》 card in your Battle Area would be placed in its owner's Drop Area by one of your skills, it's sent to its owner's Warp instead.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> When this card deals damage, you choose the card your opponent loses from their life.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 card in your hand and place it at the bottom of your deck : Add 1 {Fruit of the Tree of Might} from your Drop Area to your hand.",
+    "skills_back": [
+      "Permanent",
+      "Auto",
+      "Activate-Main",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "King Piccolo, Dimensional Conqueror",
+    "number": "BT12-057",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Super Rare[SR]",
+    "type": "UNISON",
+    "color": "Green",
+    "power": "15000",
+    "energy": 2,
+    "energy_text": "X(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">X)",
+    "skills_text": "<img src=\"/images/common/Rejuvenate.png\" alt=\"Rejuvenate\" class=\"skillText unisonText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your Leader Card is green and you remove 4 markers from this card. (Place 1 card under this card in its owner's Drop Area and pay the skill cost : Place the top card of your deck in your life.)<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is mono-green and your opponent has 7 or more cards in their hand : Play this card from your hand with a marker on it, and you can't play Unison Cards for the turn.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card in your hand and place it under this card : You and your opponent draw 1 card, then you choose up to 1 green Battle Card with an original energy cost of 1 in your hand and play it. At the end of the turn, your opponent chooses up to 1 card in their hand and places it at the bottom of their deck.",
+    "skills": [
+      "Rejuvenate",
+      "Once-per-turn",
+      "Activate-Main",
+      "ball"
+    ]
+  },
+  {
+    "title": "Raditz, Invader From Afar",
+    "number": "BT12-058",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "UNISON",
+    "color": "Green",
+    "power": "20000",
+    "energy": 3,
+    "energy_text": "X(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">X)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Flip up to 1 card in your opponent's life face up.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> You may choose 1 card in your hand and discard it. If you do, your opponent chooses 1 card in their hand and discards it; choose up to 1 of your cards and it gains <img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"> for the turn.<br><img src=\"/images/common/UNISON_minus_05.png\" alt=\"UNISON -5\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Your opponent chooses 3 cards in their hand and discards them.",
+    "skills": [
+      "Activate-Main",
+      "Once-per-turn",
+      "Critical"
+    ]
+  },
+  {
+    "title": "Lord Slug, Monstrous Muscle",
+    "number": "BT12-059",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "30000",
+    "energy": "5",
+    "energy_text": "5(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Lord Slug",
+    "special_trait": "Namekian/Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, choose all of your opponent's Battle Cards, KO them, then choose 1 of your opponent's Unison Cards and remove 2 markers from it.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates a <img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> skill, your opponent chooses 6 cards in their hand, discards the rest, then you and your opponent draw 1 card.",
+    "skills": [
+      "Deflect",
+      "Double-Strike",
+      "Auto",
+      "Once-per-turn",
+      "Counter-Attack"
+    ]
+  },
+  {
+    "title": "Lord Slug, Thwarter of Plans",
+    "number": "BT12-060",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "15000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Lord Slug",
+    "special_trait": "Namekian/Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Bond_2.png\" alt=\"Bond 2\" class=\"skillText\"> If your Leader Card is a 《Slug's Army》 card : When your opponent uses a card in a combo, you may place that card in its owner's Drop Area. If you do, you and your opponent draw 1 card, then negate this skill for the turn.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is removed from your Battle Area by an opponent's skill or KO'd, if your opponent has 7 or more cards in their hand, play up to 1 green 《Slug's Army》 card with an energy cost of 1 from your Drop Area.",
+    "skills": [
+      "Deflect",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Lord Slug, Conqueror Restored",
+    "number": "BT12-061",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "4000",
+    "energy": "1",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Lord Slug",
+    "special_trait": "Namekian/Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Slug's Army》 card : When this card is played from your hand, you and your opponent draw 1 card. At the end of the turn, your opponent chooses up to 1 card in their hand and places it at the bottom of their deck.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a 《Slug's Army》 card and your opponent has 7 or more cards in their hand and 1 or more energy : Choose up to 1 mono-green 《Slug's Army》 card with 19000 power or less in your hand and play it; you can't activate the <img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill on copies of this card for the turn.",
+    "skills": [
+      "Unique",
+      "Auto",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Angila, Invader of Earth",
+    "number": "BT12-062",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "19000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Angila",
+    "special_trait": "Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Slug's Army》 card and all of your energy is mono-green : When this card is played from your hand, activate this skill. At the end of the turn, if you have 6 or fewer cards in your hand and your opponent has 10 or more cards in their hand, draw 3 cards.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Medamatcha, Invader of Earth",
+    "number": "BT12-063",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "10000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Medamatcha",
+    "special_trait": "Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a 《Slug's Army》 card, all of your energy is mono-green, and you send this card from your Drop Area to your Warp : Add up to 1 card from your life to your hand, play 1 Meda Token, then you and your opponent draw 2 cards; at the end of the turn, your opponent chooses up to 2 cards in their hand and places them at the bottom of their deck. You can't activate the <img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill on copies of this card for the turn. (Meda Tokens have 5000 power, 0 combo cost, and 5000 combo power)",
+    "skills": [
+      "Activate-Main",
+      "ball"
+    ]
+  },
+  {
+    "title": "Wings, Invader of Earth",
+    "number": "BT12-064",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "19000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Wings",
+    "special_trait": "Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"><img src=\"/images/common/Bond_2.png\" alt=\"Bond 2\" class=\"skillText\"> If this card is in Rest Mode, mono-green 《Slug's Army》 cards in your Battle Area can't be KO'd by your opponent's skills.",
+    "skills": [
+      "Permanent"
+    ]
+  },
+  {
+    "title": "Zeiun",
+    "number": "BT12-065",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "20000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Zeiun",
+    "special_trait": "Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "-",
+    "skills": [
+
+    ]
+  },
+  {
+    "title": "Kakuja",
+    "number": "BT12-066",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "10000",
+    "energy": "1",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Kakuja",
+    "special_trait": "Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "-",
+    "skills": [
+
+    ]
+  },
+  {
+    "title": "Gyoshu, Invader of Earth",
+    "number": "BT12-067",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "15000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Gyoshu",
+    "special_trait": "Slug's Army",
+    "era": "Lord Slug Saga",
+    "skills_text": "<img src=\"/images/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is green and you have a green Unison Card in play : When this card is used in a combo, draw 1 card, then at the end of the battle, choose up to 1 of your green Unison Cards with <img src=\"/images/common/Rejuvenate.png\" alt=\"Rejuvenate\" class=\"skillText unisonText\"> in its skill text and place this card under it from its owner's Drop Area.",
+    "skills": [
+      "Super-Combo",
+      "Auto",
+      "Rejuvenate"
+    ]
+  },
+  {
+    "title": "Turles, Cosmic Rogue",
+    "number": "BT12-068",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "15000",
+    "energy": "4",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Turles",
+    "special_trait": "Saiyan/Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have 3 or more 《Turles Crusher Corps》 cards in your Battle Area and have 3 or more energy, reduce the energy cost of this card in your hand by 2.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, all 《Turles Crusher Corps》 cards in your Battle Area get +10000 power.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's Battle Cards and KO it.",
+    "skills": [
+      "Unique",
+      "Deflect",
+      "Critical",
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Turles, Crusher Corps Commander",
+    "number": "BT12-069",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "15000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Turles",
+    "special_trait": "Saiyan/Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> Choose 1 card in your hand and place it at the bottom of your deck : When this card is played, draw 2 cards, and this card gets +5000 power until the end of your opponent's next turn; flip up to 1 card in your opponent's life face up.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if you have 2 or more 《Turles Crusher Corps》 cards in your Combo Area : Play this card from your hand.",
+    "skills": [
+      "Unique",
+      "Deflect",
+      "Auto",
+      "Activate-Battle",
+      "ball"
+    ]
+  },
+  {
+    "title": "Turles, Invader of Earth",
+    "number": "BT12-070",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "4000",
+    "energy": "1",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Turles",
+    "special_trait": "Saiyan/Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, flip up to 1 card in your opponent's life face up.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card : When this card attacks, look at up to 5 cards from the top of your deck, combo with up to 5 《Turles Crusher Corps》 cards among them, then shuffle your deck.",
+    "skills": [
+      "Unique",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Amond, Invader of Earth",
+    "number": "BT12-071",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "9000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "3000",
+    "character": "Amond",
+    "special_trait": "Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card and this card was used in a combo from your deck or hand : When this card would be placed in its owner's Drop Area from a Combo Area, you may play it in Rest Mode instead.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : Send this card to its owner's Warp, then choose 1 of your opponent's Battle Cards with an energy cost of 5 or more and KO it. You can't play copies of this card for the turn.",
+    "skills": [
+      "Unique",
+      "Auto",
+      "Activate-Main",
+      "ball"
+    ]
+  },
+  {
+    "title": "Daiz, Invader of Earth",
+    "number": "BT12-072",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "9000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "3000",
+    "character": "Daiz",
+    "special_trait": "Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card and this card was used in a combo from your deck or hand : When this card would be placed in its owner's Drop Area from a Combo Area, you may play it in Rest Mode instead.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, look at up to 3 cards from the top of your deck, add up to 1 《Turles Crusher Corps》 card among them to your hand, then shuffle your deck.",
+    "skills": [
+      "Unique",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Cacao, Invader of Earth",
+    "number": "BT12-073",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "15000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "10000",
+    "character": "Cacao",
+    "special_trait": "Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is green and your life is at 4 or less : When this card is used in a combo, draw 1 card.",
+    "skills": [
+      "Super-Combo",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Rasin, Invader of Earth",
+    "number": "BT12-074",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "5000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "3000",
+    "character": "Rasin",
+    "special_trait": "Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card and this card was used in a combo from your deck or hand : When this card would be placed in its owner's Drop Area from a Combo Area, you may play it instead.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card : When this card is played, play up to 1 green ＜Lakasei＞ card with an energy cost of 2 from your deck in Rest Mode, then shuffle your deck.",
+    "skills": [
+      "Unique",
+      "Blocker",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Lakasei, Invader of Earth",
+    "number": "BT12-075",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "5000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "3000",
+    "character": "Lakasei",
+    "special_trait": "Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card and this card was used in a combo from your deck or hand : When this card would be placed in its owner's Drop Area from a Combo Area, you may play it in Rest Mode instead.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card : When this card is played, play up to 1 green ＜Rasin＞ card with an energy cost of 2 from your deck, then shuffle your deck; draw 1 card, then choose 1 card in your hand and discard it.",
+    "skills": [
+      "Unique",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Lord Slug, Out of Control",
+    "number": "BT12-076",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "25000",
+    "energy": "6",
+    "energy_text": "6(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Lord Slug: Xeno",
+    "special_trait": "Namekian/Slug's Army",
+    "era": "Dark Empire Saga",
+    "skills_text": "<img src=\"/images/common/Triple-Strike.png\" alt=\"Triple Strike\" class=\"skillText\"><br><img src=\"/images/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜Lord Slug : Xeno＞ with an energy cost of 4.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> While this card is in Rest Mode, your opponent can't attack Leader Cards or Unison Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is removed from your Battle Area by an opponent's skill, play up to 1 green ＜Lord Slug＞ card with an energy cost of 3 from your Drop Area, then add up to 1 《Dark Dragon Ball》 card from your Drop Area to your hand.",
+    "skills": [
+      "Triple-Strike",
+      "EX-Evolve",
+      "ball",
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Lord Slug, Dark Parasite",
+    "number": "BT12-077",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "20000",
+    "energy": "4",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Lord Slug: Xeno",
+    "special_trait": "Namekian/Slug's Army",
+    "era": "Dark Empire Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your opponent has 3 or more energy : When this card is played, your opponent may choose 1 of their Unison Cards and place it in its owner's Drop Area. If they didn't, you and your opponent draw 1 card; choose all of your opponent's Battle Cards and KO them.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Turles, Chaotic Rampage",
+    "number": "BT12-078",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "25000",
+    "energy": "6",
+    "energy_text": "6(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Turles: Xeno",
+    "special_trait": "Saiyan/Turles Crusher Corps",
+    "era": "Dark Empire Saga",
+    "skills_text": "<img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"> : ＜Turles : Xeno＞ with an energy cost of 4.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, switch this card to Active Mode, then your opponent chooses 1 card in their hand and sends it to their Warp; flip up to 2 cards in your opponent's life face up.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When this card attacks, combo with up to 1 green Battle Card from your Drop Area with its skills negated for the turn.",
+    "skills": [
+      "Critical",
+      "Double-Strike",
+      "EX-Evolve",
+      "ball",
+      "Auto",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "Turles, Dark Parasite",
+    "number": "BT12-079",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Green",
+    "power": "20000",
+    "energy": "4",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Turles: Xeno",
+    "special_trait": "Saiyan/Turles Crusher Corps",
+    "era": "Dark Empire Saga",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card activates its <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> skill or is removed from your Battle Area by an opponent's skill, your opponent may choose 1 card in their hand and discard it. If they don't, draw 1 card, then flip up to 1 card in your opponent's life face up.",
+    "skills": [
+      "Blocker",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Four-Star Ball, Parasitic Darkness",
+    "number": "BT12-080",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "EXTRA",
+    "color": "Green",
+    "energy": "0",
+    "energy_text": "0(-)",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains 《Dark Dragon Ball》 in all areas.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose 1 of your cards and it gets +5000 power for the battle.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your opponent has 2 or more energy and you choose 1 of your mono-green ＜Turles＞ cards with an energy cost of 3 or 4 and place this card under it : Choose up to 1 green ＜Turles : Xeno＞ card with an energy cost of 4 in your deck or hand, play it on top of the chosen card in Active Mode, then shuffle your deck if you looked through it.",
+    "skills": [
+      "Permanent",
+      "Activate-Battle",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Six-Star Ball, Parasitic Darkness",
+    "number": "BT12-081",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "EXTRA",
+    "color": "Green",
+    "energy": "0",
+    "energy_text": "0(-)",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card gains 《Dark Dragon Ball》 in all areas.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> Choose 1 of your cards and it gets +5000 power for the battle.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your opponent has 3 or more energy and you choose 1 of your mono-green ＜Lord Slug＞ cards with an energy cost of 3 or 4 and place this card under it : Choose up to 1 green ＜Lord Slug : Xeno＞ card with an energy cost of 4 in your deck or hand, play it on top of the chosen card in Active Mode, then shuffle your deck if you looked through it.",
+    "skills": [
+      "Permanent",
+      "Activate-Battle",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "The Tree of Might",
+    "number": "BT12-082",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Common[C]",
+    "type": "EXTRA",
+    "color": "Green",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> While in a Battle Area, this card can't be placed in Drop Areas by your skills; reduce the combo cost of all 《Turles Crusher Corps》 cards in your opponent's hand and Battle Area by 1.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If all of your opponent's energy is mono-green : If this card is in your Battle Area at the start of your Main Phase, choose 1 card in your life and flip it face up. If you do, your opponent adds up to 1 {Fruit of the Tree of Might} from their deck to their hand, then shuffles their deck if they looked through it.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card : Place this card in your opponent's Battle Area in Active Mode.",
+    "skills": [
+      "Permanent",
+      "Auto",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Fruit of the Tree of Might",
+    "number": "BT12-083",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Rare[R]",
+    "type": "EXTRA",
+    "color": "Green",
+    "energy": "1",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card, all of your energy is mono-green, and you flip 1 face-up card in your opponent's life face down : Choose up to 1 of your Leader Cards or Battle Cards and it gets +20000 power for the battle; if the chosen card's character name includes ＜Turles＞, it also gains <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\">.",
+    "skills": [
+      "Activate-Battle",
+      "Double-Strike"
+    ]
+  },
+  {
+    "title": "Kill Driver",
+    "number": "BT12-084",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Uncommon[UC]",
+    "type": "EXTRA",
+    "color": "Green",
+    "energy": "1",
+    "energy_text": "1(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your Leader Card is a 《Turles Crusher Corps》 card : Flip up to 1 card in your opponent's life face up, choose up to 1 of your Leader Cards or Battle Cards and it gets +10000 power for the battle, then choose one-<br>・ Draw 1 card.<br>・ If it's your turn, choose up to 1 of your opponent's Battle Cards with an energy cost greater than their current energy and KO it.",
+    "skills": [
+      "Activate-Battle"
+    ]
+  },
+  {
     "title": "Whis",
     "number": "BT12-085",
     "series": "Unison Warrior Series Vicious Rejuvenation",
@@ -1719,7 +2342,7 @@
     "character": "Rage Shenron",
     "special_trait": "Shadow Dragon",
     "era": "Shadow Dragon Saga",
-    "skills_text": "<img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"> 〈Rage Shenron〉 with an energy cost of 2.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can't attack Leader Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, switch this card to Active Mode, then choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode.",
+    "skills_text": "<img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/common/EX-Evolve.png\" alt=\"EX-Evolve\" class=\"skillText\"> ＜Rage Shenron＞ with an energy cost of 2.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can't attack Leader Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When a card evolves into this card, switch this card to Active Mode, then choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode.",
     "skills": [
       "Dual-Attack",
       "EX-Evolve",
@@ -2422,7 +3045,7 @@
     "character": "Mechikabura",
     "special_trait": "Demon Realm Race",
     "era": "Dark Empire Saga",
-    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">, if your Leader Card is a black 《Demon Realm Race》 card and you place this card from your hand and 1 card from your life in your Drop Area : Send 1 Battle Card from your opponent's Drop Area to their Warp, play up to 2 black Battle Cards with 《Evil Wizard》 and/or 《Demon Realm Race》 with energy costs of 2 and different character names that aren't 〈Mechikabura〉 cards from your deck, then shuffle your deck. You can't activate the <img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill on copies of this card for the turn.",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">, if your Leader Card is a black 《Demon Realm Race》 card and you place this card from your hand and 1 card from your life in your Drop Area : Send 1 Battle Card from your opponent's Drop Area to their Warp, play up to 2 black Battle Cards with 《Evil Wizard》 and/or 《Demon Realm Race》 with energy costs of 2 and different character names that aren't ＜Mechikabura＞ cards from your deck, then shuffle your deck. You can't activate the <img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill on copies of this card for the turn.",
     "skills": [
       "Activate-Main",
       "two"
