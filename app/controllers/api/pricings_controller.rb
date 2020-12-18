@@ -5,8 +5,10 @@ class API::PricingsController < ApplicationController
     deck_id = params[:deck_id]
     if deck_id.present?
       deck = Deck.find(deck_id)
-      card_numbers = deck.main_deck_cards.collect { |k, v| k }.concat(deck.side_deck_cards.collect { |k, v| k }).uniq
-      products = products.filter { |pricing| card_numbers.include?(pricing["number"]) }
+      main_deck_cards = deck.main_deck_cards
+      card_numbers = main_deck_cards.collect { |number, v| number }.concat(deck.side_deck_cards.collect { |number, v| number }).uniq
+      products = products.filter { |product| card_numbers.include?(product["number"]) }
+      products = products.map { |product| product.merge({ quantity: main_deck_cards[product["number"]] })}
     end
 
     render json: { products: products }
