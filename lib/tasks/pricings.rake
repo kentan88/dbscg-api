@@ -73,8 +73,8 @@ namespace :pricings do
     end
 
     final_pricing = mapping_list.map do |list|
-      pricings = pricing_list.filter { |pricing| pricing["productId"] == list["productId"]}
-      list.merge({ pricings: pricings })
+      pricing = pricing_list.find { |pricing| pricing["productId"] == list["productId"] && pricing["subTypeName"] == "Normal"}
+      list.merge({ pricing: pricing })
     end
 
     info = Info.first
