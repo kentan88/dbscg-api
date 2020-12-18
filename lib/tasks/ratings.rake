@@ -4,6 +4,8 @@ namespace :ratings do
     cards_result_hash = {}
 
     decks = Deck.where("created_at >= (?)", 30.days.ago)
+    decks_count = decks.count
+
     decks.each do |deck|
       leader_card_hash ||= leaders_result_hash[deck.leader_number] || {count: 0}
       leaders_result_hash[deck.leader_number] =
@@ -28,7 +30,7 @@ namespace :ratings do
     leader_trending_hash = Hash.new { |hash, key| hash[key] = [] }
     leaders_result_hash.each_key do |number|
       count = leaders_result_hash[number][:count]
-      rating = (count.to_f / decks.count).round(4)
+      rating = (count.to_f / decks_count).round(4)
       leader_trending_hash[rating] << number
 
       final_ratings_result[number] = rating
@@ -49,7 +51,7 @@ namespace :ratings do
     card_trending_hash = Hash.new { |hash, key| hash[key] = [] }
     cards_result_hash.each_key do |number|
       count = cards_result_hash[number][:count]
-      rating = (count.to_f / decks.count).round(4)
+      rating = (count.to_f / decks_count).round(4)
       card_trending_hash[rating] << number
 
       final_ratings_result[number] = rating
