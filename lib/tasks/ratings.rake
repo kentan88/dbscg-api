@@ -39,9 +39,9 @@ namespace :ratings do
     total_trending_leaders = 0
     final_leaders_trending_results = []
     leader_trending_hash.sort.reverse.each do |rating, card_numbers|
-      card_numbers.each do |number|
+      cards = Card.where(number: card_numbers)
+      cards.each do |card|
         if (total_trending_leaders < 10)
-          card = Card.find_by(number: number)
           final_leaders_trending_results << {title: card.title, number: card.number, rating: rating}
           total_trending_leaders = total_trending_leaders + 1
         end
@@ -60,9 +60,9 @@ namespace :ratings do
     total_trending_cards = 0
     final_card_trending_results = []
     card_trending_hash.sort.reverse.each do |rating, card_numbers|
-      card_numbers.each do |number|
+      cards = Card.where(number: card_numbers)
+      cards.each do |card|
         if (total_trending_cards < 10)
-          card = Card.find_by(number: number)
           final_card_trending_results << {title: card.title, number: card.number, rating: rating}
           total_trending_cards = total_trending_cards + 1
         end
