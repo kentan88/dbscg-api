@@ -19,6 +19,7 @@ Rails.application.routes.draw do
     resources :users, only: [] do
       collection do
         get :info
+        get :album
       end
     end
 
