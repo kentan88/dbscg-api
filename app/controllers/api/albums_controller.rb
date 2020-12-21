@@ -9,11 +9,6 @@ class API::AlbumsController < ApplicationController
       return
     end
 
-    unless @album.data.present?
-      render status: 400, json: {message: 'Unauthorized'}
-      return
-    end
-
     data = @album.data.as_json
 
     number = params[:number].to_s
