@@ -1,4 +1,9 @@
 class Game
+  include ActiveModel::Model
+
+  validates :player_1, presence: true
+  validates :player_2, presence: true
+
   attr_reader :player_1, :player_2
   attr_accessor :turn
 
@@ -17,9 +22,9 @@ class Game
     attr_reader :username
     attr_accessor :deck, :hand, :drop, :life, :warp
 
-    def initialize(username, deck_id)
-      @username = username
-      @deck = Game::Deck.new(deck_id)
+    def initialize(user, deck)
+      @username = user.username
+      @deck = Game::Deck.new(deck)
       @hand = []
       @drop = []
       @life = []
@@ -30,17 +35,12 @@ class Game
       cards = @deck.cards.shift(n)
       @hand.concat(cards)
     end
-
-    def play_leader_card
-
-    end
   end
 
   class Deck
     attr_accessor :leader, :cards
 
-    def initialize(deck_id)
-      deck = ::Deck.find(deck_id)
+    def initialize(deck)
       cards = deck.main_deck_cards.reduce([]) do |acc , object|
         acc << object[1].times.map { |_n| Game::Card.new(number: object[0]) }
       end.flatten
