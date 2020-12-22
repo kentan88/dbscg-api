@@ -3,13 +3,15 @@ class Game
 
   validates :player_1, presence: true
   validates :player_2, presence: true
+  validates :deck_1, presence: true
+  validates :deck_2, presence: true
 
   attr_reader :player_1, :player_2
   attr_accessor :turn
 
-  def initialize(player_1, player_2)
-    @player_1 = player_1
-    @player_2 = player_2
+  def initialize(player_1, deck_1, player_2, deck_2)
+    @player_1 = Player.new(player_1, deck_1)
+    @player_2 = Player.new(player_2, deck_2)
     @turn = [@player_1.username, @player_2.username].shuffle
     @resolve_chain = []
   end
