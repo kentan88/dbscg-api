@@ -3,6 +3,7 @@ class API::DecksController < ApplicationController
 
   def index
     deck = Deck.all
+
     q =
         if params[:me].present? && @user_id.present?
           deck.where(user_id: @user_id)
@@ -26,10 +27,11 @@ class API::DecksController < ApplicationController
 
   def create
     @deck = Deck.new(deck_params)
+
     user = User.find(@user_id)
     @deck.user_id = user.id
     @deck.username = user.username
-    @deck.draft = @deck.main_deck_cards.inject(0) { |sum, tuple| sum += tuple[1] } < 50
+    @deck.draft = @deck.total_number_of_cards < 50
     @deck.colors = get_colors(params[:deck][:data][:colors])
     unless @deck.save
       render json: { error: @deck.errors.full_messages }
@@ -45,7 +47,7 @@ class API::DecksController < ApplicationController
     end
 
     @deck.assign_attributes(deck_params)
-    @deck.draft = @deck.main_deck_cards.inject(0) { |sum, tuple| sum += tuple[1] } < 50
+    @deck.draft = @deck.total_number_of_cards < 50
     @deck.colors = get_colors(params[:deck][:data][:colors])
     @deck.save!
   end
@@ -53,7 +55,8 @@ class API::DecksController < ApplicationController
   def clone
     clone_deck = Deck.find(params[:id])
     @deck = clone_deck.deep_clone except: :user_id
-    @deck.name = "[CLONED] #{@deck.name}" unless @deck.name.include?("[CLONED]")
+
+    @deck.name = "[CLONED] #{@deck.name}" unless @deck.name.include?('[CLONED]')
     @deck.user_id = @user_id
     @deck.save!
   end
