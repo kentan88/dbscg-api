@@ -91,10 +91,54 @@
     ]
   },
   {
+    "title": "Piccolo Jr., Descendant of the King",
+    "number": "BT12-004_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
+    "type": "UNISON",
+    "color": "Red",
+    "limit": 4,
+    "power": "15000",
+    "energy": 2,
+    "energy_text": "X(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">X)",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When your opponent activates a <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skill, choose up to 1 of your opponent's Battle Cards with 15000 power or less and KO it.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Draw 1 card.<br><img src=\"/images/common/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 of your red Battle Cards with an energy cost of 3 or less : Choose all of your opponent's Battle Cards with power less than or equal to the chosen card and KO them; this card gains \"<img src=\"/images/common/Rejuvenate.png\" alt=\"Rejuvenate\" class=\"skillText unisonText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Remove 2 markers from this card\" for the turn.",
+    "skills": [
+      "Auto",
+      "Counter",
+      "Activate-Main",
+      "Rejuvenate",
+      "Once-per-turn"
+    ]
+  },
+  {
     "title": "Son Goku, Eye for an Eye",
     "number": "BT12-005",
     "series": "Unison Warrior Series Vicious Rejuvenation",
     "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Red",
+    "limit": 4,
+    "power": "20000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Goku: Childhood",
+    "special_trait": "Saiyan",
+    "era": "King Piccolo Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a red 《Earthling》-only card : When this card in your life is flipped face up by one of your red card skills, you may place the top card of your deck in your life, then play this face-up card from your life. If you didn't play a card, place this face-up card in your Drop Area from your life.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When your opponent activates a <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skill, deal 1 damage to them.",
+    "skills": [
+      "Auto",
+      "ball",
+      "Once-per-turn",
+      "Counter"
+    ]
+  },
+  {
+    "title": "Son Goku, Eye for an Eye",
+    "number": "BT12-005_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Red",
     "limit": 4,
@@ -644,6 +688,25 @@
     ]
   },
   {
+    "title": "Frieza & Cell, a Match Made in Hell",
+    "number": "BT12-029_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
+    "type": "UNISON",
+    "color": "Blue",
+    "limit": 4,
+    "power": "15000",
+    "energy": 2,
+    "energy_text": "X(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">X)",
+    "skills_text": "<img src=\"/images/common/Rejuvenate.png\" alt=\"Rejuvenate\" class=\"skillText unisonText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Remove 4 markers from this card. (Place 1 card under this card in its owner's Drop Area and pay the skill cost : Place the top card of your deck in your life.)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When a card in a Battle Area is returned to its owner's hand by a skill, draw 1 card, then choose 1 card in your hand and place it at the top or bottom of your deck.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 1 blue Battle Card in your hand with an energy cost of 1 and play it.",
+    "skills": [
+      "Rejuvenate",
+      "Once-per-turn",
+      "Auto",
+      "Activate-Main"
+    ]
+  },
+  {
     "title": "Majin Buu, Dimensional Intervention",
     "number": "BT12-030",
     "series": "Unison Warrior Series Vicious Rejuvenation",
@@ -1012,6 +1075,30 @@
     ]
   },
   {
+    "title": "Janemba, Bewitching Blow",
+    "number": "BT12-045_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "limit": 4,
+    "power": "19000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Janemba",
+    "special_trait": "Evil Incarnate",
+    "era": "Janemba Saga",
+    "skills_text": "<img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of your turn, send this card to its owner's Warp.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If you have 3 or more energy and you choose 1 of your blue skill-less Battle Cards with an energy cost of 2 or 3 and return it to its owner's hand : Play this card from your hand, and you can't activate the <img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill of copies of this card for the turn.",
+    "skills": [
+      "Critical",
+      "Dual-Attack",
+      "Auto",
+      "Activate-Main"
+    ]
+  },
+  {
     "title": "Janemba",
     "number": "BT12-046",
     "series": "Unison Warrior Series Vicious Rejuvenation",
@@ -1270,6 +1357,25 @@
     ]
   },
   {
+    "title": "King Piccolo, Dimensional Conqueror",
+    "number": "BT12-057_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
+    "type": "UNISON",
+    "color": "Green",
+    "limit": 4,
+    "power": "15000",
+    "energy": 2,
+    "energy_text": "X(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">X)",
+    "skills_text": "<img src=\"/images/common/Rejuvenate.png\" alt=\"Rejuvenate\" class=\"skillText unisonText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your Leader Card is green and you remove 4 markers from this card. (Place 1 card under this card in its owner's Drop Area and pay the skill cost : Place the top card of your deck in your life.)<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is mono-green and your opponent has 7 or more cards in their hand : Play this card from your hand with a marker on it, and you can't play Unison Cards for the turn.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose 1 card in your hand and place it under this card : You and your opponent draw 1 card, then you choose up to 1 green Battle Card with an original energy cost of 1 in your hand and play it. At the end of the turn, your opponent chooses up to 1 card in their hand and places it at the bottom of their deck.",
+    "skills": [
+      "Rejuvenate",
+      "Once-per-turn",
+      "Activate-Main",
+      "ball"
+    ]
+  },
+  {
     "title": "Raditz, Invader From Afar",
     "number": "BT12-058",
     "series": "Unison Warrior Series Vicious Rejuvenation",
@@ -1491,6 +1597,31 @@
     "number": "BT12-068",
     "series": "Unison Warrior Series Vicious Rejuvenation",
     "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Green",
+    "limit": 4,
+    "power": "15000",
+    "energy": "4",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Turles",
+    "special_trait": "Saiyan/Turles Crusher Corps",
+    "era": "Turles Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><img src=\"/images/common/Critical.png\" alt=\"Critical\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have 3 or more 《Turles Crusher Corps》 cards in your Battle Area and have 3 or more energy, reduce the energy cost of this card in your hand by 2.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> During your turn, all 《Turles Crusher Corps》 cards in your Battle Area get +10000 power.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, choose up to 1 of your opponent's Battle Cards and KO it.",
+    "skills": [
+      "Unique",
+      "Deflect",
+      "Critical",
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Turles, Cosmic Rogue",
+    "number": "BT12-068_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Green",
     "limit": 4,
@@ -1926,6 +2057,25 @@
     "number": "BT12-088",
     "series": "Unison Warrior Series Vicious Rejuvenation",
     "rarity": "Super Rare[SR]",
+    "type": "UNISON",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "15000",
+    "energy": 2,
+    "energy_text": "X(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">X)",
+    "skills_text": "<img src=\"/images/common/Rejuvenate.png\" alt=\"Rejuvenate\" class=\"skillText unisonText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Remove 4 markers from this card. (Place 1 card under this card in its owner's Drop Area and pay the skill cost : Place the top card of your deck in your life.)<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is yellow and all of your energy is mono-yellow : When this face-up card in your life is placed in your Drop Area, if you don't have a Unison Card in play, you may play this card from your Drop Area with a marker on it.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> You may place 1 face-up card in your life under this card. If you do, choose 1 mono-yellow Battle Card in your hand, place it in your life face up, then draw 1 card.",
+    "skills": [
+      "Rejuvenate",
+      "Once-per-turn",
+      "Auto",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Ginyu, a New Transformation",
+    "number": "BT12-088_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
     "type": "UNISON",
     "color": "Yellow",
     "limit": 4,
@@ -2393,6 +2543,30 @@
     ]
   },
   {
+    "title": "Omega Shenron, Allies Absorbed",
+    "number": "BT12-108_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "30000",
+    "energy": "8",
+    "energy_text": "8(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Syn Shenron",
+    "special_trait": "Shadow Dragon",
+    "era": "Shadow Dragon Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, choose 1 mono-yellow 《Shadow Dragon》 card with an energy cost of 4 or less in your Battle Area and place it in its owner's Drop Area : Draw 1 card, then play this card from your hand. <br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your Leader Card is a yellow 《Shadow Dragon》 card and you send 1 mono-yellow 《Shadow Dragon》 card with an energy cost between 2 and 4 that isn't a ＜Syn Shenron＞ card from your Drop Area to its owner's Warp : Add up to 1 card from your life to your hand and this card gains the skills of the card you sent to the Warp with this skill until the end of your opponent's next turn.",
+    "skills": [
+      "Unique",
+      "Activate-Main",
+      "ball",
+      "Once-per-turn"
+    ]
+  },
+  {
     "title": "Nuova Shenron, Flame Shot Unleashed",
     "number": "BT12-109",
     "series": "Unison Warrior Series Vicious Rejuvenation",
@@ -2736,6 +2910,24 @@
     ]
   },
   {
+    "title": "Paikuhan, Savior from Another Time",
+    "number": "BT12-124_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
+    "type": "UNISON",
+    "color": "Black",
+    "limit": 4,
+    "power": "15000",
+    "energy": 0,
+    "energy_text": "X(X)",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> This card can't attack if it has 2 or fewer markers on it.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose up to 2 of your black Battle Cards with energy costs of 1 and they get +10000 power until the end of your opponent's next turn.<br><img src=\"/images/common/UNISON_minus_03.png\" alt=\"UNISON -3\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Play 1 black Battle Card with an energy cost of 6 and the <img src=\"/images/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\"> skill from your Drop Area or Warp.",
+    "skills": [
+      "Permanent",
+      "Activate-Main",
+      "Union-Fusion"
+    ]
+  },
+  {
     "title": "Dabura, Dimensional Meddler",
     "number": "BT12-125",
     "series": "Unison Warrior Series Vicious Rejuvenation",
@@ -2984,6 +3176,32 @@
     "number": "BT12-136",
     "series": "Unison Warrior Series Vicious Rejuvenation",
     "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "20000",
+    "energy": "6",
+    "energy_text": "6(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Gogeta: Xeno",
+    "special_trait": "Saiyan",
+    "era": "Dark Empire Saga",
+    "skills_text": "<img src=\"/images/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"/images/common/Union-Fusion.png\" alt=\"Union-Fusion\" class=\"skillText\"><img src=\"/images/common/black_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a black 《Saiyan》-only card and your opponent has 2 or more energy : ＜Son Goku : Xeno＞ and ＜Vegeta : Xeno＞.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can choose Battle Cards in your Warp when choosing cards to use with this card's <img src=\"/images/common/Union.png\" alt=\"Union\" class=\"skillText\"> skill from your hand. If you do, place the chosen cards in your Drop Area from your Warp.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/black_ball.png\" alt=\"\" class=\"skillTextBall\">, place this card at the bottom of your deck : Play up to 1 ＜Son Goku : Xeno＞ card with an energy cost of 1 and up to 1 ＜Vegeta : Xeno＞ card with an energy cost of 1 from your Drop Area or Warp.",
+    "skills": [
+      "Barrier",
+      "Union-Fusion",
+      "ball",
+      "Permanent",
+      "Union",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "SS3 Gogeta, Marvelous Might",
+    "number": "BT12-136_SPR",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Special Rare[SPR]",
     "type": "BATTLE",
     "color": "Black",
     "limit": 4,
@@ -3327,6 +3545,82 @@
     "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is a black 《Saiyan》 card : Negate the attack, then if you don't have a Unison Card in play, play 1 black Unison Card with no specified cost and 15000 power from your Drop Area or Warp with a marker on it.",
     "skills": [
       "Counter-Attack"
+    ]
+  },
+  {
+    "title": "Super Paikuhan, Might Manifested",
+    "number": "BT12-152",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Secret Rare[SCR]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "limit": 4,
+    "power": "40000",
+    "energy": "8",
+    "energy_text": "8(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Paikuhan",
+    "special_trait": "West Galaxy Warrior",
+    "era": "Special",
+    "skills_text": "<img src=\"/images/common/Ultimate.png\" alt=\"Ultimate\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><img src=\"/images/common/Dual-Attack.png\" alt=\"Dual Attack\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, your opponent reveals their hand. You choose 1 card from their hand with an energy cost of 7 or less, place it at the bottom of its owner's deck, then your opponent draws 1 card.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is blue, all of your energy is mono-blue, and your opponent has 4 or more energy : Play this card from your hand. If you do, choose all of your opponent's Battle Cards and return them to their owners' hands.",
+    "skills": [
+      "Ultimate",
+      "Double-Strike",
+      "Dual-Attack",
+      "Auto",
+      "Activate-Battle",
+      "ball"
+    ]
+  },
+  {
+    "title": "Majin Buu, Incarnation of Demonic Evil",
+    "number": "BT12-153",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Secret Rare[SCR]",
+    "type": "BATTLE",
+    "color": "Green",
+    "limit": 4,
+    "power": "40000",
+    "energy": "10",
+    "energy_text": "10(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Majin Buu: Xeno",
+    "special_trait": "Majin/Evil Incarnate",
+    "era": "Special",
+    "skills_text": "<img src=\"/images/common/Ultimate.png\" alt=\"Ultimate\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br>[Counter : Counter] If a card other than your Leader Card is in battle : Negate the <img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> skill, then play this card.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is mono-green or a black 《Demon Realm Race》 card and you're activating this card's <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skill, reduce the energy cost of this card in your hand by 7; if your Leader Card is a black 《Demon Realm Race》 card, treat this card in your hand as if it has no specified cost.",
+    "skills": [
+      "Ultimate",
+      "Double-Strike",
+      "Counter-Attack",
+      "Permanent",
+      "Counter"
+    ]
+  },
+  {
+    "title": "Supreme Kai of Time, Spacetime Unraveler",
+    "number": "BT12-154",
+    "series": "Unison Warrior Series Vicious Rejuvenation",
+    "rarity": "Secret Rare[SCR]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "40000",
+    "energy": "8",
+    "energy_text": "8(-)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Supreme Kai of Time",
+    "special_trait": "God",
+    "era": "Dark Empire Saga",
+    "skills_text": "<img src=\"/images/common/Ultimate.png\" alt=\"Ultimate\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If this card would be removed from your Battle Area, remove it from the game instead.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> <img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">, choose this card and all of your opponent's Battle Cards and Unison Cards and send them to their owners' Warps.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">, if you have 3 or more energy : Play this card from your hand. If you do, your opponent can't attack with Leader Cards or Unison Cards for the turn.",
+    "skills": [
+      "Ultimate",
+      "Permanent",
+      "Activate-Main",
+      "one",
+      "Activate-Battle"
     ]
   }
 ]
