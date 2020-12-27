@@ -1,0 +1,15 @@
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.5.1/ext/bootsnap
+/Users/kentan/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/kentan/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20201228-72879-1869r8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.5.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.5.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.5.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20201228-72879-wzbsvq/bootsnap

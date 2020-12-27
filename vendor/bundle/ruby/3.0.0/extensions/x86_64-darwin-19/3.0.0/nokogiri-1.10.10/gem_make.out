@@ -1,0 +1,662 @@
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/ext/nokogiri
+/Users/kentan/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/kentan/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20201228-72879-5cawpf.rb extconf.rb
+checking if the C compiler accepts  -I /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libxml2... yes
+checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
+Building nokogiri using packaged libraries.
+Using mini_portile version 2.4.0
+checking for iconv.h... yes
+checking for gzdopen() in -lz... yes
+checking for iconv... yes
+************************************************************************
+IMPORTANT NOTICE:
+
+Building Nokogiri with a packaged version of libxml2-2.9.10
+with the following patches applied:
+	- 0001-Revert-Do-not-URI-escape-in-server-side-includes.patch
+	- 0002-Remove-script-macro-support.patch
+	- 0003-Update-entities-to-remove-handling-of-ssi.patch
+	- 0004-libxml2.la-is-in-top_builddir.patch
+	- 0005-Fix-infinite-loop-in-xmlStringLenDecodeEntities.patch
+
+Team Nokogiri will keep on doing their best to provide security
+updates in a timely manner, but if this is a concern for you and want
+to use the system library instead; abort this installation process and
+reinstall nokogiri as follows:
+
+    gem install nokogiri -- --use-system-libraries
+        [--with-xml2-config=/path/to/xml2-config]
+        [--with-xslt-config=/path/to/xslt-config]
+
+If you are using Bundler, tell it to use the option:
+
+    bundle config build.nokogiri --use-system-libraries
+    bundle install
+
+Note, however, that nokogiri is not fully compatible with arbitrary
+versions of libxml2 provided by OS/package vendors.
+************************************************************************
+Extracting libxml2-2.9.10.tar.gz into tmp/x86_64-apple-darwin19/ports/libxml2/2.9.10... OK
+Running git apply with /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/patches/libxml2/0001-Revert-Do-not-URI-escape-in-server-side-includes.patch... OK
+Running git apply with /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/patches/libxml2/0002-Remove-script-macro-support.patch... OK
+Running git apply with /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/patches/libxml2/0003-Update-entities-to-remove-handling-of-ssi.patch... OK
+Running git apply with /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/patches/libxml2/0004-libxml2.la-is-in-top_builddir.patch... OK
+Running git apply with /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/patches/libxml2/0005-Fix-infinite-loop-in-xmlStringLenDecodeEntities.patch... OK
+Running 'configure' for libxml2 2.9.10... OK
+Running 'compile' for libxml2 2.9.10... OK
+Running 'install' for libxml2 2.9.10... OK
+Activating libxml2 2.9.10 (from /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin19/libxml2/2.9.10)...
+************************************************************************
+IMPORTANT NOTICE:
+
+Building Nokogiri with a packaged version of libxslt-1.1.34.
+
+Team Nokogiri will keep on doing their best to provide security
+updates in a timely manner, but if this is a concern for you and want
+to use the system library instead; abort this installation process and
+reinstall nokogiri as follows:
+
+    gem install nokogiri -- --use-system-libraries
+        [--with-xml2-config=/path/to/xml2-config]
+        [--with-xslt-config=/path/to/xslt-config]
+
+If you are using Bundler, tell it to use the option:
+
+    bundle config build.nokogiri --use-system-libraries
+    bundle install
+************************************************************************
+Extracting libxslt-1.1.34.tar.gz into tmp/x86_64-apple-darwin19/ports/libxslt/1.1.34... OK
+Running 'configure' for libxslt 1.1.34... OK
+Running 'compile' for libxslt 1.1.34... OK
+Running 'install' for libxslt 1.1.34... OK
+Activating libxslt 1.1.34 (from /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/ports/x86_64-apple-darwin19/libxslt/1.1.34)...
+checking for -llzma... yes
+checking for xmlParseDoc() in libxml/parser.h... yes
+checking for xsltParseStylesheetDoc() in libxslt/xslt.h... yes
+checking for exsltFuncRegister() in libexslt/exslt.h... yes
+checking for xmlHasFeature()... yes
+checking for xmlFirstElementChild()... yes
+checking for xmlRelaxNGSetParserStructuredErrors()... yes
+checking for xmlRelaxNGSetParserStructuredErrors()... yes
+checking for xmlRelaxNGSetValidStructuredErrors()... yes
+checking for xmlSchemaSetValidStructuredErrors()... yes
+checking for xmlSchemaSetParserStructuredErrors()... yes
+creating Makefile
+
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/ext/nokogiri
+make "DESTDIR=" clean
+
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/ext/nokogiri
+make "DESTDIR="
+compiling html_document.c
+In file included from html_document.c:1:
+In file included from ./html_document.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+html_document.c:16:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "0*", &rest);
+                           ^
+2 warnings generated.
+compiling html_element_description.c
+In file included from html_element_description.c:1:
+In file included from ./html_element_description.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling html_entity_lookup.c
+In file included from html_entity_lookup.c:1:
+In file included from ./html_entity_lookup.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling html_sax_parser_context.c
+In file included from html_sax_parser_context.c:1:
+In file included from ./html_sax_parser_context.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling html_sax_push_parser.c
+In file included from html_sax_push_parser.c:1:
+In file included from ./html_sax_push_parser.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling nokogiri.c
+In file included from nokogiri.c:1:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_attr.c
+In file included from xml_attr.c:1:
+In file included from ./xml_attr.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_attr.c:61:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "2*", &document, &name, &rest);
+                           ^
+2 warnings generated.
+compiling xml_attribute_decl.c
+In file included from xml_attribute_decl.c:1:
+In file included from ./xml_attribute_decl.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_cdata.c
+In file included from xml_cdata.c:1:
+In file included from ./xml_cdata.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_cdata.c:23:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "2*", &doc, &content, &rest);
+                           ^
+2 warnings generated.
+compiling xml_comment.c
+In file included from xml_comment.c:1:
+In file included from ./xml_comment.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_comment.c:21:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "2*", &document, &content, &rest);
+                           ^
+2 warnings generated.
+compiling xml_document.c
+In file included from xml_document.c:1:
+In file included from ./xml_document.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_document.c:49:25: warning: incompatible pointer types passing 'int (xmlNodePtr, xmlNodePtr, xmlDocPtr)' (aka 'int (struct _xmlNode *, struct _xmlNode *, struct _xmlDoc *)') to parameter of type 'st_foreach_callback_func *' (aka 'int (*)(unsigned long, unsigned long, unsigned long)') [-Wincompatible-pointer-types]
+  st_foreach(node_hash, dealloc_node_i, (st_data_t)doc);
+                        ^~~~~~~~~~~~~~
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/st.h:141:57: note: passing argument to parameter here
+int rb_st_foreach(st_table *, st_foreach_callback_func *, st_data_t);
+                                                        ^
+xml_document.c:330:31: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  if(rb_scan_args(argc, argv, "01", &level) == 0)
+                              ^
+xml_document.c:357:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "0*", &rest);
+                           ^
+xml_document.c:436:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "14", &name, &type, &external_id, &system_id,
+                           ^
+xml_document.c:511:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "03", &mode, &incl_ns, &with_comments);
+                           ^
+6 warnings generated.
+compiling xml_document_fragment.c
+In file included from xml_document_fragment.c:1:
+In file included from ./xml_document_fragment.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_document_fragment.c:17:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "1*", &document, &rest);
+                           ^
+2 warnings generated.
+compiling xml_dtd.c
+In file included from xml_dtd.c:1:
+In file included from ./xml_dtd.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_element_content.c
+In file included from xml_element_content.c:1:
+In file included from ./xml_element_content.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_element_decl.c
+In file included from xml_element_decl.c:1:
+In file included from ./xml_element_decl.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_encoding_handler.c
+In file included from xml_encoding_handler.c:1:
+In file included from ./xml_encoding_handler.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_entity_decl.c
+In file included from xml_entity_decl.c:1:
+In file included from ./xml_entity_decl.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_entity_reference.c
+In file included from xml_entity_reference.c:1:
+In file included from ./xml_entity_reference.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_entity_reference.c:18:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "2*", &document, &name, &rest);
+                           ^
+2 warnings generated.
+compiling xml_io.c
+In file included from xml_io.c:1:
+In file included from ./xml_io.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_io.c:20:22: warning: incompatible pointer types passing 'VALUE (VALUE *)' (aka 'unsigned long (unsigned long *)') to parameter of type 'VALUE (*)(VALUE)' (aka 'unsigned long (*)(unsigned long)') [-Wincompatible-pointer-types]
+  string = rb_rescue(read_check, (VALUE)args, read_failed, 0);
+                     ^~~~~~~~~~
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/iterator.h:50:24: note: passing argument to parameter here
+VALUE rb_rescue(VALUE(*)(VALUE),VALUE,VALUE(*)(VALUE,VALUE),VALUE);
+                       ^
+xml_io.c:20:47: warning: incompatible pointer types passing 'VALUE (void)' (aka 'unsigned long (void)') to parameter of type 'VALUE (*)(VALUE, VALUE)' (aka 'unsigned long (*)(unsigned long, unsigned long)') [-Wincompatible-pointer-types]
+  string = rb_rescue(read_check, (VALUE)args, read_failed, 0);
+                                              ^~~~~~~~~~~
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/iterator.h:50:46: note: passing argument to parameter here
+VALUE rb_rescue(VALUE(*)(VALUE),VALUE,VALUE(*)(VALUE,VALUE),VALUE);
+                                             ^
+xml_io.c:47:20: warning: incompatible pointer types passing 'VALUE (VALUE *)' (aka 'unsigned long (unsigned long *)') to parameter of type 'VALUE (*)(VALUE)' (aka 'unsigned long (*)(unsigned long)') [-Wincompatible-pointer-types]
+  size = rb_rescue(write_check, (VALUE)args, write_failed, 0);
+                   ^~~~~~~~~~~
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/iterator.h:50:24: note: passing argument to parameter here
+VALUE rb_rescue(VALUE(*)(VALUE),VALUE,VALUE(*)(VALUE,VALUE),VALUE);
+                       ^
+xml_io.c:47:46: warning: incompatible pointer types passing 'VALUE (void)' (aka 'unsigned long (void)') to parameter of type 'VALUE (*)(VALUE, VALUE)' (aka 'unsigned long (*)(unsigned long, unsigned long)') [-Wincompatible-pointer-types]
+  size = rb_rescue(write_check, (VALUE)args, write_failed, 0);
+                                             ^~~~~~~~~~~~
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/iterator.h:50:46: note: passing argument to parameter here
+VALUE rb_rescue(VALUE(*)(VALUE),VALUE,VALUE(*)(VALUE,VALUE),VALUE);
+                                             ^
+5 warnings generated.
+compiling xml_libxml2_hacks.c
+compiling xml_namespace.c
+In file included from xml_namespace.c:1:
+In file included from ./xml_namespace.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_node.c
+In file included from xml_node.c:1:
+In file included from ./xml_node.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_node.c:304:15: warning: passing 'const xmlChar *' (aka 'const unsigned char *') to parameter of type 'void *' discards qualifiers [-Wincompatible-pointer-types-discards-qualifiers]
+      xmlFree(reparentee->ns->prefix);
+              ^~~~~~~~~~~~~~~~~~~~~~
+xml_node.c:550:37: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  n_args = rb_scan_args(argc, argv, "02", &r_level, &r_new_parent_doc);
+                                    ^
+xml_node.c:1393:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "2*", &name, &document, &rest);
+                           ^
+4 warnings generated.
+compiling xml_node_set.c
+In file included from xml_node_set.c:1:
+In file included from ./xml_node_set.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_node_set.c:294:30: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+    rb_scan_args(argc, argv, "11", NULL, NULL);
+                             ^
+xml_node_set.c:479:3: warning: incompatible pointer types passing 'VALUE (VALUE, VALUE)' (aka 'unsigned long (unsigned long, unsigned long)') to parameter of type 'VALUE (*)(VALUE)' (aka 'unsigned long (*)(unsigned long)') [-Wincompatible-pointer-types]
+  rb_define_method(klass, "to_a", to_array, 0);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/anyargs.h:287:135: note: expanded from macro 'rb_define_method'
+#define rb_define_method(klass, mid, func, arity)           RBIMPL_ANYARGS_DISPATCH_rb_define_method((arity), (func))((klass), (mid), (func), (arity))
+                                                                                                                                      ^~~~~~
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/anyargs.h:276:1: note: passing argument to parameter here
+RBIMPL_ANYARGS_DECL(rb_define_method, VALUE, const char *)
+^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/anyargs.h:254:72: note: expanded from macro 'RBIMPL_ANYARGS_DECL'
+RBIMPL_ANYARGS_ATTRSET(sym) static void sym ## _00(__VA_ARGS__, VALUE(*)(VALUE), int); \
+                                                                       ^
+3 warnings generated.
+compiling xml_processing_instruction.c
+In file included from xml_processing_instruction.c:1:
+In file included from ./xml_processing_instruction.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_processing_instruction.c:20:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "3*", &document, &name, &content, &rest);
+                           ^
+2 warnings generated.
+compiling xml_reader.c
+In file included from xml_reader.c:1:
+In file included from ./xml_reader.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_reader.c:533:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "13", &rb_buffer, &rb_url, &encoding, &rb_options);
+                           ^
+xml_reader.c:577:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "13", &rb_io, &rb_url, &encoding, &rb_options);
+                           ^
+3 warnings generated.
+compiling xml_relax_ng.c
+In file included from xml_relax_ng.c:1:
+In file included from ./xml_relax_ng.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_sax_parser.c
+In file included from xml_sax_parser.c:1:
+In file included from ./xml_sax_parser.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_sax_parser_context.c
+In file included from xml_sax_parser_context.c:1:
+In file included from ./xml_sax_parser_context.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_sax_push_parser.c
+In file included from xml_sax_push_parser.c:1:
+In file included from ./xml_sax_push_parser.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_schema.c
+In file included from xml_schema.c:1:
+In file included from ./xml_schema.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_syntax_error.c
+In file included from xml_syntax_error.c:1:
+In file included from ./xml_syntax_error.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+1 warning generated.
+compiling xml_text.c
+In file included from xml_text.c:1:
+In file included from ./xml_text.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_text.c:18:28: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  rb_scan_args(argc, argv, "2*", &string, &document, &rest);
+                           ^
+2 warnings generated.
+compiling xml_xpath_context.c
+In file included from xml_xpath_context.c:1:
+In file included from ./xml_xpath_context.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xml_xpath_context.c:200:31: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+  if(rb_scan_args(argc, argv, "11", &search_path, &xpath_handler) == 1)
+                              ^
+2 warnings generated.
+compiling xslt_stylesheet.c
+In file included from xslt_stylesheet.c:1:
+In file included from ./xslt_stylesheet.h:4:
+In file included from ./nokogiri.h:33:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby.h:38:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/ruby.h:26:
+In file included from /Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core.h:23:
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:249:33: warning: cast from 'const unsigned long *' to 'unsigned long *' drops const qualifier [-Wcast-qual]
+    return RBIMPL_CAST((VALUE *)RARRAY_CONST_PTR(tmp));
+                                ^
+/Users/kentan/.rvm/rubies/ruby-3.0.0/include/ruby-3.0.0/ruby/internal/core/rarray.h:53:36: note: expanded from macro 'RARRAY_CONST_PTR'
+#define RARRAY_CONST_PTR           rb_array_const_ptr
+                                   ^
+xslt_stylesheet.c:141:30: warning: cast from 'const char *' to 'char *' drops const qualifier [-Wcast-qual]
+    rb_scan_args(argc, argv, "11", &xmldoc, &paramobj);
+                             ^
+xslt_stylesheet.c:112:13: warning: unused function 'swallow_superfluous_xml_errors' [-Wunused-function]
+static void swallow_superfluous_xml_errors(void * userdata, xmlErrorPtr error, ...)
+            ^
+3 warnings generated.
+linking shared-object nokogiri/nokogiri.bundle
+Cleaning files only used during build.
+
+current directory: /Users/kentan/workspace/dbscg/dbscg-api/vendor/bundle/ruby/3.0.0/gems/nokogiri-1.10.10/ext/nokogiri
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 nokogiri.bundle ./.gem.20201228-72879-5qgurg/nokogiri
