@@ -5,6 +5,7 @@ Rails.application.routes.draw do
         registrations: 'api/users/registrations'
     }
 
+    resources :rooms, only: [:index, :show]
     resources :cards, only: [:index]
     resources :pricings, only: [:index]
 
@@ -26,4 +27,7 @@ Rails.application.routes.draw do
     match '/landing', to: 'landing#index', via: :get
     match '/albums/:number', to: 'albums#update', via: :put
   end
+
+
+  mount ActionCable.server => '/cable'
 end

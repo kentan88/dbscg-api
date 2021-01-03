@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_17_102056) do
+ActiveRecord::Schema.define(version: 2021_01_02_152527) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -94,11 +94,18 @@ ActiveRecord::Schema.define(version: 2020_12_17_102056) do
     t.json "tcg_mapping", default: [], array: true
   end
 
-  create_table "pricings", force: :cascade do |t|
-    t.string "card_number", null: false
+  create_table "rooms", force: :cascade do |t|
+    t.string "name"
+    t.integer "player_1_id"
+    t.integer "player_1_deck_id"
+    t.integer "player_2_id"
+    t.integer "player_2_deck_id"
+    t.string "status"
+    t.jsonb "player_1_state", default: {}
+    t.jsonb "player_2_state", default: {}
+    t.jsonb "game_state", default: {}
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["card_number"], name: "index_pricings_on_card_number"
   end
 
   create_table "users", force: :cascade do |t|

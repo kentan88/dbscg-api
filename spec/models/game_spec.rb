@@ -1,9 +1,23 @@
 require 'rails_helper'
 
+def seed_cards
+  filename = "#{Rails.root}/spec/fixtures/cards.json"
+  file = File.read(filename)
+  data_hash = JSON.parse(file)
 
-RSpec.describe Game do
+  data_hash.each do |data|
+    card = Card.new(data)
+    card.title = card.title.strip
+    card.skills_text = nil if card.skills_text == "-"
+    if card.save
+      puts "#{card.number} created"
+    end
+  end
+end
+
+RSpec.describe DBSCG::Game do
   before(:all) do
-    Rails.application.load_seed
+    seed_cards
     @user_1 = User.create(username: "foo", email: "foo@example.com", password: 11111111, password_confirmation: 11111111)
     @user_2 = User.create(username: "bar", email: "bar@example.com", password: 11111111, password_confirmation: 11111111)
     p1_main_deck_cards = {"P-075"=>3, "P-123"=>4, "P-230"=>1, "BT1-005"=>4, "BT5-115"=>4, "BT9-134"=>3, "SD14-02"=>4, "SD14-03"=>4, "SD14-04"=>4, "SD14-05"=>4, "BT10-126"=>3, "BT10-130"=>4, "BT11-127"=>3, "BT11-130"=>4, "BT11-144"=>4}
@@ -13,7 +27,7 @@ RSpec.describe Game do
   end
 
   before(:each) do
-    @game = Game.new(@user_1, @deck_1, @user_2, @deck_2)
+    @game = DBSCG::Game.new(@user_1, @deck_1, @user_2, @deck_2)
   end
 
   it "should have set the turn" do
