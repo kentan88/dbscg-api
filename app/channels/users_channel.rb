@@ -5,7 +5,7 @@ class UsersChannel < ApplicationCable::Channel
 
     @user = User.find(user_id)
 
-    stream_for @user
+    stream_from "user_#{@user.username}"
   end
 
   def unsubscribed

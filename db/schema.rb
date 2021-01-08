@@ -43,6 +43,7 @@ ActiveRecord::Schema.define(version: 2021_01_02_152527) do
     t.string "skills_back", default: [], array: true
     t.text "skills_back_text"
     t.integer "limit", default: 0
+    t.integer "integer", default: 0
     t.index ["character"], name: "index_cards_on_character"
     t.index ["color"], name: "index_cards_on_color"
     t.index ["combo_energy"], name: "index_cards_on_combo_energy"
@@ -66,14 +67,14 @@ ActiveRecord::Schema.define(version: 2021_01_02_152527) do
     t.string "name"
     t.bigint "user_id", null: false
     t.text "description"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
     t.boolean "private", default: false
     t.string "leader_number"
-    t.jsonb "main_deck_cards"
-    t.jsonb "side_deck_cards"
     t.string "username"
     t.boolean "draft", default: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.jsonb "main_deck_cards"
+    t.jsonb "side_deck_cards"
     t.jsonb "user_ratings", default: {}
     t.float "rating", default: 0.0
     t.jsonb "data", default: {}
