@@ -15,6 +15,7 @@ namespace :images do
     # end
 
     Card.all.each do |card|
+      puts card.type
       if card.type == "LEADER"
         path = Rails.root.join('public', 'images', "#{card.number}.png")
         path_2 = Rails.root.join('public', 'images', "#{card.number}_b.png")
@@ -24,12 +25,12 @@ namespace :images do
         else
           File.open(path, 'wb') do |fo|
             puts "downloading"
-            fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}.png").read
+            fo.write URI.open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}.png").read
           end
 
           File.open(path_2, 'wb') do |fo|
             puts "downloading"
-            fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}_b.png").read
+            fo.write URI.open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}_b.png").read
           end
         end
       else
@@ -40,7 +41,7 @@ namespace :images do
         else
           File.open(path, 'wb') do |fo|
             puts "downloading"
-            fo.write open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}.png").read
+            fo.write URI.open("http://www.dbs-cardgame.com/images/cardlist/cardimg/#{card.number}.png").read
           end
         end
       end
