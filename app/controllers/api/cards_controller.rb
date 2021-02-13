@@ -20,42 +20,40 @@ class API::CardsController < ApplicationController
     #   "SD1-02"
     # ]
 
-    main_deck_cards = [
-      "SD8-01",
-      "SD8-05",
-      "BT6-063",
-      "BT6-065",
-      "BT6-069",
-      "BT6-076",
-      "BT6-078",
-      "BT1-107",
-      "BT1-109",
-      "SD8-09",
-      "SD8-10",
-      "SD8-04",
-      "SD8-06",
-      "SD8-03",
-      "BT6-062",
-      "SD8-07",
-      "SD8-08",
-      "SD8-02"
-    ]
-
-    @cards = Card.where(number: main_deck_cards).order(:number)
-
-
-
-
-
-
-    # q = Card.order(energy_cost: :asc, title: :asc).ransack(params[:q])
+    # main_deck_cards = [
+    #   "SD8-01",
+    #   "SD8-05",
+    #   "BT6-063",
+    #   "BT6-065",
+    #   "BT6-069",
+    #   "BT6-076",
+    #   "BT6-078",
+    #   "BT1-107",
+    #   "BT1-109",
+    #   "SD8-09",
+    #   "SD8-10",
+    #   "SD8-04",
+    #   "SD8-06",
+    #   "SD8-03",
+    #   "BT6-062",
+    #   "SD8-07",
+    #   "SD8-08",
+    #   "SD8-02"
+    # ]
+    #
+    # @cards = Card.where(number: main_deck_cards).order(:number)
+    #
+    # q = Card.order(energy: :asc, title: :asc).ransack(params[:q])
+    # q = Card.all
     # @cards = q.result(distinct: true).page(params[:page]).per(25)
+
+    @cards = Card.all
 
     # result_hash = {}
     # @cards.each do |card|
     #   result_hash[card.number] = card.as_json.reject { |key| key == "skills" || key == "skills_back" }
     # end
-    #
-    # render json: result_hash
+
+    render json: @cards
   end
 end
