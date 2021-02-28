@@ -7940,5 +7940,117 @@
       "Auto",
       "Once-per-turn"
     ]
+  },
+  {
+    "title": "Son Goku, Striking from the Heart",
+    "number": "P-328",
+    "series": "Promotion Cards",
+    "rarity": "Promotion[PR]",
+    "type": "BATTLE",
+    "color": "Red",
+    "limit": 4,
+    "power": "15000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/red_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "3000",
+    "character": "Son Goku : Childhood",
+    "special_trait": "Saiyan",
+    "era": "King Piccolo Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/red_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is a red 《Earthling》-only card : When your Leader Card flips to its front, you may play this card from your hand. If you do, flip up to 1 card in your life face up, and at the end of the turn, flip all face-up cards in your life face down.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a ＜Launch＞ card and all of your energy is mono-red : When this card in your hand is played or used in a combo, you may choose 1 card in your hand and add it to your life. If you do, add 1 card in your life to your hand.",
+    "skills": [
+      "Unique",
+      "Auto",
+      "ball"
+    ]
+  },
+  {
+    "title": "Bergamo, Guidance of an Ace",
+    "number": "P-329",
+    "series": "Promotion Cards",
+    "rarity": "Promotion[PR]",
+    "type": "BATTLE",
+    "color": "Blue",
+    "limit": 4,
+    "power": "5000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Bergamo",
+    "special_trait": "Alien/Trio De Dangers/Universe 9",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"/images/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played from your hand, draw 1 card.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is a 《Universe 9》 card : For the turn, the next time you play a 《Universe 9》 card from your hand with an energy cost less than or equal to your current energy without using skills, reduce its energy cost by 1. You can't activate the <img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill on copies of this card for the turn.",
+    "skills": [
+      "Barrier",
+      "Auto",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Pan, Heroine's Victory",
+    "number": "P-330",
+    "series": "Promotion Cards",
+    "rarity": "Promotion[PR]",
+    "type": "UNISON",
+    "color": "Green",
+    "limit": 4,
+    "power": "6000",
+    "energy": 1,
+    "energy_text": "X(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the end of a turn where your Leader Card activated a <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> skill, add a marker to this card, then add up to 1 green skill-less Battle Card from your Drop Area to your hand.<br><img src=\"/images/common/UNISON_plus_01.png\" alt=\"UNISON +1\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> At the end of the turn, switch up to 1 of your Leader Cards that's either mono-green or has 《Heroine》 to Active Mode, and it gains <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> until the start of your next turn.<br><img src=\"/images/common/UNISON_minus_02.png\" alt=\"UNISON -2\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Until the end of your opponent's next turn, they can only attack one time with Battle Cards with energy costs of 4 or less.",
+    "skills": [
+      "Auto",
+      "Blocker",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Mecha Frieza, Robotic Riposte",
+    "number": "P-331",
+    "series": "Promotion Cards",
+    "rarity": "Promotion[PR]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "15000",
+    "energy": "3",
+    "energy_text": "3(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Frieza",
+    "special_trait": "Frieza Clan/Frieza's Army",
+    "era": "Android Cell Saga",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> Negate the attack, then play this card.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is yellow and your opponent has 2 or more energy, reduce the energy cost of this card in your hand by 1 for each yellow Extra Card in your Energy Area and Drop Area.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played from your hand, each time your opponent would attack with a non-Unison Card this turn, they must choose 1 of their cards in Active Mode and switch it to Rest Mode.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : Choose up to 1 yellow ＜Frieza＞ card with an energy cost of 4 and {Mecha} in its card name in your hand and play it on top of this card.",
+    "skills": [
+      "Counter-Attack",
+      "Permanent",
+      "Auto",
+      "Activate-Main",
+      "ball"
+    ]
+  },
+  {
+    "title": "Hercule, Champion's Invite",
+    "number": "P-332",
+    "series": "Promotion Cards",
+    "rarity": "Promotion[PR]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "1000",
+    "energy": "1",
+    "energy_text": "1(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Hercule",
+    "special_trait": "Earthling/World Tournament",
+    "era": "The Evil Wizard Babidi Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, draw 1 card.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/four.png\" alt=\"four\" class=\"skillTextBall\">, if your Leader Card is an ＜Announcer＞ card, you have 5 or more energy, and you place this card in its owner's Drop Area : Choose 1 《World Tournament》 Battle Card with an original energy cost of 7 or more in your hand and play it.",
+    "skills": [
+      "Auto",
+      "Activate-Main",
+      "four"
+    ]
   }
 ]

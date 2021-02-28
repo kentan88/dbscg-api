@@ -7,10 +7,15 @@ namespace :scraper do
   task :seed => :environment do
     SERIES_LIST = [
         {
-            title: "Battle Evolution Booster",
-            series: "Battle-Evolution-Booster",
-            category: "428201"
+          title: "DBS-Promotion-Cards",
+          series: "Promotion Cards",
+          category: "428901"
         },
+        # {
+        #     title: "Battle Evolution Booster",
+        #     series: "Battle-Evolution-Booster",
+        #     category: "428201"
+        # },
         # {
         #     title: "DBS-Ultimate-Deck",
         #     series: "DBS-Ultimate-Deck",
