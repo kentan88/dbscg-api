@@ -827,6 +827,394 @@
     ]
   },
   {
+    "title": "Android 13, Android 14, & Android 15",
+    "number": "EB1-38",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "LEADER",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "10000",
+    "character": "Android 13/Android 14/Android 15",
+    "special_trait": "Android",
+    "era": "Android 13 Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> Choose 1 green or yellow 《Android》 card in your hand and discard it : When this card attacks, draw 2 cards.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 5 or less and you have ＜Android 14＞ and ＜Android 15＞ cards in your Drop Area : You may draw 1 card, switch up to 1 of your energy to Active Mode, then flip this card over.",
+    "skills": [
+      "Auto",
+      "Awaken"
+    ],
+    "title_back": "Android 13, the Unstoppable",
+    "power_back": "15000",
+    "skills_back_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, draw 1 card.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When one of your opponent's Battle Cards in Rest Mode is placed in its owner's Drop Area by one of your skills, your opponent chooses 1 card in their hand and discards it.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Send 1 ＜Android 14＞ and 1 ＜Android 15＞ card from your Drop Area to your Warp : Choose 1 of your Leader Cards or 《Android》 cards and it gets +5000 power for the battle.",
+    "skills_back": [
+      "Auto",
+      "Once-per-turn",
+      "Activate-Battle"
+    ]
+  },
+  {
+    "title": "Super 17, Energy Absorber",
+    "number": "EB1-39",
+    "series": "Battle Evolution Booster",
+    "rarity": "Uncommon[UC]",
+    "type": "UNISON",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "5000",
+    "energy": 1,
+    "energy_text": "X(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have 5 or more 《Android》 cards in your Drop Area, this card gets +10000 power during your turn.<br><img src=\"/images/common/UNISON_plus_02.png\" alt=\"UNISON +2\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Place up to 1 green or yellow 《Android》 card with an energy cost of 4 or less from your deck in your Drop Area, then shuffle your deck.<br><img src=\"/images/common/UNISON_minus_05.png\" alt=\"UNISON -5\" class=\"skillText unisonText\"><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Choose all of your opponent's Battle Cards and negate their skills for the turn.",
+    "skills": [
+      "Permanent",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Android 14, the Mission Begins",
+    "number": "EB1-40",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "5000",
+    "energy": "1",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Android 14",
+    "special_trait": "Android",
+    "era": "Android 13 Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, look at up to 5 cards from the top of your deck, add up to 1 green or yellow 《Android》 card with an energy cost of 4 or less among them to your hand, then shuffle your deck.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Android 15, the Mission Begins",
+    "number": "EB1-41",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "4000",
+    "energy": "1",
+    "energy_text": "1(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Android 15",
+    "special_trait": "Android",
+    "era": "Android 13 Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is yellow or an ＜Android 13＞ card : When this card is played, choose one-<br>・ Draw 1 card.<br>・ Your opponent chooses 1 of their Battle Cards, switches it to Rest Mode, and if that card has an energy cost of 2 or less, KO it.",
+    "skills": [
+      "Auto"
+    ]
+  },
+  {
+    "title": "Mecha Frieza, Full Assault",
+    "number": "EB1-42",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "15000",
+    "energy": "4",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Frieza",
+    "special_trait": "Frieza Clan/Frieza's Army",
+    "era": "Android Cell Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if your Leader Card is mono-yellow and it's your opponent's turn : When you activate a yellow Extra Card, play this card from your hand, and you can't play copies of this card for the turn.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, look at up to 5 cards from the top of your deck, add up to 1 mono-yellow Extra Card among them to your hand, then shuffle your deck.",
+    "skills": [
+      "Auto",
+      "ball"
+    ]
+  },
+  {
+    "title": "SS3 Son Goku, Even Further Beyond",
+    "number": "EB1-43",
+    "series": "Battle Evolution Booster",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "15000",
+    "energy": "4",
+    "energy_text": "4(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Goku",
+    "special_trait": "Saiyan/Goku's Lineage",
+    "era": "Majin Buu Saga",
+    "skills_text": "<img src=\"/images/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"/images/common/Swap_5.png\" alt=\"Swap 5\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if you have 3 or more energy : 《Goku's Lineage》 card with an energy cost of 5.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if all of your energy is mono-yellow and you choose 1 《Goku's Lineage》 card in your Battle Area with an energy cost of 2 and return it to your hand : Play this card from your hand, then add up to 1 card from your life to your hand. You can't play copies of this card for the turn.",
+    "skills": [
+      "Barrier",
+      "ball",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Kaio-Ken Son Goku, a Heavy Toll",
+    "number": "EB1-44",
+    "series": "Battle Evolution Booster",
+    "rarity": "Uncommon[UC]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "25000",
+    "energy": "5",
+    "energy_text": "5(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Goku",
+    "special_trait": "Saiyan/Goku's Lineage",
+    "era": "Frieza Saga",
+    "skills_text": "<img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Swap_8.png\" alt=\"Swap 8\" class=\"skillText\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"> : 《Goku's Lineage》 card with an energy cost of 8.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> Switch 1 of your 《Goku's Lineage》 Leader Cards to Active Mode then negate this skill for the game.",
+    "skills": [
+      "Double-Strike",
+      "ball",
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Pan, the Courageous Youth",
+    "number": "EB1-45",
+    "series": "Battle Evolution Booster",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Yellow",
+    "limit": 4,
+    "power": "19000",
+    "energy": "5",
+    "energy_text": "5(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Pan",
+    "special_trait": "Saiyan/Earthling/Goku's Lineage/Heroine",
+    "era": "Black Star Dragon Ball Saga",
+    "skills_text": "<img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played using <img src=\"/images/common/Swap.png\" alt=\"Swap\" class=\"skillText\">, choose up to 1 《Goku's Lineage》 card from your deck and up to 1 《Goku's Lineage》 card from your hand, each with different card names and energy costs of 5, play them with their keyword skills negated for the turn, then shuffle your deck if you looked through it.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\"> : When this card is used in a combo from your hand with a 《Heroine》 card in your Leader Area or Battle Area, that card gets +5000 power and <img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"> for the battle.",
+    "skills": [
+      "Deflect",
+      "Auto",
+      "Swap",
+      "one",
+      "Double-Strike"
+    ]
+  },
+  {
+    "title": "Death Blaster",
+    "number": "EB1-46",
+    "series": "Battle Evolution Booster",
+    "rarity": "Rare[R]",
+    "type": "EXTRA",
+    "color": "Yellow",
+    "limit": 4,
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Play.png\" alt=\"Counter Play\" class=\"skillText\"> If your Leader Card and all of your energy are mono-yellow and you send 2 mono-yellow Extra Cards with energy costs of 1 or more other than this card from your Drop Area to your Warp : The Battle Card being played is played in Rest Mode with its skills negated for the turn.",
+    "skills": [
+      "Counter-Play"
+    ]
+  },
+  {
+    "title": "Your Worst Nightmare",
+    "number": "EB1-47",
+    "series": "Battle Evolution Booster",
+    "rarity": "Uncommon[UC]",
+    "type": "EXTRA",
+    "color": "Yellow",
+    "limit": 4,
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> If your Leader Card is mono-yellow and you have 3 or more energy : Choose up to 1 yellow ＜Frieza＞ card with {Mecha} in its card name and an energy cost of 4 in your hand and play it. You can't activate the <img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"> skill on copies of this card for the turn.",
+    "skills": [
+      "Activate-Main"
+    ]
+  },
+  {
+    "title": "Frieza Army Reinforcements",
+    "number": "EB1-48",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "EXTRA",
+    "color": "Yellow",
+    "limit": 4,
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is mono-yellow : Negate the attack, then play 1 Frieza's Army Token with 10000 power and it gains <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> for the turn.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your life is at 5 or less, you can activate this card's <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skill from your hand by adding 1 card from your life to your hand instead of paying its energy cost.",
+    "skills": [
+      "Counter-Attack",
+      "Blocker",
+      "Permanent",
+      "Counter"
+    ]
+  },
+  {
+    "title": "Bulma",
+    "number": "EB1-49",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "LEADER",
+    "color": "Black",
+    "limit": 4,
+    "power": "5000",
+    "character": "Bulma",
+    "special_trait": "Earthling/Heroine",
+    "era": "Pilaf Saga",
+    "skills_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> All ＜Pan＞, ＜Bulla＞, ＜Bulma＞, ＜Chi-Chi＞, ＜Videl＞, ＜Mai＞, ＜Mai : Future＞, and ＜Android 18＞ Battle Cards in all of your areas gain 《Heroine》 and are treated as if they had no specified costs.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't play non-《Heroine》 Battle Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you play a card, draw 1 card, then this card and the card you played get +5000 power for the turn.<br><img src=\"/images/common/Awaken.png\" alt=\"Awaken\" class=\"skillText\"> When your life is at 5 or less : You may draw 1 card, switch up to 1 of your energy to Active Mode, then flip this card over.",
+    "skills": [
+      "Permanent",
+      "Auto",
+      "Once-per-turn",
+      "Awaken"
+    ],
+    "title_back": "Bulma, Life of a Heroine",
+    "power_back": "10000",
+    "skills_back_text": "<img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> All ＜Pan＞, ＜Bulla＞, ＜Bulma＞, ＜Chi-Chi＞, ＜Videl＞, ＜Mai＞, ＜Mai : Future＞, and ＜Android 18＞ Battle Cards in all of your areas gain 《Heroine》 and are treated as if they had no specified costs.<br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> You can't play non-《Heroine》 Battle Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> When you play a card, draw 1 card, then this card and the card you played get +5000 power for the turn.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> Choose 1 of your Battle Cards and it gets +5000 power for the battle.",
+    "skills_back": [
+      "Permanent",
+      "Auto",
+      "Once-per-turn",
+      "Activate-Battle"
+    ]
+  },
+  {
+    "title": "Bulma, Inspiring Support",
+    "number": "EB1-50",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "1000",
+    "energy": "1",
+    "energy_text": "1(-)",
+    "combo_energy": "0",
+    "combo_power": "0",
+    "character": "Bulma",
+    "special_trait": "Earthling/World Tournament/Heroine",
+    "era": "World Martial Arts Tournament Saga",
+    "skills_text": "<img src=\"/images/common/Super-Combo.png\" alt=\"Super Combo\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, draw 1 card.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is a 《World Tournament》 or 《Heroine》 card : When this card is used in a combo, it gets +10000 combo power for the battle; if it's your opponent's turn, this card gets an additional +2000 combo power for the battle for each color in your energy.",
+    "skills": [
+      "Super-Combo",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Son Goku, the Path to Power",
+    "number": "EB1-51",
+    "series": "Battle Evolution Booster",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "25000",
+    "energy": "5",
+    "energy_text": "5(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Son Goku : Childhood",
+    "special_trait": "Saiyan",
+    "era": "The Path to Power Saga",
+    "skills_text": "<img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, play up to 1 skill-less Battle Card with an energy cost of 2 or less from your Drop Area and it gets +5000 power for the turn.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">, if your Leader Card is a 《Saiyan》 card, your opponent has 2 or more energy, and you have 2 or more skill-less Battle Cards in your Drop Area : Play this card from your hand.",
+    "skills": [
+      "Unique",
+      "Double-Strike",
+      "Auto",
+      "Activate-Main",
+      "two"
+    ]
+  },
+  {
+    "title": "Android 8, Helping a Friend",
+    "number": "EB1-52",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "5000",
+    "energy": "1",
+    "energy_text": "1(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Android 8",
+    "special_trait": "Android",
+    "era": "The Path to Power Saga",
+    "skills_text": "<img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/Once-per-turn.png\" alt=\"Once per turn\" class=\"skillText\"> If your Leader Card is a black ＜Son Goku : Childhood＞ card and you choose 1 {Four-Star Ball} in your hand and discard it : Play 1 black Battle Card from your Drop Area with an energy cost of 1, 5000 power or less, and a different card name from any Battle Cards you have in play.",
+    "skills": [
+      "Activate-Main",
+      "Once-per-turn"
+    ]
+  },
+  {
+    "title": "Katopesla, Modular Mastery",
+    "number": "EB1-53",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "5000",
+    "energy": "1",
+    "energy_text": "1(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Katopesla",
+    "special_trait": "Alien/Universe 3",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, add up to 1 black ＜Katopesla＞ card with an energy cost of 2 or more from your Drop Area to your hand.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/two.png\" alt=\"two\" class=\"skillTextBall\">, if your Leader Card is black and you have 4 or more energy : If you would activate the <img src=\"/images/common/Evolve.png\" alt=\"Evolve\" class=\"skillText\"> skill on a black ＜Katopesla＞ card in your hand this turn, you may do so without paying its skill cost.",
+    "skills": [
+      "Auto",
+      "Activate-Main",
+      "two",
+      "Evolve"
+    ]
+  },
+  {
+    "title": "Towa, the Next Move",
+    "number": "EB1-54",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Black",
+    "limit": 4,
+    "power": "5000",
+    "energy": "2",
+    "energy_text": "2(-)",
+    "combo_energy": "0",
+    "combo_power": "5000",
+    "character": "Towa",
+    "special_trait": "Demon Realm Race/Demon God",
+    "era": "Dark Empire Saga",
+    "skills_text": "<img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\"> : When you activate an <img src=\"/images/common/Overlord.png\" alt=\"Overlord\" class=\"skillText\"> skill, if you don't have a copy of this card in play, you may play this card from your hand. If you do, look at the bottom card of your deck; if it's a Battle Card with <img src=\"/images/common/Servant.png\" alt=\"Servant\" class=\"skillText\"> and an energy cost of 3 or less, you may play it in Rest Mode with its skills negated for the turn; otherwise, return it to the bottom of your deck.",
+    "skills": [
+      "Blocker",
+      "Auto",
+      "one",
+      "Overlord",
+      "Servant"
+    ]
+  },
+  {
+    "title": "Playtime's Over!",
+    "number": "EB1-55",
+    "series": "Battle Evolution Booster",
+    "rarity": "Rare[R]",
+    "type": "EXTRA",
+    "color": "Black",
+    "limit": 4,
+    "energy": "1",
+    "energy_text": "1(-)",
+    "skills_text": "<img src=\"/images/common/Counter-Attack.png\" alt=\"Counter Attack\" class=\"skillText\"> If your Leader Card is black : Negate the attack, then play up to 1 black Battle Card with an energy cost of 1 from your Drop Area with its skills negated for the turn.",
+    "skills": [
+      "Counter-Attack"
+    ]
+  },
+  {
     "title": "King Vegeta, the Insubordinate",
     "number": "EB1-56",
     "series": "Battle Evolution Booster",
@@ -904,6 +1292,85 @@
     ]
   },
   {
+    "title": "SS Bardock, Neverending Vengeance",
+    "number": "EB1-59",
+    "series": "Battle Evolution Booster",
+    "rarity": "Uncommon[UC]",
+    "type": "BATTLE",
+    "color": "Blue/Yellow",
+    "limit": 4,
+    "power": "25000",
+    "energy": "5",
+    "energy_text": "5(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "5000",
+    "character": "Bardock",
+    "special_trait": "Saiyan/Bardock's Crew",
+    "era": "Chilled Saga",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><img src=\"/images/common/Barrier.png\" alt=\"Barrier\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a 《Bardock's Crew》 card in play, reduce the combo cost of this card in your hand by 1.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">, if your Leader Card is a 《Bardock's Crew》 card : Choose 1 {Tora's Red Armband} or {Assault of the Great Apes} in your hand, activate it, then negate this skill for the game.",
+    "skills": [
+      "Energy-Exhaust",
+      "Unique",
+      "Barrier",
+      "Permanent",
+      "Activate-Main",
+      "ball",
+      "one"
+    ]
+  },
+  {
+    "title": "Trio De Dangers, Fierce Trinity",
+    "number": "EB1-60",
+    "series": "Battle Evolution Booster",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Blue/Yellow",
+    "limit": 4,
+    "power": "20000",
+    "energy": "5",
+    "energy_text": "5(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Bergamo/Basil/Lavender",
+    "special_trait": "Alien/Trio De Dangers/Universe 9",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> Your opponent can't activate <img src=\"/images/common/Counter.png\" alt=\"Counter\" class=\"skillText\"> skills in response to this card attacking Unison Cards or Battle Cards.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card removes a marker from an opponent's Unison Card by attacking, choose up to 1 of your opponent's Unison Cards and negate its skills until the end of your opponent's next turn.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\">, if your opponent has 2 or more energy and you have a total of 2 or more blue and/or yellow Battle Cards in play : Play this card from your hand.",
+    "skills": [
+      "Energy-Exhaust",
+      "Deflect",
+      "Double-Strike",
+      "Permanent",
+      "Counter",
+      "Auto",
+      "Activate-Main",
+      "ball"
+    ]
+  },
+  {
+    "title": "Sorrel & Hop, Fiends of Universe 9",
+    "number": "EB1-61",
+    "series": "Battle Evolution Booster",
+    "rarity": "Common[C]",
+    "type": "BATTLE",
+    "color": "Blue/Yellow",
+    "limit": 4,
+    "power": "15000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Sorrel/Hop",
+    "special_trait": "Alien/Universe 9",
+    "era": "Universe Survival Saga",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If you have a 《Universe 9》 card in play, negate this card's <img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"> skill in all areas.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card activates its <img src=\"/images/common/Blocker.png\" alt=\"Blocker\" class=\"skillText\"> skill, your opponent may choose 1 of their cards and switch it to Rest Mode. If they don't, draw 1 card.",
+    "skills": [
+      "Energy-Exhaust",
+      "Blocker",
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
     "title": "Android 17 & Android 18, Siblings Revived",
     "number": "EB1-62",
     "series": "Battle Evolution Booster",
@@ -927,6 +1394,31 @@
       "Dual-Attack",
       "Auto",
       "Barrier"
+    ]
+  },
+  {
+    "title": "Android 16, Steadfast Ally",
+    "number": "EB1-63",
+    "series": "Battle Evolution Booster",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Blue/Green",
+    "limit": 4,
+    "power": "25000",
+    "energy": "7",
+    "energy_text": "7(<img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Android 16",
+    "special_trait": "Android",
+    "era": "Android Cell Saga",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Arrival_Blue-Green.png\" alt=\"Arrival Blue/Green\" class=\"skillText\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/blue_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card is played, add up to 1 ＜Android 21＞ card with an energy cost of 5 or less from your deck to your hand, shuffle your deck, then choose up to 1 ＜Android 21＞ card with an energy cost of 5 or less in your hand and play it.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> When this card attacks, your opponent chooses 1 card in their hand and discards it.",
+    "skills": [
+      "Energy-Exhaust",
+      "Double-Strike",
+      "Blue-Green",
+      "ball",
+      "Auto"
     ]
   },
   {
@@ -954,6 +1446,103 @@
       "Blue-Green",
       "ball",
       "Auto"
+    ]
+  },
+  {
+    "title": "Super Android 13, Cores of the Trio",
+    "number": "EB1-65",
+    "series": "Battle Evolution Booster",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Green/Yellow",
+    "limit": 4,
+    "power": "30000",
+    "energy": "7",
+    "energy_text": "7(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "5000",
+    "character": "Android 13",
+    "special_trait": "Android",
+    "era": "Android 13 Saga",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><img src=\"/images/common/Triple-Attack.png\" alt=\"Triple Attack\" class=\"skillText\"><br><img src=\"/images/common/Successor.png\" alt=\"Successor\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"skillTextBall\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is yellow or an 《Android》 card, reduce the combo cost of this card in your hand by 1.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your Leader Card is an ＜Android 13＞ card : When this card attacks, your opponent chooses 1 of their Battle Cards and KOs it.",
+    "skills": [
+      "Energy-Exhaust",
+      "Deflect",
+      "Triple-Attack",
+      "Successor",
+      "ball",
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Android 13, the Mission Begins",
+    "number": "EB1-66",
+    "series": "Battle Evolution Booster",
+    "rarity": "Super Rare[SR]",
+    "type": "BATTLE",
+    "color": "Green/Yellow",
+    "limit": 4,
+    "power": "20000",
+    "energy": "4",
+    "energy_text": "4(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "10000",
+    "character": "Android 13",
+    "special_trait": "Android",
+    "era": "Android 13 Saga",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><img src=\"/images/common/Unique.png\" alt=\"Unique\" class=\"skillText\"><img src=\"/images/common/Double-Strike.png\" alt=\"Double Strike\" class=\"skillText\"><br><img src=\"/images/common/Arrival_Green-Yellow.png\" alt=\"Arrival Green/Yellow\" class=\"skillText\"><img src=\"/images/common/green_ball.png\" alt=\"\" class=\"skillTextBall\"><br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> At the start of your opponent's turn, they choose 2 of their Battle Cards and KO them.<br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/one.png\" alt=\"one\" class=\"skillTextBall\">, send this card from your Drop Area to your Warp : Choose 1 of your opponent's Battle Cards with an energy cost of 3 or less and KO it.",
+    "skills": [
+      "Energy-Exhaust",
+      "Unique",
+      "Double-Strike",
+      "Green-Yellow",
+      "ball",
+      "Auto",
+      "Activate-Main",
+      "one"
+    ]
+  },
+  {
+    "title": "Android 14 & Android 15, Target Acquired",
+    "number": "EB1-67",
+    "series": "Battle Evolution Booster",
+    "rarity": "Rare[R]",
+    "type": "BATTLE",
+    "color": "Green/Yellow",
+    "limit": 4,
+    "power": "15000",
+    "energy": "2",
+    "energy_text": "2(<img src=\"/images/common/green_ball.png\" alt=\"\" class=\"colorCostBall\"><img src=\"/images/common/yellow_ball.png\" alt=\"\" class=\"colorCostBall\">)",
+    "combo_energy": "1",
+    "combo_power": "5000",
+    "character": "Android 14/Android 15",
+    "special_trait": "Android",
+    "era": "Android 13 Saga",
+    "skills_text": "<img src=\"/images/common/Energy-Exhaust.png\" alt=\"Energy-Exhaust\" class=\"skillText\"><img src=\"/images/common/Deflect.png\" alt=\"Deflect\" class=\"skillText\"><br><img src=\"/images/common/Permanent.png\" alt=\"Permanent\" class=\"skillText\"> If your Leader Card is yellow or an 《Android》 card, reduce the combo cost of this card in your hand by 1.<br><img src=\"/images/common/Auto.png\" alt=\"Auto\" class=\"skillText\"> If your opponent has 2 or more energy : When this card is played, look at up to 10 cards from the top of your deck, play up to 1 ＜Android 13＞ card with an energy cost of 4 or less among them with its skills negated for the turn, then shuffle your deck.",
+    "skills": [
+      "Energy-Exhaust",
+      "Deflect",
+      "Permanent",
+      "Auto"
+    ]
+  },
+  {
+    "title": "Heroines' Lineage",
+    "number": "EB1-68",
+    "series": "Battle Evolution Booster",
+    "rarity": "Secret Rare[SCR]",
+    "type": "EXTRA",
+    "color": "Black",
+    "limit": 4,
+    "energy": "1",
+    "energy_text": "1(-)",
+    "skills_text": "<img src=\"/images/common/Ultimate.png\" alt=\"Ultimate\" class=\"skillText\"><br><img src=\"/images/common/Activate-Main.png\" alt=\"Activate Main\" class=\"skillText\"><img src=\"/images/common/five.png\" alt=\"five\" class=\"skillTextBall\">, remove this card in your Drop Area from the game : Choose any number of 《Heroine》 cards in your hand with energy costs of 5 or less and different card names whose energy costs add up to a total of 10 or less and play them; choose up to 1 of those cards and it gets +5000 power for the turn.<br><img src=\"/images/common/Activate-Battle.png\" alt=\"Activate Battle\" class=\"skillText\"> If your opponent has 3 or more energy : Choose 1 of your opponent's Battle Cards with an energy cost of 7 or less and gain control of it.",
+    "skills": [
+      "Ultimate",
+      "Activate-Main",
+      "five",
+      "Activate-Battle"
     ]
   }
 ]
